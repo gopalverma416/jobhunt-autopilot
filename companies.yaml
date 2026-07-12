@@ -1,23 +1,23 @@
 # =====================================================================
-# JobHunt Autopilot - configuration
+# JobHunt Autopilot - configuration (v2)
 # Everything you'd want to tune lives here. No code changes needed.
 # =====================================================================
 
 settings:
-  # Seconds before giving up on a single source. Keep small so the
-  # whole run stays under ~1 minute on GitHub Actions.
-  request_timeout: 10
-  # Search text sent to sources that support server-side search
-  # (Workday, Amazon, Microsoft, Google).
+  request_timeout: 10           # seconds per source/JD/channel fetch
   search_text: "software engineer"
-  # Max Telegram alerts per run (safety valve against alert floods).
-  max_alerts_per_run: 15
-  # Your college names, used to build the LinkedIn alumni search link.
+  max_alerts_per_run: 15        # flood protection
+  repost_min_age_days: 21       # signature seen this long ago -> 🔁 REPOST
   alumni_keywords: ['"MANIT"', '"NIT Bhopal"']
 
+# Company aliases: brand name <-> ATS/company name used in contacts.csv.
+# Both directions are handled (alias -> canonical, case-insensitive).
+aliases:
+  Eternal: Zomato
+  Walmart: Walmart Global Tech
+
 filters:
-  # Alert only if the title matches AT LEAST ONE of these
-  # (case-insensitive, matched as whole words/phrases).
+  # ---- title pass (v1, unchanged) ----
   include_titles:
     - software engineer
     - software development engineer
@@ -38,9 +38,6 @@ filters:
     - full stack
     - fullstack
 
-  # ...and matches NONE of these. These are Python regexes
-  # (case-insensitive). \b = word boundary, so "SDE-1" passes
-  # while "SDE-2", "Engineer II", "Senior SWE" all fail.
   exclude_title_patterns:
     - '\bsenior\b'
     - '\bsr\.?\b'
@@ -54,9 +51,8 @@ filters:
     - '\bhead\b'
     - '\b(ii|iii|iv|v)\b'          # roman-numeral levels
     - '[-–—/. ][23]\b'             # "SDE-2", "Engineer 3" (but not "2024")
-    - '\b1[0-9]\+? ?(years|yrs)\b' # "10+ years" sneaking into titles
+    - '\b1[0-9]\+? ?(years|yrs)\b'
 
-  # Location must contain one of these tokens (case-insensitive)...
   locations_allow:
     - india
     - bengaluru
@@ -73,45 +69,81 @@ filters:
     - kolkata
     - ahmedabad
     - remote
-    - " in"        # matches "Bengaluru, KA, IN"
-  # ...or be empty (some global-remote posts have no location).
+    - " in"
   allow_empty_location: true
 
+  # ---- full-JD pass (v2, Feature 1) ----
+  # Runs only for NEW jobs that already passed the title filter.
+  jd:
+    hard_reject_years: 3       # "3+ years", "minimum of 3 years" -> reject
+    borderline_years: 2        # "2+ years" -> 🤔 borderline (alerted, tagged)
+    range_reject_min: 3        # "3-5 years" -> reject
+    range_borderline_min: 2    # "2-4 years" -> 🤔 borderline
+    extra_reject_patterns: []  # your own regexes, e.g. '\bphd required\b'
+    fresher_patterns:          # any match -> ✅ fresher-friendly tag
+      - '\bfreshers?\b'
+      - '\bnew ?grad(uate)?s?\b'
+      - '\brecent graduates?\b'
+      - '\b202[456]\s*(batch|grad)'
+      - '\b0\s*(?:-|–|to)\s*[12]\s*years?\b'
+      - '\bentry.?level\b'
+      - '\bcampus\b'
+
+# ---- Telegram job channels (v2, Feature 3) ----
+# Public channels polled via https://t.me/s/<name> (no account needed).
+# FILL THESE IN YOURSELF: pick 3-6 Indian fresher-hiring channels you trust
+# (the exact @names from Telegram, without the @). Then run
+#   python watcher.py --dry-run
+# once - the log prints "CHAN <name>: N msgs" per channel, or a warning if
+# the channel has web previews disabled (those can't be polled).
+telegram_channels: []
+#  - your_channel_name_here
+#  - another_channel
+
+# A channel message is forwarded only if it contains BOTH a role keyword
+# (filters.include_titles above) AND one of these fresher signals:
+channel_fresher_signals:
+  - fresher
+  - 2025 batch
+  - 2026 batch
+  - off campus
+  - off-campus
+  - 0-1 year
+  - walk-in
+  - walkin
+  - drive
+
 # ---------------------------------------------------------------------
-# Companies. Every entry was verified live on 2026-07-12 (see README
-# "Verification log"). ats must be one of:
-#   greenhouse | lever | ashby | smartrecruiters | workday
-#   | amazon | microsoft | atlassian | google_html
+# Companies. All verified live 2026-07-12 (see README "Verification log").
+# `type` feeds the weekly report's response-rate-by-company-type table.
 # ---------------------------------------------------------------------
 companies:
-  # --- Greenhouse (public boards-api, verified returning jobs) ---
-  - {name: PhonePe,   ats: greenhouse, slug: phonepe}
-  - {name: Postman,   ats: greenhouse, slug: postman}
-  - {name: Rubrik,    ats: greenhouse, slug: rubrik}
-  - {name: Canonical, ats: greenhouse, slug: canonical}
-  - {name: Groww,     ats: greenhouse, slug: groww}
-  - {name: Razorpay,  ats: greenhouse, slug: razorpaysoftwareprivatelimited}
-  - {name: Arcesium,  ats: greenhouse, slug: arcesiumllc}
+  # --- Greenhouse ---
+  - {name: PhonePe,   ats: greenhouse, slug: phonepe, type: fintech}
+  - {name: Postman,   ats: greenhouse, slug: postman, type: product}
+  - {name: Rubrik,    ats: greenhouse, slug: rubrik, type: product}
+  - {name: Canonical, ats: greenhouse, slug: canonical, type: product}
+  - {name: Groww,     ats: greenhouse, slug: groww, type: fintech}
+  - {name: Razorpay,  ats: greenhouse, slug: razorpaysoftwareprivatelimited, type: fintech}
+  - {name: Arcesium,  ats: greenhouse, slug: arcesiumllc, type: fintech}
 
-  # --- Lever (public postings API, verified) ---
-  - {name: CRED, ats: lever, slug: cred}
+  # --- Lever ---
+  - {name: CRED, ats: lever, slug: cred, type: fintech}
 
-  # --- SmartRecruiters (public postings API, verified via browser) ---
-  # NOTE: Zomato's SR board is sparse/stale - most new Eternal roles
-  # appear on eternal.com/careers (see manual_check.md).
-  - {name: Zomato, ats: smartrecruiters, slug: Zomato1}
-  - {name: Visa,   ats: smartrecruiters, slug: Visa}
+  # --- SmartRecruiters ---
+  - {name: Zomato, ats: smartrecruiters, slug: Zomato1, type: startup}
+  - {name: Visa,   ats: smartrecruiters, slug: Visa, type: fintech}
 
-  # --- Workday CXS (tenant/site verified live; POST JSON verified) ---
-  - {name: Adobe,               ats: workday, tenant: adobe,      wd: 5,  site: external_experienced}
-  - {name: Salesforce,          ats: workday, tenant: salesforce, wd: 12, site: External_Career_Site}
-  - {name: Qualcomm,            ats: workday, tenant: qualcomm,   wd: 5,  site: External}
-  - {name: Mastercard,          ats: workday, tenant: mastercard, wd: 1,  site: CorporateCareers}
-  - {name: Walmart Global Tech, ats: workday, tenant: walmart,    wd: 5,  site: WalmartExternal}
-  - {name: Sprinklr,            ats: workday, tenant: sprinklr,   wd: 1,  site: careers}
+  # --- Workday CXS ---
+  - {name: Adobe,               ats: workday, tenant: adobe,      wd: 5,  site: external_experienced, type: product}
+  - {name: Salesforce,          ats: workday, tenant: salesforce, wd: 12, site: External_Career_Site, type: product}
+  - {name: Qualcomm,            ats: workday, tenant: qualcomm,   wd: 5,  site: External, type: semiconductor}
+  - {name: Mastercard,          ats: workday, tenant: mastercard, wd: 1,  site: CorporateCareers, type: fintech}
+  - {name: Walmart Global Tech, ats: workday, tenant: walmart,    wd: 5,  site: WalmartExternal, type: product}
+  - {name: Sprinklr,            ats: workday, tenant: sprinklr,   wd: 1,  site: careers, type: product}
 
-  # --- Company-specific fetchers (all verified live) ---
-  - {name: Amazon,    ats: amazon}      # amazon.jobs search.json
-  - {name: Microsoft, ats: microsoft}   # apply.careers.microsoft.com pcsx API
-  - {name: Atlassian, ats: atlassian}   # atlassian.com/endpoint/careers/listings
-  - {name: Google,    ats: google_html} # careers HTML page (most fragile source)
+  # --- Company-specific fetchers ---
+  - {name: Amazon,    ats: amazon, type: product}
+  - {name: Microsoft, ats: microsoft, type: product}
+  - {name: Atlassian, ats: atlassian, type: product}
+  - {name: Google,    ats: google_html, type: product}

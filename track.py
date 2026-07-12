@@ -6,7 +6,8 @@ nothing is changed.
 
 Examples:
   python track.py applied 7737482003 --resume v12
-  python track.py outreach 7737482003 --contact "Priya S" --linkedin https://linkedin.com/in/... --channel linkedin
+  python track.py outreach 7737482003 --contact "Priya S" --linkedin https://linkedin.com/in/... --channel referral
+  python track.py response 7737482003 yes        # v2: log whether they replied
   python track.py followup 7737482003 --days 7
   python track.py status 7737482003 oa
   python track.py note 7737482003 "referred by senior; OA next week"
@@ -18,8 +19,11 @@ import sys
 from datetime import date, timedelta
 from pathlib import Path
 
+from state import TRACKER_COLUMNS, migrate_tracker
+
 TRACKER = Path(__file__).parent / "tracker.csv"
 STATUSES = ["found", "applied", "referred", "oa", "interview", "offer", "rejected"]
+RESPONSES = ["yes", "no", "pending"]
 DEFAULT_FOLLOWUP_DAYS = 4   # first nudge: outreach + 4 days
 SECOND_FOLLOWUP_DAYS = 7    # next nudge: + 7 days
 
@@ -27,14 +31,15 @@ SECOND_FOLLOWUP_DAYS = 7    # next nudge: + 7 days
 def load():
     if not TRACKER.exists():
         sys.exit("tracker.csv not found - run the watcher first.")
+    migrate_tracker()  # add any new columns (idempotent)
     with open(TRACKER, newline="", encoding="utf-8") as f:
-        r = csv.DictReader(f)
-        return list(r), r.fieldnames
+        return [{c: (r.get(c) or "") for c in TRACKER_COLUMNS}
+                for r in csv.DictReader(f)]
 
 
-def save(rows, fieldnames):
+def save(rows):
     with open(TRACKER, "w", newline="", encoding="utf-8") as f:
-        w = csv.DictWriter(f, fieldnames=fieldnames)
+        w = csv.DictWriter(f, fieldnames=TRACKER_COLUMNS)
         w.writeheader()
         w.writerows(rows)
 
@@ -63,6 +68,9 @@ def main():
     p.add_argument("url"); p.add_argument("--contact", required=True)
     p.add_argument("--linkedin", default=""); p.add_argument("--channel", default="linkedin")
 
+    p = sub.add_parser("response", help="log whether the outreach got a reply")
+    p.add_argument("url"); p.add_argument("value", choices=RESPONSES)
+
     p = sub.add_parser("followup", help="log a follow-up done; schedule the next one")
     p.add_argument("url"); p.add_argument("--days", type=int, default=SECOND_FOLLOWUP_DAYS)
 
@@ -75,7 +83,7 @@ def main():
     sub.add_parser("due", help="list follow-ups due today or earlier")
 
     a = ap.parse_args()
-    rows, cols = load()
+    rows = load()
     today = date.today()
 
     if a.cmd == "due":
@@ -94,6 +102,8 @@ def main():
     if a.cmd == "applied":
         row["status"] = "applied"
         row["applied_date"] = today.isoformat()
+        if not row["response"]:
+            row["response"] = "pending"
         if a.resume:
             row["resume_version"] = a.resume
     elif a.cmd == "outreach":
@@ -103,6 +113,12 @@ def main():
         row["outreach_channel"] = a.channel
         row["outreach_date"] = today.isoformat()
         row["followup_due"] = (today + timedelta(days=DEFAULT_FOLLOWUP_DAYS)).isoformat()
+        if not row["response"]:
+            row["response"] = "pending"
+    elif a.cmd == "response":
+        row["response"] = a.value
+        if a.value == "yes":
+            row["followup_due"] = ""   # they replied - no nudge needed
     elif a.cmd == "followup":
         row["followup_due"] = (today + timedelta(days=a.days)).isoformat()
     elif a.cmd == "status":
@@ -112,8 +128,9 @@ def main():
     elif a.cmd == "note":
         row["notes"] = (row["notes"] + " | " if row["notes"] else "") + a.text
 
-    save(rows, cols)
+    save(rows)
     print(f"updated: {row['company']} | {row['role']} | status={row['status']}"
+          + (f" | response={row['response']}" if row["response"] else "")
           + (f" | followup_due={row['followup_due']}" if row["followup_due"] else ""))
 
 
