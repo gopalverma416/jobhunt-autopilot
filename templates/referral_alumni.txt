@@ -1,0 +1,5 @@
+Hi {contact_name}, I'm a 2026 CSE grad from NIT Bhopal (your junior!). I interned as an SDE at AWS on Babelfish for Aurora PostgreSQL — 10+ merged PRs, including spatial index support that gave 40–320x query speedups.
+
+{company} just opened a {role} role: {job_url}
+
+If you think I could be a fit, would you be open to referring me? Happy to send my resume. Either way, would love to hear how your experience at {company} has been. Thanks!

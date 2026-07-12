@@ -1,0 +1,5 @@
+Hi {contact_name}, I just applied for {role} at {company} ({job_url}) and wanted to put a face to the application.
+
+Quick background: NIT Bhopal CSE '26 (8.01 CGPA), AWS SDE intern on Babelfish for Aurora PostgreSQL (10+ merged PRs incl. spatial indexing with 40–320x speedups), Codeforces Specialist with 900+ problems solved, strong C++.
+
+I'd genuinely value being considered — happy to share anything else you need. Thanks for your time!

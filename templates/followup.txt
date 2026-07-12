@@ -1,0 +1,1 @@
+Hi {contact_name}, following up on my note about the {role} role at {company} ({job_url}). I know things get busy — just wanted to stay on your radar. My AWS internship work (Babelfish for Aurora PostgreSQL, 40–320x spatial query speedups) is closest to what this team does. If there's a better person to speak with, a pointer would mean a lot. Thanks!
