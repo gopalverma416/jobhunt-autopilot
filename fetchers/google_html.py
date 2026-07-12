@@ -11,9 +11,7 @@ returning 0 jobs every run, check the page manually and adjust the regex.
 """
 import re
 
-import requests
-
-from .common import HEADERS, job
+from .common import get_text, job
 
 # id (long digits) + slug from anchors in the results page HTML
 JOB_LINK_RE = re.compile(r'jobs/results/(\d{10,25})-([a-z0-9-]+)')
@@ -28,11 +26,9 @@ def fetch(cfg, settings):
     q = settings["search_text"].replace(" ", "%20")
     url = (f"https://www.google.com/about/careers/applications/jobs/results"
            f"?q={q}&location=India")
-    r = requests.get(url, headers={**HEADERS, "Accept": "text/html"},
-                     timeout=settings["request_timeout"])
-    r.raise_for_status()
+    text = get_text(url, settings["request_timeout"])
     seen, out = set(), []
-    for jid, slug in JOB_LINK_RE.findall(r.text):
+    for jid, slug in JOB_LINK_RE.findall(text):
         if jid in seen:
             continue
         seen.add(jid)
