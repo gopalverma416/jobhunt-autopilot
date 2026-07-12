@@ -28,6 +28,24 @@ it's sparse and mostly stale — Eternal (the parent brand) posts most new
 roles at https://www.eternal.com/careers/ instead. Check that page manually
 too.
 
+## Workday companies pending tenant verification (added 2026-07-12)
+
+These are real fresher-hiring companies, but their Workday `tenant`/`wd`/`site`
+values need live network inspection before adding to `companies.yaml` (a
+guessed tenant just 404s every run). To wire one up: open its careers page,
+watch the network tab for a POST to `.../wday/cxs/{tenant}/{site}/jobs`, read
+the `wd{N}` from the hostname, and add the verified line to `companies.yaml`.
+
+| Company | Careers URL |
+|---|---|
+| AMD | https://careers.amd.com |
+| Intel | https://jobs.intel.com |
+| SAP | https://jobs.sap.com (SuccessFactors, not Workday - may need a different fetcher) |
+| ServiceNow | https://careers.servicenow.com |
+| Palo Alto Networks | https://jobs.paloaltonetworks.com |
+| Siemens EDA | https://jobs.siemens.com |
+| Nutanix | https://careers.nutanix.com (Phenom platform - no public JSON) |
+
 ## Tips
 
 - Several of these (Swiggy, Meesho, Zepto, Flipkart) post fresher drives on

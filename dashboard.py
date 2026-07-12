@@ -46,12 +46,22 @@ def build_dashboard(rows, settings=None):
 
     L.append(f"## 🎯 To apply ({len(open_rows)})")
     L.append("")
+    L.append("_Sorted best-match first when Gemini scoring is on._")
+    L.append("")
     if open_rows:
-        L.append("| found | role | company | apply | after applying, run |")
-        L.append("|---|---|---|---|---|")
-        for r in sorted(open_rows, key=lambda r: r.get("date_found", ""), reverse=True):
+        L.append("| fit | found | role | company | apply | after applying, run |")
+        L.append("|---|---|---|---|---|---|")
+
+        def _score_key(r):
+            try:
+                return int(r.get("match_score") or -1)
+            except ValueError:
+                return -1
+        for r in sorted(open_rows, key=lambda r: (_score_key(r), r.get("date_found", "")),
+                        reverse=True):
             jid = r["job_url"].rstrip("/").split("/")[-1][:26]
-            L.append(f"| {r['date_found']} | {_esc(r['role'])} | {_esc(r['company'])} "
+            fit = f"{r['match_score']}" if r.get("match_score") else "—"
+            L.append(f"| {fit} | {r['date_found']} | {_esc(r['role'])} | {_esc(r['company'])} "
                      f"| [apply ↗]({r['job_url']}) | `python track.py applied {jid}` |")
     else:
         L.append("Nothing pending — the watcher will add new finds here.")

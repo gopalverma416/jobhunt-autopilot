@@ -29,6 +29,8 @@ from fetchers import FETCHERS
 from filters import JobFilter
 from jd import analyze_jd, fetch_jd
 from notify import format_channel_alert, format_job_alert, send_telegram
+from score import enabled as score_enabled_fn
+from score import score_job
 from state import (TRACKER_COLUMNS, load_state, load_tracker_rows,
                    migrate_tracker, norm_sig, record_job, repost_of,
                    save_state)
@@ -70,7 +72,8 @@ def append_tracker(jobs):
         for j in jobs:
             row = {c: "" for c in TRACKER_COLUMNS}
             row.update({"date_found": today, "company": j["company"],
-                        "role": j["title"], "job_url": j["url"], "status": "found"})
+                        "role": j["title"], "job_url": j["url"], "status": "found",
+                        "match_score": j.get("_score", "")})
             w.writerow(row)
 
 
@@ -116,6 +119,9 @@ def main():
         or contacts  # keep DUMMY rows only if there's nothing else (demo mode)
     tracker_rows = load_tracker_rows()
     cfg_by_name = {c["name"]: c for c in cfg["companies"]}
+    score_enabled = score_enabled_fn()
+    if score_enabled:
+        print("  LLM match scoring: ON (Gemini)")
 
     # ---- 1. fetch ATS sources + telegram channels concurrently ----
     channels = cfg.get("telegram_channels") or []
@@ -142,9 +148,24 @@ def main():
             print(f"  OK   {name}: {len(jobs)} postings")
             all_jobs.extend(jobs)
 
-    # ---- 2. title/location filter + new-only ----
+    # ---- 2. title/location filter + new-only + collapse in-run duplicates ----
     matching = [j for j in all_jobs if jf.match(j)]
     new_jobs = [j for j in matching if job_key(j) not in state["jobs"]]
+    # Collapse near-identical simultaneous reqs (same company + normalized
+    # title + location, different job id) into one alert - fixes the
+    # "same ClickHouse C++ role x5" clutter. All variants still get recorded
+    # as seen below so they never re-alert.
+    seen_sig, deduped, dup_keys = set(), [], []
+    for j in new_jobs:
+        dsig = norm_sig(j["company"], j["title"]) + "|" + j["location"].lower()
+        if dsig in seen_sig:
+            dup_keys.append((job_key(j), norm_sig(j["company"], j["title"])))
+            continue
+        seen_sig.add(dsig)
+        deduped.append(j)
+    if dup_keys:
+        print(f"  collapsed {len(dup_keys)} duplicate reqs into existing alerts")
+    new_jobs = deduped
 
     # ---- 3. full-JD pass for new jobs only (concurrent) ----
     def jd_task(j):
@@ -175,6 +196,14 @@ def main():
                     tags.append(f"\U0001F914 {verdict['reason']}")
                 if verdict["fresher"]:
                     tags.append("✅ fresher-friendly")
+                # optional Gemini fit score (skipped silently if no API key)
+                if score_enabled:
+                    sc = score_job(j["title"], j["company"], j["location"],
+                                   text, settings)
+                    if sc:
+                        j["_score"], reason = sc
+                        tags.append(f"\U0001F3AF {j['_score']}/100"
+                                    + (f" — {reason}" if reason else ""))
                 # repost check BEFORE recording this key
                 first_seen = repost_of(state, key, sig,
                                        settings.get("repost_min_age_days", 21))
@@ -184,6 +213,9 @@ def main():
                               "applied_date": applied_earlier(tracker_rows, sig)}
                 record_job(state, key, sig)
                 alerts.append((j, tags, repost))
+        # record the collapsed duplicates as seen so they never re-alert
+        for dk, dsig in dup_keys:
+            record_job(state, dk, dsig)
 
     # ---- 4. telegram channel messages ----
     ch_alerts = []
@@ -203,8 +235,10 @@ def main():
                     hits += 1
             print(f"  CHAN {name}: {len(msgs)} msgs, {hits} new matches")
 
-    # ---- 5. send alerts (flood-capped) ----
+    # ---- 5. send alerts (best-scored first, flood-capped) ----
     max_alerts = int(settings.get("max_alerts_per_run", 15))
+    # sort by Gemini score desc when available so the best fits arrive first
+    alerts.sort(key=lambda a: a[0].get("_score", -1), reverse=True)
     to_send = alerts[:max_alerts]
     suppressed = len(alerts) - len(to_send)
 

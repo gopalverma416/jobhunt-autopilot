@@ -220,6 +220,32 @@ Every source in `companies.yaml` was fetched live during the build:
 | Atlassian | `atlassian.com/endpoint/careers/listings`: 199-role JSON array |
 | Google | HTML results page: 199 India SWE roles, job IDs parseable (v3 API is dead) |
 
+## v2.2: LLM match scoring (optional), resilience, dedup
+
+**Gemini fit score.** If you add a `GEMINI_API_KEY` secret (free key from
+https://aistudio.google.com/apikey), each job that passes the filters gets a
+`🎯 0-100` fit score + one-line reason in its alert, and alerts arrive
+best-match-first. The score is compared against `profile.md` — **edit that
+file** to describe yourself; it's the "you" the model matches against. Fully
+optional: no key = no scoring, everything else works unchanged. Free tier
+easily covers the 0-5 new jobs/run this produces. Model is set in
+`companies.yaml → settings.gemini`.
+
+**Datacenter-IP resilience.** GitHub Actions runs from Azure IPs that big ATS
+stacks sometimes soft-block. `fetchers/common.py` now rotates browser
+User-Agents, adds request jitter, and retries once with backoff on
+403/429/5xx. (No proxies/Playwright — those don't fit the free-tier 1-min
+budget.) A source still failing is logged `FAIL` and skipped, as before.
+
+**Duplicate collapsing.** Multiple simultaneous reqs for the same
+company+title+location (e.g. the same ClickHouse C++ role posted 5×) now
+collapse to a single alert; the rest are marked seen so they never re-fire.
+
+**Adding companies safely.** Only add a company after you've *verified its
+slug/tenant returns jobs* (README "Adding a company" has the one-command
+check). An unverified guess just 404s every run. Companies whose ATS you
+can't confirm belong in `manual_check.md`, not `companies.yaml`.
+
 ## Troubleshooting
 
 - **A source starts failing every run** — open the Actions log; the watcher

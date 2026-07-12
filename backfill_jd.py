@@ -20,11 +20,10 @@ import sys
 from datetime import datetime, timezone
 from pathlib import Path
 
-import requests
 import yaml
 
 from dashboard import write_dashboard
-from fetchers.common import HEADERS
+from fetchers.common import get_text
 from jd import _get, analyze_jd, strip_html
 from state import TRACKER_COLUMNS, migrate_tracker
 
@@ -56,9 +55,7 @@ def fetch_jd_by_url(url, timeout):
         return strip_html((d.get("data") or {}).get("jobDescription", ""))
     # Generic fallback: the public job page itself (works for amazon.jobs,
     # icims, google careers - they render the JD server-side).
-    r = requests.get(url, headers={**HEADERS, "Accept": "text/html"}, timeout=timeout)
-    r.raise_for_status()
-    text = strip_html(r.text)
+    text = strip_html(get_text(url, timeout))
     return text if len(text) > 300 else None  # a JS shell has ~no text
 
 

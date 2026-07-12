@@ -33,6 +33,11 @@ location filter keep false positives rare. If you want location back, edit
 - Existing rows get an empty value; nothing else changes. The watcher
   rewrites the header once and preserves all rows.
 
+## tracker.csv: second new column (v2.2)
+
+- Added `match_score` (0-100 Gemini fit score, or blank) after `response`.
+- Auto-migrates the same way; existing rows get blank. No action needed.
+
 ## New files (no migration needed)
 
 - `contacts.csv` — alumni/recruiter contact DB (seeded with 2 DUMMY rows;

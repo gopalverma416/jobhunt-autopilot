@@ -14,9 +14,7 @@ Google (HTML source) has no JD -> caller falls back to title-only + ⚠️ tag.
 import html
 import re
 
-import requests
-
-from fetchers.common import HEADERS
+from fetchers.common import get_json as _get  # resilient GET+parse (UA rotation, retry)
 
 TAG_RE = re.compile(r"<[^>]+>")
 
@@ -28,12 +26,6 @@ def strip_html(s):
     s = html.unescape(html.unescape(str(s)))
     s = TAG_RE.sub(" ", s)
     return re.sub(r"\s+", " ", s).strip()
-
-
-def _get(url, timeout):
-    r = requests.get(url, headers=HEADERS, timeout=timeout)
-    r.raise_for_status()
-    return r.json()
 
 
 def fetch_jd(job, company_cfg, settings):

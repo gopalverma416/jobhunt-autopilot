@@ -104,7 +104,7 @@ def repost_of(st, key, sig, min_age_days=21):
 TRACKER_COLUMNS = [
     "date_found", "company", "role", "job_url", "status", "applied_date",
     "resume_version", "contact_name", "contact_linkedin", "outreach_date",
-    "outreach_channel", "followup_due", "response", "notes",
+    "outreach_channel", "followup_due", "response", "match_score", "notes",
 ]
 
 

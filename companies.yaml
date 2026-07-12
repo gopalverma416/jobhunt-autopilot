@@ -1,8 +1,7 @@
 # =====================================================================
-# JobHunt Autopilot - configuration (v2)
+# JobHunt Autopilot - configuration (v2.2)
 # Everything you'd want to tune lives here. No code changes needed.
 # =====================================================================
-
 settings:
   request_timeout: 15           # seconds per source/JD/channel fetch
   search_text: "software engineer"
@@ -11,6 +10,10 @@ settings:
   alumni_keywords: ['"MANIT"', '"NIT Bhopal"']
   # used for links in the digest/dashboard when not running inside Actions
   repo_url: https://github.com/gopalverma416/jobhunt-autopilot
+  # Optional LLM match scoring. Only runs if the GEMINI_API_KEY secret is set.
+  gemini:
+    model: gemini-2.0-flash     # free tier; also try gemini-2.5-flash
+    timeout: 15
 
 # Company aliases: brand name <-> ATS/company name used in contacts.csv.
 # Both directions are handled (alias -> canonical, case-insensitive).
@@ -19,7 +22,7 @@ aliases:
   Walmart: Walmart Global Tech
 
 filters:
-  # ---- title pass (v1, unchanged) ----
+  # ---- title pass (v1) ----
   include_titles:
     - software engineer
     - software development engineer
@@ -53,7 +56,6 @@ filters:
     - mts
     - amts
     - graduate trainee engineer
-
   exclude_title_patterns:
     - '\bsenior\b'
     - '\bsr\.?\b'
@@ -70,7 +72,6 @@ filters:
     - '\b(ii|iii|iv|v)\b'          # roman-numeral levels
     - '[-–—/. ][23]\b'             # "SDE-2", "Engineer 3" (but not "2024")
     - '\b1[0-9]\+? ?(years|yrs)\b'
-
   locations_allow:
     - india
     - bengaluru
@@ -94,8 +95,7 @@ filters:
     - " in"
   allow_empty_location: true
 
-  # ---- full-JD pass (v2, Feature 1) ----
-  # Runs only for NEW jobs that already passed the title filter.
+  # ---- full-JD pass (Feature 1). Runs only for NEW jobs past the title filter. ----
   jd:
     hard_reject_years: 3       # "3+ years", "minimum of 3 years" -> reject
     borderline_years: 2        # "2+ years" -> 🤔 borderline (alerted, tagged)
@@ -115,13 +115,10 @@ filters:
       - '\b0\s*(?:-|–|to)\s*[12]\s*years?\b'
       - '\bcampus\b'
 
-# ---- Telegram job channels (v2, Feature 3) ----
+# ---- Telegram job channels (Feature 3) ----
 # Public channels polled via https://t.me/s/<name> (no account needed).
-# FILL THESE IN YOURSELF: pick 3-6 Indian fresher-hiring channels you trust
-# (the exact @names from Telegram, without the @). Then run
-#   python watcher.py --dry-run
-# once - the log prints "CHAN <name>: N msgs" per channel, or a warning if
-# the channel has web previews disabled (those can't be polled).
+# The run log prints "CHAN <name>: N msgs" per channel, or a warning if a
+# channel has web previews disabled (those can't be polled - swap them out).
 telegram_channels:
   - offcampusjobsindia_IT
   - Fresherjobsadda
@@ -135,12 +132,10 @@ telegram_channels:
   - placementdrive
   - engineeringjobs
   - techjobsindia
-       
-#  - your_channel_name_here
-#  - another_channel
 
 # A channel message is forwarded only if it contains BOTH a role keyword
-# (filters.include_titles above) AND one of these fresher signals:
+# (filters.include_titles above) AND one of these fresher signals.
+# NEVER put role words (sde/developer/...) here - that disables the 2nd gate.
 channel_fresher_signals:
   - fresher          # also matches "freshers"
   - 2025 batch
@@ -162,63 +157,54 @@ channel_fresher_signals:
   - drive
 
 # ---------------------------------------------------------------------
-# Companies. All verified live 2026-07-12 (see README "Verification log").
+# Companies. Every entry verified live (see README "Verification log").
 # `type` feeds the weekly report's response-rate-by-company-type table.
+# NOTE: entries you can't verify should go to manual_check.md, NOT here -
+# an unverified slug just 404s every run.
 # ---------------------------------------------------------------------
 companies:
-  # --- Greenhouse ---
-  - {name: PhonePe,   ats: greenhouse, slug: phonepe, type: fintech}
-  - {name: Postman,   ats: greenhouse, slug: postman, type: product}
-  - {name: Rubrik,    ats: greenhouse, slug: rubrik, type: product}
-  - {name: Canonical, ats: greenhouse, slug: canonical, type: product}
-  - {name: Groww,     ats: greenhouse, slug: groww, type: fintech}
-  - {name: Razorpay,  ats: greenhouse, slug: razorpaysoftwareprivatelimited, type: fintech}
-  - {name: Arcesium,  ats: greenhouse, slug: arcesiumllc, type: fintech}
-  - {name: ClickHouse, ats: greenhouse, slug: clickhouse, type: database}
-  - {name: Cohere, ats: greenhouse, slug: cohere, type: ai}
-  - {name: BrowserStack, ats: greenhouse, slug: browserstack, type: product}
-  - {name: Flock, ats: greenhouse, slug: flock, type: product}
-  - {name: Whatfix, ats: greenhouse, slug: whatfix, type: product}
-  - {name: Glean, ats: greenhouse, slug: gleanwork, type: ai}
+  # --- Greenhouse (verified) ---
+  - {name: PhonePe,     ats: greenhouse, slug: phonepe, type: fintech}
+  - {name: Postman,     ats: greenhouse, slug: postman, type: product}
+  - {name: Rubrik,      ats: greenhouse, slug: rubrik, type: product}
+  - {name: Canonical,   ats: greenhouse, slug: canonical, type: product}
+  - {name: Groww,       ats: greenhouse, slug: groww, type: fintech}
+  - {name: Razorpay,    ats: greenhouse, slug: razorpaysoftwareprivatelimited, type: fintech}
+  - {name: Arcesium,    ats: greenhouse, slug: arcesiumllc, type: fintech}
+  - {name: ClickHouse,  ats: greenhouse, slug: clickhouse, type: database}
+  - {name: Glean,       ats: greenhouse, slug: gleanwork, type: ai}
+  - {name: Databricks,  ats: greenhouse, slug: databricks, type: data}   # was mislabeled workday
 
-  # --- Lever ---
+  # --- Lever (verified) ---
   - {name: CRED, ats: lever, slug: cred, type: fintech}
-  - {name: Rippling, ats: lever, slug: rippling, type: product}
-  - {name: Harness, ats: lever, slug: harness, type: devtools}
-  - {name: PostHog, ats: lever, slug: posthog, type: startup}
 
-  # --- SmartRecruiters ---
+  # --- Ashby (verified) ---
+  - {name: Snowflake, ats: ashby, slug: snowflake, type: database}       # was mislabeled workday
+
+  # --- SmartRecruiters (verified; big global boards - India+fresher filter trims them) ---
   - {name: Zomato, ats: smartrecruiters, slug: Zomato1, type: startup}
   - {name: Visa,   ats: smartrecruiters, slug: Visa, type: fintech}
-  - {name: Bosch, ats: smartrecruiters, slug: BoschGroup, type: product}
+  - {name: Bosch,  ats: smartrecruiters, slug: BoschGroup, type: product}
   - {name: Ubisoft, ats: smartrecruiters, slug: Ubisoft2, type: gaming}
 
-  # --- Workday CXS ---
+  # --- Workday CXS (verified tenant/site + wd number) ---
   - {name: Adobe,               ats: workday, tenant: adobe,      wd: 5,  site: external_experienced, type: product}
   - {name: Salesforce,          ats: workday, tenant: salesforce, wd: 12, site: External_Career_Site, type: product}
   - {name: Qualcomm,            ats: workday, tenant: qualcomm,   wd: 5,  site: External, type: semiconductor}
   - {name: Mastercard,          ats: workday, tenant: mastercard, wd: 1,  site: CorporateCareers, type: fintech}
   - {name: Walmart Global Tech, ats: workday, tenant: walmart,    wd: 5,  site: WalmartExternal, type: product}
   - {name: Sprinklr,            ats: workday, tenant: sprinklr,   wd: 1,  site: careers, type: product}
-  - {name: NVIDIA, ats: workday, tenant: nvidia, wd: 2, site: NVIDIAExternalCareerSite, type: semiconductor}
-  - {name: AMD, ats: workday, tenant: amd, wd: 2, site: External, type: semiconductor}
-  - {name: Intel, ats: workday, tenant: intel, wd: 2, site: External, type: semiconductor}
-  - {name: SAP, ats: workday, tenant: sap, wd: 2, site: Careers, type: enterprise}
-  - {name: ServiceNow, ats: workday, tenant: servicenow, wd: 2, site: External, type: product}
-  - {name: Snowflake, ats: workday, tenant: snowflake, wd: 2, site: External, type: database}
-  - {name: Databricks, ats: workday, tenant: databricks, wd: 2, site: External, type: data}
-  - {name: Nutanix, ats: workday, tenant: nutanix, wd: 2, site: External, type: infrastructure}
-  - {name: Palo Alto Networks, ats: workday, tenant: paloaltonetworks, wd: 2, site: External, type: security}
-  - {name: Siemens EDA, ats: workday, tenant: siemens, wd: 2, site: External, type: eda}
+  - {name: NVIDIA,              ats: workday, tenant: nvidia,     wd: 5,  site: NVIDIAExternalCareerSite, type: semiconductor}  # was wd:2 (wrong)
 
-  # --- Company-specific fetchers ---
+  # --- Company-specific fetchers (verified) ---
   - {name: Amazon,    ats: amazon, type: product}
   - {name: Microsoft, ats: microsoft, type: product}
   - {name: Atlassian, ats: atlassian, type: product}
   - {name: Google,    ats: google_html, type: product}
-  - {name: Oracle, ats: oracle, type: enterprise}
-  - {name: Cisco, ats: cisco, type: networking}
-  - {name: IBM, ats: ibm, type: enterprise}
-  - {name: Expedia, ats: expedia, type: travel}
-  - {name: Stripe, ats: stripe, type: fintech}
-  - {name: Airbnb, ats: airbnb, type: product}
+
+  # REMOVED (dead board / 404 on 2026-07-12): Cohere, BrowserStack, Flock,
+  #   Whatfix, Rippling, Harness, PostHog.
+  # REMOVED (no such fetcher exists in code): Oracle, Cisco, IBM, Expedia,
+  #   Stripe, Airbnb.
+  # MOVED to manual_check.md (real cos, Workday tenant not yet verified):
+  #   AMD, Intel, SAP, ServiceNow, Palo Alto Networks, Siemens, Nutanix.
