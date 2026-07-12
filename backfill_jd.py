@@ -24,7 +24,9 @@ import yaml
 
 from dashboard import write_dashboard
 from fetchers.common import get_text
+from filters import JobFilter
 from jd import _get, analyze_jd, strip_html
+from state import norm_sig
 from state import TRACKER_COLUMNS, migrate_tracker
 
 ROOT = Path(__file__).parent
@@ -67,6 +69,31 @@ def main():
     cfg = yaml.safe_load(open(ROOT / "companies.yaml", encoding="utf-8"))
     jdcfg = cfg["filters"]["jd"]
     timeout = cfg["settings"]["request_timeout"]
+    jf = JobFilter(cfg["filters"])
+
+    # ---- pass 0: retro-apply the CURRENT title filter + collapse duplicates ----
+    # Existing 'found' rows were added under older/looser rules. Anything whose
+    # title no longer passes (e.g. "Principle Software Engineer") -> not_fit.
+    # Duplicate reqs (same company+normalized title, kept the first) -> not_fit.
+    title_dropped = dup_dropped = 0
+    seen_sig = set()
+    for r in rows:
+        if r["status"] != "found":
+            continue
+        if not jf.title_ok(r["role"]):
+            r["status"] = "not_fit"
+            r["notes"] = (r["notes"] + " | " if r["notes"] else "") + "title filter (backfill)"
+            title_dropped += 1
+            continue
+        sig = norm_sig(r["company"], r["role"])
+        if sig in seen_sig:
+            r["status"] = "not_fit"
+            r["notes"] = (r["notes"] + " | " if r["notes"] else "") + "duplicate req (backfill)"
+            dup_dropped += 1
+            continue
+        seen_sig.add(sig)
+    if title_dropped or dup_dropped:
+        print(f"pass 0: {title_dropped} title-filtered, {dup_dropped} duplicates -> not_fit")
 
     todo = [r for r in rows if r["status"] == "found"]
     print(f"re-checking {len(todo)} 'found' rows against the JD filter...")
