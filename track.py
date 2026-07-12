@@ -22,7 +22,8 @@ from pathlib import Path
 from state import TRACKER_COLUMNS, migrate_tracker
 
 TRACKER = Path(__file__).parent / "tracker.csv"
-STATUSES = ["found", "applied", "referred", "oa", "interview", "offer", "rejected"]
+STATUSES = ["found", "applied", "referred", "oa", "interview", "offer",
+            "rejected", "not_fit"]  # not_fit = JD filter says over-experienced
 RESPONSES = ["yes", "no", "pending"]
 DEFAULT_FOLLOWUP_DAYS = 4   # first nudge: outreach + 4 days
 SECOND_FOLLOWUP_DAYS = 7    # next nudge: + 7 days

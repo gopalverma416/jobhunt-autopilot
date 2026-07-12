@@ -11,6 +11,7 @@ from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from contacts_db import due_for_nudge, load_contacts
+from dashboard import repo_url
 from notify import send_telegram
 
 TRACKER = Path(__file__).parent / "tracker.csv"
@@ -54,13 +55,19 @@ def main():
                 if not c["name"].upper().startswith("DUMMY")]
     nudges = due_for_nudge(contacts, today)
 
+    import yaml
+    with open(Path(__file__).parent / "companies.yaml", encoding="utf-8") as f:
+        settings = yaml.safe_load(f)["settings"]
+    base = repo_url(settings)  # GitHub links (private repo - you're logged in)
+
     lines = [f"☀️ JobHunt digest - {today.isoformat()}", ""]
 
     lines.append(f"\U0001F195 Found in last 24h, not yet applied: {len(fresh)}")
-    for r in fresh[:10]:
+    for r in fresh[:5]:
         lines.append(f"  • {r['role']} @ {r['company']}\n    {r['job_url']}")
-    if len(fresh) > 10:
-        lines.append(f"  ...and {len(fresh) - 10} more in tracker.csv")
+    if len(fresh) > 5:
+        lines.append(f"  ...and {len(fresh) - 5} more on your dashboard:")
+        lines.append(f"  {base}/blob/main/DASHBOARD.md")
 
     lines.append("")
     lines.append(f"⏰ Job follow-ups due: {len(followups)}")
@@ -81,6 +88,9 @@ def main():
 
     lines.append("")
     lines.append(f"\U0001F4EC Applications this week: {applied_this_week}")
+    lines.append("")
+    lines.append(f"\U0001F4CB Dashboard: {base}/blob/main/DASHBOARD.md")
+    lines.append(f"\U0001F5C2 Tracker:   {base}/blob/main/tracker.csv")
 
     if not fresh and not followups and not nudges:
         lines.append("\nNothing pending. Go solve a Codeforces problem \U0001F642")

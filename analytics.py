@@ -25,8 +25,8 @@ REPORTS = ROOT / "reports"
 FUNNEL = ["found", "applied", "oa", "interview", "offer"]
 # how many funnel stages each status implies were REACHED
 # (an "oa" row reached found + applied + oa; a rejection implies an application)
-REACHED = {"found": 1, "applied": 2, "referred": 2, "rejected": 2,
-           "oa": 3, "interview": 4, "offer": 5}
+REACHED = {"found": 1, "not_fit": 1, "applied": 2, "referred": 2,
+           "rejected": 2, "oa": 3, "interview": 4, "offer": 5}
 
 
 def parse_date(s):

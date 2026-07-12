@@ -24,6 +24,7 @@ from pathlib import Path
 import yaml
 
 from contacts_db import find_for_company, load_contacts
+from dashboard import write_dashboard
 from fetchers import FETCHERS
 from filters import JobFilter
 from jd import analyze_jd, fetch_jd
@@ -230,6 +231,8 @@ def main():
         if rejected:
             append_rejected(rejected)
         save_state(state)
+        # regenerate the GitHub dashboard from the (possibly updated) tracker
+        write_dashboard(load_tracker_rows(), settings)
 
     print(f"\nrun summary: {len(all_jobs)} fetched | {len(matching)} match title/loc | "
           f"{len(alerts)} alerted | {len(rejected)} JD-rejected | "

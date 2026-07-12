@@ -9,6 +9,8 @@ settings:
   max_alerts_per_run: 15        # flood protection
   repost_min_age_days: 21       # signature seen this long ago -> 🔁 REPOST
   alumni_keywords: ['"MANIT"', '"NIT Bhopal"']
+  # used for links in the digest/dashboard when not running inside Actions
+  repo_url: https://github.com/gopalverma416/jobhunt-autopilot
 
 # Company aliases: brand name <-> ATS/company name used in contacts.csv.
 # Both directions are handled (alias -> canonical, case-insensitive).
@@ -49,6 +51,8 @@ filters:
     - '\bdirector\b'
     - '\bintern(ship)?\b'
     - '\bhead\b'
+    - '\bphd\b'                    # "SWE, PhD, Early Career" needs a PhD
+    - '\bconsultant\b'             # consulting roles, not product SDE
     - '\b(ii|iii|iv|v)\b'          # roman-numeral levels
     - '[-–—/. ][23]\b'             # "SDE-2", "Engineer 3" (but not "2024")
     - '\b1[0-9]\+? ?(years|yrs)\b'
