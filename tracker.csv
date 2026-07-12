@@ -15,7 +15,7 @@ date_found,company,role,job_url,status,applied_date,resume_version,contact_name,
 2026-07-12,Amazon,"Software Development Engineer, Prime Video Sports",https://www.amazon.jobs/en/jobs/10470167/software-development-engineer-prime-video-sports,not_fit,,,,,,,,,,JD-backfill: requires 3+ years
 2026-07-12,Amazon,"Software Development Engineer, Amazon OpenSearch Service - DIY Observability",https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability,not_fit,,,,,,,,,,JD-backfill: requires 3+ years
 2026-07-12,Amazon,"Software Development Engineer, PXT Case Management System",https://www.amazon.jobs/en/jobs/10464018/software-development-engineer-pxt-case-management-system,not_fit,,,,,,,,,,JD-backfill: requires 3+ years
-2026-07-12,Atlassian,Principle Software Engineer - Search and Data,https://careers-apac-atlassian.icims.com/jobs/25693/principle-software-engineer---search-and-data/job,found,,,,,,,,,,
+2026-07-12,Atlassian,Principle Software Engineer - Search and Data,https://careers-apac-atlassian.icims.com/jobs/25693/principle-software-engineer---search-and-data/job,not_fit,,,,,,,,,,title filter (backfill)
 2026-07-12,Atlassian,Software Engineer,https://careers-americas.icims.com/jobs/25301/software-engineer/job,not_fit,,,,,,,,,,JD-backfill: requires 3-5 years
 2026-07-12,Atlassian,Software Engineer,https://careers-americas.icims.com/jobs/25302/software-engineer/job,not_fit,,,,,,,,,,JD-backfill: requires 3-5 years
 2026-07-12,Google,Software Engineer Engprod Google One And Google Photos,https://www.google.com/about/careers/applications/jobs/results/123693083568022214-software-engineer-engprod-google-one-and-google-photos,not_fit,,,,,,,,,,JD-backfill: requires 8+ years
@@ -35,7 +35,7 @@ date_found,company,role,job_url,status,applied_date,resume_version,contact_name,
 2026-07-12,Zomato,Software Engineer – Back End,https://jobs.smartrecruiters.com/Zomato1/104244178,found,,,,,,,,,,
 2026-07-12,Microsoft,Consultant - Apps Full Stack Engineer A2,https://apply.careers.microsoft.com/careers/job/1970393556864900,not_fit,,,,,,,,,,JD-backfill: requires 4-10 years
 2026-07-12,ClickHouse,Core Software Engineer (C++) - Remote,https://job-boards.greenhouse.io/clickhouse/jobs/5755091004,found,,,,,,,,,,
-2026-07-12,ClickHouse,Core Software Engineer (C++) - Remote,https://job-boards.greenhouse.io/clickhouse/jobs/5755090004,found,,,,,,,,,,
-2026-07-12,ClickHouse,Core Software Engineer (C++) - Remote,https://job-boards.greenhouse.io/clickhouse/jobs/5755092004,found,,,,,,,,,,
-2026-07-12,ClickHouse,Core Software Engineer (C++) - Remote,https://job-boards.greenhouse.io/clickhouse/jobs/5755093004,found,,,,,,,,,,
-2026-07-12,ClickHouse,Core Software Engineer (C++) - Remote,https://job-boards.greenhouse.io/clickhouse/jobs/5767816004,found,,,,,,,,,,
+2026-07-12,ClickHouse,Core Software Engineer (C++) - Remote,https://job-boards.greenhouse.io/clickhouse/jobs/5755090004,not_fit,,,,,,,,,,duplicate req (backfill)
+2026-07-12,ClickHouse,Core Software Engineer (C++) - Remote,https://job-boards.greenhouse.io/clickhouse/jobs/5755092004,not_fit,,,,,,,,,,duplicate req (backfill)
+2026-07-12,ClickHouse,Core Software Engineer (C++) - Remote,https://job-boards.greenhouse.io/clickhouse/jobs/5755093004,not_fit,,,,,,,,,,duplicate req (backfill)
+2026-07-12,ClickHouse,Core Software Engineer (C++) - Remote,https://job-boards.greenhouse.io/clickhouse/jobs/5767816004,not_fit,,,,,,,,,,duplicate req (backfill)
