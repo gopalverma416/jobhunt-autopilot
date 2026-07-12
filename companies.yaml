@@ -4,10 +4,10 @@
 # =====================================================================
 
 settings:
-  request_timeout: 10           # seconds per source/JD/channel fetch
+  request_timeout: 15           # seconds per source/JD/channel fetch
   search_text: "software engineer"
-  max_alerts_per_run: 15        # flood protection
-  repost_min_age_days: 21       # signature seen this long ago -> 🔁 REPOST
+  max_alerts_per_run: 30        # flood protection
+  repost_min_age_days: 15       # signature seen this long ago -> 🔁 REPOST
   alumni_keywords: ['"MANIT"', '"NIT Bhopal"']
   # used for links in the digest/dashboard when not running inside Actions
   repo_url: https://github.com/gopalverma416/jobhunt-autopilot
@@ -39,6 +39,20 @@ filters:
     - backend engineer
     - full stack
     - fullstack
+    - associate software engineer
+    - associate software developer
+    - graduate software engineer
+    - graduate software developer
+    - software engineer i
+    - software engineer 1
+    - application engineer
+    - systems engineer
+    - member of engineering
+    - software engineering associate
+    - associate member of technical staff
+    - mts
+    - amts
+    - graduate trainee engineer
 
   exclude_title_patterns:
     - '\bsenior\b'
@@ -73,6 +87,10 @@ filters:
     - kolkata
     - ahmedabad
     - remote
+    - hybrid
+    - work from home
+    - pan india
+    - wfh
     - " in"
   allow_empty_location: true
 
@@ -86,11 +104,15 @@ filters:
     extra_reject_patterns: []  # your own regexes, e.g. '\bphd required\b'
     fresher_patterns:          # any match -> ✅ fresher-friendly tag
       - '\bfreshers?\b'
+      - '\bentry.?level\b'
       - '\bnew ?grad(uate)?s?\b'
       - '\brecent graduates?\b'
-      - '\b202[456]\s*(batch|grad)'
+      - '\bgraduate engineer\b'
+      - '\bgraduate trainee\b'
+      - '\bassociate software engineer\b'
+      - '\bsoftware engineer i\b'
+      - '\b202[4567]\s*(batch|grad)'
       - '\b0\s*(?:-|–|to)\s*[12]\s*years?\b'
-      - '\bentry.?level\b'
       - '\bcampus\b'
 
 # ---- Telegram job channels (v2, Feature 3) ----
@@ -100,19 +122,41 @@ filters:
 #   python watcher.py --dry-run
 # once - the log prints "CHAN <name>: N msgs" per channel, or a warning if
 # the channel has web previews disabled (those can't be polled).
-telegram_channels: []
+telegram_channels:
+  - offcampusjobsindia_IT
+  - Fresherjobsadda
+  - offcampusjobs4u
+  - offcampusjobsindia
+  - freshersnowjobs
+  - freshers_job_openings
+  - freshershunt
+  - jobsforfreshers
+  - softwarejobsindia
+  - placementdrive
+  - engineeringjobs
+  - techjobsindia
+       
 #  - your_channel_name_here
 #  - another_channel
 
 # A channel message is forwarded only if it contains BOTH a role keyword
 # (filters.include_titles above) AND one of these fresher signals:
 channel_fresher_signals:
-  - fresher
+  - fresher          # also matches "freshers"
   - 2025 batch
   - 2026 batch
+  - 2027 batch
   - off campus
   - off-campus
+  - campus hiring
+  - campus drive
+  - graduate engineer
+  - graduate trainee
   - 0-1 year
+  - 0 to 1 year
+  - 0 years
+  - entry level
+  - new grad
   - walk-in
   - walkin
   - drive
@@ -130,13 +174,24 @@ companies:
   - {name: Groww,     ats: greenhouse, slug: groww, type: fintech}
   - {name: Razorpay,  ats: greenhouse, slug: razorpaysoftwareprivatelimited, type: fintech}
   - {name: Arcesium,  ats: greenhouse, slug: arcesiumllc, type: fintech}
+  - {name: ClickHouse, ats: greenhouse, slug: clickhouse, type: database}
+  - {name: Cohere, ats: greenhouse, slug: cohere, type: ai}
+  - {name: BrowserStack, ats: greenhouse, slug: browserstack, type: product}
+  - {name: Flock, ats: greenhouse, slug: flock, type: product}
+  - {name: Whatfix, ats: greenhouse, slug: whatfix, type: product}
+  - {name: Glean, ats: greenhouse, slug: gleanwork, type: ai}
 
   # --- Lever ---
   - {name: CRED, ats: lever, slug: cred, type: fintech}
+  - {name: Rippling, ats: lever, slug: rippling, type: product}
+  - {name: Harness, ats: lever, slug: harness, type: devtools}
+  - {name: PostHog, ats: lever, slug: posthog, type: startup}
 
   # --- SmartRecruiters ---
   - {name: Zomato, ats: smartrecruiters, slug: Zomato1, type: startup}
   - {name: Visa,   ats: smartrecruiters, slug: Visa, type: fintech}
+  - {name: Bosch, ats: smartrecruiters, slug: BoschGroup, type: product}
+  - {name: Ubisoft, ats: smartrecruiters, slug: Ubisoft2, type: gaming}
 
   # --- Workday CXS ---
   - {name: Adobe,               ats: workday, tenant: adobe,      wd: 5,  site: external_experienced, type: product}
@@ -145,9 +200,25 @@ companies:
   - {name: Mastercard,          ats: workday, tenant: mastercard, wd: 1,  site: CorporateCareers, type: fintech}
   - {name: Walmart Global Tech, ats: workday, tenant: walmart,    wd: 5,  site: WalmartExternal, type: product}
   - {name: Sprinklr,            ats: workday, tenant: sprinklr,   wd: 1,  site: careers, type: product}
+  - {name: NVIDIA, ats: workday, tenant: nvidia, wd: 2, site: NVIDIAExternalCareerSite, type: semiconductor}
+  - {name: AMD, ats: workday, tenant: amd, wd: 2, site: External, type: semiconductor}
+  - {name: Intel, ats: workday, tenant: intel, wd: 2, site: External, type: semiconductor}
+  - {name: SAP, ats: workday, tenant: sap, wd: 2, site: Careers, type: enterprise}
+  - {name: ServiceNow, ats: workday, tenant: servicenow, wd: 2, site: External, type: product}
+  - {name: Snowflake, ats: workday, tenant: snowflake, wd: 2, site: External, type: database}
+  - {name: Databricks, ats: workday, tenant: databricks, wd: 2, site: External, type: data}
+  - {name: Nutanix, ats: workday, tenant: nutanix, wd: 2, site: External, type: infrastructure}
+  - {name: Palo Alto Networks, ats: workday, tenant: paloaltonetworks, wd: 2, site: External, type: security}
+  - {name: Siemens EDA, ats: workday, tenant: siemens, wd: 2, site: External, type: eda}
 
   # --- Company-specific fetchers ---
   - {name: Amazon,    ats: amazon, type: product}
   - {name: Microsoft, ats: microsoft, type: product}
   - {name: Atlassian, ats: atlassian, type: product}
   - {name: Google,    ats: google_html, type: product}
+  - {name: Oracle, ats: oracle, type: enterprise}
+  - {name: Cisco, ats: cisco, type: networking}
+  - {name: IBM, ats: ibm, type: enterprise}
+  - {name: Expedia, ats: expedia, type: travel}
+  - {name: Stripe, ats: stripe, type: fintech}
+  - {name: Airbnb, ats: airbnb, type: product}
