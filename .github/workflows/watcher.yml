@@ -1,0 +1,56 @@
+# Hourly job watcher.
+# Cron minute 17 (not :00) = "jitter": GitHub's queues are least congested
+# off the hour, so delays are smaller. GitHub cron can still lag 10-30 min
+# at peak - that's fine for our ~1-2h detection target.
+#
+# Budget maths: private repos get 2,000 free minutes/month.
+# 24 runs/day x ~1 min x 31 days ≈ 745 min/month. Do NOT go beyond hourly.
+# The state commit each run also keeps the repo "active", so GitHub's
+# 60-day auto-disable of scheduled workflows never kicks in.
+name: watcher
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write         # needed to commit seen_jobs.json / tracker.csv
+
+concurrency:
+  group: jobhunt-state    # never let two runs race on the state files
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5    # hard stop: a hung run must not eat minutes
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Run watcher
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python watcher.py
+
+      - name: Commit state (dedupe + tracker)
+        run: |
+          git config user.name "jobhunt-bot"
+          git config user.email "jobhunt-bot@users.noreply.github.com"
+          git add seen_jobs.json tracker.csv
+          if git diff --cached --quiet; then
+            echo "no state changes"
+          else
+            git commit -m "state: watcher $(date -u '+%Y-%m-%d %H:%M UTC')"
+            # you may have edited tracker.csv on the web UI mid-run:
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push
+          fi
