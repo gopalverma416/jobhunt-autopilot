@@ -1,0 +1,117 @@
+# =====================================================================
+# JobHunt Autopilot - configuration
+# Everything you'd want to tune lives here. No code changes needed.
+# =====================================================================
+
+settings:
+  # Seconds before giving up on a single source. Keep small so the
+  # whole run stays under ~1 minute on GitHub Actions.
+  request_timeout: 10
+  # Search text sent to sources that support server-side search
+  # (Workday, Amazon, Microsoft, Google).
+  search_text: "software engineer"
+  # Max Telegram alerts per run (safety valve against alert floods).
+  max_alerts_per_run: 15
+  # Your college names, used to build the LinkedIn alumni search link.
+  alumni_keywords: ['"MANIT"', '"NIT Bhopal"']
+
+filters:
+  # Alert only if the title matches AT LEAST ONE of these
+  # (case-insensitive, matched as whole words/phrases).
+  include_titles:
+    - software engineer
+    - software development engineer
+    - sde
+    - sde 1
+    - sde-1
+    - sde i
+    - software developer
+    - member of technical staff
+    - associate engineer
+    - graduate engineer
+    - engineer i
+    - engineer 1
+    - new grad
+    - university grad
+    - early career
+    - backend engineer
+    - full stack
+    - fullstack
+
+  # ...and matches NONE of these. These are Python regexes
+  # (case-insensitive). \b = word boundary, so "SDE-1" passes
+  # while "SDE-2", "Engineer II", "Senior SWE" all fail.
+  exclude_title_patterns:
+    - '\bsenior\b'
+    - '\bsr\.?\b'
+    - '(?<!technical )\bstaff\b'   # blocks "Staff Engineer", allows "Member of Technical Staff"
+    - '\bprincipal\b'
+    - '\blead\b'
+    - '\bmanager\b'
+    - '\barchitect\b'
+    - '\bdirector\b'
+    - '\bintern(ship)?\b'
+    - '\bhead\b'
+    - '\b(ii|iii|iv|v)\b'          # roman-numeral levels
+    - '[-–—/. ][23]\b'             # "SDE-2", "Engineer 3" (but not "2024")
+    - '\b1[0-9]\+? ?(years|yrs)\b' # "10+ years" sneaking into titles
+
+  # Location must contain one of these tokens (case-insensitive)...
+  locations_allow:
+    - india
+    - bengaluru
+    - bangalore
+    - hyderabad
+    - pune
+    - mumbai
+    - gurugram
+    - gurgaon
+    - noida
+    - new delhi
+    - delhi
+    - chennai
+    - kolkata
+    - ahmedabad
+    - remote
+    - " in"        # matches "Bengaluru, KA, IN"
+  # ...or be empty (some global-remote posts have no location).
+  allow_empty_location: true
+
+# ---------------------------------------------------------------------
+# Companies. Every entry was verified live on 2026-07-12 (see README
+# "Verification log"). ats must be one of:
+#   greenhouse | lever | ashby | smartrecruiters | workday
+#   | amazon | microsoft | atlassian | google_html
+# ---------------------------------------------------------------------
+companies:
+  # --- Greenhouse (public boards-api, verified returning jobs) ---
+  - {name: PhonePe,   ats: greenhouse, slug: phonepe}
+  - {name: Postman,   ats: greenhouse, slug: postman}
+  - {name: Rubrik,    ats: greenhouse, slug: rubrik}
+  - {name: Canonical, ats: greenhouse, slug: canonical}
+  - {name: Groww,     ats: greenhouse, slug: groww}
+  - {name: Razorpay,  ats: greenhouse, slug: razorpaysoftwareprivatelimited}
+  - {name: Arcesium,  ats: greenhouse, slug: arcesiumllc}
+
+  # --- Lever (public postings API, verified) ---
+  - {name: CRED, ats: lever, slug: cred}
+
+  # --- SmartRecruiters (public postings API, verified via browser) ---
+  # NOTE: Zomato's SR board is sparse/stale - most new Eternal roles
+  # appear on eternal.com/careers (see manual_check.md).
+  - {name: Zomato, ats: smartrecruiters, slug: Zomato1}
+  - {name: Visa,   ats: smartrecruiters, slug: Visa}
+
+  # --- Workday CXS (tenant/site verified live; POST JSON verified) ---
+  - {name: Adobe,               ats: workday, tenant: adobe,      wd: 5,  site: external_experienced}
+  - {name: Salesforce,          ats: workday, tenant: salesforce, wd: 12, site: External_Career_Site}
+  - {name: Qualcomm,            ats: workday, tenant: qualcomm,   wd: 5,  site: External}
+  - {name: Mastercard,          ats: workday, tenant: mastercard, wd: 1,  site: CorporateCareers}
+  - {name: Walmart Global Tech, ats: workday, tenant: walmart,    wd: 5,  site: WalmartExternal}
+  - {name: Sprinklr,            ats: workday, tenant: sprinklr,   wd: 1,  site: careers}
+
+  # --- Company-specific fetchers (all verified live) ---
+  - {name: Amazon,    ats: amazon}      # amazon.jobs search.json
+  - {name: Microsoft, ats: microsoft}   # apply.careers.microsoft.com pcsx API
+  - {name: Atlassian, ats: atlassian}   # atlassian.com/endpoint/careers/listings
+  - {name: Google,    ats: google_html} # careers HTML page (most fragile source)
