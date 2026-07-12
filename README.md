@@ -1,23 +1,32 @@
-# JobHunt Autopilot
+# JobHunt Autopilot (v2)
 
 Zero-cost, low-maintenance off-campus job-search automation for SDE/SDE-1
-roles in India. Polls official ATS APIs hourly via GitHub Actions, pushes
-Telegram alerts with pre-built LinkedIn people-search links, tracks
-everything in a CSV, and sends a 9 AM IST digest of follow-ups due.
+roles in India. Polls official ATS APIs + public Telegram channel previews
+hourly via GitHub Actions, filters by title *and full job description*,
+detects reposts, pushes Telegram alerts wired to your own contact database,
+and reports weekly on what's actually working.
 
-**Cost: ₹0/month.** GitHub Actions free tier + public ATS APIs + Telegram
-Bot API. No scraping of LinkedIn, no logging into your accounts, no
+**Cost: ₹0/month.** GitHub Actions free tier + public APIs + Telegram Bot
+API. No scraping of LinkedIn, no logging into your accounts, no
 auto-applying — discovery, tracking and drafting only.
 
 ```
-watcher (hourly)          digest (daily 9AM IST)
-   |                          |
-fetchers/* ──filter──► seen_jobs.json (dedupe, committed back to repo)
-   |                          |
-Telegram alert          tracker.csv ◄── track.py (your 5-second updates)
-                              |
-                         draft.py + templates/ (referral / recruiter messages)
+watcher (hourly)                          digest (daily 9AM IST)   weekly report (Sun 9AM IST)
+   |                                          |                        |
+fetchers/* + t.me/s/ channels                 |                   analytics.py -> reports/YYYY-WW.md
+   | title+location filter                    |
+   | full-JD filter (new jobs only) ──► rejected_log.csv (audit weekly)
+   | repost detection (seen_jobs.json signatures)
+   | contact lookup (contacts.csv ◄── contact.py)
+   v
+Telegram alert ──► tracker.csv ◄── track.py (applied / outreach / response)
+                        |
+                   draft.py + templates/
 ```
+
+**🔒 Privacy note:** `contacts.csv` contains personal data of real people.
+This repo must stay **private**, and that data is for your personal
+outreach only.
 
 ## Setup (one time, ~15 minutes)
 
@@ -92,6 +101,86 @@ Everything is in `companies.yaml`:
 - `filters.locations_allow` — substring match on the location field;
   empty locations pass (global-remote posts often have no location).
 - `settings.max_alerts_per_run` — flood protection.
+
+### v2: full-JD filter (`filters.jd`)
+
+After a NEW job passes the title filter, its full description is fetched
+(concurrently, 10s timeout; typically 0–5 per run so runtime is unaffected)
+and scanned for experience requirements:
+
+- `hard_reject_years: 3` — "3+ years", "minimum of 3 years", "5 years of
+  experience" → **rejected**, logged to `rejected_log.csv` with the reason.
+  Audit that file weekly and tune these knobs.
+- `range_borderline_min: 2` — "2-4 years" → alerted with a `🤔 2-4 yrs` tag.
+- "0-2 years", "0 to 1 year", "up to 2 years" always pass.
+- `fresher_patterns` — any match adds a `✅ fresher-friendly` tag.
+- If the JD can't be fetched (Google source, network hiccup), the alert is
+  sent anyway with `⚠️ JD unverified`.
+- Rejected jobs still enter `seen_jobs.json` so they're never re-processed.
+
+## v2: contact database (`contacts.csv` + `contact.py`)
+
+The referral engine. When an alert fires and you have contacts at that
+company, the alert shows *your people* instead of generic search links
+(company aliases like Eternal↔Zomato are handled via `aliases:` in the YAML).
+
+```bash
+python contact.py add --name "Krishna A" --company PhonePe --role SDE-2 \
+    --linkedin https://linkedin.com/in/... --relationship warm --source alumni --school MANIT
+python contact.py update Krishna --contacted today --context "agreed to refer"
+python contact.py list --company PhonePe      # or --due
+python contact.py import apify_export.csv     # best-effort column mapping
+```
+
+- Logging an outreach auto-schedules a **+5 day follow-up nudge** in the
+  daily digest.
+- **Anti-spam guard:** contacting someone twice within 14 days prints a
+  warning, and the digest never suggests the same person more than once
+  per 14 days.
+- The two `DUMMY` rows are demo data — replace them. The watcher ignores
+  DUMMY rows as soon as you add one real contact.
+
+## v2: Telegram job channels
+
+Public channels are polled via `https://t.me/s/<channel>` (plain GET, no
+account, no Telegram API). Fill `telegram_channels:` in `companies.yaml`
+with 3–6 Indian fresher-hiring channels **you** trust (the @name without @),
+then run `python watcher.py --dry-run` once: the log prints
+`CHAN <name>: N msgs` per channel, or a warning if the channel has web
+previews disabled (those can't be polled — pick another).
+
+A message is forwarded (tagged `📣 CHANNEL`, trimmed to 500 chars, with a
+link to the original) only if it contains a role keyword AND a fresher
+signal (`channel_fresher_signals:`). Channel finds are NOT auto-added to
+the tracker — add the good ones yourself with `track.py`.
+
+## v2: repost detection
+
+Every job gets a signature (`company|normalized title` — see MIGRATION.md
+for why location is excluded). If a "new" URL matches a signature first
+seen **21+ days ago**, the alert is tagged `🔁 REPOST — likely unfilled,
+push hard with a referral`, mentions your contacts at that company, and —
+if the tracker shows you applied to the earlier posting — tells you to
+follow up rather than re-apply.
+
+## v2: weekly report (Sundays 9 AM IST)
+
+`analytics.py` reads tracker + contacts and sends a Telegram report, also
+committed to `reports/YYYY-WW.md`:
+
+- **Funnel** — found → applied → OA → interview → offer, all-time & last 7d.
+- **Response rate by channel** — needs you to log `track.py outreach ...
+  --channel referral|linkedin|email` and `track.py response <job> yes|no`.
+- **By resume version** — tag applications with `--resume v12` to populate.
+- **By company type** — the `type:` field on each company in the YAML.
+- **Observations** — 2-3 plain-English takeaways; honest about tiny samples
+  ("n=4 — too early to conclude"); flags follow-ups overdue >7 days.
+
+### New tracker columns (v2)
+
+`response` (yes/no/pending) was added — set it with
+`python track.py response <job> yes` when someone replies. Existing rows
+migrate automatically (see MIGRATION.md).
 
 ## Adding a company
 
