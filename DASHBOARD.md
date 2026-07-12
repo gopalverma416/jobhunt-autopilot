@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-12 11:34 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-12 12:27 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (4)
+## 🎯 To apply (9)
 
 | found | role | company | apply | after applying, run |
 |---|---|---|---|---|
@@ -12,6 +12,11 @@ Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/bl
 | 2026-07-12 | Software Engineer, Android | PhonePe | [apply ↗](https://job-boards.greenhouse.io/phonepe/jobs/7799494003) | `python track.py applied 7799494003` |
 | 2026-07-12 | Software Engineer (Fullstack, frontend-heavy), Integrations | Postman | [apply ↗](https://job-boards.greenhouse.io/postman/jobs/7799606003) | `python track.py applied 7799606003` |
 | 2026-07-12 | Software Engineer – Back End | Zomato | [apply ↗](https://jobs.smartrecruiters.com/Zomato1/104244178) | `python track.py applied 104244178` |
+| 2026-07-12 | Core Software Engineer (C++) - Remote | ClickHouse | [apply ↗](https://job-boards.greenhouse.io/clickhouse/jobs/5755091004) | `python track.py applied 5755091004` |
+| 2026-07-12 | Core Software Engineer (C++) - Remote | ClickHouse | [apply ↗](https://job-boards.greenhouse.io/clickhouse/jobs/5755090004) | `python track.py applied 5755090004` |
+| 2026-07-12 | Core Software Engineer (C++) - Remote | ClickHouse | [apply ↗](https://job-boards.greenhouse.io/clickhouse/jobs/5755092004) | `python track.py applied 5755092004` |
+| 2026-07-12 | Core Software Engineer (C++) - Remote | ClickHouse | [apply ↗](https://job-boards.greenhouse.io/clickhouse/jobs/5755093004) | `python track.py applied 5755093004` |
+| 2026-07-12 | Core Software Engineer (C++) - Remote | ClickHouse | [apply ↗](https://job-boards.greenhouse.io/clickhouse/jobs/5767816004) | `python track.py applied 5767816004` |
 
 ## 🚀 In progress (0)
 

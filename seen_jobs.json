@@ -1,6 +1,27 @@
 {
 "_v": 2,
-"extra": {},
+"extra": {
+"tg:Fresherjobsadda:4841": "2026-07-12T12:26:43+00:00",
+"tg:Fresherjobsadda:4843": "2026-07-12T12:26:43+00:00",
+"tg:Fresherjobsadda:4850": "2026-07-12T12:26:43+00:00",
+"tg:freshershunt:29043": "2026-07-12T12:26:43+00:00",
+"tg:freshershunt:29045": "2026-07-12T12:26:43+00:00",
+"tg:freshershunt:29048": "2026-07-12T12:26:43+00:00",
+"tg:freshershunt:29049": "2026-07-12T12:26:43+00:00",
+"tg:freshershunt:29051": "2026-07-12T12:26:43+00:00",
+"tg:freshershunt:29053": "2026-07-12T12:26:43+00:00",
+"tg:freshershunt:29058": "2026-07-12T12:26:43+00:00",
+"tg:offcampusjobs4u:20469": "2026-07-12T12:26:43+00:00",
+"tg:offcampusjobsindia_IT:2548": "2026-07-12T12:26:43+00:00",
+"tg:offcampusjobsindia_IT:2551": "2026-07-12T12:26:43+00:00",
+"tg:offcampusjobsindia_IT:2557": "2026-07-12T12:26:43+00:00",
+"tg:offcampusjobsindia_IT:2560": "2026-07-12T12:26:43+00:00",
+"tg:offcampusjobsindia_IT:2563": "2026-07-12T12:26:43+00:00",
+"tg:offcampusjobsindia_IT:2564": "2026-07-12T12:26:43+00:00",
+"tg:offcampusjobsindia_IT:2565": "2026-07-12T12:26:43+00:00",
+"tg:offcampusjobsindia_IT:2566": "2026-07-12T12:26:43+00:00",
+"tg:offcampusjobsindia_IT:2567": "2026-07-12T12:26:43+00:00"
+},
 "jobs": {
 "https://apply.careers.microsoft.com/careers/job/1970393556864900": {
 "first": "2026-07-12T09:19:35+00:00",
@@ -17,6 +38,74 @@
 "https://careers-apac-atlassian.icims.com/jobs/25693/principle-software-engineer---search-and-data/job": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "atlassian|principle software engineer search and data"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5395374004": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "clickhouse|full stack software engineer billing team"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5584382004": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "clickhouse|full stack software engineer billing team"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5584386004": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "clickhouse|full stack software engineer billing team"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5587664004": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "clickhouse|full stack software engineer control plane"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5587665004": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "clickhouse|full stack software engineer control plane"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5587666004": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "clickhouse|full stack software engineer control plane"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5658009004": {
+"first": "2026-07-12T12:26:42+00:00",
+"sig": "clickhouse|cloud software engineer observability platform"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5686805004": {
+"first": "2026-07-12T12:26:42+00:00",
+"sig": "clickhouse|cloud software engineer observability platform"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5755090004": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "clickhouse|core software engineer c remote"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5755091004": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "clickhouse|core software engineer c remote"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5755092004": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "clickhouse|core software engineer c remote"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5755093004": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "clickhouse|core software engineer c remote"
+},
+"https://job-boards.greenhouse.io/clickhouse/jobs/5767816004": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "clickhouse|core software engineer c remote"
+},
+"https://job-boards.greenhouse.io/gleanwork/jobs/4006731005": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "glean|software engineer backend"
+},
+"https://job-boards.greenhouse.io/gleanwork/jobs/4012745005": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "glean|software engineer machine learning"
+},
+"https://job-boards.greenhouse.io/gleanwork/jobs/4712438005": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "glean|software engineer evals"
+},
+"https://job-boards.greenhouse.io/gleanwork/jobs/4712442005": {
+"first": "2026-07-12T12:26:43+00:00",
+"sig": "glean|software engineer agents"
 },
 "https://job-boards.greenhouse.io/phonepe/jobs/7680147003": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -45,6 +134,10 @@
 "https://job-boards.greenhouse.io/razorpaysoftwareprivatelimited/jobs/4712960005": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "razorpay|full stack builder"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000137147075": {
+"first": "2026-07-12T12:26:42+00:00",
+"sig": "bosch|full stack angular c"
 },
 "https://jobs.smartrecruiters.com/Zomato1/104244178": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -160,6 +253,15 @@
 "amazon|software development engineer your orders federation platform": "2026-07-12T06:29:34+00:00",
 "atlassian|principle software engineer search and data": "2026-07-12T06:29:34+00:00",
 "atlassian|software engineer": "2026-07-12T06:29:34+00:00",
+"bosch|full stack angular c": "2026-07-12T12:26:42+00:00",
+"clickhouse|cloud software engineer observability platform": "2026-07-12T12:26:42+00:00",
+"clickhouse|core software engineer c remote": "2026-07-12T12:26:43+00:00",
+"clickhouse|full stack software engineer billing team": "2026-07-12T12:26:43+00:00",
+"clickhouse|full stack software engineer control plane": "2026-07-12T12:26:43+00:00",
+"glean|software engineer agents": "2026-07-12T12:26:43+00:00",
+"glean|software engineer backend": "2026-07-12T12:26:43+00:00",
+"glean|software engineer evals": "2026-07-12T12:26:43+00:00",
+"glean|software engineer machine learning": "2026-07-12T12:26:43+00:00",
 "google|embedded software engineer kernel drivers and systems engineering": "2026-07-12T06:29:34+00:00",
 "google|software engineer engprod google one and google photos": "2026-07-12T06:29:34+00:00",
 "google|software engineer firmware": "2026-07-12T06:29:34+00:00",
