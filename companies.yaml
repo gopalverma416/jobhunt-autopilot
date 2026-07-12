@@ -44,7 +44,7 @@ filters:
     - '\bsenior\b'
     - '\bsr\.?\b'
     - '(?<!technical )\bstaff\b'   # blocks "Staff Engineer", allows "Member of Technical Staff"
-    - '\bprincipal\b'
+    - '\bprincipa?le?\b'           # principal + the common "principle" typo
     - '\blead\b'
     - '\bmanager\b'
     - '\barchitect\b'
