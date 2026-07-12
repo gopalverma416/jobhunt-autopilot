@@ -14,7 +14,7 @@ def fetch(cfg, settings):
     data = get_json(url, settings["request_timeout"])
     out = []
     for j in data.get("jobs", []):
-        out.append(job(
+        o = job(
             source="amazon",
             company=cfg["name"],
             jid=j.get("id_icims") or j.get("id", ""),
@@ -22,5 +22,10 @@ def fetch(cfg, settings):
             location=j.get("normalized_location") or j.get("location", ""),
             url="https://www.amazon.jobs" + j.get("job_path", ""),
             posted_at=j.get("posted_date", ""),
-        ))
+        )
+        # JD comes free in the list response - attach for the JD filter (v2).
+        # basic_qualifications carries the "N+ years" lines we care about.
+        o["_jd"] = ((j.get("description") or "") + " "
+                    + (j.get("basic_qualifications") or "")).strip()
+        out.append(o)
     return out

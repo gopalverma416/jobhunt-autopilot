@@ -13,7 +13,7 @@ def fetch(cfg, settings):
     out = []
     for j in data:
         portal = j.get("portalJobPost") or {}
-        out.append(job(
+        o = job(
             source="atlassian",
             company=cfg["name"],
             jid=j.get("id", ""),
@@ -21,5 +21,7 @@ def fetch(cfg, settings):
             location="; ".join(j.get("locations") or []),
             url=portal.get("portalUrl", "https://www.atlassian.com/company/careers/all-jobs"),
             posted_at="",  # only "updatedDate" is exposed; not a posting date
-        ))
+        )
+        o["_jd"] = j.get("overview", "")  # JD text for the v2 filter
+        out.append(o)
     return out

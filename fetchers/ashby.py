@@ -12,7 +12,7 @@ def fetch(cfg, settings):
     data = get_json(url, settings["request_timeout"])
     out = []
     for j in data.get("jobs", []):
-        out.append(job(
+        o = job(
             source=f"ashby:{slug}",
             company=cfg["name"],
             jid=j.get("id", j.get("jobUrl", "")),
@@ -20,5 +20,7 @@ def fetch(cfg, settings):
             location=j.get("location", ""),
             url=j.get("jobUrl") or j.get("applyUrl", ""),
             posted_at=(j.get("publishedAt") or "")[:10],
-        ))
+        )
+        o["_jd"] = j.get("descriptionHtml") or j.get("descriptionPlain", "")
+        out.append(o)
     return out

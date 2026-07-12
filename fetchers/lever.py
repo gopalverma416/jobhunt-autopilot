@@ -19,7 +19,7 @@ def fetch(cfg, settings):
         posted = ""
         if created:
             posted = datetime.fromtimestamp(created / 1000, tz=timezone.utc).date().isoformat()
-        out.append(job(
+        o = job(
             source=f"lever:{slug}",
             company=cfg["name"],
             jid=j["id"],
@@ -27,5 +27,9 @@ def fetch(cfg, settings):
             location=loc,
             url=j.get("hostedUrl", ""),
             posted_at=posted,
-        ))
+        )
+        # JD comes free in the list response - attach for the JD filter (v2)
+        lists_txt = " ".join(l.get("content", "") for l in j.get("lists", []))
+        o["_jd"] = (j.get("descriptionPlain", "") + " " + lists_txt).strip()
+        out.append(o)
     return out
