@@ -1,0 +1,3 @@
+name,company,role,linkedin_url,relationship,source,school_link,last_contact_date,last_context,followup_due,notes
+DUMMY Krishna Acharya,PhonePe,SDE-2,https://www.linkedin.com/in/dummy-krishna,warm,alumni,MANIT,2026-06-20,agreed to refer,2026-06-25,DEMO ROW - replace with a real contact via contact.py
+DUMMY Priya S,Amazon,Technical Recruiter,https://www.linkedin.com/in/dummy-priya,cold,recruiter,other,,,,DEMO ROW - replace with a real contact via contact.py
