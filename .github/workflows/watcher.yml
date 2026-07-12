@@ -45,6 +45,7 @@ jobs:
         run: |
           git config user.name "jobhunt-bot"
           git config user.email "jobhunt-bot@users.noreply.github.com"
+          git add seen_jobs.json tracker.csv rejected_log.csv DASHBOARD.md 2>/dev/null || true
           git add seen_jobs.json tracker.csv
           if git diff --cached --quiet; then
             echo "no state changes"
