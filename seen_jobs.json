@@ -16,6 +16,8 @@
 "tg:freshershunt:29066": "2026-07-12T17:28:23+00:00",
 "tg:freshershunt:29068": "2026-07-12T17:51:12+00:00",
 "tg:freshershunt:29080": "2026-07-13T15:15:06+00:00",
+"tg:freshershunt:29081": "2026-07-13T17:25:25+00:00",
+"tg:freshershunt:29082": "2026-07-13T17:25:25+00:00",
 "tg:offcampusjobs4u:20469": "2026-07-12T12:26:43+00:00",
 "tg:offcampusjobsindia_IT:2548": "2026-07-12T12:26:43+00:00",
 "tg:offcampusjobsindia_IT:2551": "2026-07-12T12:26:43+00:00",
@@ -246,6 +248,14 @@
 "first": "2026-07-13T11:32:15+00:00",
 "sig": "amazon|software development engineer i amazon payments"
 },
+"https://www.amazon.jobs/en/jobs/10472842/software-development-engineer-alexa-audio-alexa-audio": {
+"first": "2026-07-13T17:25:25+00:00",
+"sig": "amazon|software development engineer alexa audio alexa audio"
+},
+"https://www.amazon.jobs/en/jobs/10472896/amazon-fulfilment-tech-software-development-engineer-aft-inventory": {
+"first": "2026-07-13T17:25:25+00:00",
+"sig": "amazon|amazon fulfilment tech software development engineer aft inventory"
+},
 "https://www.google.com/about/careers/applications/jobs/results/107018346561446598-software-engineer-phd-early-career-2026": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "google|software engineer phd early career"
@@ -276,7 +286,9 @@
 }
 },
 "sigs": {
+"amazon|amazon fulfilment tech software development engineer aft inventory": "2026-07-13T17:25:25+00:00",
 "amazon|software dev engineer i": "2026-07-12T06:29:34+00:00",
+"amazon|software development engineer alexa audio alexa audio": "2026-07-13T17:25:25+00:00",
 "amazon|software development engineer am tools iss": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer amazon external payments": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer amazon opensearch service diy observability": "2026-07-12T06:29:34+00:00",
