@@ -5,6 +5,7 @@
 "tg:Fresherjobsadda:4843": "2026-07-12T12:26:43+00:00",
 "tg:Fresherjobsadda:4850": "2026-07-12T12:26:43+00:00",
 "tg:Fresherjobsadda:4859": "2026-07-12T17:28:23+00:00",
+"tg:Fresherjobsadda:4861": "2026-07-13T10:18:54+00:00",
 "tg:freshershunt:29043": "2026-07-12T12:26:43+00:00",
 "tg:freshershunt:29045": "2026-07-12T12:26:43+00:00",
 "tg:freshershunt:29048": "2026-07-12T12:26:43+00:00",
@@ -23,7 +24,9 @@
 "tg:offcampusjobsindia_IT:2564": "2026-07-12T12:26:43+00:00",
 "tg:offcampusjobsindia_IT:2565": "2026-07-12T12:26:43+00:00",
 "tg:offcampusjobsindia_IT:2566": "2026-07-12T12:26:43+00:00",
-"tg:offcampusjobsindia_IT:2567": "2026-07-12T12:26:43+00:00"
+"tg:offcampusjobsindia_IT:2567": "2026-07-12T12:26:43+00:00",
+"tg:offcampusjobsindia_IT:2571": "2026-07-13T10:18:54+00:00",
+"tg:offcampusjobsindia_IT:2573": "2026-07-13T10:18:54+00:00"
 },
 "jobs": {
 "https://apply.careers.microsoft.com/careers/job/1970393556864900": {
@@ -149,6 +152,10 @@
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Software-Engineering-SMTS---MTS----Platform-Engineering--Backend--Kubernetes---Cloud-_JR347341": {
 "first": "2026-07-13T07:37:11+00:00",
 "sig": "salesforce|software engineering smts mts platform engineering distributed systems infrastructure"
+},
+"https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Performance-Engineer--MTS-SMTS-_JR312773": {
+"first": "2026-07-13T10:18:54+00:00",
+"sig": "salesforce|performance engineer mts"
 },
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/SMTS--Senior-Software-Backend-Engineer_JR312327": {
 "first": "2026-07-13T07:37:11+00:00",
@@ -287,6 +294,7 @@
 "postman|software engineer fullstack frontend heavy integrations": "2026-07-12T06:29:34+00:00",
 "razorpay|full stack builder": "2026-07-12T06:29:34+00:00",
 "salesforce|mts smts lmts software engineer": "2026-07-13T07:37:11+00:00",
+"salesforce|performance engineer mts": "2026-07-13T10:18:54+00:00",
 "salesforce|software engineering smts mts platform engineering distributed systems infrastructure": "2026-07-13T07:37:11+00:00",
 "zomato|software engineer back end": "2026-07-12T06:29:34+00:00"
 }
