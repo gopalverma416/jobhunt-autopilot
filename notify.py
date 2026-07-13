@@ -76,37 +76,43 @@ def format_channel_alert(msg):
 
 
 def send_telegram(text, dry_run=False):
-    """Send one message; never raises. Splits messages over 4096 chars."""
+    """Send one message to every configured chat_id; never raises.
+    Splits messages over 4096 chars. TELEGRAM_CHAT_ID can be a single id
+    or a comma-separated list (e.g. '1688047074,6845322260')."""
     if dry_run:
         print("---- DRY RUN (not sent) ----")
         print(text)
         print("----------------------------")
         return True
     token = os.environ.get("TELEGRAM_BOT_TOKEN")
-    chat_id = os.environ.get("TELEGRAM_CHAT_ID")
-    if not token or not chat_id:
+    chat_id_raw = os.environ.get("TELEGRAM_CHAT_ID")
+    if not token or not chat_id_raw:
         print("WARN: TELEGRAM_BOT_TOKEN / TELEGRAM_CHAT_ID not set; printing instead.")
         print(text)
         return False
+
+    chat_ids = [c.strip() for c in chat_id_raw.split(",") if c.strip()]
     ok = True
     chunks = [text[i:i + 4000] for i in range(0, len(text), 4000)] or [""]
-    for chunk in chunks:
-        try:
-            r = requests.post(
-                f"https://api.telegram.org/bot{token}/sendMessage",
-                json={"chat_id": chat_id, "text": chunk,
-                      "disable_web_page_preview": True},
-                timeout=10)
-            if r.status_code == 429:
-                wait = r.json().get("parameters", {}).get("retry_after", 3)
-                time.sleep(min(wait, 10))
+
+    for chat_id in chat_ids:
+        for chunk in chunks:
+            try:
                 r = requests.post(
                     f"https://api.telegram.org/bot{token}/sendMessage",
                     json={"chat_id": chat_id, "text": chunk,
                           "disable_web_page_preview": True},
                     timeout=10)
-            r.raise_for_status()
-        except Exception as e:  # noqa: BLE001
-            print(f"WARN: telegram send failed: {e}")
-            ok = False
+                if r.status_code == 429:
+                    wait = r.json().get("parameters", {}).get("retry_after", 3)
+                    time.sleep(min(wait, 10))
+                    r = requests.post(
+                        f"https://api.telegram.org/bot{token}/sendMessage",
+                        json={"chat_id": chat_id, "text": chunk,
+                              "disable_web_page_preview": True},
+                        timeout=10)
+                r.raise_for_status()
+            except Exception as e:  # noqa: BLE001
+                print(f"WARN: telegram send failed for {chat_id}: {e}")
+                ok = False
     return ok
