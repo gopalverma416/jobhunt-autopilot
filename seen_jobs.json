@@ -287,6 +287,10 @@
 "https://www.google.com/about/careers/applications/jobs/results/95785531123606214-software-engineer-persistent-disk-phd-early-career-2026": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "google|software engineer persistent disk phd early career"
+},
+"https://www.rubrik.com/company/careers/departments/job.8050714?gh_jid=8050714": {
+"first": "2026-07-14T06:28:46+00:00",
+"sig": "rubrik|software engineer hypervisor"
 }
 },
 "sigs": {
@@ -335,6 +339,7 @@
 "phonepe|software engineer sre rust": "2026-07-12T06:29:34+00:00",
 "postman|software engineer fullstack frontend heavy integrations": "2026-07-12T06:29:34+00:00",
 "razorpay|full stack builder": "2026-07-12T06:29:34+00:00",
+"rubrik|software engineer hypervisor": "2026-07-14T06:28:46+00:00",
 "salesforce|mts smts lmts software engineer": "2026-07-13T07:37:11+00:00",
 "salesforce|performance engineer mts": "2026-07-13T10:18:54+00:00",
 "salesforce|software engineering smts mts platform engineering distributed systems infrastructure": "2026-07-13T07:37:11+00:00",
