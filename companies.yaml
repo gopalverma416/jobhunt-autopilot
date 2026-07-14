@@ -115,23 +115,24 @@ filters:
       - '\b0\s*(?:-|–|to)\s*[12]\s*years?\b'
       - '\bcampus\b'
 
-# ---- Telegram job channels (Feature 3) ----
-# Public channels polled via https://t.me/s/<name> (no account needed).
-# The run log prints "CHAN <name>: N msgs" per channel, or a warning if a
-# channel has web previews disabled (those can't be polled - swap them out).
-telegram_channels:
-  - offcampusjobsindia_IT
-  - Fresherjobsadda
-  - offcampusjobs4u
-  - offcampusjobsindia
-  - freshersnowjobs
-  - freshers_job_openings
-  - freshershunt
-  - jobsforfreshers
-  - softwarejobsindia
-  - placementdrive
-  - engineeringjobs
-  - techjobsindia
+# ---- Telegram job channels (Feature 3) - DORMANT as of 2026-07-14 ----
+# GitHub Actions runners currently CANNOT resolve t.me (DNS blocked), so
+# t.me/s/ polling fails there. Disabled to avoid 12 failed fetches per run.
+# The code + parser still work; if t.me becomes reachable from Actions again,
+# just un-comment the list below to re-enable. (Channels unverified.)
+telegram_channels: []
+#  - offcampusjobsindia_IT
+#  - Fresherjobsadda
+#  - offcampusjobs4u
+#  - offcampusjobsindia
+#  - freshersnowjobs
+#  - freshers_job_openings
+#  - freshershunt
+#  - jobsforfreshers
+#  - softwarejobsindia
+#  - placementdrive
+#  - engineeringjobs
+#  - techjobsindia
 
 # A channel message is forwarded only if it contains BOTH a role keyword
 # (filters.include_titles above) AND one of these fresher signals.
@@ -191,10 +192,12 @@ companies:
   # --- Workday CXS (verified tenant/site + wd number) ---
   - {name: Adobe,               ats: workday, tenant: adobe,      wd: 5,  site: external_experienced, type: product}
   - {name: Salesforce,          ats: workday, tenant: salesforce, wd: 12, site: External_Career_Site, type: product}
-  - {name: Qualcomm,            ats: workday, tenant: qualcomm,   wd: 5,  site: External, type: semiconductor}
   - {name: Mastercard,          ats: workday, tenant: mastercard, wd: 1,  site: CorporateCareers, type: fintech}
-  - {name: Walmart Global Tech, ats: workday, tenant: walmart,    wd: 5,  site: WalmartExternal, type: product}
   - {name: Sprinklr,            ats: workday, tenant: sprinklr,   wd: 1,  site: careers, type: product}
+  # RETIRED 2026-07-14 - endpoints drifted (Qualcomm 422, Walmart 410 Gone).
+  # Re-inspect their careers pages for the new tenant/site before re-adding.
+  # - {name: Qualcomm, ats: workday, tenant: qualcomm, wd: 5, site: External, type: semiconductor}
+  # - {name: Walmart Global Tech, ats: workday, tenant: walmart, wd: 5, site: WalmartExternal, type: product}
   - {name: NVIDIA,              ats: workday, tenant: nvidia,     wd: 5,  site: NVIDIAExternalCareerSite, type: semiconductor}  # was wd:2 (wrong)
   - {name: Intel,               ats: workday, tenant: intel,      wd: 1,  site: External, type: semiconductor}  # verified 2026-07-14 (POST 200)
 
@@ -203,6 +206,15 @@ companies:
   - {name: Microsoft, ats: microsoft, type: product}
   - {name: Atlassian, ats: atlassian, type: product}
   - {name: Google,    ats: google_html, type: product}
+
+  # --- Aggregators (Feature 1C) - multi-company feeds, verified 2026-07-14 ---
+  # Adzuna India: HIGH India relevance. Needs a FREE key - get one at
+  #   https://developer.adzuna.com/ and add secrets ADZUNA_APP_ID + ADZUNA_APP_KEY.
+  #   Skipped silently until the keys exist.
+  - {name: "Adzuna India", ats: aggregator, feed: adzuna, type: aggregator}
+  # RemoteOK: no key, all-remote roles (global). Free bonus; noisier/senior-ish
+  #   but the JD + Gemini filters trim it.
+  - {name: "RemoteOK", ats: aggregator, feed: remoteok, type: aggregator}
 
   # REMOVED (dead board / 404 on 2026-07-12): Cohere, BrowserStack, Flock,
   #   Whatfix, Rippling, Harness, PostHog.
