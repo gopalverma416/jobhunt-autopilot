@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-14 14:13 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-14 17:34 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (58)
+## 🎯 To apply (59)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -61,6 +61,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-14 | Backend Engineer (EST timezone) | Posthog | [apply ↗](https://jobs.ashbyhq.com/posthog/af00b414-fdb3-41b5-8843-828b4a0e373a) | `python track.py applied af00b414-fdb3-41b5-8843-82` |
 | — | 2026-07-14 | Software Engineer - Java | Saviynt | [apply ↗](https://jobs.lever.co/saviynt/cafdcb41-e50f-43ba-a2f7-c85622adaf75) | `python track.py applied cafdcb41-e50f-43ba-a2f7-c8` |
 | — | 2026-07-14 | Software Engineer, Release Engineering | Zapier | [apply ↗](https://jobs.ashbyhq.com/zapier/6948a0e6-a580-4e9d-b109-20652d9a1507) | `python track.py applied 6948a0e6-a580-4e9d-b109-20` |
+| — | 2026-07-14 | C++ Software Engineer | Pratiti Technologies Pvt. Ltd. | [apply ↗](https://www.adzuna.in/details/5800146133?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800146133?utm_medium=api&` |
 | — | 2026-07-13 | MTS/SMTS/LMTS - Software Engineer | Salesforce | [apply ↗](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/SMTS--Senior-Software-Backend-Engineer_JR312327) | `python track.py applied SMTS--Senior-Software-Back` |
 | — | 2026-07-13 | Software Development Engineer I, Amazon Payments | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10472171/software-development-engineer-i-amazon-payments) | `python track.py applied software-development-engin` |
 | — | 2026-07-13 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556925493) | `python track.py applied 1970393556925493` |
