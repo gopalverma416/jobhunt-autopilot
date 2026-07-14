@@ -1,17 +1,17 @@
-# Hourly job watcher.
-# Cron minute 17 (not :00) = "jitter": GitHub's queues are least congested
-# off the hour, so delays are smaller. GitHub cron can still lag 10-30 min
-# at peak - that's fine for our ~1-2h detection target.
+# Job watcher - runs every 4 hours (quality over speed, by design).
+# Minute 17 (not :00) = "jitter": GitHub's queues are least congested off the
+# hour, so delays are smaller. GitHub cron can still lag 10-30 min at peak.
 #
 # Budget maths: private repos get 2,000 free minutes/month.
-# 24 runs/day x ~1 min x 31 days ≈ 745 min/month. Do NOT go beyond hourly.
-# The state commit each run also keeps the repo "active", so GitHub's
+# 6 runs/day x ~2 min x 31 days ≈ 370 min/month - tons of headroom, which lets
+# each run do heavier quality work (score every job, deeper JD checks, more
+# sources). The per-run state commit keeps the repo "active" so GitHub's
 # 60-day auto-disable of scheduled workflows never kicks in.
 name: watcher
 
 on:
   schedule:
-    - cron: "17 * * * *"
+    - cron: "17 */4 * * *"   # 01:17, 05:17, 09:17, 13:17, 17:17, 21:17 UTC
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
 permissions:
