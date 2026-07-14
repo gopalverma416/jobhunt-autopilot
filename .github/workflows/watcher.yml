@@ -39,6 +39,10 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          # Optional - features stay off (skipped silently) if the secret is unset:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}   # enables LLM match scoring
+          ADZUNA_APP_ID: ${{ secrets.ADZUNA_APP_ID }}     # enables Adzuna India aggregator
+          ADZUNA_APP_KEY: ${{ secrets.ADZUNA_APP_KEY }}
         run: python watcher.py
 
       - name: Commit state (dedupe + tracker)
