@@ -77,12 +77,17 @@ def fetch_jd(job, company_cfg, settings):
 UPTO_RE = re.compile(r"\bup\s*to\s*\d{1,2}\s*(?:years?|yrs?)\b")
 # "2-4 years", "0 to 1 year", "8 to 12 or more years"
 RANGE_RE = re.compile(r"(\d{1,2})\s*(?:-|–|—|to)\s*(\d{1,2})\s*(?:\+|or more)?\s*(?:years?|yrs?)\b")
-# "minimum of 3 years", "at least 4 yrs"
-MIN_RE = re.compile(r"(?:minimum(?:\s+of)?|at\s*least)\s*(\d{1,2})\s*\+?\s*(?:years?|yrs?)\b")
+# "minimum of 3 years", "at least 4 yrs", "requires 4 years"
+MIN_RE = re.compile(r"(?:minimum(?:\s+of)?|at\s*least|require[sd]?\s*(?:of\s*)?)\s*(\d{1,2})\s*\+?\s*(?:years?|yrs?)\b")
 # "3+ years"
 PLUS_RE = re.compile(r"(\d{1,2})\s*\+\s*(?:years?|yrs?)\b")
-# "5 years of professional ... experience"
-BARE_RE = re.compile(r"(\d{1,2})\s*(?:years?|yrs?)\s+of\s+(?:[\w-]+\s+){0,4}?experience\b")
+# "more than 4 years", "over 4 years"
+MORE_RE = re.compile(r"(?:more\s*than|over)\s*(\d{1,2})\s*(?:years?|yrs?)\b")
+# "5 years of experience", "4 years experience", "4 years' relevant experience"
+# ("of" now OPTIONAL so bare "N years experience" is caught).
+BARE_RE = re.compile(r"(\d{1,2})\s*(?:years?|yrs?)['’]?\s+(?:of\s+)?(?:[\w-]+\s+){0,4}?experience\b")
+# reverse order: "experience of 4 years", "experience: 4+ years", "experience 4 yrs"
+EXPREV_RE = re.compile(r"experience\s*(?:of|:|-|–|in)?\s*(?:at\s*least\s*)?(\d{1,2})\s*\+?\s*(?:years?|yrs?)\b")
 
 
 def analyze_jd(text, jdcfg):
@@ -109,7 +114,7 @@ def analyze_jd(text, jdcfg):
             bump(1, f"{lo}-{hi} yrs")
     t = RANGE_RE.sub(" ", t)
 
-    for rx in (MIN_RE, PLUS_RE, BARE_RE):
+    for rx in (MIN_RE, PLUS_RE, MORE_RE, BARE_RE, EXPREV_RE):
         for m in rx.finditer(t):
             n = int(m.group(1))
             if n >= jdcfg.get("hard_reject_years", 3):
