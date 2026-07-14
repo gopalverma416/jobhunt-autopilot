@@ -12,7 +12,8 @@ from filters import JobFilter  # noqa: E402
 from jd import analyze_jd, strip_html  # noqa: E402
 from notify import format_channel_alert, format_job_alert  # noqa: E402
 from state import norm_sig  # noqa: E402
-from tg_channels import BLOCK_RE, TEXT_RE, build_matcher  # noqa: E402
+from tg_channels import (BLOCK_RE, TEXT_RE, build_matcher,  # noqa: E402
+                         extract_apply_link)
 from contacts_db import set_contacted  # noqa: E402
 
 cfg = yaml.safe_load(open(Path(__file__).parent.parent / "companies.yaml",
@@ -174,6 +175,19 @@ alert = format_channel_alert({"channel": "jobchan", "msg_id": "101",
                               "text": parsed[0][2]})
 check(alert.startswith("\U0001F4E3 CHANNEL") and "t.me/jobchan/101" in alert,
       "channel alert has 📣 tag + original message link")
+
+# apply-link extraction: prefer ATS/careers link, skip social/self-promo
+block_links = ('<a href="https://t.me/chan">join</a> apply '
+               '<a href="https://boards.greenhouse.io/acme/jobs/9">here</a> '
+               '<a href="https://youtube.com/x">yt</a>')
+check(extract_apply_link(block_links) == "https://boards.greenhouse.io/acme/jobs/9",
+      "apply-link extraction picks the ATS link over social/self-promo")
+check(extract_apply_link('<a href="https://t.me/onlyself">x</a>') == "",
+      "no apply link when only social/self-promo links present")
+al = format_channel_alert({"channel": "c", "msg_id": "5", "text": "SDE-1 fresher",
+                           "apply_url": "https://x.com/apply"})
+check("🟢 Apply: https://x.com/apply" in al,
+      "channel alert surfaces the extracted apply link")
 
 print(f"\n{'ALL TESTS PASSED' if FAILS == 0 else str(FAILS) + ' FAILURES'}")
 sys.exit(1 if FAILS else 0)
