@@ -186,6 +186,7 @@ companies:
   - {name: Visa,   ats: smartrecruiters, slug: Visa, type: fintech}
   - {name: Bosch,  ats: smartrecruiters, slug: BoschGroup, type: product}
   - {name: Ubisoft, ats: smartrecruiters, slug: Ubisoft2, type: gaming}
+  - {name: ServiceNow, ats: smartrecruiters, slug: ServiceNow, type: product}  # verified 2026-07-14, 419 postings incl. Bangalore
 
   # --- Workday CXS (verified tenant/site + wd number) ---
   - {name: Adobe,               ats: workday, tenant: adobe,      wd: 5,  site: external_experienced, type: product}
@@ -195,6 +196,7 @@ companies:
   - {name: Walmart Global Tech, ats: workday, tenant: walmart,    wd: 5,  site: WalmartExternal, type: product}
   - {name: Sprinklr,            ats: workday, tenant: sprinklr,   wd: 1,  site: careers, type: product}
   - {name: NVIDIA,              ats: workday, tenant: nvidia,     wd: 5,  site: NVIDIAExternalCareerSite, type: semiconductor}  # was wd:2 (wrong)
+  - {name: Intel,               ats: workday, tenant: intel,      wd: 1,  site: External, type: semiconductor}  # verified 2026-07-14 (POST 200)
 
   # --- Company-specific fetchers (verified) ---
   - {name: Amazon,    ats: amazon, type: product}
