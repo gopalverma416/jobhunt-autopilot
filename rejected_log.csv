@@ -52,3 +52,73 @@ date,company,title,job_url,reason
 2026-07-14,Amazon,"Software Development Engineer, Aurora MySQL",https://www.amazon.jobs/en/jobs/10466672/software-development-engineer-aurora-mysql,requires 3+ years
 2026-07-14,NVIDIA,"Software Engineer, Production Engineering",https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1,requires 5+ years
 2026-07-14,Google,Software Engineer Full Stack Google Cloud,https://www.google.com/about/careers/applications/jobs/results/88630606946017990-software-engineer-full-stack-google-cloud,backfill: requires 8+ years
+2026-07-14,Airbnb,"Android Software Engineer, Quality Platform",https://careers.airbnb.com/positions/7744247?gh_jid=7744247,requires 3+ years
+2026-07-14,Anthropic,"IT Systems Engineer, Client Platform Engineer",https://job-boards.greenhouse.io/anthropic/jobs/5255853008,requires 8+ years
+2026-07-14,Benchling,"Software Engineer, Platform (Developer Experience)",https://jobs.ashbyhq.com/benchling/51347ceb-0e30-4bd9-9fba-8d23f02d288f,requires 7+ years
+2026-07-14,Cloudflare,"Distributed Systems Engineer, Analytical Database Platform",https://boards.greenhouse.io/cloudflare/jobs/7462799?gh_jid=7462799,requires 3+ years
+2026-07-14,Cloudflare,Distributed Systems Engineer - Data Platform - Analytics and Alerts,https://boards.greenhouse.io/cloudflare/jobs/7462803?gh_jid=7462803,requires 3+ years
+2026-07-14,Cloudflare,"Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)",https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801,requires 3+ years
+2026-07-14,Cloudflare,Distributed Systems Engineer - Data Platform - Logs and Audit Logs,https://boards.greenhouse.io/cloudflare/jobs/7462802?gh_jid=7462802,requires 3+ years
+2026-07-14,Cloudflare,Full Stack Engineer - Internal Audit,https://boards.greenhouse.io/cloudflare/jobs/8014902?gh_jid=8014902,requires 5+ years
+2026-07-14,Cloudflare,"Threat Intelligence Software Engineer, Cloudforce One",https://boards.greenhouse.io/cloudflare/jobs/7309174?gh_jid=7309174,requires 5+ years
+2026-07-14,Cockroachlabs,Member of Technical Staff (Test Engineering),https://www.cockroachlabs.com/careers/job/?gh_jid=7774966,requires 8+ years
+2026-07-14,Coinbase,"Software Engineer, Enterprise Apps",https://www.coinbase.com/careers/positions/8024814?gh_jid=8024814,requires 5+ years
+2026-07-14,Coinbase,"Software Engineer, Enterprise Apps",https://www.coinbase.com/careers/positions/7958901?gh_jid=7958901,requires 3+ years
+2026-07-14,Coinbase,Software Engineer - Salesforce Platform (EAA),https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048,requires 4+ years
+2026-07-14,Dropbox,"Frontend Product Software Engineer, Design Systems",https://jobs.dropbox.com/listing/7862086?gh_jid=7862086,requires 5+ years
+2026-07-14,Dropbox,Infrastructure Software Engineer,https://jobs.dropbox.com/listing/6330377?gh_jid=6330377,requires 5+ years
+2026-07-14,Dropbox,"Infrastructure Software Engineer, Release Systems",https://jobs.dropbox.com/listing/8031442?gh_jid=8031442,requires 5+ years
+2026-07-14,Hackerrank,Software Development Engineer in Test I,https://job-boards.greenhouse.io/hackerrank/jobs/7510682,requires 3+ years
+2026-07-14,Launchdarkly,"Backend Engineer, Flag Delivery",https://job-boards.greenhouse.io/launchdarkly/jobs/7767461003,requires 5+ years
+2026-07-14,Launchdarkly,"Full Stack Engineer, AgentControl",https://job-boards.greenhouse.io/launchdarkly/jobs/7750116003,requires 5+ years
+2026-07-14,Launchdarkly,"Full Stack Engineer, Experimentation",https://job-boards.greenhouse.io/launchdarkly/jobs/7741981003,requires 4+ years
+2026-07-14,Launchdarkly,"Full Stack Engineer, Foundation",https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003,requires 5+ years
+2026-07-14,Launchdarkly,"Full Stack Engineer, Guardian Monitoring",https://job-boards.greenhouse.io/launchdarkly/jobs/7761616003,requires 5+ years
+2026-07-14,Launchdarkly,"Full Stack Engineer, Observability",https://job-boards.greenhouse.io/launchdarkly/jobs/7750105003,requires 5+ years
+2026-07-14,Launchdarkly,"SDK Software Engineer, AI",https://job-boards.greenhouse.io/launchdarkly/jobs/7647797003,requires 5+ years
+2026-07-14,Mindtickle,Full Stack software Engineer,https://jobs.smartrecruiters.com/mindtickle/80590885,requires 3-6 years
+2026-07-14,Notion,"Software Engineer, Infrastructure",https://jobs.ashbyhq.com/notion/42f18ccd-c4c8-4a85-8c1f-de12c575fe87,requires 4+ years
+2026-07-14,Notion,"Software Engineer, Developer Experience",https://jobs.ashbyhq.com/notion/49bdf081-6e20-4323-8c73-6d6b19544ff5,requires 10+ years
+2026-07-14,Planetscale,Software Engineer - Information Security,https://job-boards.greenhouse.io/planetscale/jobs/4009938009,requires 5+ years
+2026-07-14,Planetscale,Software Engineer - Insights,https://job-boards.greenhouse.io/planetscale/jobs/4107018009,requires 5+ years
+2026-07-14,Planetscale,Software Engineer - Neki Orchestration,https://job-boards.greenhouse.io/planetscale/jobs/4280570009,requires 5+ years
+2026-07-14,Planetscale,Software Engineer - PlanetScale Postgres,https://job-boards.greenhouse.io/planetscale/jobs/4251150009,requires 5+ years
+2026-07-14,Planetscale,Software Engineer - PlanetScale Vitess,https://job-boards.greenhouse.io/planetscale/jobs/4009746009,requires 5+ years
+2026-07-14,Planetscale,Software Engineer - Platform,https://job-boards.greenhouse.io/planetscale/jobs/4036240009,requires 5+ years
+2026-07-14,Planetscale,Software Engineer - Sharded Postgres (Neki),https://job-boards.greenhouse.io/planetscale/jobs/4009936009,requires 5+ years
+2026-07-14,Reddit,"Fullstack Software Engineer, Notifications Lifecycle",https://job-boards.greenhouse.io/reddit/jobs/7895468,requires 3+ years
+2026-07-14,Reddit,"Machine Learning Systems Engineer, Ads ML Platform",https://job-boards.greenhouse.io/reddit/jobs/8022942,requires 3+ years
+2026-07-14,Reddit,"Machine Learning Systems Engineer, Ads ML Platform",https://job-boards.greenhouse.io/reddit/jobs/8022937,requires 3+ years
+2026-07-14,Reddit,Software Engineer,https://job-boards.greenhouse.io/reddit/jobs/6909093,requires 3+ years
+2026-07-14,Reddit,"Software Engineer, Ads",https://job-boards.greenhouse.io/reddit/jobs/6512458,requires 3+ years
+2026-07-14,Reddit,"Software Engineer, Ads",https://job-boards.greenhouse.io/reddit/jobs/6469397,requires 3+ years
+2026-07-14,Render,"Software Engineer, Product (all levels)",https://jobs.ashbyhq.com/render/c7d896f2-20a9-4b44-9f7d-13929a0fe453,requires 6+ years
+2026-07-14,Render,"Software Engineer, Security (all levels)",https://jobs.ashbyhq.com/render/226a1b3b-5937-4880-817b-4beb1f72ecc6,requires 6+ years
+2026-07-14,Render,"Software Engineer, Infrastructure (all levels)",https://jobs.ashbyhq.com/render/d52dc923-1641-4386-b8ba-5c15e1d7028d,requires 5+ years
+2026-07-14,Render,"Software Engineer, Billing (all levels)",https://jobs.ashbyhq.com/render/57a61c00-fa74-402d-89cd-1a1b936e14d5,requires 3+ years
+2026-07-14,Render,"Software Engineer, Growth (all levels)",https://jobs.ashbyhq.com/render/62ea10c7-ad69-444f-9632-dd4b50b8c805,requires 6+ years
+2026-07-14,Render,"Software Engineer, Network Infrastructure",https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3,requires 6+ years
+2026-07-14,Render,"Software Engineer, Compute Infrastructure",https://jobs.ashbyhq.com/render/af5b6699-2e4a-47de-99f7-664baa738190,requires 7+ years
+2026-07-14,Stripe,"Backend Engineer, AI Security",https://stripe.com/jobs/search?gh_jid=7826765,requires 5+ years
+2026-07-14,Stripe,"Fullstack Engineer, Privy",https://stripe.com/jobs/search?gh_jid=7091959,requires 8+ years
+2026-07-14,Stripe,"Software Engineer, Data & AI",https://stripe.com/jobs/search?gh_jid=7529428,requires 4+ years
+2026-07-14,Stripe,"Software Engineer, Internal Systems",https://stripe.com/jobs/search?gh_jid=7543868,requires 8+ years
+2026-07-14,Stripe,"Software Engineer, Security Analytics Infrastructure",https://stripe.com/jobs/search?gh_jid=7826761,requires 5+ years
+2026-07-14,Supabase,Software Engineer - Auth,https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d,requires 4+ years
+2026-07-14,Supabase,Software Engineer: IaC Platform Experience,https://jobs.ashbyhq.com/supabase/b7206c22-979f-444a-809b-e70d9ee23c7f,requires 5+ years
+2026-07-14,Twilio,Software Engineer,https://job-boards.greenhouse.io/twilio/jobs/7605743,requires 3+ years
+2026-07-14,Twilio,Software Engineer,https://job-boards.greenhouse.io/twilio/jobs/7785202,requires 5+ years
+2026-07-14,Twilio,Software Engineer (L3) Data Substrate,https://job-boards.greenhouse.io/twilio/jobs/7954715,requires 5+ years
+2026-07-14,Vercel,"Security Software Engineer, IAM",https://job-boards.greenhouse.io/vercel/jobs/6093255004,requires 7+ years
+2026-07-14,Vercel,"Software Engineer, Agent",https://job-boards.greenhouse.io/vercel/jobs/5704320004,requires 7+ years
+2026-07-14,Vercel,"Software Engineer, AI Gateway",https://job-boards.greenhouse.io/vercel/jobs/5798406004,requires 5+ years
+2026-07-14,Vercel,"Software Engineer, AI SDK",https://job-boards.greenhouse.io/vercel/jobs/5474915004,requires 5+ years
+2026-07-14,Vercel,"Software Engineer, CDN",https://job-boards.greenhouse.io/vercel/jobs/5179639004,requires 5+ years
+2026-07-14,Vercel,"Software Engineer, Compute",https://job-boards.greenhouse.io/vercel/jobs/5551619004,requires 5+ years
+2026-07-14,Vercel,"Software Engineer, Dashboard",https://job-boards.greenhouse.io/vercel/jobs/5808568004,requires 4+ years
+2026-07-14,Vercel,"Software Engineer, Deployment Infrastructure",https://job-boards.greenhouse.io/vercel/jobs/5633880004,requires 6+ years
+2026-07-14,Vercel,"Software Engineer, eve",https://job-boards.greenhouse.io/vercel/jobs/6098390004,requires 5+ years
+2026-07-14,Vercel,"Software Engineer, Growth",https://job-boards.greenhouse.io/vercel/jobs/5613601004,requires 5+ years
+2026-07-14,Vercel,"Software Engineer, Observability",https://job-boards.greenhouse.io/vercel/jobs/5428982004,requires 5+ years
+2026-07-14,Vercel,"Software Engineer, Trust & Safety",https://job-boards.greenhouse.io/vercel/jobs/5788954004,requires 5+ years
+2026-07-14,Vercel,"Software Engineer, Workflows",https://job-boards.greenhouse.io/vercel/jobs/5798416004,requires 5+ years

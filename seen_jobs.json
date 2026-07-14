@@ -48,6 +48,42 @@
 "first": "2026-07-14T12:02:16+00:00",
 "sig": "microsoft|software engineer"
 },
+"https://boards.greenhouse.io/cloudflare/jobs/7309174?gh_jid=7309174": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "cloudflare|threat intelligence software engineer cloudforce one"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/7446310?gh_jid=7446310": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "cloudflare|software engineer network performance reliability"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/7462799?gh_jid=7462799": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "cloudflare|distributed systems engineer analytical database platform"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "cloudflare|distributed systems engineer data platform delivery database retrieval"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/7462802?gh_jid=7462802": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "cloudflare|distributed systems engineer data platform logs and audit logs"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/7462803?gh_jid=7462803": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "cloudflare|distributed systems engineer data platform analytics and alerts"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/7541032?gh_jid=7541032": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "cloudflare|software engineer network platforms"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/7742773?gh_jid=7742773": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "cloudflare|systems engineer maps"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/8014902?gh_jid=8014902": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "cloudflare|full stack engineer internal audit"
+},
 "https://careers-americas.icims.com/jobs/25301/software-engineer/job": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "atlassian|software engineer"
@@ -59,6 +95,22 @@
 "https://careers-apac-atlassian.icims.com/jobs/25693/principle-software-engineer---search-and-data/job": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "atlassian|principle software engineer search and data"
+},
+"https://careers.airbnb.com/positions/7744247?gh_jid=7744247": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "airbnb|android software engineer quality platform"
+},
+"https://careers.airbnb.com/positions/8037090?gh_jid=8037090": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "airbnb|software engineer cloud networking"
+},
+"https://careers.datadoghq.com/detail/7978468/?gh_jid=7978468": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "datadog|technical support engineer"
+},
+"https://job-boards.greenhouse.io/anthropic/jobs/5255853008": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "anthropic|it systems engineer client platform engineer"
 },
 "https://job-boards.greenhouse.io/clickhouse/jobs/5395374004": {
 "first": "2026-07-12T12:26:43+00:00",
@@ -112,6 +164,22 @@
 "first": "2026-07-12T12:26:43+00:00",
 "sig": "clickhouse|core software engineer c remote"
 },
+"https://job-boards.greenhouse.io/gitlab/jobs/8497793002": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "gitlab|intermediate backend engineer c tenant scale git"
+},
+"https://job-boards.greenhouse.io/gitlab/jobs/8615389002": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "gitlab|intermediate backend engineer analytics instrumentation"
+},
+"https://job-boards.greenhouse.io/gitlab/jobs/8620720002": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "gitlab|backend engineer ruby ai engineering agent observability"
+},
+"https://job-boards.greenhouse.io/gitlab/jobs/8623751002": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "gitlab|intermediate fullstack engineer data products"
+},
 "https://job-boards.greenhouse.io/gleanwork/jobs/4006731005": {
 "first": "2026-07-12T12:26:43+00:00",
 "sig": "glean|software engineer backend"
@@ -127,6 +195,42 @@
 "https://job-boards.greenhouse.io/gleanwork/jobs/4712442005": {
 "first": "2026-07-12T12:26:43+00:00",
 "sig": "glean|software engineer agents"
+},
+"https://job-boards.greenhouse.io/hackerrank/jobs/7510682": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "hackerrank|software development engineer in test i"
+},
+"https://job-boards.greenhouse.io/hackerrank/jobs/7606892": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "hackerrank|software development engineer in test i"
+},
+"https://job-boards.greenhouse.io/launchdarkly/jobs/7647797003": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "launchdarkly|sdk software engineer ai"
+},
+"https://job-boards.greenhouse.io/launchdarkly/jobs/7741981003": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "launchdarkly|full stack engineer experimentation"
+},
+"https://job-boards.greenhouse.io/launchdarkly/jobs/7750105003": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "launchdarkly|full stack engineer observability"
+},
+"https://job-boards.greenhouse.io/launchdarkly/jobs/7750116003": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "launchdarkly|full stack engineer agentcontrol"
+},
+"https://job-boards.greenhouse.io/launchdarkly/jobs/7761616003": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "launchdarkly|full stack engineer guardian monitoring"
+},
+"https://job-boards.greenhouse.io/launchdarkly/jobs/7767264003": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "launchdarkly|full stack engineer foundation"
+},
+"https://job-boards.greenhouse.io/launchdarkly/jobs/7767461003": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "launchdarkly|backend engineer flag delivery"
 },
 "https://job-boards.greenhouse.io/phonepe/jobs/7680147003": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -144,6 +248,34 @@
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "phonepe|software engineer android"
 },
+"https://job-boards.greenhouse.io/planetscale/jobs/4009746009": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "planetscale|software engineer planetscale vitess"
+},
+"https://job-boards.greenhouse.io/planetscale/jobs/4009936009": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "planetscale|software engineer sharded postgres neki"
+},
+"https://job-boards.greenhouse.io/planetscale/jobs/4009938009": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "planetscale|software engineer information security"
+},
+"https://job-boards.greenhouse.io/planetscale/jobs/4036240009": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "planetscale|software engineer platform"
+},
+"https://job-boards.greenhouse.io/planetscale/jobs/4107018009": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "planetscale|software engineer insights"
+},
+"https://job-boards.greenhouse.io/planetscale/jobs/4251150009": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "planetscale|software engineer planetscale postgres"
+},
+"https://job-boards.greenhouse.io/planetscale/jobs/4280570009": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "planetscale|software engineer neki orchestration"
+},
 "https://job-boards.greenhouse.io/postman/jobs/7799606003": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "postman|software engineer fullstack frontend heavy integrations"
@@ -156,6 +288,214 @@
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "razorpay|full stack builder"
 },
+"https://job-boards.greenhouse.io/reddit/jobs/6469397": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "reddit|software engineer ads"
+},
+"https://job-boards.greenhouse.io/reddit/jobs/6512458": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "reddit|software engineer ads"
+},
+"https://job-boards.greenhouse.io/reddit/jobs/6909093": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "reddit|software engineer"
+},
+"https://job-boards.greenhouse.io/reddit/jobs/7895468": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "reddit|fullstack software engineer notifications lifecycle"
+},
+"https://job-boards.greenhouse.io/reddit/jobs/7922994": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "reddit|backend engineer moderation enforcement"
+},
+"https://job-boards.greenhouse.io/reddit/jobs/7997866": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "reddit|software engineer data movement platform"
+},
+"https://job-boards.greenhouse.io/reddit/jobs/8022937": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "reddit|machine learning systems engineer ads ml platform"
+},
+"https://job-boards.greenhouse.io/reddit/jobs/8022942": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "reddit|machine learning systems engineer ads ml platform"
+},
+"https://job-boards.greenhouse.io/twilio/jobs/7188174": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "twilio|software engineer"
+},
+"https://job-boards.greenhouse.io/twilio/jobs/7602727": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "twilio|software engineer cdp"
+},
+"https://job-boards.greenhouse.io/twilio/jobs/7605743": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "twilio|software engineer"
+},
+"https://job-boards.greenhouse.io/twilio/jobs/7647708": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "twilio|software engineer"
+},
+"https://job-boards.greenhouse.io/twilio/jobs/7785202": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "twilio|software engineer"
+},
+"https://job-boards.greenhouse.io/twilio/jobs/7926883": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "twilio|software engineer"
+},
+"https://job-boards.greenhouse.io/twilio/jobs/7946608": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "twilio|frontend software engineer"
+},
+"https://job-boards.greenhouse.io/twilio/jobs/7954715": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "twilio|software engineer data substrate"
+},
+"https://job-boards.greenhouse.io/twilio/jobs/8009057": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "twilio|software engineer"
+},
+"https://job-boards.greenhouse.io/twilio/jobs/8016229": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "twilio|technical support engineer"
+},
+"https://job-boards.greenhouse.io/twilio/jobs/8048659": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "twilio|associate application engineer"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5179639004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer cdn"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5428982004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer observability"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5430088004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer backend"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5474915004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer ai sdk"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5551619004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer compute"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5613601004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer growth"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5633880004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer deployment infrastructure"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5704320004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer agent"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5788954004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer trust safety"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5798406004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer ai gateway"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5798416004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer workflows"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5808568004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer dashboard"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/5993753004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer next js"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/6093255004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|security software engineer iam"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/6098390004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer eve"
+},
+"https://job-boards.greenhouse.io/vercel/jobs/6105394004": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "vercel|software engineer cdn content"
+},
+"https://jobs.ashbyhq.com/benchling/51347ceb-0e30-4bd9-9fba-8d23f02d288f": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "benchling|software engineer platform developer experience"
+},
+"https://jobs.ashbyhq.com/notion/42f18ccd-c4c8-4a85-8c1f-de12c575fe87": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "notion|software engineer infrastructure"
+},
+"https://jobs.ashbyhq.com/notion/49bdf081-6e20-4323-8c73-6d6b19544ff5": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "notion|software engineer developer experience"
+},
+"https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "ramp|software engineer argentina"
+},
+"https://jobs.ashbyhq.com/render/226a1b3b-5937-4880-817b-4beb1f72ecc6": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "render|software engineer security all levels"
+},
+"https://jobs.ashbyhq.com/render/57a61c00-fa74-402d-89cd-1a1b936e14d5": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "render|software engineer billing all levels"
+},
+"https://jobs.ashbyhq.com/render/62ea10c7-ad69-444f-9632-dd4b50b8c805": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "render|software engineer growth all levels"
+},
+"https://jobs.ashbyhq.com/render/88cb74a4-bc28-40b1-b792-d3041e3e17d3": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "render|software engineer network infrastructure"
+},
+"https://jobs.ashbyhq.com/render/a3f88090-5e37-43a7-b392-04b02056db6d": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "render|software engineer dev velocity all levels"
+},
+"https://jobs.ashbyhq.com/render/af5b6699-2e4a-47de-99f7-664baa738190": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "render|software engineer compute infrastructure"
+},
+"https://jobs.ashbyhq.com/render/c7d896f2-20a9-4b44-9f7d-13929a0fe453": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "render|software engineer product all levels"
+},
+"https://jobs.ashbyhq.com/render/d52dc923-1641-4386-b8ba-5c15e1d7028d": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "render|software engineer infrastructure all levels"
+},
+"https://jobs.ashbyhq.com/supabase/b7206c22-979f-444a-809b-e70d9ee23c7f": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "supabase|software engineer iac platform experience"
+},
+"https://jobs.ashbyhq.com/supabase/e569b7f7-fa8f-4139-86f6-4f52b456882d": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "supabase|software engineer auth"
+},
+"https://jobs.dropbox.com/listing/6330377?gh_jid=6330377": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "dropbox|infrastructure software engineer"
+},
+"https://jobs.dropbox.com/listing/7862086?gh_jid=7862086": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "dropbox|frontend product software engineer design systems"
+},
+"https://jobs.dropbox.com/listing/8031442?gh_jid=8031442": {
+"first": "2026-07-14T13:22:22+00:00",
+"sig": "dropbox|infrastructure software engineer release systems"
+},
 "https://jobs.smartrecruiters.com/BoschGroup/744000137147075": {
 "first": "2026-07-12T12:26:42+00:00",
 "sig": "bosch|full stack angular c"
@@ -167,6 +507,22 @@
 "https://jobs.smartrecruiters.com/Zomato1/104244178": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "zomato|software engineer back end"
+},
+"https://jobs.smartrecruiters.com/mindtickle/80590885": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "mindtickle|full stack software engineer"
+},
+"https://jobs.smartrecruiters.com/mindtickle/80590887": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "mindtickle|mobile app software engineer"
+},
+"https://jobs.smartrecruiters.com/mindtickle/88535231": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "mindtickle|software engineer in infrastruture automation qa"
+},
+"https://jobs.smartrecruiters.com/unacademy/743999672726735": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "unacademy|software engineer backend"
 },
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1": {
 "first": "2026-07-14T10:13:54+00:00",
@@ -187,6 +543,34 @@
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/SMTS--Senior-Software-Backend-Engineer_JR312327": {
 "first": "2026-07-13T07:37:11+00:00",
 "sig": "salesforce|mts smts lmts software engineer"
+},
+"https://stripe.com/jobs/search?gh_jid=6042172": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "stripe|backend engineer core technology"
+},
+"https://stripe.com/jobs/search?gh_jid=6567253": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "stripe|backend engineer core tech canada"
+},
+"https://stripe.com/jobs/search?gh_jid=7091959": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "stripe|fullstack engineer privy"
+},
+"https://stripe.com/jobs/search?gh_jid=7529428": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "stripe|software engineer data ai"
+},
+"https://stripe.com/jobs/search?gh_jid=7543868": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "stripe|software engineer internal systems"
+},
+"https://stripe.com/jobs/search?gh_jid=7826761": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "stripe|software engineer security analytics infrastructure"
+},
+"https://stripe.com/jobs/search?gh_jid=7826765": {
+"first": "2026-07-14T13:22:23+00:00",
+"sig": "stripe|backend engineer ai security"
 },
 "https://www.adzuna.in/details/5799592114?utm_medium=api&utm_source=616fbe19": {
 "first": "2026-07-14T12:15:30+00:00",
@@ -227,6 +611,18 @@
 "https://www.adzuna.in/details/5799859598?utm_medium=api&utm_source=616fbe19": {
 "first": "2026-07-14T12:15:30+00:00",
 "sig": "naehas|software engineer python"
+},
+"https://www.adzuna.in/details/5799922183?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T13:22:20+00:00",
+"sig": "moody's|software engineer"
+},
+"https://www.adzuna.in/details/5799922222?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T13:22:24+00:00",
+"sig": "moody's|software engineer"
+},
+"https://www.adzuna.in/details/5799922227?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T13:22:20+00:00",
+"sig": "moody's|software engineer"
 },
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -312,6 +708,30 @@
 "first": "2026-07-14T03:40:09+00:00",
 "sig": "amazon|sde alexa for shopping"
 },
+"https://www.cockroachlabs.com/careers/job/?gh_jid=7774966": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "cockroachlabs|member of technical staff test engineering"
+},
+"https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "coinbase|software engineer eaa integrations"
+},
+"https://www.coinbase.com/careers/positions/7652048?gh_jid=7652048": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "coinbase|software engineer salesforce platform eaa"
+},
+"https://www.coinbase.com/careers/positions/7958901?gh_jid=7958901": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "coinbase|software engineer enterprise apps"
+},
+"https://www.coinbase.com/careers/positions/8022068?gh_jid=8022068": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "coinbase|software engineer"
+},
+"https://www.coinbase.com/careers/positions/8024814?gh_jid=8024814": {
+"first": "2026-07-14T13:22:21+00:00",
+"sig": "coinbase|software engineer enterprise apps"
+},
 "https://www.google.com/about/careers/applications/jobs/results/107018346561446598-software-engineer-phd-early-career-2026": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "google|software engineer phd early career"
@@ -353,6 +773,8 @@
 "adci - karnataka|sde alexa for shopping": "2026-07-14T12:15:30+00:00",
 "adci hyd 13 sez|software development engineer i amazon payments": "2026-07-14T12:15:30+00:00",
 "adci maa 15 sez|software development engineer alexa audio alexa audio": "2026-07-14T12:15:30+00:00",
+"airbnb|android software engineer quality platform": "2026-07-14T13:22:21+00:00",
+"airbnb|software engineer cloud networking": "2026-07-14T13:22:21+00:00",
 "amazon dev center india - hyderabad|software development engineer amazon fulfillment technology aft platform engineering and services": "2026-07-14T12:15:30+00:00",
 "amazon|amazon fulfilment tech software development engineer aft inventory": "2026-07-13T17:25:25+00:00",
 "amazon|sde alexa for shopping": "2026-07-14T03:40:09+00:00",
@@ -374,14 +796,38 @@
 "amazon|software development engineer pxt case management system": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer rbs": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer your orders federation platform": "2026-07-12T06:29:34+00:00",
+"anthropic|it systems engineer client platform engineer": "2026-07-14T13:22:21+00:00",
 "atlassian|principle software engineer search and data": "2026-07-12T06:29:34+00:00",
 "atlassian|software engineer": "2026-07-12T06:29:34+00:00",
+"benchling|software engineer platform developer experience": "2026-07-14T13:22:21+00:00",
 "bosch|full stack angular c": "2026-07-12T12:26:42+00:00",
 "bosch|vehicle application engineer": "2026-07-13T15:15:06+00:00",
 "clickhouse|cloud software engineer observability platform": "2026-07-12T12:26:42+00:00",
 "clickhouse|core software engineer c remote": "2026-07-12T12:26:43+00:00",
 "clickhouse|full stack software engineer billing team": "2026-07-12T12:26:43+00:00",
 "clickhouse|full stack software engineer control plane": "2026-07-12T12:26:43+00:00",
+"cloudflare|distributed systems engineer analytical database platform": "2026-07-14T13:22:21+00:00",
+"cloudflare|distributed systems engineer data platform analytics and alerts": "2026-07-14T13:22:21+00:00",
+"cloudflare|distributed systems engineer data platform delivery database retrieval": "2026-07-14T13:22:21+00:00",
+"cloudflare|distributed systems engineer data platform logs and audit logs": "2026-07-14T13:22:21+00:00",
+"cloudflare|full stack engineer internal audit": "2026-07-14T13:22:21+00:00",
+"cloudflare|software engineer network performance reliability": "2026-07-14T13:22:21+00:00",
+"cloudflare|software engineer network platforms": "2026-07-14T13:22:21+00:00",
+"cloudflare|systems engineer maps": "2026-07-14T13:22:21+00:00",
+"cloudflare|threat intelligence software engineer cloudforce one": "2026-07-14T13:22:21+00:00",
+"cockroachlabs|member of technical staff test engineering": "2026-07-14T13:22:21+00:00",
+"coinbase|software engineer": "2026-07-14T13:22:21+00:00",
+"coinbase|software engineer eaa integrations": "2026-07-14T13:22:21+00:00",
+"coinbase|software engineer enterprise apps": "2026-07-14T13:22:21+00:00",
+"coinbase|software engineer salesforce platform eaa": "2026-07-14T13:22:21+00:00",
+"datadog|technical support engineer": "2026-07-14T13:22:21+00:00",
+"dropbox|frontend product software engineer design systems": "2026-07-14T13:22:21+00:00",
+"dropbox|infrastructure software engineer": "2026-07-14T13:22:22+00:00",
+"dropbox|infrastructure software engineer release systems": "2026-07-14T13:22:22+00:00",
+"gitlab|backend engineer ruby ai engineering agent observability": "2026-07-14T13:22:22+00:00",
+"gitlab|intermediate backend engineer analytics instrumentation": "2026-07-14T13:22:22+00:00",
+"gitlab|intermediate backend engineer c tenant scale git": "2026-07-14T13:22:22+00:00",
+"gitlab|intermediate fullstack engineer data products": "2026-07-14T13:22:22+00:00",
 "glean|software engineer agents": "2026-07-12T12:26:43+00:00",
 "glean|software engineer backend": "2026-07-12T12:26:43+00:00",
 "glean|software engineer evals": "2026-07-12T12:26:43+00:00",
@@ -393,25 +839,93 @@
 "google|software engineer persistent disk phd early career": "2026-07-12T06:29:34+00:00",
 "google|software engineer phd early career": "2026-07-12T06:29:34+00:00",
 "google|software engineer phd early career networking start": "2026-07-12T06:29:34+00:00",
+"hackerrank|software development engineer in test i": "2026-07-14T13:22:22+00:00",
 "ibm|software engineer confluent": "2026-07-14T12:15:30+00:00",
+"launchdarkly|backend engineer flag delivery": "2026-07-14T13:22:22+00:00",
+"launchdarkly|full stack engineer agentcontrol": "2026-07-14T13:22:22+00:00",
+"launchdarkly|full stack engineer experimentation": "2026-07-14T13:22:22+00:00",
+"launchdarkly|full stack engineer foundation": "2026-07-14T13:22:22+00:00",
+"launchdarkly|full stack engineer guardian monitoring": "2026-07-14T13:22:22+00:00",
+"launchdarkly|full stack engineer observability": "2026-07-14T13:22:22+00:00",
+"launchdarkly|sdk software engineer ai": "2026-07-14T13:22:22+00:00",
 "mercari, inc.|software engineer machine learning recommendation": "2026-07-14T12:15:30+00:00",
 "microsoft|consultant apps full stack engineer": "2026-07-12T09:19:35+00:00",
 "microsoft|software engineer": "2026-07-13T11:32:17+00:00",
 "millerknoll|software engineer full stack net react oracle": "2026-07-14T12:15:30+00:00",
+"mindtickle|full stack software engineer": "2026-07-14T13:22:23+00:00",
+"mindtickle|mobile app software engineer": "2026-07-14T13:22:23+00:00",
+"mindtickle|software engineer in infrastruture automation qa": "2026-07-14T13:22:23+00:00",
+"moody's|software engineer": "2026-07-14T13:22:20+00:00",
 "naehas|software engineer python": "2026-07-14T12:15:30+00:00",
+"notion|software engineer developer experience": "2026-07-14T13:22:23+00:00",
+"notion|software engineer infrastructure": "2026-07-14T13:22:23+00:00",
 "nvidia|software engineer openshell": "2026-07-13T15:15:06+00:00",
 "nvidia|software engineer production engineering": "2026-07-14T10:13:54+00:00",
 "phonepe|software engineer android": "2026-07-12T06:29:34+00:00",
 "phonepe|software engineer ios": "2026-07-12T06:29:34+00:00",
 "phonepe|software engineer react native years": "2026-07-12T06:29:34+00:00",
 "phonepe|software engineer sre rust": "2026-07-12T06:29:34+00:00",
+"planetscale|software engineer information security": "2026-07-14T13:22:23+00:00",
+"planetscale|software engineer insights": "2026-07-14T13:22:23+00:00",
+"planetscale|software engineer neki orchestration": "2026-07-14T13:22:23+00:00",
+"planetscale|software engineer planetscale postgres": "2026-07-14T13:22:23+00:00",
+"planetscale|software engineer planetscale vitess": "2026-07-14T13:22:23+00:00",
+"planetscale|software engineer platform": "2026-07-14T13:22:23+00:00",
+"planetscale|software engineer sharded postgres neki": "2026-07-14T13:22:23+00:00",
 "postman|software engineer fullstack frontend heavy integrations": "2026-07-12T06:29:34+00:00",
+"ramp|software engineer argentina": "2026-07-14T13:22:23+00:00",
 "razorpay|full stack builder": "2026-07-12T06:29:34+00:00",
+"reddit|backend engineer moderation enforcement": "2026-07-14T13:22:23+00:00",
+"reddit|fullstack software engineer notifications lifecycle": "2026-07-14T13:22:23+00:00",
+"reddit|machine learning systems engineer ads ml platform": "2026-07-14T13:22:23+00:00",
+"reddit|software engineer": "2026-07-14T13:22:23+00:00",
+"reddit|software engineer ads": "2026-07-14T13:22:23+00:00",
+"reddit|software engineer data movement platform": "2026-07-14T13:22:23+00:00",
+"render|software engineer billing all levels": "2026-07-14T13:22:23+00:00",
+"render|software engineer compute infrastructure": "2026-07-14T13:22:23+00:00",
+"render|software engineer dev velocity all levels": "2026-07-14T13:22:23+00:00",
+"render|software engineer growth all levels": "2026-07-14T13:22:23+00:00",
+"render|software engineer infrastructure all levels": "2026-07-14T13:22:23+00:00",
+"render|software engineer network infrastructure": "2026-07-14T13:22:23+00:00",
+"render|software engineer product all levels": "2026-07-14T13:22:23+00:00",
+"render|software engineer security all levels": "2026-07-14T13:22:23+00:00",
 "rubrik|software engineer hypervisor": "2026-07-14T06:28:46+00:00",
 "salesforce|mts smts lmts software engineer": "2026-07-13T07:37:11+00:00",
 "salesforce|performance engineer mts": "2026-07-13T10:18:54+00:00",
 "salesforce|software engineering smts mts platform engineering distributed systems infrastructure": "2026-07-13T07:37:11+00:00",
+"stripe|backend engineer ai security": "2026-07-14T13:22:23+00:00",
+"stripe|backend engineer core tech canada": "2026-07-14T13:22:23+00:00",
+"stripe|backend engineer core technology": "2026-07-14T13:22:23+00:00",
+"stripe|fullstack engineer privy": "2026-07-14T13:22:23+00:00",
+"stripe|software engineer data ai": "2026-07-14T13:22:23+00:00",
+"stripe|software engineer internal systems": "2026-07-14T13:22:23+00:00",
+"stripe|software engineer security analytics infrastructure": "2026-07-14T13:22:23+00:00",
+"supabase|software engineer auth": "2026-07-14T13:22:23+00:00",
+"supabase|software engineer iac platform experience": "2026-07-14T13:22:23+00:00",
 "trackier|software development engineer i backend": "2026-07-14T12:15:30+00:00",
+"twilio|associate application engineer": "2026-07-14T13:22:23+00:00",
+"twilio|frontend software engineer": "2026-07-14T13:22:23+00:00",
+"twilio|software engineer": "2026-07-14T13:22:23+00:00",
+"twilio|software engineer cdp": "2026-07-14T13:22:23+00:00",
+"twilio|software engineer data substrate": "2026-07-14T13:22:23+00:00",
+"twilio|technical support engineer": "2026-07-14T13:22:24+00:00",
+"unacademy|software engineer backend": "2026-07-14T13:22:24+00:00",
+"vercel|security software engineer iam": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer agent": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer ai gateway": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer ai sdk": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer backend": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer cdn": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer cdn content": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer compute": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer dashboard": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer deployment infrastructure": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer eve": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer growth": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer next js": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer observability": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer trust safety": "2026-07-14T13:22:24+00:00",
+"vercel|software engineer workflows": "2026-07-14T13:22:24+00:00",
 "zomato|software engineer back end": "2026-07-12T06:29:34+00:00"
 }
 }
