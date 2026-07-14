@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-14 11:47 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-14 12:02 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (9)
+## 🎯 To apply (10)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,7 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-07-14 | SDE, Alexa For Shopping | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10473312/sde-alexa-for-shopping) | `python track.py applied sde-alexa-for-shopping` |
 | — | 2026-07-14 | Software Engineer - Hypervisor | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8050714?gh_jid=8050714) | `python track.py applied job.8050714?gh_jid=8050714` |
+| — | 2026-07-14 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556937574) | `python track.py applied 1970393556937574` |
 | — | 2026-07-13 | MTS/SMTS/LMTS - Software Engineer | Salesforce | [apply ↗](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/SMTS--Senior-Software-Backend-Engineer_JR312327) | `python track.py applied SMTS--Senior-Software-Back` |
 | — | 2026-07-13 | Software Development Engineer I, Amazon Payments | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10472171/software-development-engineer-i-amazon-payments) | `python track.py applied software-development-engin` |
 | — | 2026-07-13 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556925493) | `python track.py applied 1970393556925493` |
