@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-14 13:50 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-14 14:05 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (51)
+## 🎯 To apply (58)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -54,6 +54,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-14 | Software Engineer, Backend | Vercel | [apply ↗](https://job-boards.greenhouse.io/vercel/jobs/5430088004) | `python track.py applied 5430088004` |
 | — | 2026-07-14 | Software Engineer, CDN Content | Vercel | [apply ↗](https://job-boards.greenhouse.io/vercel/jobs/6105394004) | `python track.py applied 6105394004` |
 | — | 2026-07-14 | Software Engineer, Next.js | Vercel | [apply ↗](https://job-boards.greenhouse.io/vercel/jobs/5993753004) | `python track.py applied 5993753004` |
+| — | 2026-07-14 | Software Engineer, Ray Serve | Anyscale | [apply ↗](https://jobs.ashbyhq.com/anyscale/c35b6d34-710d-4943-85b6-2073ff4eecd1) | `python track.py applied c35b6d34-710d-4943-85b6-20` |
+| — | 2026-07-14 | Member of Technical Staff (MTS) – DevOps & Infrastructure | Epifi | [apply ↗](https://jobs.lever.co/epifi/d29bf970-adb6-43c4-9155-03491b1b7b91) | `python track.py applied d29bf970-adb6-43c4-9155-03` |
+| — | 2026-07-14 | Backend Engineer (Europe/UK timezone) | Posthog | [apply ↗](https://jobs.ashbyhq.com/posthog/3f190a45-7810-47f9-b77d-169b806ea266) | `python track.py applied 3f190a45-7810-47f9-b77d-16` |
+| — | 2026-07-14 | Backend Engineer | Posthog | [apply ↗](https://jobs.ashbyhq.com/posthog/1803b1de-d33b-4542-8e38-b6c4954cb789) | `python track.py applied 1803b1de-d33b-4542-8e38-b6` |
+| — | 2026-07-14 | Backend Engineer (EST timezone) | Posthog | [apply ↗](https://jobs.ashbyhq.com/posthog/af00b414-fdb3-41b5-8843-828b4a0e373a) | `python track.py applied af00b414-fdb3-41b5-8843-82` |
+| — | 2026-07-14 | Software Engineer - Java | Saviynt | [apply ↗](https://jobs.lever.co/saviynt/cafdcb41-e50f-43ba-a2f7-c85622adaf75) | `python track.py applied cafdcb41-e50f-43ba-a2f7-c8` |
+| — | 2026-07-14 | Software Engineer, Release Engineering | Zapier | [apply ↗](https://jobs.ashbyhq.com/zapier/6948a0e6-a580-4e9d-b109-20652d9a1507) | `python track.py applied 6948a0e6-a580-4e9d-b109-20` |
 | — | 2026-07-13 | MTS/SMTS/LMTS - Software Engineer | Salesforce | [apply ↗](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/SMTS--Senior-Software-Backend-Engineer_JR312327) | `python track.py applied SMTS--Senior-Software-Back` |
 | — | 2026-07-13 | Software Development Engineer I, Amazon Payments | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10472171/software-development-engineer-i-amazon-payments) | `python track.py applied software-development-engin` |
 | — | 2026-07-13 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556925493) | `python track.py applied 1970393556925493` |

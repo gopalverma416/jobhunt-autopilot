@@ -428,6 +428,14 @@
 "first": "2026-07-14T13:22:24+00:00",
 "sig": "vercel|software engineer cdn content"
 },
+"https://jobs.ashbyhq.com/anyscale/316cf655-f3f1-40c2-823f-34f1fce54fdc": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "anyscale|software engineer platform infrastructure foundations"
+},
+"https://jobs.ashbyhq.com/anyscale/c35b6d34-710d-4943-85b6-2073ff4eecd1": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "anyscale|software engineer ray serve"
+},
 "https://jobs.ashbyhq.com/benchling/51347ceb-0e30-4bd9-9fba-8d23f02d288f": {
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "benchling|software engineer platform developer experience"
@@ -439,6 +447,30 @@
 "https://jobs.ashbyhq.com/notion/49bdf081-6e20-4323-8c73-6d6b19544ff5": {
 "first": "2026-07-14T13:22:23+00:00",
 "sig": "notion|software engineer developer experience"
+},
+"https://jobs.ashbyhq.com/openai/f69f75f5-439f-4044-8ae1-8fd810e0402d": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "openai|data center physical security systems engineer"
+},
+"https://jobs.ashbyhq.com/posthog/1803b1de-d33b-4542-8e38-b6c4954cb789": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "posthog|backend engineer"
+},
+"https://jobs.ashbyhq.com/posthog/3f190a45-7810-47f9-b77d-169b806ea266": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "posthog|backend engineer europe uk timezone"
+},
+"https://jobs.ashbyhq.com/posthog/4bef8fa2-9476-48e4-b7df-1099a571d41c": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "posthog|backend engineer europe uk timezone"
+},
+"https://jobs.ashbyhq.com/posthog/af00b414-fdb3-41b5-8843-828b4a0e373a": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "posthog|backend engineer est timezone"
+},
+"https://jobs.ashbyhq.com/prefect/1c7dc702-510c-4d41-96f3-21187d6c7171": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "prefect|product engineer fullstack cloud"
 },
 "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a": {
 "first": "2026-07-14T13:22:23+00:00",
@@ -484,6 +516,14 @@
 "first": "2026-07-14T13:22:23+00:00",
 "sig": "supabase|software engineer auth"
 },
+"https://jobs.ashbyhq.com/wayflyer/f907ed95-7d42-45da-ba6c-983d7e0d31aa": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "wayflyer|frontend software engineer"
+},
+"https://jobs.ashbyhq.com/zapier/6948a0e6-a580-4e9d-b109-20652d9a1507": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "zapier|software engineer release engineering"
+},
 "https://jobs.dropbox.com/listing/6330377?gh_jid=6330377": {
 "first": "2026-07-14T13:22:22+00:00",
 "sig": "dropbox|infrastructure software engineer"
@@ -495,6 +535,22 @@
 "https://jobs.dropbox.com/listing/8031442?gh_jid=8031442": {
 "first": "2026-07-14T13:22:22+00:00",
 "sig": "dropbox|infrastructure software engineer release systems"
+},
+"https://jobs.lever.co/epifi/aa166d16-e1c5-4cb7-a95b-3f649aa2c53b": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "epifi|member of technical staff mts core full stack backend"
+},
+"https://jobs.lever.co/epifi/d29bf970-adb6-43c4-9155-03491b1b7b91": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "epifi|member of technical staff mts devops infrastructure"
+},
+"https://jobs.lever.co/jumpcloud/958656f7-b2f3-4034-8684-067c5a77b28d": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "jumpcloud|software engineer ai platform t rkiye"
+},
+"https://jobs.lever.co/saviynt/cafdcb41-e50f-43ba-a2f7-c85622adaf75": {
+"first": "2026-07-14T14:05:09+00:00",
+"sig": "saviynt|software engineer java"
 },
 "https://jobs.smartrecruiters.com/BoschGroup/744000137147075": {
 "first": "2026-07-12T12:26:42+00:00",
@@ -797,6 +853,8 @@
 "amazon|software development engineer rbs": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer your orders federation platform": "2026-07-12T06:29:34+00:00",
 "anthropic|it systems engineer client platform engineer": "2026-07-14T13:22:21+00:00",
+"anyscale|software engineer platform infrastructure foundations": "2026-07-14T14:05:09+00:00",
+"anyscale|software engineer ray serve": "2026-07-14T14:05:09+00:00",
 "atlassian|principle software engineer search and data": "2026-07-12T06:29:34+00:00",
 "atlassian|software engineer": "2026-07-12T06:29:34+00:00",
 "benchling|software engineer platform developer experience": "2026-07-14T13:22:21+00:00",
@@ -824,6 +882,8 @@
 "dropbox|frontend product software engineer design systems": "2026-07-14T13:22:21+00:00",
 "dropbox|infrastructure software engineer": "2026-07-14T13:22:22+00:00",
 "dropbox|infrastructure software engineer release systems": "2026-07-14T13:22:22+00:00",
+"epifi|member of technical staff mts core full stack backend": "2026-07-14T14:05:09+00:00",
+"epifi|member of technical staff mts devops infrastructure": "2026-07-14T14:05:09+00:00",
 "gitlab|backend engineer ruby ai engineering agent observability": "2026-07-14T13:22:22+00:00",
 "gitlab|intermediate backend engineer analytics instrumentation": "2026-07-14T13:22:22+00:00",
 "gitlab|intermediate backend engineer c tenant scale git": "2026-07-14T13:22:22+00:00",
@@ -841,6 +901,7 @@
 "google|software engineer phd early career networking start": "2026-07-12T06:29:34+00:00",
 "hackerrank|software development engineer in test i": "2026-07-14T13:22:22+00:00",
 "ibm|software engineer confluent": "2026-07-14T12:15:30+00:00",
+"jumpcloud|software engineer ai platform t rkiye": "2026-07-14T14:05:09+00:00",
 "launchdarkly|backend engineer flag delivery": "2026-07-14T13:22:22+00:00",
 "launchdarkly|full stack engineer agentcontrol": "2026-07-14T13:22:22+00:00",
 "launchdarkly|full stack engineer experimentation": "2026-07-14T13:22:22+00:00",
@@ -861,6 +922,7 @@
 "notion|software engineer infrastructure": "2026-07-14T13:22:23+00:00",
 "nvidia|software engineer openshell": "2026-07-13T15:15:06+00:00",
 "nvidia|software engineer production engineering": "2026-07-14T10:13:54+00:00",
+"openai|data center physical security systems engineer": "2026-07-14T14:05:09+00:00",
 "phonepe|software engineer android": "2026-07-12T06:29:34+00:00",
 "phonepe|software engineer ios": "2026-07-12T06:29:34+00:00",
 "phonepe|software engineer react native years": "2026-07-12T06:29:34+00:00",
@@ -872,7 +934,11 @@
 "planetscale|software engineer planetscale vitess": "2026-07-14T13:22:23+00:00",
 "planetscale|software engineer platform": "2026-07-14T13:22:23+00:00",
 "planetscale|software engineer sharded postgres neki": "2026-07-14T13:22:23+00:00",
+"posthog|backend engineer": "2026-07-14T14:05:09+00:00",
+"posthog|backend engineer est timezone": "2026-07-14T14:05:09+00:00",
+"posthog|backend engineer europe uk timezone": "2026-07-14T14:05:09+00:00",
 "postman|software engineer fullstack frontend heavy integrations": "2026-07-12T06:29:34+00:00",
+"prefect|product engineer fullstack cloud": "2026-07-14T14:05:09+00:00",
 "ramp|software engineer argentina": "2026-07-14T13:22:23+00:00",
 "razorpay|full stack builder": "2026-07-12T06:29:34+00:00",
 "reddit|backend engineer moderation enforcement": "2026-07-14T13:22:23+00:00",
@@ -893,6 +959,7 @@
 "salesforce|mts smts lmts software engineer": "2026-07-13T07:37:11+00:00",
 "salesforce|performance engineer mts": "2026-07-13T10:18:54+00:00",
 "salesforce|software engineering smts mts platform engineering distributed systems infrastructure": "2026-07-13T07:37:11+00:00",
+"saviynt|software engineer java": "2026-07-14T14:05:09+00:00",
 "stripe|backend engineer ai security": "2026-07-14T13:22:23+00:00",
 "stripe|backend engineer core tech canada": "2026-07-14T13:22:23+00:00",
 "stripe|backend engineer core technology": "2026-07-14T13:22:23+00:00",
@@ -926,6 +993,8 @@
 "vercel|software engineer observability": "2026-07-14T13:22:24+00:00",
 "vercel|software engineer trust safety": "2026-07-14T13:22:24+00:00",
 "vercel|software engineer workflows": "2026-07-14T13:22:24+00:00",
+"wayflyer|frontend software engineer": "2026-07-14T14:05:09+00:00",
+"zapier|software engineer release engineering": "2026-07-14T14:05:09+00:00",
 "zomato|software engineer back end": "2026-07-12T06:29:34+00:00"
 }
 }
