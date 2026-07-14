@@ -24,7 +24,7 @@ concurrency:
 jobs:
   watch:
     runs-on: ubuntu-latest
-    timeout-minutes: 5    # hard stop: a hung run must not eat minutes
+    timeout-minutes: 15   # hard stop; raised for 100s of sources (still cheap at 4h cadence)
     steps:
       - uses: actions/checkout@v4
 
