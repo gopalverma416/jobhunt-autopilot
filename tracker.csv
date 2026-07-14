@@ -42,7 +42,7 @@ date_found,company,role,job_url,status,applied_date,resume_version,contact_name,
 2026-07-13,Salesforce,MTS/SMTS/LMTS - Software Engineer,https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/SMTS--Senior-Software-Backend-Engineer_JR312327,found,,,,,,,,,,
 2026-07-13,Amazon,"Software Development Engineer I, Amazon Payments",https://www.amazon.jobs/en/jobs/10472171/software-development-engineer-i-amazon-payments,found,,,,,,,,,,
 2026-07-13,Microsoft,Software Engineer,https://apply.careers.microsoft.com/careers/job/1970393556925493,found,,,,,,,,,,
-2026-07-13,Microsoft,Software Engineer,https://apply.careers.microsoft.com/careers/job/1970393556873791,found,,,,,,,,,,
+2026-07-13,Microsoft,Software Engineer,https://apply.careers.microsoft.com/careers/job/1970393556873791,not_fit,,,,,,,,,,duplicate req (backfill)
 2026-07-14,Amazon,"SDE, Alexa For Shopping",https://www.amazon.jobs/en/jobs/10473312/sde-alexa-for-shopping,found,,,,,,,,,,
 2026-07-14,Rubrik,Software Engineer - Hypervisor,https://www.rubrik.com/company/careers/departments/job.8050714?gh_jid=8050714,found,,,,,,,,,,
-2026-07-14,Google,Software Engineer Full Stack Google Cloud,https://www.google.com/about/careers/applications/jobs/results/88630606946017990-software-engineer-full-stack-google-cloud,found,,,,,,,,,,
+2026-07-14,Google,Software Engineer Full Stack Google Cloud,https://www.google.com/about/careers/applications/jobs/results/88630606946017990-software-engineer-full-stack-google-cloud,not_fit,,,,,,,,,,JD-backfill: requires 8+ years
