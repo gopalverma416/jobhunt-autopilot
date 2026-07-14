@@ -1,0 +1,49 @@
+# ATS auto-discovery: probe candidates.txt against Greenhouse/Lever/Ashby/SR
+# and auto-append the ones with real jobs to companies.yaml.
+# Trigger manually from the Actions tab whenever you add candidates.
+name: discover
+
+on:
+  workflow_dispatch:
+    inputs:
+      min_jobs:
+        description: "Only add boards with at least this many postings"
+        default: "1"
+        required: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: jobhunt-state
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Probe candidates + append verified companies
+        run: python discover.py --file candidates.txt --append --min-jobs ${{ github.event.inputs.min_jobs || '1' }}
+
+      - name: Commit newly discovered companies
+        run: |
+          git config user.name "jobhunt-bot"
+          git config user.email "jobhunt-bot@users.noreply.github.com"
+          git add companies.yaml
+          if git diff --cached --quiet; then
+            echo "no new companies discovered"
+          else
+            git commit -m "discover: auto-add verified ATS companies"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}"
+            git push
+          fi
