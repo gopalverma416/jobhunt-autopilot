@@ -126,7 +126,7 @@ def main():
     # ---- 1. fetch ATS sources + telegram channels concurrently ----
     channels = cfg.get("telegram_channels") or []
     results, ch_results = [], []
-    with cf.ThreadPoolExecutor(max_workers=12) as ex:
+    with cf.ThreadPoolExecutor(max_workers=32) as ex:  # scaled for 100s of sources
         futs = {ex.submit(fetch_one, c, settings): ("ats", c["name"])
                 for c in cfg["companies"]}
         futs.update({ex.submit(fetch_channel, ch, settings): ("tg", ch)

@@ -127,7 +127,7 @@ def main():
           f"{len(PROBES)} ATS types...\n")
 
     results = {}
-    with cf.ThreadPoolExecutor(max_workers=16) as ex:
+    with cf.ThreadPoolExecutor(max_workers=40) as ex:  # ~2k probes for a big list
         futs = {ex.submit(discover_one, s, a.timeout): s for s in uniq}
         for fut in cf.as_completed(futs):
             results[futs[fut]] = fut.result()
