@@ -188,6 +188,46 @@
 "first": "2026-07-13T07:37:11+00:00",
 "sig": "salesforce|mts smts lmts software engineer"
 },
+"https://www.adzuna.in/details/5799592114?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T12:15:30+00:00",
+"sig": "mercari, inc.|software engineer machine learning recommendation"
+},
+"https://www.adzuna.in/details/5799811418?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T12:15:30+00:00",
+"sig": "millerknoll|software engineer full stack net react oracle"
+},
+"https://www.adzuna.in/details/5799811503?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T12:15:30+00:00",
+"sig": "amazon|software development engineer"
+},
+"https://www.adzuna.in/details/5799811590?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T12:15:30+00:00",
+"sig": "ibm|software engineer confluent"
+},
+"https://www.adzuna.in/details/5799815342?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T12:15:30+00:00",
+"sig": "amazon dev center india - hyderabad|software development engineer amazon fulfillment technology aft platform engineering and services"
+},
+"https://www.adzuna.in/details/5799815375?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T12:15:30+00:00",
+"sig": "adci maa 15 sez|software development engineer alexa audio alexa audio"
+},
+"https://www.adzuna.in/details/5799815401?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T12:15:30+00:00",
+"sig": "adci - karnataka|sde alexa for shopping"
+},
+"https://www.adzuna.in/details/5799815415?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T12:15:30+00:00",
+"sig": "adci hyd 13 sez|software development engineer i amazon payments"
+},
+"https://www.adzuna.in/details/5799859595?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T12:15:30+00:00",
+"sig": "trackier|software development engineer i backend"
+},
+"https://www.adzuna.in/details/5799859598?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-14T12:15:30+00:00",
+"sig": "naehas|software engineer python"
+},
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "amazon|software development engineer amazon opensearch service diy observability"
@@ -310,9 +350,14 @@
 }
 },
 "sigs": {
+"adci - karnataka|sde alexa for shopping": "2026-07-14T12:15:30+00:00",
+"adci hyd 13 sez|software development engineer i amazon payments": "2026-07-14T12:15:30+00:00",
+"adci maa 15 sez|software development engineer alexa audio alexa audio": "2026-07-14T12:15:30+00:00",
+"amazon dev center india - hyderabad|software development engineer amazon fulfillment technology aft platform engineering and services": "2026-07-14T12:15:30+00:00",
 "amazon|amazon fulfilment tech software development engineer aft inventory": "2026-07-13T17:25:25+00:00",
 "amazon|sde alexa for shopping": "2026-07-14T03:40:09+00:00",
 "amazon|software dev engineer i": "2026-07-12T06:29:34+00:00",
+"amazon|software development engineer": "2026-07-14T12:15:30+00:00",
 "amazon|software development engineer alexa audio alexa audio": "2026-07-13T17:25:25+00:00",
 "amazon|software development engineer am tools iss": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer amazon external payments": "2026-07-12T06:29:34+00:00",
@@ -348,8 +393,12 @@
 "google|software engineer persistent disk phd early career": "2026-07-12T06:29:34+00:00",
 "google|software engineer phd early career": "2026-07-12T06:29:34+00:00",
 "google|software engineer phd early career networking start": "2026-07-12T06:29:34+00:00",
+"ibm|software engineer confluent": "2026-07-14T12:15:30+00:00",
+"mercari, inc.|software engineer machine learning recommendation": "2026-07-14T12:15:30+00:00",
 "microsoft|consultant apps full stack engineer": "2026-07-12T09:19:35+00:00",
 "microsoft|software engineer": "2026-07-13T11:32:17+00:00",
+"millerknoll|software engineer full stack net react oracle": "2026-07-14T12:15:30+00:00",
+"naehas|software engineer python": "2026-07-14T12:15:30+00:00",
 "nvidia|software engineer openshell": "2026-07-13T15:15:06+00:00",
 "nvidia|software engineer production engineering": "2026-07-14T10:13:54+00:00",
 "phonepe|software engineer android": "2026-07-12T06:29:34+00:00",
@@ -362,6 +411,7 @@
 "salesforce|mts smts lmts software engineer": "2026-07-13T07:37:11+00:00",
 "salesforce|performance engineer mts": "2026-07-13T10:18:54+00:00",
 "salesforce|software engineering smts mts platform engineering distributed systems infrastructure": "2026-07-13T07:37:11+00:00",
+"trackier|software development engineer i backend": "2026-07-14T12:15:30+00:00",
 "zomato|software engineer back end": "2026-07-12T06:29:34+00:00"
 }
 }

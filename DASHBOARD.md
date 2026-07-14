@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-14 12:02 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-14 12:15 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (10)
+## 🎯 To apply (20)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,16 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-14 | SDE, Alexa For Shopping | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10473312/sde-alexa-for-shopping) | `python track.py applied sde-alexa-for-shopping` |
 | — | 2026-07-14 | Software Engineer - Hypervisor | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8050714?gh_jid=8050714) | `python track.py applied job.8050714?gh_jid=8050714` |
 | — | 2026-07-14 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556937574) | `python track.py applied 1970393556937574` |
+| — | 2026-07-14 | Software Development Engineer- I (Backend) | Trackier | [apply ↗](https://www.adzuna.in/details/5799859595?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5799859595?utm_medium=api&` |
+| — | 2026-07-14 | Software Engineer - Python | Naehas | [apply ↗](https://www.adzuna.in/details/5799859598?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5799859598?utm_medium=api&` |
+| — | 2026-07-14 | Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services | Amazon Dev Center India - Hyderabad | [apply ↗](https://www.adzuna.in/details/5799815342?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5799815342?utm_medium=api&` |
+| — | 2026-07-14 | SDE, Alexa For Shopping | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5799815401?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5799815401?utm_medium=api&` |
+| — | 2026-07-14 | Software Development Engineer I, Amazon Payments | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5799815415?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5799815415?utm_medium=api&` |
+| — | 2026-07-14 | Software Development Engineer, Alexa Audio, Alexa Audio | ADCI MAA 15 SEZ | [apply ↗](https://www.adzuna.in/details/5799815375?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5799815375?utm_medium=api&` |
+| — | 2026-07-14 | Software Engineer - Confluent | IBM | [apply ↗](https://www.adzuna.in/details/5799811590?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5799811590?utm_medium=api&` |
+| — | 2026-07-14 | Software Development Engineer | Amazon | [apply ↗](https://www.adzuna.in/details/5799811503?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5799811503?utm_medium=api&` |
+| — | 2026-07-14 | Software Engineer – Full Stack (.Net/React/Oracle) | MillerKnoll | [apply ↗](https://www.adzuna.in/details/5799811418?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5799811418?utm_medium=api&` |
+| — | 2026-07-14 | Software Engineer (Machine learning & Recommendation) | Mercari, Inc.  | [apply ↗](https://www.adzuna.in/details/5799592114?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5799592114?utm_medium=api&` |
 | — | 2026-07-13 | MTS/SMTS/LMTS - Software Engineer | Salesforce | [apply ↗](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/SMTS--Senior-Software-Backend-Engineer_JR312327) | `python track.py applied SMTS--Senior-Software-Back` |
 | — | 2026-07-13 | Software Development Engineer I, Amazon Payments | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10472171/software-development-engineer-i-amazon-payments) | `python track.py applied software-development-engin` |
 | — | 2026-07-13 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556925493) | `python track.py applied 1970393556925493` |
