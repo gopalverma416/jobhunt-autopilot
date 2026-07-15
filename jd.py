@@ -15,8 +15,14 @@ import html
 import re
 
 from fetchers.common import get_json as _get  # resilient GET+parse (UA rotation, retry)
+from fetchers.common import get_text          # resilient GET (HTML)
 
 TAG_RE = re.compile(r"<[^>]+>")
+
+# Sources whose inline _jd is only a TRUNCATED snippet (not the full JD).
+# For these we must fetch the real job page to see experience requirements.
+# (Adzuna caps `description` at 500 chars - just the company intro.)
+SNIPPET_ONLY = {"adzuna"}
 
 
 def strip_html(s):
@@ -31,11 +37,26 @@ def strip_html(s):
 def fetch_jd(job, company_cfg, settings):
     """Return the plain-text JD for a normalized job, or None if unavailable.
     Raises on network errors (caller treats that as 'JD unverified')."""
-    if job.get("_jd"):
-        return strip_html(job["_jd"]) or None
-
     src, jid = job["source"], job["id"]
     timeout = settings["request_timeout"]
+
+    # Aggregators whose inline description is a truncated snippet: follow the
+    # real job URL to read the FULL description so the experience filter works.
+    if src in SNIPPET_ONLY:
+        snippet = strip_html(job.get("_jd", ""))
+        full = ""
+        if job.get("url"):
+            try:
+                full = strip_html(get_text(job["url"], timeout))
+            except Exception:  # noqa: BLE001 - page blocked/JS-only -> use snippet
+                full = ""
+        # a real JD page has lots of text; if the fetch was thin, keep snippet
+        best = full if len(full) > max(len(snippet), 300) else snippet
+        return best or None
+
+    # ATS sources that embed the FULL JD inline (lever/ashby/amazon/atlassian).
+    if job.get("_jd"):
+        return strip_html(job["_jd"]) or None
 
     if src.startswith("greenhouse:"):
         slug = src.split(":", 1)[1]
