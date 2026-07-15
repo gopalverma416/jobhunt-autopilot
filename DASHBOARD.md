@@ -1,15 +1,19 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-14 21:15 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-15 03:34 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (59)
+## 🎯 To apply (63)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-07-15 | Software Engineer - Angular NodeJS | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5800543758?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800543758?utm_medium=api&` |
+| — | 2026-07-15 | Software Engineering (SMTS / MTS) – Platform Engineering (Distributed Systems & Infrastructure) | Salesforce | [apply ↗](https://www.adzuna.in/details/5800411496?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800411496?utm_medium=api&` |
+| — | 2026-07-15 | Software Engineer | Ford Motor | [apply ↗](https://www.adzuna.in/details/5800411305?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800411305?utm_medium=api&` |
+| — | 2026-07-15 | Full Stack Engineer | Jobgether | [apply ↗](https://www.adzuna.in/details/5800411037?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800411037?utm_medium=api&` |
 | — | 2026-07-14 | SDE, Alexa For Shopping | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10473312/sde-alexa-for-shopping) | `python track.py applied sde-alexa-for-shopping` |
 | — | 2026-07-14 | Software Engineer - Hypervisor | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8050714?gh_jid=8050714) | `python track.py applied job.8050714?gh_jid=8050714` |
 | — | 2026-07-14 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556937574) | `python track.py applied 1970393556937574` |

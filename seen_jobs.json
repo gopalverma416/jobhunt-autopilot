@@ -692,6 +692,66 @@
 "first": "2026-07-14T17:34:37+00:00",
 "sig": "pratiti technologies pvt. ltd.|c software engineer"
 },
+"https://www.adzuna.in/details/5800410709?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5800411019?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5800411028?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5800411037?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "jobgether|full stack engineer"
+},
+"https://www.adzuna.in/details/5800411154?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5800411225?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5800411305?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "ford motor|software engineer"
+},
+"https://www.adzuna.in/details/5800411396?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5800411404?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5800411496?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "salesforce|software engineering smts mts platform engineering distributed systems infrastructure"
+},
+"https://www.adzuna.in/details/5800411670?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5800411706?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5800411891?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5800411988?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5800543758?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T03:34:54+00:00",
+"sig": "nielseniq|software engineer angular nodejs"
+},
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "amazon|software development engineer amazon opensearch service diy observability"
@@ -838,6 +898,7 @@
 }
 },
 "sigs": {
+"accenture|custom software engineer": "2026-07-15T03:34:54+00:00",
 "adci - karnataka|sde alexa for shopping": "2026-07-14T12:15:30+00:00",
 "adci hyd 13 sez|software development engineer i amazon payments": "2026-07-14T12:15:30+00:00",
 "adci maa 15 sez|software development engineer alexa audio alexa audio": "2026-07-14T12:15:30+00:00",
@@ -896,6 +957,7 @@
 "dropbox|infrastructure software engineer release systems": "2026-07-14T13:22:22+00:00",
 "epifi|member of technical staff mts core full stack backend": "2026-07-14T14:05:09+00:00",
 "epifi|member of technical staff mts devops infrastructure": "2026-07-14T14:05:09+00:00",
+"ford motor|software engineer": "2026-07-15T03:34:54+00:00",
 "gitlab|backend engineer ruby ai engineering agent observability": "2026-07-14T13:22:22+00:00",
 "gitlab|intermediate backend engineer analytics instrumentation": "2026-07-14T13:22:22+00:00",
 "gitlab|intermediate backend engineer c tenant scale git": "2026-07-14T13:22:22+00:00",
@@ -913,6 +975,7 @@
 "google|software engineer phd early career networking start": "2026-07-12T06:29:34+00:00",
 "hackerrank|software development engineer in test i": "2026-07-14T13:22:22+00:00",
 "ibm|software engineer confluent": "2026-07-14T12:15:30+00:00",
+"jobgether|full stack engineer": "2026-07-15T03:34:54+00:00",
 "jumpcloud|software engineer ai platform t rkiye": "2026-07-14T14:05:09+00:00",
 "launchdarkly|backend engineer flag delivery": "2026-07-14T13:22:22+00:00",
 "launchdarkly|full stack engineer agentcontrol": "2026-07-14T13:22:22+00:00",
@@ -931,6 +994,7 @@
 "moderntreasury|software engineer infrastructure": "2026-07-14T17:34:37+00:00",
 "moody's|software engineer": "2026-07-14T13:22:20+00:00",
 "naehas|software engineer python": "2026-07-14T12:15:30+00:00",
+"nielseniq|software engineer angular nodejs": "2026-07-15T03:34:54+00:00",
 "notion|software engineer developer experience": "2026-07-14T13:22:23+00:00",
 "notion|software engineer infrastructure": "2026-07-14T13:22:23+00:00",
 "nvidia|software engineer openshell": "2026-07-13T15:15:06+00:00",
