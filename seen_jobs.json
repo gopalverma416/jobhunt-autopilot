@@ -328,6 +328,10 @@
 "first": "2026-07-14T13:22:23+00:00",
 "sig": "reddit|machine learning systems engineer ads ml platform"
 },
+"https://job-boards.greenhouse.io/turing/jobs/6115695004": {
+"first": "2026-07-15T17:39:00+00:00",
+"sig": "turing|software engineer"
+},
 "https://job-boards.greenhouse.io/twilio/jobs/7188174": {
 "first": "2026-07-14T13:22:24+00:00",
 "sig": "twilio|software engineer"
@@ -595,6 +599,10 @@
 "https://jobs.smartrecruiters.com/unacademy/743999672726735": {
 "first": "2026-07-14T13:22:24+00:00",
 "sig": "unacademy|software engineer backend"
+},
+"https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Software-Engineer---Routing_JR2021257": {
+"first": "2026-07-15T17:39:00+00:00",
+"sig": "nvidia|software engineer routing"
 },
 "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Software-Engineer--Production-Engineering_JR2020074-1": {
 "first": "2026-07-14T10:13:54+00:00",
@@ -1061,6 +1069,7 @@
 "notion|software engineer infrastructure": "2026-07-14T13:22:23+00:00",
 "nvidia|software engineer openshell": "2026-07-13T15:15:06+00:00",
 "nvidia|software engineer production engineering": "2026-07-14T10:13:54+00:00",
+"nvidia|software engineer routing": "2026-07-15T17:39:00+00:00",
 "openai|data center physical security systems engineer": "2026-07-14T14:05:09+00:00",
 "phonepe|software engineer android": "2026-07-12T06:29:34+00:00",
 "phonepe|software engineer ios": "2026-07-12T06:29:34+00:00",
@@ -1115,6 +1124,7 @@
 "the boeing company|associate ate software engineer": "2026-07-15T06:28:20+00:00",
 "the boeing company|associate software engineer": "2026-07-15T06:28:20+00:00",
 "trackier|software development engineer i backend": "2026-07-14T12:15:30+00:00",
+"turing|software engineer": "2026-07-15T17:39:00+00:00",
 "twilio|associate application engineer": "2026-07-14T13:22:23+00:00",
 "twilio|frontend software engineer": "2026-07-14T13:22:23+00:00",
 "twilio|software engineer": "2026-07-14T13:22:23+00:00",
