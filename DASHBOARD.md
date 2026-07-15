@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-15 06:28 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-15 10:15 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (63)
+## 🎯 To apply (70)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-15 | Software Engineering (SMTS / MTS) – Platform Engineering (Distributed Systems & Infrastructure) | Salesforce | [apply ↗](https://www.adzuna.in/details/5800411496?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800411496?utm_medium=api&` |
 | — | 2026-07-15 | Software Engineer | Ford Motor | [apply ↗](https://www.adzuna.in/details/5800411305?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800411305?utm_medium=api&` |
 | — | 2026-07-15 | Full Stack Engineer | Jobgether | [apply ↗](https://www.adzuna.in/details/5800411037?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800411037?utm_medium=api&` |
+| — | 2026-07-15 | Software Engineer - Python (Contractual role) | Proximity Works | [apply ↗](https://www.adzuna.in/details/5801061475?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5801061475?utm_medium=api&` |
+| — | 2026-07-15 | Software Engineer - GoLang (Contractual role) | Proximity Works | [apply ↗](https://www.adzuna.in/details/5801061481?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5801061481?utm_medium=api&` |
+| — | 2026-07-15 | Software Development Engineer, Aurora MySQL | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5801028510?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5801028510?utm_medium=api&` |
+| — | 2026-07-15 | SDE, International Cobranded Credit Cards | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5801027930?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5801027930?utm_medium=api&` |
+| — | 2026-07-15 | Graduate Software Engineer | Hewlett Packard Enterprise | [apply ↗](https://www.adzuna.in/details/5801026950?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5801026950?utm_medium=api&` |
+| — | 2026-07-15 | Software Dev Engineer I FTC | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10470829/software-dev-engineer-i-ftc) | `python track.py applied software-dev-engineer-i-ft` |
+| — | 2026-07-15 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556876290) | `python track.py applied 1970393556876290` |
 | — | 2026-07-14 | SDE, Alexa For Shopping | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10473312/sde-alexa-for-shopping) | `python track.py applied sde-alexa-for-shopping` |
 | — | 2026-07-14 | Software Engineer - Hypervisor | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8050714?gh_jid=8050714) | `python track.py applied job.8050714?gh_jid=8050714` |
 | — | 2026-07-14 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556937574) | `python track.py applied 1970393556937574` |

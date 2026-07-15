@@ -40,6 +40,14 @@
 "first": "2026-07-13T15:15:06+00:00",
 "sig": "microsoft|software engineer"
 },
+"https://apply.careers.microsoft.com/careers/job/1970393556876290": {
+"first": "2026-07-15T10:15:50+00:00",
+"sig": "microsoft|software engineer"
+},
+"https://apply.careers.microsoft.com/careers/job/1970393556913319": {
+"first": "2026-07-15T10:15:50+00:00",
+"sig": "microsoft|software engineer"
+},
 "https://apply.careers.microsoft.com/careers/job/1970393556925493": {
 "first": "2026-07-13T11:32:17+00:00",
 "sig": "microsoft|software engineer"
@@ -760,6 +768,30 @@
 "first": "2026-07-15T06:28:20+00:00",
 "sig": "the boeing company|associate ate software engineer"
 },
+"https://www.adzuna.in/details/5801026950?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T10:15:46+00:00",
+"sig": "hewlett packard enterprise|graduate software engineer"
+},
+"https://www.adzuna.in/details/5801027813?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T10:15:46+00:00",
+"sig": "the auction collective|software engineer fullstack python react node aws genai"
+},
+"https://www.adzuna.in/details/5801027930?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T10:15:46+00:00",
+"sig": "adci - karnataka|sde international cobranded credit cards"
+},
+"https://www.adzuna.in/details/5801028510?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T10:15:46+00:00",
+"sig": "adci - karnataka|software development engineer aurora mysql"
+},
+"https://www.adzuna.in/details/5801061475?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T10:15:46+00:00",
+"sig": "proximity works|software engineer python contractual role"
+},
+"https://www.adzuna.in/details/5801061481?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-15T10:15:46+00:00",
+"sig": "proximity works|software engineer golang contractual role"
+},
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "amazon|software development engineer amazon opensearch service diy observability"
@@ -827,6 +859,10 @@
 "https://www.amazon.jobs/en/jobs/10470167/software-development-engineer-prime-video-sports": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "amazon|software development engineer prime video sports"
+},
+"https://www.amazon.jobs/en/jobs/10470829/software-dev-engineer-i-ftc": {
+"first": "2026-07-15T10:15:46+00:00",
+"sig": "amazon|software dev engineer i ftc"
 },
 "https://www.amazon.jobs/en/jobs/10472171/software-development-engineer-i-amazon-payments": {
 "first": "2026-07-13T11:32:15+00:00",
@@ -908,6 +944,8 @@
 "sigs": {
 "accenture|custom software engineer": "2026-07-15T03:34:54+00:00",
 "adci - karnataka|sde alexa for shopping": "2026-07-14T12:15:30+00:00",
+"adci - karnataka|sde international cobranded credit cards": "2026-07-15T10:15:46+00:00",
+"adci - karnataka|software development engineer aurora mysql": "2026-07-15T10:15:46+00:00",
 "adci hyd 13 sez|software development engineer i amazon payments": "2026-07-14T12:15:30+00:00",
 "adci maa 15 sez|software development engineer alexa audio alexa audio": "2026-07-14T12:15:30+00:00",
 "airbnb|android software engineer quality platform": "2026-07-14T13:22:21+00:00",
@@ -916,6 +954,7 @@
 "amazon|amazon fulfilment tech software development engineer aft inventory": "2026-07-13T17:25:25+00:00",
 "amazon|sde alexa for shopping": "2026-07-14T03:40:09+00:00",
 "amazon|software dev engineer i": "2026-07-12T06:29:34+00:00",
+"amazon|software dev engineer i ftc": "2026-07-15T10:15:46+00:00",
 "amazon|software development engineer": "2026-07-14T12:15:30+00:00",
 "amazon|software development engineer alexa audio alexa audio": "2026-07-13T17:25:25+00:00",
 "amazon|software development engineer am tools iss": "2026-07-12T06:29:34+00:00",
@@ -982,6 +1021,7 @@
 "google|software engineer phd early career": "2026-07-12T06:29:34+00:00",
 "google|software engineer phd early career networking start": "2026-07-12T06:29:34+00:00",
 "hackerrank|software development engineer in test i": "2026-07-14T13:22:22+00:00",
+"hewlett packard enterprise|graduate software engineer": "2026-07-15T10:15:46+00:00",
 "ibm|software engineer confluent": "2026-07-14T12:15:30+00:00",
 "jobgether|full stack engineer": "2026-07-15T03:34:54+00:00",
 "jumpcloud|software engineer ai platform t rkiye": "2026-07-14T14:05:09+00:00",
@@ -1025,6 +1065,8 @@
 "postman|software engineer fullstack frontend heavy integrations": "2026-07-12T06:29:34+00:00",
 "pratiti technologies pvt. ltd.|c software engineer": "2026-07-14T17:34:37+00:00",
 "prefect|product engineer fullstack cloud": "2026-07-14T14:05:09+00:00",
+"proximity works|software engineer golang contractual role": "2026-07-15T10:15:46+00:00",
+"proximity works|software engineer python contractual role": "2026-07-15T10:15:46+00:00",
 "ramp|software engineer argentina": "2026-07-14T13:22:23+00:00",
 "razorpay|full stack builder": "2026-07-12T06:29:34+00:00",
 "reddit|backend engineer moderation enforcement": "2026-07-14T13:22:23+00:00",
@@ -1055,6 +1097,7 @@
 "stripe|software engineer security analytics infrastructure": "2026-07-14T13:22:23+00:00",
 "supabase|software engineer auth": "2026-07-14T13:22:23+00:00",
 "supabase|software engineer iac platform experience": "2026-07-14T13:22:23+00:00",
+"the auction collective|software engineer fullstack python react node aws genai": "2026-07-15T10:15:46+00:00",
 "the boeing company|associate ate software engineer": "2026-07-15T06:28:20+00:00",
 "the boeing company|associate software engineer": "2026-07-15T06:28:20+00:00",
 "trackier|software development engineer i backend": "2026-07-14T12:15:30+00:00",
