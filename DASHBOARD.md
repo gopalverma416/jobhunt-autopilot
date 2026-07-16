@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-16 10:21 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-16 14:23 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (87)
+## 🎯 To apply (88)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -26,6 +26,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-16 | System Development Engineer I, Amazon WWR&R | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5802676125?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802676125?utm_medium=api&` |
 | — | 2026-07-16 | Software Engineer | Microsoft | [apply ↗](https://www.adzuna.in/details/5802675624?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802675624?utm_medium=api&` |
 | — | 2026-07-16 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556636678) | `python track.py applied 1970393556636678` |
+| — | 2026-07-16 | Software Engineer (AI-native development) | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556928825) | `python track.py applied 1970393556928825` |
 | — | 2026-07-15 | Software Engineer - Angular NodeJS | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5800543758?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800543758?utm_medium=api&` |
 | — | 2026-07-15 | Software Engineering (SMTS / MTS) – Platform Engineering (Distributed Systems & Infrastructure) | Salesforce | [apply ↗](https://www.adzuna.in/details/5800411496?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800411496?utm_medium=api&` |
 | — | 2026-07-15 | Software Engineer | Ford Motor | [apply ↗](https://www.adzuna.in/details/5800411305?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800411305?utm_medium=api&` |
