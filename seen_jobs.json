@@ -812,6 +812,54 @@
 "first": "2026-07-15T16:55:05+00:00",
 "sig": "weekday ai|java full stack developer"
 },
+"https://www.adzuna.in/details/5801820347?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-16T03:37:39+00:00",
+"sig": "analog devices|software engineer"
+},
+"https://www.adzuna.in/details/5801820356?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-16T03:37:39+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5801820477?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-16T03:37:39+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5801820865?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-16T03:37:39+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5801820935?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-16T03:37:39+00:00",
+"sig": "microsoft|software engineer"
+},
+"https://www.adzuna.in/details/5801820949?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-16T03:37:39+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5802024792?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-16T03:37:38+00:00",
+"sig": "scout incorporation|software engineer"
+},
+"https://www.adzuna.in/details/5802024856?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-16T03:37:39+00:00",
+"sig": "scout incorporation|full stack software engineer"
+},
+"https://www.adzuna.in/details/5802025113?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-16T03:37:38+00:00",
+"sig": "scout incorporation|software development engineer"
+},
+"https://www.adzuna.in/details/5802073842?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-16T03:37:38+00:00",
+"sig": "applicate|software engineer"
+},
+"https://www.adzuna.in/details/5802074257?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-16T03:37:38+00:00",
+"sig": "addverb technologies|robotics software engineer advanced robotics"
+},
+"https://www.adzuna.in/details/5802093875?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-16T03:37:38+00:00",
+"sig": "techbiz global gmbh|full stack developer"
+},
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "amazon|software development engineer amazon opensearch service diy observability"
@@ -968,6 +1016,7 @@
 "adci - karnataka|software development engineer aurora mysql": "2026-07-15T10:15:46+00:00",
 "adci hyd 13 sez|software development engineer i amazon payments": "2026-07-14T12:15:30+00:00",
 "adci maa 15 sez|software development engineer alexa audio alexa audio": "2026-07-14T12:15:30+00:00",
+"addverb technologies|robotics software engineer advanced robotics": "2026-07-16T03:37:38+00:00",
 "airbnb|android software engineer quality platform": "2026-07-14T13:22:21+00:00",
 "airbnb|software engineer cloud networking": "2026-07-14T13:22:21+00:00",
 "amazon dev center india - hyderabad|software development engineer amazon fulfillment technology aft platform engineering and services": "2026-07-14T12:15:30+00:00",
@@ -992,9 +1041,11 @@
 "amazon|software development engineer pxt case management system": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer rbs": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer your orders federation platform": "2026-07-12T06:29:34+00:00",
+"analog devices|software engineer": "2026-07-16T03:37:39+00:00",
 "anthropic|it systems engineer client platform engineer": "2026-07-14T13:22:21+00:00",
 "anyscale|software engineer platform infrastructure foundations": "2026-07-14T14:05:09+00:00",
 "anyscale|software engineer ray serve": "2026-07-14T14:05:09+00:00",
+"applicate|software engineer": "2026-07-16T03:37:38+00:00",
 "atlassian|principle software engineer search and data": "2026-07-12T06:29:34+00:00",
 "atlassian|software engineer": "2026-07-12T06:29:34+00:00",
 "benchling|software engineer platform developer experience": "2026-07-14T13:22:21+00:00",
@@ -1111,6 +1162,9 @@
 "salesforce|performance engineer mts": "2026-07-13T10:18:54+00:00",
 "salesforce|software engineering smts mts platform engineering distributed systems infrastructure": "2026-07-13T07:37:11+00:00",
 "saviynt|software engineer java": "2026-07-14T14:05:09+00:00",
+"scout incorporation|full stack software engineer": "2026-07-16T03:37:39+00:00",
+"scout incorporation|software development engineer": "2026-07-16T03:37:38+00:00",
+"scout incorporation|software engineer": "2026-07-16T03:37:38+00:00",
 "stripe|backend engineer ai security": "2026-07-14T13:22:23+00:00",
 "stripe|backend engineer core tech canada": "2026-07-14T13:22:23+00:00",
 "stripe|backend engineer core technology": "2026-07-14T13:22:23+00:00",
@@ -1120,6 +1174,7 @@
 "stripe|software engineer security analytics infrastructure": "2026-07-14T13:22:23+00:00",
 "supabase|software engineer auth": "2026-07-14T13:22:23+00:00",
 "supabase|software engineer iac platform experience": "2026-07-14T13:22:23+00:00",
+"techbiz global gmbh|full stack developer": "2026-07-16T03:37:38+00:00",
 "the auction collective|software engineer fullstack python react node aws genai": "2026-07-15T10:15:46+00:00",
 "the boeing company|associate ate software engineer": "2026-07-15T06:28:20+00:00",
 "the boeing company|associate software engineer": "2026-07-15T06:28:20+00:00",

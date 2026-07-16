@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-15 21:15 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-16 03:37 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (71)
+## 🎯 To apply (76)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-07-16 | Robotics Software Engineer Advanced Robotics | Addverb Technologies | [apply ↗](https://www.adzuna.in/details/5802074257?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802074257?utm_medium=api&` |
+| — | 2026-07-16 | Software Engineer | Applicate | [apply ↗](https://www.adzuna.in/details/5802073842?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802073842?utm_medium=api&` |
+| — | 2026-07-16 | Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5802024792?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802024792?utm_medium=api&` |
+| — | 2026-07-16 | Full Stack Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5802024856?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802024856?utm_medium=api&` |
+| — | 2026-07-16 | Software Engineer | Microsoft | [apply ↗](https://www.adzuna.in/details/5801820935?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5801820935?utm_medium=api&` |
 | — | 2026-07-15 | Software Engineer - Angular NodeJS | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5800543758?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800543758?utm_medium=api&` |
 | — | 2026-07-15 | Software Engineering (SMTS / MTS) – Platform Engineering (Distributed Systems & Infrastructure) | Salesforce | [apply ↗](https://www.adzuna.in/details/5800411496?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800411496?utm_medium=api&` |
 | — | 2026-07-15 | Software Engineer | Ford Motor | [apply ↗](https://www.adzuna.in/details/5800411305?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5800411305?utm_medium=api&` |
