@@ -1000,6 +1000,42 @@
 "first": "2026-07-17T03:37:18+00:00",
 "sig": "micro academy india private limited|java fullstack"
 },
+"https://www.adzuna.in/details/5804445029?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T06:27:35+00:00",
+"sig": "amazon|software dev engineer i ftc"
+},
+"https://www.adzuna.in/details/5804445143?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T06:27:35+00:00",
+"sig": "applied materials|software engineer"
+},
+"https://www.adzuna.in/details/5804445302?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T06:27:35+00:00",
+"sig": "cisco|software engineer"
+},
+"https://www.adzuna.in/details/5804445508?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T06:27:35+00:00",
+"sig": "fortive corporation|software engineer"
+},
+"https://www.adzuna.in/details/5804445521?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T06:27:35+00:00",
+"sig": "ge healthcare|software engineer"
+},
+"https://www.adzuna.in/details/5804445781?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T06:27:35+00:00",
+"sig": "ibm|full stack storage software engineer java script java full stack"
+},
+"https://www.adzuna.in/details/5804445890?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T06:27:35+00:00",
+"sig": "kyndryl|software engineer full stack development"
+},
+"https://www.adzuna.in/details/5804445892?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T06:27:35+00:00",
+"sig": "kyndryl|software engineer full stack development"
+},
+"https://www.adzuna.in/details/5804446148?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T06:27:35+00:00",
+"sig": "netapp|software engineer embedded firmware c c"
+},
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "amazon|software development engineer amazon opensearch service diy observability"
@@ -1195,6 +1231,7 @@
 "anyscale|software engineer platform infrastructure foundations": "2026-07-14T14:05:09+00:00",
 "anyscale|software engineer ray serve": "2026-07-14T14:05:09+00:00",
 "applicate|software engineer": "2026-07-16T03:37:38+00:00",
+"applied materials|software engineer": "2026-07-17T06:27:35+00:00",
 "ascendion|python fullstack engineer": "2026-07-17T03:37:18+00:00",
 "atlassian|principle software engineer search and data": "2026-07-12T06:29:34+00:00",
 "atlassian|software engineer": "2026-07-12T06:29:34+00:00",
@@ -1203,6 +1240,7 @@
 "bosch|full stack angular c": "2026-07-12T12:26:42+00:00",
 "bosch|net full stack developer": "2026-07-15T14:09:35+00:00",
 "bosch|vehicle application engineer": "2026-07-13T15:15:06+00:00",
+"cisco|software engineer": "2026-07-17T06:27:35+00:00",
 "clickhouse|cloud software engineer observability platform": "2026-07-12T12:26:42+00:00",
 "clickhouse|core software engineer c remote": "2026-07-12T12:26:43+00:00",
 "clickhouse|full stack software engineer billing team": "2026-07-12T12:26:43+00:00",
@@ -1230,6 +1268,8 @@
 "epifi|member of technical staff mts devops infrastructure": "2026-07-14T14:05:09+00:00",
 "experian|software engineer java full stack aws": "2026-07-15T14:09:35+00:00",
 "ford motor|software engineer": "2026-07-15T03:34:54+00:00",
+"fortive corporation|software engineer": "2026-07-17T06:27:35+00:00",
+"ge healthcare|software engineer": "2026-07-17T06:27:35+00:00",
 "gitlab|backend engineer ruby ai engineering agent observability": "2026-07-14T13:22:22+00:00",
 "gitlab|intermediate backend engineer analytics instrumentation": "2026-07-14T13:22:22+00:00",
 "gitlab|intermediate backend engineer c tenant scale git": "2026-07-14T13:22:22+00:00",
@@ -1247,6 +1287,7 @@
 "google|software engineer phd early career networking start": "2026-07-12T06:29:34+00:00",
 "hackerrank|software development engineer in test i": "2026-07-14T13:22:22+00:00",
 "hewlett packard enterprise|graduate software engineer": "2026-07-15T10:15:46+00:00",
+"ibm|full stack storage software engineer java script java full stack": "2026-07-17T06:27:35+00:00",
 "ibm|software engineer confluent": "2026-07-14T12:15:30+00:00",
 "jobgether|full stack engineer": "2026-07-15T03:34:54+00:00",
 "jumpcloud|software engineer ai platform t rkiye": "2026-07-14T14:05:09+00:00",
@@ -1274,6 +1315,7 @@
 "moody's|software engineer": "2026-07-14T13:22:20+00:00",
 "naehas|software engineer python": "2026-07-14T12:15:30+00:00",
 "netapp|software engineer": "2026-07-16T06:31:28+00:00",
+"netapp|software engineer embedded firmware c c": "2026-07-17T06:27:35+00:00",
 "netapp|software engineer golang java python microservices cloud": "2026-07-16T06:31:28+00:00",
 "nice|software engineer cx": "2026-07-17T03:37:18+00:00",
 "nielseniq|software engineer angular nodejs": "2026-07-15T03:34:54+00:00",
