@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-17 06:27 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-17 10:12 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (93)
+## 🎯 To apply (97)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-17 | Software Engineer | GE HealthCare | [apply ↗](https://www.adzuna.in/details/5804445521?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804445521?utm_medium=api&` |
 | — | 2026-07-17 | Software Engineer | Fortive Corporation | [apply ↗](https://www.adzuna.in/details/5804445508?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804445508?utm_medium=api&` |
 | — | 2026-07-17 | Software Dev Engineer I FTC | Amazon | [apply ↗](https://www.adzuna.in/details/5804445029?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804445029?utm_medium=api&` |
+| — | 2026-07-17 | Software Engineer (React / AI Integrations) | Lalitech | [apply ↗](https://www.adzuna.in/details/5804689393?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804689393?utm_medium=api&` |
+| — | 2026-07-17 | Software Development Engineer, Loss Prevention Tech, WWOS Corporate | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5804687012?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804687012?utm_medium=api&` |
+| — | 2026-07-17 | Software Engineer | CGI | [apply ↗](https://www.adzuna.in/details/5804686458?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804686458?utm_medium=api&` |
+| — | 2026-07-17 | Associate Software Engineer | Electronic Arts  | [apply ↗](https://www.adzuna.in/details/5804686541?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804686541?utm_medium=api&` |
 | — | 2026-07-16 | Robotics Software Engineer Advanced Robotics | Addverb Technologies | [apply ↗](https://www.adzuna.in/details/5802074257?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802074257?utm_medium=api&` |
 | — | 2026-07-16 | Software Engineer | Applicate | [apply ↗](https://www.adzuna.in/details/5802073842?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802073842?utm_medium=api&` |
 | — | 2026-07-16 | Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5802024792?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802024792?utm_medium=api&` |
