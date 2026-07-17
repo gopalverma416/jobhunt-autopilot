@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-17 17:30 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-17 21:08 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (97)
+## 🎯 To apply (99)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -18,6 +18,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-17 | Software Development Engineer, Loss Prevention Tech, WWOS Corporate | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5804687012?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804687012?utm_medium=api&` |
 | — | 2026-07-17 | Software Engineer | CGI | [apply ↗](https://www.adzuna.in/details/5804686458?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804686458?utm_medium=api&` |
 | — | 2026-07-17 | Associate Software Engineer | Electronic Arts  | [apply ↗](https://www.adzuna.in/details/5804686541?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804686541?utm_medium=api&` |
+| — | 2026-07-17 | Software Engineer Full Stack | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/123915498449445574-software-engineer-full-stack) | `python track.py applied 123915498449445574-softwar` |
+| — | 2026-07-17 | Software Engineer I | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I_R-282195) | `python track.py applied Software-Engineer-I_R-2821` |
 | — | 2026-07-16 | Robotics Software Engineer Advanced Robotics | Addverb Technologies | [apply ↗](https://www.adzuna.in/details/5802074257?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802074257?utm_medium=api&` |
 | — | 2026-07-16 | Software Engineer | Applicate | [apply ↗](https://www.adzuna.in/details/5802073842?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802073842?utm_medium=api&` |
 | — | 2026-07-16 | Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5802024792?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802024792?utm_medium=api&` |
