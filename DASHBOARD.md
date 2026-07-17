@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-16 21:16 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-17 03:37 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (89)
+## 🎯 To apply (90)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-07-17 | Software Engineer, Full Stack, Google Cloud | Google | [apply ↗](https://www.adzuna.in/details/5803893629?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5803893629?utm_medium=api&` |
 | — | 2026-07-16 | Robotics Software Engineer Advanced Robotics | Addverb Technologies | [apply ↗](https://www.adzuna.in/details/5802074257?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802074257?utm_medium=api&` |
 | — | 2026-07-16 | Software Engineer | Applicate | [apply ↗](https://www.adzuna.in/details/5802073842?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802073842?utm_medium=api&` |
 | — | 2026-07-16 | Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5802024792?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5802024792?utm_medium=api&` |

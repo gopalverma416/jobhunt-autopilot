@@ -932,6 +932,74 @@
 "first": "2026-07-16T21:16:31+00:00",
 "sig": "sparix global.|ai native software engineer"
 },
+"https://www.adzuna.in/details/5803893629?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "google|software engineer full stack google cloud"
+},
+"https://www.adzuna.in/details/5803894970?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "amazon|software development engineer alexa ai logistics for infrastructure cost efficiency"
+},
+"https://www.adzuna.in/details/5803897159?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5803897595?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5803897689?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "nice|software engineer cx"
+},
+"https://www.adzuna.in/details/5803898269?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5803900120?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5803900194?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5803900678?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "dtcc|software engineer"
+},
+"https://www.adzuna.in/details/5803901693?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5803902172?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5803904473?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "accenture|full stack engineer"
+},
+"https://www.adzuna.in/details/5803904607?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5804122018?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "microstrategy india|software engineer c c"
+},
+"https://www.adzuna.in/details/5804137926?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "bizmatics india private limited|software engineer in test"
+},
+"https://www.adzuna.in/details/5804149687?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "ascendion|python fullstack engineer"
+},
+"https://www.adzuna.in/details/5804149705?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-17T03:37:18+00:00",
+"sig": "micro academy india private limited|java fullstack"
+},
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "amazon|software development engineer amazon opensearch service diy observability"
@@ -1087,6 +1155,7 @@
 },
 "sigs": {
 "accenture|custom software engineer": "2026-07-15T03:34:54+00:00",
+"accenture|full stack engineer": "2026-07-17T03:37:18+00:00",
 "adci - karnataka|sde alexa for shopping": "2026-07-14T12:15:30+00:00",
 "adci - karnataka|sde international cobranded credit cards": "2026-07-15T10:15:46+00:00",
 "adci - karnataka|software development engineer aurora mysql": "2026-07-15T10:15:46+00:00",
@@ -1102,6 +1171,7 @@
 "amazon|software dev engineer i": "2026-07-12T06:29:34+00:00",
 "amazon|software dev engineer i ftc": "2026-07-15T10:15:46+00:00",
 "amazon|software development engineer": "2026-07-14T12:15:30+00:00",
+"amazon|software development engineer alexa ai logistics for infrastructure cost efficiency": "2026-07-17T03:37:18+00:00",
 "amazon|software development engineer alexa audio alexa audio": "2026-07-13T17:25:25+00:00",
 "amazon|software development engineer am tools iss": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer amazon external payments": "2026-07-12T06:29:34+00:00",
@@ -1125,9 +1195,11 @@
 "anyscale|software engineer platform infrastructure foundations": "2026-07-14T14:05:09+00:00",
 "anyscale|software engineer ray serve": "2026-07-14T14:05:09+00:00",
 "applicate|software engineer": "2026-07-16T03:37:38+00:00",
+"ascendion|python fullstack engineer": "2026-07-17T03:37:18+00:00",
 "atlassian|principle software engineer search and data": "2026-07-12T06:29:34+00:00",
 "atlassian|software engineer": "2026-07-12T06:29:34+00:00",
 "benchling|software engineer platform developer experience": "2026-07-14T13:22:21+00:00",
+"bizmatics india private limited|software engineer in test": "2026-07-17T03:37:18+00:00",
 "bosch|full stack angular c": "2026-07-12T12:26:42+00:00",
 "bosch|net full stack developer": "2026-07-15T14:09:35+00:00",
 "bosch|vehicle application engineer": "2026-07-13T15:15:06+00:00",
@@ -1153,6 +1225,7 @@
 "dropbox|frontend product software engineer design systems": "2026-07-14T13:22:21+00:00",
 "dropbox|infrastructure software engineer": "2026-07-14T13:22:22+00:00",
 "dropbox|infrastructure software engineer release systems": "2026-07-14T13:22:22+00:00",
+"dtcc|software engineer": "2026-07-17T03:37:18+00:00",
 "epifi|member of technical staff mts core full stack backend": "2026-07-14T14:05:09+00:00",
 "epifi|member of technical staff mts devops infrastructure": "2026-07-14T14:05:09+00:00",
 "experian|software engineer java full stack aws": "2026-07-15T14:09:35+00:00",
@@ -1187,10 +1260,12 @@
 "launchdarkly|full stack engineer observability": "2026-07-14T13:22:22+00:00",
 "launchdarkly|sdk software engineer ai": "2026-07-14T13:22:22+00:00",
 "mercari, inc.|software engineer machine learning recommendation": "2026-07-14T12:15:30+00:00",
+"micro academy india private limited|java fullstack": "2026-07-17T03:37:18+00:00",
 "microsoft corporation|software engineer": "2026-07-16T06:31:28+00:00",
 "microsoft|consultant apps full stack engineer": "2026-07-12T09:19:35+00:00",
 "microsoft|software engineer": "2026-07-13T11:32:17+00:00",
 "microsoft|software engineer ai native development": "2026-07-16T14:23:21+00:00",
+"microstrategy india|software engineer c c": "2026-07-17T03:37:18+00:00",
 "millerknoll|software engineer full stack net react oracle": "2026-07-14T12:15:30+00:00",
 "mindtickle|full stack software engineer": "2026-07-14T13:22:23+00:00",
 "mindtickle|mobile app software engineer": "2026-07-14T13:22:23+00:00",
@@ -1200,6 +1275,7 @@
 "naehas|software engineer python": "2026-07-14T12:15:30+00:00",
 "netapp|software engineer": "2026-07-16T06:31:28+00:00",
 "netapp|software engineer golang java python microservices cloud": "2026-07-16T06:31:28+00:00",
+"nice|software engineer cx": "2026-07-17T03:37:18+00:00",
 "nielseniq|software engineer angular nodejs": "2026-07-15T03:34:54+00:00",
 "notion|software engineer developer experience": "2026-07-14T13:22:23+00:00",
 "notion|software engineer infrastructure": "2026-07-14T13:22:23+00:00",
