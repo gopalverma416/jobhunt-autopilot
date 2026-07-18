@@ -1,15 +1,22 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-17 21:08 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-18 03:32 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (99)
+## 🎯 To apply (106)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-07-18 | Software Engineer - Confluent | IBM | [apply ↗](https://www.adzuna.in/details/5805616848?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5805616848?utm_medium=api&` |
+| — | 2026-07-18 | Software Engineer - Backend | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5805537713?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5805537713?utm_medium=api&` |
+| — | 2026-07-18 | Associate Software Engineer Power BI | Inkey IT Solutions Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5805536273?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5805536273?utm_medium=api&` |
+| — | 2026-07-18 | Associate Software Engineer Full Stack and Cloud Pune India Office | Valtitude | [apply ↗](https://www.adzuna.in/details/5805535218?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5805535218?utm_medium=api&` |
+| — | 2026-07-18 | Software Engineer Specialist (BASE24, TAL)_10Yrs_Pune | Worldpay | [apply ↗](https://www.adzuna.in/details/5805406614?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5805406614?utm_medium=api&` |
+| — | 2026-07-18 | Software Engineer | Resilinc | [apply ↗](https://www.adzuna.in/details/5805406288?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5805406288?utm_medium=api&` |
+| — | 2026-07-18 | Software Engineer I - DaWinci (Hybrid Work Model) | Quorum Software | [apply ↗](https://www.adzuna.in/details/5805406064?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5805406064?utm_medium=api&` |
 | — | 2026-07-17 | Software Engineer, Full Stack, Google Cloud | Google | [apply ↗](https://www.adzuna.in/details/5803893629?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5803893629?utm_medium=api&` |
 | — | 2026-07-17 | Software Engineer | GE HealthCare | [apply ↗](https://www.adzuna.in/details/5804445521?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804445521?utm_medium=api&` |
 | — | 2026-07-17 | Software Engineer | Fortive Corporation | [apply ↗](https://www.adzuna.in/details/5804445508?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804445508?utm_medium=api&` |
