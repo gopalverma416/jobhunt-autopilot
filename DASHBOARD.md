@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-18 06:18 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-18 09:45 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (106)
+## 🎯 To apply (107)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -17,6 +17,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-18 | Software Engineer Specialist (BASE24, TAL)_10Yrs_Pune | Worldpay | [apply ↗](https://www.adzuna.in/details/5805406614?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5805406614?utm_medium=api&` |
 | — | 2026-07-18 | Software Engineer | Resilinc | [apply ↗](https://www.adzuna.in/details/5805406288?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5805406288?utm_medium=api&` |
 | — | 2026-07-18 | Software Engineer I - DaWinci (Hybrid Work Model) | Quorum Software | [apply ↗](https://www.adzuna.in/details/5805406064?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5805406064?utm_medium=api&` |
+| — | 2026-07-18 | Platform Software Engineer - Core Infrastructure | Nexthink | [apply ↗](https://www.adzuna.in/details/5805595789?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5805595789?utm_medium=api&` |
 | — | 2026-07-17 | Software Engineer, Full Stack, Google Cloud | Google | [apply ↗](https://www.adzuna.in/details/5803893629?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5803893629?utm_medium=api&` |
 | — | 2026-07-17 | Software Engineer | GE HealthCare | [apply ↗](https://www.adzuna.in/details/5804445521?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804445521?utm_medium=api&` |
 | — | 2026-07-17 | Software Engineer | Fortive Corporation | [apply ↗](https://www.adzuna.in/details/5804445508?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5804445508?utm_medium=api&` |
