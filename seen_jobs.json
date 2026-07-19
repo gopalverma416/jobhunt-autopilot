@@ -1204,6 +1204,30 @@
 "first": "2026-07-19T03:55:04+00:00",
 "sig": "veralto|software engineer i"
 },
+"https://www.adzuna.in/details/5806895033?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-19T06:43:12+00:00",
+"sig": "paychex|database engineer i"
+},
+"https://www.adzuna.in/details/5806895190?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-19T06:43:12+00:00",
+"sig": "applied systems, inc.|software engineer"
+},
+"https://www.adzuna.in/details/5806900694?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-19T06:43:12+00:00",
+"sig": "amazon|software development engineer loss prevention tech wwos corporate"
+},
+"https://www.adzuna.in/details/5806900837?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-19T06:43:12+00:00",
+"sig": "caterpillar, inc.|software engineer platform services"
+},
+"https://www.adzuna.in/details/5806901541?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-19T06:43:12+00:00",
+"sig": "netapp|software engineer ai platforms genai agentic systems"
+},
+"https://www.adzuna.in/details/5806902063?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-19T06:43:12+00:00",
+"sig": "cargill|software engineer food"
+},
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "amazon|software development engineer amazon opensearch service diy observability"
@@ -1394,6 +1418,7 @@
 "amazon|software development engineer eu mfn acceleration": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer i amazon payments": "2026-07-13T11:32:15+00:00",
 "amazon|software development engineer lmdt dto": "2026-07-12T06:29:34+00:00",
+"amazon|software development engineer loss prevention tech wwos corporate": "2026-07-19T06:43:12+00:00",
 "amazon|software development engineer payroll tax accounting tech": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer prime video live events publishing": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer prime video sports": "2026-07-12T06:29:34+00:00",
@@ -1408,6 +1433,7 @@
 "anyscale|software engineer ray serve": "2026-07-14T14:05:09+00:00",
 "applicate|software engineer": "2026-07-16T03:37:38+00:00",
 "applied materials|software engineer": "2026-07-17T06:27:35+00:00",
+"applied systems, inc.|software engineer": "2026-07-19T06:43:12+00:00",
 "ascendion|python fullstack engineer": "2026-07-17T03:37:18+00:00",
 "atlassian|principle software engineer search and data": "2026-07-12T06:29:34+00:00",
 "atlassian|software engineer": "2026-07-12T06:29:34+00:00",
@@ -1417,6 +1443,8 @@
 "bosch|net full stack developer": "2026-07-15T14:09:35+00:00",
 "bosch|vehicle application engineer": "2026-07-13T15:15:06+00:00",
 "capgemini|software engineer": "2026-07-18T13:49:28+00:00",
+"cargill|software engineer food": "2026-07-19T06:43:12+00:00",
+"caterpillar, inc.|software engineer platform services": "2026-07-19T06:43:12+00:00",
 "cgi|software engineer": "2026-07-17T10:12:05+00:00",
 "cisco|software engineer": "2026-07-17T06:27:35+00:00",
 "clickhouse|cloud software engineer observability platform": "2026-07-12T12:26:42+00:00",
@@ -1504,6 +1532,7 @@
 "nacre capital|full stack developer": "2026-07-17T14:03:53+00:00",
 "naehas|software engineer python": "2026-07-14T12:15:30+00:00",
 "netapp|software engineer": "2026-07-16T06:31:28+00:00",
+"netapp|software engineer ai platforms genai agentic systems": "2026-07-19T06:43:12+00:00",
 "netapp|software engineer embedded firmware c c": "2026-07-17T06:27:35+00:00",
 "netapp|software engineer golang java python microservices cloud": "2026-07-16T06:31:28+00:00",
 "nexthink|platform software engineer core infrastructure": "2026-07-18T09:44:59+00:00",
@@ -1516,6 +1545,7 @@
 "nvidia|software engineer production engineering": "2026-07-14T10:13:54+00:00",
 "nvidia|software engineer routing": "2026-07-15T17:39:00+00:00",
 "openai|data center physical security systems engineer": "2026-07-14T14:05:09+00:00",
+"paychex|database engineer i": "2026-07-19T06:43:12+00:00",
 "phonepe|software engineer android": "2026-07-12T06:29:34+00:00",
 "phonepe|software engineer ios": "2026-07-12T06:29:34+00:00",
 "phonepe|software engineer react native years": "2026-07-12T06:29:34+00:00",
