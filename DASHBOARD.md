@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-20 07:29 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-20 11:13 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (120)
+## 🎯 To apply (127)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -16,6 +16,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-20 | Full Stack Software Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5807874048?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5807874048?utm_medium=api&` |
 | — | 2026-07-20 | Fullstack software developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5807874040?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5807874040?utm_medium=api&` |
 | — | 2026-07-20 | Fullstack software developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5807874042?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5807874042?utm_medium=api&` |
+| — | 2026-07-20 | Software Development Engineer, Amazon Finance Technology | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5808007793?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5808007793?utm_medium=api&` |
+| — | 2026-07-20 | SDE, Alexa For Shopping | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5808007792?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5808007792?utm_medium=api&` |
+| — | 2026-07-20 | Graduate software engineer | Jobgenix | [apply ↗](https://www.adzuna.in/details/5808003812?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5808003812?utm_medium=api&` |
+| — | 2026-07-20 | Software Engineer | Infor | [apply ↗](https://www.adzuna.in/details/5808003948?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5808003948?utm_medium=api&` |
+| — | 2026-07-20 | Software Application Engineer | Amazon | [apply ↗](https://www.adzuna.in/details/5808003790?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5808003790?utm_medium=api&` |
+| — | 2026-07-20 | Fullstack software developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5807954822?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5807954822?utm_medium=api&` |
+| — | 2026-07-20 | Full Stack Software Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5807953879?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5807953879?utm_medium=api&` |
 | — | 2026-07-19 | Software Engineer I | veralto | [apply ↗](https://www.adzuna.in/details/5806705268?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5806705268?utm_medium=api&` |
 | — | 2026-07-19 | uReturn -Software Engineer / Applications Developer / Data Engineer | Uber | [apply ↗](https://www.adzuna.in/details/5806704499?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5806704499?utm_medium=api&` |
 | — | 2026-07-19 | Database Engineer I | Paychex | [apply ↗](https://www.adzuna.in/details/5806895033?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5806895033?utm_medium=api&` |
