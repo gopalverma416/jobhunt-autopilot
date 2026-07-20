@@ -1,16 +1,21 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-20 04:04 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-20 07:29 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (115)
+## 🎯 To apply (120)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-07-20 | Forward Deployed Engineer - Software Engineer - India | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa) | `python track.py applied c25e27d5-71ff-4763-ae7b-13` |
+| — | 2026-07-20 | Fullstack software developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5807874058?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5807874058?utm_medium=api&` |
+| — | 2026-07-20 | Fullstack software developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5807874059?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5807874059?utm_medium=api&` |
+| — | 2026-07-20 | Full Stack Software Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5807874048?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5807874048?utm_medium=api&` |
+| — | 2026-07-20 | Fullstack software developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5807874040?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5807874040?utm_medium=api&` |
+| — | 2026-07-20 | Fullstack software developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5807874042?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5807874042?utm_medium=api&` |
 | — | 2026-07-19 | Software Engineer I | veralto | [apply ↗](https://www.adzuna.in/details/5806705268?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5806705268?utm_medium=api&` |
 | — | 2026-07-19 | uReturn -Software Engineer / Applications Developer / Data Engineer | Uber | [apply ↗](https://www.adzuna.in/details/5806704499?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5806704499?utm_medium=api&` |
 | — | 2026-07-19 | Database Engineer I | Paychex | [apply ↗](https://www.adzuna.in/details/5806895033?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5806895033?utm_medium=api&` |
