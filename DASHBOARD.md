@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-21 17:45 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-21 21:33 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (137)
+## 🎯 To apply (138)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -17,6 +17,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-21 | Software Development Engineer, Fulfillment by Amazon, FBA | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5809197106?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5809197106?utm_medium=api&` |
 | — | 2026-07-21 | Backend Engineer | METRO Global Solution Center IN | [apply ↗](https://www.adzuna.in/details/5808924279?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5808924279?utm_medium=api&` |
 | — | 2026-07-21 | Software Engineer Workspace Search Quality | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/126159953869054662-software-engineer-workspace-search-quality) | `python track.py applied 126159953869054662-softwar` |
+| — | 2026-07-21 | Software Engineer | Eurofins GSC IT DC | [apply ↗](https://www.adzuna.in/details/5809629149?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5809629149?utm_medium=api&` |
 | — | 2026-07-20 | Forward Deployed Engineer - Software Engineer - India | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/c25e27d5-71ff-4763-ae7b-137d0c252efa) | `python track.py applied c25e27d5-71ff-4763-ae7b-13` |
 | — | 2026-07-20 | Fullstack software developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5807874058?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5807874058?utm_medium=api&` |
 | — | 2026-07-20 | Fullstack software developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5807874059?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5807874059?utm_medium=api&` |
