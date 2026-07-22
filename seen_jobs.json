@@ -644,6 +644,14 @@
 "first": "2026-07-22T06:42:27+00:00",
 "sig": "bosch|net full stack architect ms eac em coimbatore"
 },
+"https://jobs.smartrecruiters.com/BoschGroup/744000139043844": {
+"first": "2026-07-22T14:22:20+00:00",
+"sig": "bosch|cross domain full stack software engineer"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000139045269": {
+"first": "2026-07-22T14:22:20+00:00",
+"sig": "bosch|full stack developer for web applications"
+},
 "https://jobs.smartrecruiters.com/Zomato1/104244178": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "zomato|software engineer back end"
@@ -1568,6 +1576,10 @@
 "first": "2026-07-22T10:34:12+00:00",
 "sig": "adci - maharashtra|software development engineer alexa ai developer tech"
 },
+"https://www.adzuna.in/details/5810904557?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-22T14:22:20+00:00",
+"sig": "weekday ai|software engineer"
+},
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "amazon|software development engineer amazon opensearch service diy observability"
@@ -1854,7 +1866,9 @@
 "barclays|software engineer": "2026-07-22T03:46:27+00:00",
 "benchling|software engineer platform developer experience": "2026-07-14T13:22:21+00:00",
 "bizmatics india private limited|software engineer in test": "2026-07-17T03:37:18+00:00",
+"bosch|cross domain full stack software engineer": "2026-07-22T14:22:20+00:00",
 "bosch|full stack angular c": "2026-07-12T12:26:42+00:00",
+"bosch|full stack developer for web applications": "2026-07-22T14:22:20+00:00",
 "bosch|net full stack architect ms eac em coimbatore": "2026-07-22T06:42:27+00:00",
 "bosch|net full stack developer": "2026-07-15T14:09:35+00:00",
 "bosch|vehicle application engineer": "2026-07-13T15:15:06+00:00",
@@ -2088,6 +2102,7 @@
 "weekday ai|java software engineer": "2026-07-16T17:40:23+00:00",
 "weekday ai|sde software development engineer": "2026-07-20T18:19:55+00:00",
 "weekday ai|software development engineer in test sdet": "2026-07-17T10:12:05+00:00",
+"weekday ai|software engineer": "2026-07-22T14:22:20+00:00",
 "worldpay|software engineer specialist tal pune": "2026-07-18T03:32:23+00:00",
 "youtrip|frontend software engineer web": "2026-07-21T17:45:43+00:00",
 "zapier|software engineer release engineering": "2026-07-14T14:05:09+00:00",
