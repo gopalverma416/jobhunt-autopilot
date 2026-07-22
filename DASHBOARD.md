@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-21 21:33 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-22 03:46 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (138)
+## 🎯 To apply (140)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-07-22 | Software Engineer – GoLang | The Future University | [apply ↗](https://www.adzuna.in/details/5810200784?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5810200784?utm_medium=api&` |
+| — | 2026-07-22 | Software Engineer | Barclays | [apply ↗](https://www.adzuna.in/details/5809895601?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5809895601?utm_medium=api&` |
 | — | 2026-07-21 | Software Engineer Performance Engineering | Caterpillar | [apply ↗](https://www.adzuna.in/details/5808698559?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5808698559?utm_medium=api&` |
 | — | 2026-07-21 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5808495900?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5808495900?utm_medium=api&` |
 | — | 2026-07-21 | Full Stack Engineer | CT Nova | [apply ↗](https://www.adzuna.in/details/5809200136?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5809200136?utm_medium=api&` |
