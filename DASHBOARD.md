@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-22 17:41 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-22 21:30 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (148)
+## 🎯 To apply (150)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -20,6 +20,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-22 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556929001) | `python track.py applied 1970393556929001` |
 | — | 2026-07-22 | Cross-domain Full stack Software Engineer | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000139043844) | `python track.py applied 744000139043844` |
 | — | 2026-07-22 | Software Engineer, Realtime | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/7887609?gh_jid=7887609) | `python track.py applied 7887609?gh_jid=7887609` |
+| — | 2026-07-22 | Software Engineer | Eurofins GSC IT DC | [apply ↗](https://www.adzuna.in/details/5811132532?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5811132532?utm_medium=api&` |
+| — | 2026-07-22 | Software Dev Engineer I | SWIGGY | [apply ↗](https://www.adzuna.in/details/5811132427?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5811132427?utm_medium=api&` |
 | — | 2026-07-21 | Software Engineer Performance Engineering | Caterpillar | [apply ↗](https://www.adzuna.in/details/5808698559?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5808698559?utm_medium=api&` |
 | — | 2026-07-21 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5808495900?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5808495900?utm_medium=api&` |
 | — | 2026-07-21 | Full Stack Engineer | CT Nova | [apply ↗](https://www.adzuna.in/details/5809200136?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5809200136?utm_medium=api&` |
