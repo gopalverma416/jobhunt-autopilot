@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-22 06:42 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-22 10:34 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (141)
+## 🎯 To apply (146)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-22 | Software Engineer – GoLang | The Future University | [apply ↗](https://www.adzuna.in/details/5810200784?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5810200784?utm_medium=api&` |
 | — | 2026-07-22 | Software Engineer | Barclays | [apply ↗](https://www.adzuna.in/details/5809895601?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5809895601?utm_medium=api&` |
 | — | 2026-07-22 | 2025_.Net/Full Stack Architect_MS/EAC-EM_Coimbatore | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000138995839) | `python track.py applied 744000138995839` |
+| — | 2026-07-22 | Software Development Engineer, Alexa AI Developer Tech | ADCI - Maharashtra | [apply ↗](https://www.adzuna.in/details/5810747096?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5810747096?utm_medium=api&` |
+| — | 2026-07-22 | Software Development Engineer | MindBridge | [apply ↗](https://www.adzuna.in/details/5810716575?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5810716575?utm_medium=api&` |
+| — | 2026-07-22 | Software Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5810710723?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5810710723?utm_medium=api&` |
+| — | 2026-07-22 | Software Engineer | Atlassian | [apply ↗](https://careers-apac-atlassian.icims.com/jobs/25805/software-engineer/job) | `python track.py applied job` |
+| — | 2026-07-22 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556929001) | `python track.py applied 1970393556929001` |
 | — | 2026-07-21 | Software Engineer Performance Engineering | Caterpillar | [apply ↗](https://www.adzuna.in/details/5808698559?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5808698559?utm_medium=api&` |
 | — | 2026-07-21 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5808495900?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5808495900?utm_medium=api&` |
 | — | 2026-07-21 | Full Stack Engineer | CT Nova | [apply ↗](https://www.adzuna.in/details/5809200136?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5809200136?utm_medium=api&` |
