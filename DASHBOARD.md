@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-23 17:45 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-23 21:28 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (166)
+## 🎯 To apply (170)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -26,6 +26,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-23 | Software Engineer- Snowflake | Psiog | [apply ↗](https://www.adzuna.in/details/5812267298?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5812267298?utm_medium=api&` |
 | — | 2026-07-23 | Software Development Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5812528514?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5812528514?utm_medium=api&` |
 | — | 2026-07-23 | Full Stack Developer | Elite Worldgroup Inc. | [apply ↗](https://remoteOK.com/remote-jobs/remote-full-stack-developer-elite-worldgroup-inc-1135288) | `python track.py applied remote-full-stack-develope` |
+| — | 2026-07-23 | Software Engineer Data Analytics | Mattel | [apply ↗](https://www.adzuna.in/details/5812614526?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5812614526?utm_medium=api&` |
+| — | 2026-07-23 | Software Engineer - Java with Angular | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5812614067?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5812614067?utm_medium=api&` |
+| — | 2026-07-23 | Fullstack Software Engineer - Embedded Payments | Xplor | [apply ↗](https://www.adzuna.in/details/5812614039?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5812614039?utm_medium=api&` |
+| — | 2026-07-23 | Software Engineer (L2) Email | Twilio | [apply ↗](https://job-boards.greenhouse.io/twilio/jobs/7689461) | `python track.py applied 7689461` |
 | — | 2026-07-22 | Software Engineer – GoLang | The Future University | [apply ↗](https://www.adzuna.in/details/5810200784?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5810200784?utm_medium=api&` |
 | — | 2026-07-22 | Software Engineer | Barclays | [apply ↗](https://www.adzuna.in/details/5809895601?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5809895601?utm_medium=api&` |
 | — | 2026-07-22 | 2025_.Net/Full Stack Architect_MS/EAC-EM_Coimbatore | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000138995839) | `python track.py applied 744000138995839` |
