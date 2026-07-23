@@ -704,6 +704,10 @@
 "first": "2026-07-13T15:15:06+00:00",
 "sig": "nvidia|software engineer openshell"
 },
+"https://remoteOK.com/remote-jobs/remote-full-stack-developer-elite-worldgroup-inc-1135288": {
+"first": "2026-07-23T17:45:40+00:00",
+"sig": "elite worldgroup inc.|full stack developer"
+},
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Software-Engineering-SMTS---MTS----Platform-Engineering--Backend--Kubernetes---Cloud-_JR347341": {
 "first": "2026-07-13T07:37:11+00:00",
 "sig": "salesforce|software engineering smts mts platform engineering distributed systems infrastructure"
@@ -718,6 +722,10 @@
 },
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR351520-1": {
 "first": "2026-07-22T21:30:31+00:00",
+"sig": "salesforce|software engineering mts"
+},
+"https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR352343": {
+"first": "2026-07-23T17:45:40+00:00",
 "sig": "salesforce|software engineering mts"
 },
 "https://stripe.com/jobs/search?gh_jid=6042172": {
@@ -1696,6 +1704,38 @@
 "first": "2026-07-23T14:32:21+00:00",
 "sig": "psiog|software engineer snowflake"
 },
+"https://www.adzuna.in/details/5812528329?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-23T17:45:40+00:00",
+"sig": "accenture|software development engineer"
+},
+"https://www.adzuna.in/details/5812528359?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-23T17:45:40+00:00",
+"sig": "accenture|software development engineer"
+},
+"https://www.adzuna.in/details/5812528371?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-23T17:45:40+00:00",
+"sig": "accenture|software development engineer"
+},
+"https://www.adzuna.in/details/5812528413?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-23T17:45:40+00:00",
+"sig": "accenture|software development engineer"
+},
+"https://www.adzuna.in/details/5812528419?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-23T17:45:40+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5812528463?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-23T17:45:40+00:00",
+"sig": "accenture|software development engineer"
+},
+"https://www.adzuna.in/details/5812528514?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-23T17:45:40+00:00",
+"sig": "accenture|software development engineer"
+},
+"https://www.adzuna.in/details/5812528533?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-23T17:45:40+00:00",
+"sig": "accenture|custom software engineer"
+},
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "amazon|software development engineer amazon opensearch service diy observability"
@@ -1852,6 +1892,10 @@
 "first": "2026-07-23T14:32:21+00:00",
 "sig": "amazon|software development engineer rbs tech"
 },
+"https://www.amazon.jobs/en/jobs/10482556/software-development-engineer-amazon-traffic-engineering": {
+"first": "2026-07-23T17:45:40+00:00",
+"sig": "amazon|software development engineer amazon traffic engineering"
+},
 "https://www.cockroachlabs.com/careers/job/?gh_jid=7774966": {
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "cockroachlabs|member of technical staff test engineering"
@@ -1937,6 +1981,7 @@
 "abb|software engineer": "2026-07-18T17:14:36+00:00",
 "accenture|custom software engineer": "2026-07-15T03:34:54+00:00",
 "accenture|full stack engineer": "2026-07-17T03:37:18+00:00",
+"accenture|software development engineer": "2026-07-23T17:45:40+00:00",
 "adci - karnataka - a66|systems development engineer i": "2026-07-18T13:49:28+00:00",
 "adci - karnataka|sde alexa for shopping": "2026-07-14T12:15:30+00:00",
 "adci - karnataka|sde international cobranded credit cards": "2026-07-15T10:15:46+00:00",
@@ -2052,6 +2097,7 @@
 "dtcc|software engineer": "2026-07-17T03:37:18+00:00",
 "electronic arts|associate software engineer": "2026-07-17T10:12:05+00:00",
 "elevenlabs|forward deployed engineer software engineer india": "2026-07-20T04:04:49+00:00",
+"elite worldgroup inc.|full stack developer": "2026-07-23T17:45:40+00:00",
 "epifi|member of technical staff mts core full stack backend": "2026-07-14T14:05:09+00:00",
 "epifi|member of technical staff mts devops infrastructure": "2026-07-14T14:05:09+00:00",
 "eurofins gsc it dc|software engineer": "2026-07-21T03:45:19+00:00",
