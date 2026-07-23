@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-23 06:40 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-23 10:35 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (159)
+## 🎯 To apply (163)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -19,6 +19,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-23 | Software Engineer | HSBC | [apply ↗](https://www.adzuna.in/details/5811918080?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5811918080?utm_medium=api&` |
 | — | 2026-07-23 | Associate Engineer | Otis Elevator Company | [apply ↗](https://www.adzuna.in/details/5811917552?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5811917552?utm_medium=api&` |
 | — | 2026-07-23 | Software Engineer | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5811917435?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5811917435?utm_medium=api&` |
+| — | 2026-07-23 | Software Development Engineer, Customer Experience and Business Trends | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5812186233?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5812186233?utm_medium=api&` |
+| — | 2026-07-23 | Software Engineer | Microsoft | [apply ↗](https://www.adzuna.in/details/5812180431?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5812180431?utm_medium=api&` |
+| — | 2026-07-23 | Intermediate Backend Engineer - Platform Integrations (Monetization) | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8615332002) | `python track.py applied 8615332002` |
+| — | 2026-07-23 | Software Engineer Atlas | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8076301?gh_jid=8076301) | `python track.py applied job.8076301?gh_jid=8076301` |
 | — | 2026-07-22 | Software Engineer – GoLang | The Future University | [apply ↗](https://www.adzuna.in/details/5810200784?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5810200784?utm_medium=api&` |
 | — | 2026-07-22 | Software Engineer | Barclays | [apply ↗](https://www.adzuna.in/details/5809895601?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5809895601?utm_medium=api&` |
 | — | 2026-07-22 | 2025_.Net/Full Stack Architect_MS/EAC-EM_Coimbatore | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000138995839) | `python track.py applied 744000138995839` |

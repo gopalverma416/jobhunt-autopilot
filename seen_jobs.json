@@ -212,6 +212,10 @@
 "first": "2026-07-14T13:22:22+00:00",
 "sig": "gitlab|intermediate backend engineer c tenant scale git"
 },
+"https://job-boards.greenhouse.io/gitlab/jobs/8615332002": {
+"first": "2026-07-23T10:34:57+00:00",
+"sig": "gitlab|intermediate backend engineer platform integrations monetization"
+},
 "https://job-boards.greenhouse.io/gitlab/jobs/8615389002": {
 "first": "2026-07-14T13:22:22+00:00",
 "sig": "gitlab|intermediate backend engineer analytics instrumentation"
@@ -1672,6 +1676,18 @@
 "first": "2026-07-23T06:40:12+00:00",
 "sig": "unitedhealth group|full stack engineer"
 },
+"https://www.adzuna.in/details/5812180431?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-23T10:34:57+00:00",
+"sig": "microsoft|software engineer"
+},
+"https://www.adzuna.in/details/5812186233?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-23T10:34:57+00:00",
+"sig": "adci - karnataka|software development engineer customer experience and business trends"
+},
+"https://www.adzuna.in/details/5812188675?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-23T10:34:57+00:00",
+"sig": "tifin fintech india|fullstack engineer"
+},
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "amazon|software development engineer amazon opensearch service diy observability"
@@ -1816,6 +1832,10 @@
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "cockroachlabs|member of technical staff test engineering"
 },
+"https://www.cockroachlabs.com/careers/job/?gh_jid=8055417": {
+"first": "2026-07-23T10:34:57+00:00",
+"sig": "cockroachlabs|member of technical staff"
+},
 "https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051": {
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "coinbase|software engineer eaa integrations"
@@ -1883,6 +1903,10 @@
 "https://www.rubrik.com/company/careers/departments/job.8050714?gh_jid=8050714": {
 "first": "2026-07-14T06:28:46+00:00",
 "sig": "rubrik|software engineer hypervisor"
+},
+"https://www.rubrik.com/company/careers/departments/job.8076301?gh_jid=8076301": {
+"first": "2026-07-23T10:34:57+00:00",
+"sig": "rubrik|software engineer atlas"
 }
 },
 "sigs": {
@@ -1895,6 +1919,7 @@
 "adci - karnataka|software development engineer": "2026-07-19T10:01:52+00:00",
 "adci - karnataka|software development engineer amazon pharmacy amazon phamarcy": "2026-07-21T10:33:53+00:00",
 "adci - karnataka|software development engineer aurora mysql": "2026-07-15T10:15:46+00:00",
+"adci - karnataka|software development engineer customer experience and business trends": "2026-07-23T10:34:57+00:00",
 "adci - karnataka|software development engineer fulfillment by amazon fba": "2026-07-21T10:33:53+00:00",
 "adci - karnataka|software development engineer loss prevention tech wwos corporate": "2026-07-17T10:12:05+00:00",
 "adci - maharashtra|software development engineer alexa ai developer tech": "2026-07-22T10:34:12+00:00",
@@ -1986,6 +2011,7 @@
 "cloudflare|software engineer realtime": "2026-07-22T17:41:31+00:00",
 "cloudflare|systems engineer maps": "2026-07-14T13:22:21+00:00",
 "cloudflare|threat intelligence software engineer cloudforce one": "2026-07-14T13:22:21+00:00",
+"cockroachlabs|member of technical staff": "2026-07-23T10:34:57+00:00",
 "cockroachlabs|member of technical staff test engineering": "2026-07-14T13:22:21+00:00",
 "coinbase|software engineer": "2026-07-14T13:22:21+00:00",
 "coinbase|software engineer eaa integrations": "2026-07-14T13:22:21+00:00",
@@ -2012,6 +2038,7 @@
 "gitlab|backend engineer ruby ai engineering agent observability": "2026-07-14T13:22:22+00:00",
 "gitlab|intermediate backend engineer analytics instrumentation": "2026-07-14T13:22:22+00:00",
 "gitlab|intermediate backend engineer c tenant scale git": "2026-07-14T13:22:22+00:00",
+"gitlab|intermediate backend engineer platform integrations monetization": "2026-07-23T10:34:57+00:00",
 "gitlab|intermediate fullstack engineer data products": "2026-07-14T13:22:22+00:00",
 "glean|software engineer agents": "2026-07-12T12:26:43+00:00",
 "glean|software engineer backend": "2026-07-12T12:26:43+00:00",
@@ -2138,6 +2165,7 @@
 "render|software engineer product all levels": "2026-07-14T13:22:23+00:00",
 "render|software engineer security all levels": "2026-07-14T13:22:23+00:00",
 "resilinc|software engineer": "2026-07-18T03:32:23+00:00",
+"rubrik|software engineer atlas": "2026-07-23T10:34:57+00:00",
 "rubrik|software engineer hypervisor": "2026-07-14T06:28:46+00:00",
 "s&p global|associate software development engineer information security": "2026-07-18T17:14:36+00:00",
 "salesforce|mts smts lmts software engineer": "2026-07-13T07:37:11+00:00",
@@ -2170,6 +2198,7 @@
 "the boeing company|associate software engineer": "2026-07-15T06:28:20+00:00",
 "the cigna group|software engineering associate advisor hih evernorth": "2026-07-21T03:45:19+00:00",
 "the future university|software engineer golang": "2026-07-22T03:46:27+00:00",
+"tifin fintech india|fullstack engineer": "2026-07-23T10:34:57+00:00",
 "trackier|software development engineer i backend": "2026-07-14T12:15:30+00:00",
 "trigent software private limited|custom software engineer asp net mvc": "2026-07-20T18:19:55+00:00",
 "trigent software private limited|custom software engineer sap mm materials management": "2026-07-22T21:30:31+00:00",
