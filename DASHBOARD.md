@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-24 14:13 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-24 17:52 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (180)
+## 🎯 To apply (181)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -20,6 +20,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-24 | Software Development Engineer, Amazon Traffic Engineering | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5813703678?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5813703678?utm_medium=api&` |
 | — | 2026-07-24 | Software Engineer [Data Engineer - Python, SQL, Snowflake, Cloud, Devops (CI/CD pipeline) AI (Co-pilot usage and prompt engineering/ Gen AI), Docker, Kubernetes] | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5813480580?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5813480580?utm_medium=api&` |
 | — | 2026-07-24 | Software Engineer (L2) | Twilio | [apply ↗](https://job-boards.greenhouse.io/twilio/jobs/7946610) | `python track.py applied 7946610` |
+| — | 2026-07-24 | Associate Software Engineer - Full Stack | Staples India Business Innovation Hub Private Limited | [apply ↗](https://www.adzuna.in/details/5814178672?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5814178672?utm_medium=api&` |
 | — | 2026-07-23 | Software Engineer - Java | PayU | [apply ↗](https://www.adzuna.in/details/5811736520?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5811736520?utm_medium=api&` |
 | — | 2026-07-23 | Backend Engineer | Cult fit | [apply ↗](https://www.adzuna.in/details/5811731128?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5811731128?utm_medium=api&` |
 | — | 2026-07-23 | Software Engineer | Opentext | [apply ↗](https://www.adzuna.in/details/5811730721?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5811730721?utm_medium=api&` |
