@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-24 03:44 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-24 06:39 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (174)
+## 🎯 To apply (176)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-24 | Jr. Software Engineer | CannonDesign | [apply ↗](https://www.adzuna.in/details/5812907806?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5812907806?utm_medium=api&` |
 | — | 2026-07-24 | Experienced .Net Systems Engineer | Hewlett Packard Enterprise | [apply ↗](https://www.adzuna.in/details/5812906861?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5812906861?utm_medium=api&` |
 | — | 2026-07-24 | Junior Software Engineer | Haystack | [apply ↗](https://remoteOK.com/remote-jobs/remote-junior-software-engineer-haystack-1135318) | `python track.py applied remote-junior-software-eng` |
+| — | 2026-07-24 | Software Engineer - Backend | GE Vernova | [apply ↗](https://www.adzuna.in/details/5813414532?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5813414532?utm_medium=api&` |
+| — | 2026-07-24 | Java Full Stack Engineer | Citigroup | [apply ↗](https://www.adzuna.in/details/5813414201?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5813414201?utm_medium=api&` |
 | — | 2026-07-23 | Software Engineer - Java | PayU | [apply ↗](https://www.adzuna.in/details/5811736520?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5811736520?utm_medium=api&` |
 | — | 2026-07-23 | Backend Engineer | Cult fit | [apply ↗](https://www.adzuna.in/details/5811731128?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5811731128?utm_medium=api&` |
 | — | 2026-07-23 | Software Engineer | Opentext | [apply ↗](https://www.adzuna.in/details/5811730721?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5811730721?utm_medium=api&` |
