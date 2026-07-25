@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-24 21:21 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-25 03:37 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (183)
+## 🎯 To apply (185)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-07-25 | Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5814757318?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5814757318?utm_medium=api&` |
+| — | 2026-07-25 | Intermediate Backend Engineer - Platform Integrations (Monetization) | GitLab | [apply ↗](https://www.adzuna.in/details/5814521926?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5814521926?utm_medium=api&` |
 | — | 2026-07-24 | Software Engineer - Confluent | IBM | [apply ↗](https://www.adzuna.in/details/5813204336?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5813204336?utm_medium=api&` |
 | — | 2026-07-24 | Jr. Software Engineer | CannonDesign | [apply ↗](https://www.adzuna.in/details/5812907806?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5812907806?utm_medium=api&` |
 | — | 2026-07-24 | Experienced .Net Systems Engineer | Hewlett Packard Enterprise | [apply ↗](https://www.adzuna.in/details/5812906861?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5812906861?utm_medium=api&` |
