@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-26 13:56 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-26 17:15 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (203)
+## 🎯 To apply (204)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -19,6 +19,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-26 | Software Engineer I, ITC | Nike | [apply ↗](https://www.adzuna.in/details/5816233139?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816233139?utm_medium=api&` |
 | — | 2026-07-26 | IT Engineer I | Honeywell | [apply ↗](https://www.adzuna.in/details/5816232857?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816232857?utm_medium=api&` |
 | — | 2026-07-26 | Software Engineer | Capgemini | [apply ↗](https://www.adzuna.in/details/5816436564?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816436564?utm_medium=api&` |
+| — | 2026-07-26 | Embedded Software Engineer | SolarEdge | [apply ↗](https://www.adzuna.in/details/5816569761?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816569761?utm_medium=api&` |
 | — | 2026-07-25 | Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5814757318?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5814757318?utm_medium=api&` |
 | — | 2026-07-25 | Intermediate Backend Engineer - Platform Integrations (Monetization) | GitLab | [apply ↗](https://www.adzuna.in/details/5814521926?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5814521926?utm_medium=api&` |
 | — | 2026-07-25 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5814996156?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5814996156?utm_medium=api&` |
