@@ -1,15 +1,19 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-25 21:08 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-26 03:55 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (194)
+## 🎯 To apply (198)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-07-26 | Software Engineer - Backend | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5816029418?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816029418?utm_medium=api&` |
+| — | 2026-07-26 | Backend Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5816029430?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816029430?utm_medium=api&` |
+| — | 2026-07-26 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5815851552?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5815851552?utm_medium=api&` |
+| — | 2026-07-26 | Software Engineer I | OpenGov | [apply ↗](https://www.adzuna.in/details/5815850028?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5815850028?utm_medium=api&` |
 | — | 2026-07-25 | Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5814757318?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5814757318?utm_medium=api&` |
 | — | 2026-07-25 | Intermediate Backend Engineer - Platform Integrations (Monetization) | GitLab | [apply ↗](https://www.adzuna.in/details/5814521926?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5814521926?utm_medium=api&` |
 | — | 2026-07-25 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5814996156?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5814996156?utm_medium=api&` |
