@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-26 03:55 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-26 06:49 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (198)
+## 🎯 To apply (202)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-26 | Backend Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5816029430?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816029430?utm_medium=api&` |
 | — | 2026-07-26 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5815851552?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5815851552?utm_medium=api&` |
 | — | 2026-07-26 | Software Engineer I | OpenGov | [apply ↗](https://www.adzuna.in/details/5815850028?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5815850028?utm_medium=api&` |
+| — | 2026-07-26 | Software Engineer 1 - IN | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5816234736?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816234736?utm_medium=api&` |
+| — | 2026-07-26 | Software Engineer - Backend Java, Spring Boot, Microservices, Kafka, AI/ML, Gen AI | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5816233658?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816233658?utm_medium=api&` |
+| — | 2026-07-26 | Software Engineer I, ITC | Nike | [apply ↗](https://www.adzuna.in/details/5816233139?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816233139?utm_medium=api&` |
+| — | 2026-07-26 | IT Engineer I | Honeywell | [apply ↗](https://www.adzuna.in/details/5816232857?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816232857?utm_medium=api&` |
 | — | 2026-07-25 | Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5814757318?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5814757318?utm_medium=api&` |
 | — | 2026-07-25 | Intermediate Backend Engineer - Platform Integrations (Monetization) | GitLab | [apply ↗](https://www.adzuna.in/details/5814521926?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5814521926?utm_medium=api&` |
 | — | 2026-07-25 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5814996156?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5814996156?utm_medium=api&` |
