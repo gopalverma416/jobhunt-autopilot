@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-26 21:11 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-27 04:02 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (204)
+## 🎯 To apply (209)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-07-27 | Backend Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5816994884?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816994884?utm_medium=api&` |
+| — | 2026-07-27 | Software Engineer (SRE) | Jobgether | [apply ↗](https://www.adzuna.in/details/5816843411?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816843411?utm_medium=api&` |
+| — | 2026-07-27 | Software Engineer | Cisco Systems | [apply ↗](https://www.adzuna.in/details/5816842563?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816842563?utm_medium=api&` |
+| — | 2026-07-27 | Software Engineer (Java and AWS) | Jobgether | [apply ↗](https://www.adzuna.in/details/5816842462?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816842462?utm_medium=api&` |
+| — | 2026-07-27 | Software Engineer, AVP | Natwest Group | [apply ↗](https://www.adzuna.in/details/5816841896?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816841896?utm_medium=api&` |
 | — | 2026-07-26 | Software Engineer - Backend | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5816029418?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816029418?utm_medium=api&` |
 | — | 2026-07-26 | Backend Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5816029430?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816029430?utm_medium=api&` |
 | — | 2026-07-26 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5815851552?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5815851552?utm_medium=api&` |
