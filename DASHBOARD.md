@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-28 03:35 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-28 06:40 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (219)
+## 🎯 To apply (220)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-28 | Software Engineer AI/ML | Arista Networks | [apply ↗](https://www.adzuna.in/details/5817921266?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5817921266?utm_medium=api&` |
 | — | 2026-07-28 | Software Engineer - Orchestrator | Arista Networks | [apply ↗](https://www.adzuna.in/details/5817921195?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5817921195?utm_medium=api&` |
 | — | 2026-07-28 | Software Engineer (Routing Protocols) | Arista Networks | [apply ↗](https://www.adzuna.in/details/5817921247?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5817921247?utm_medium=api&` |
+| — | 2026-07-28 | Software Engineer | Postman | [apply ↗](https://job-boards.greenhouse.io/postman/jobs/7818501003) | `python track.py applied 7818501003` |
 | — | 2026-07-27 | Backend Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5816994884?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816994884?utm_medium=api&` |
 | — | 2026-07-27 | Software Engineer (SRE) | Jobgether | [apply ↗](https://www.adzuna.in/details/5816843411?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816843411?utm_medium=api&` |
 | — | 2026-07-27 | Software Engineer | Cisco Systems | [apply ↗](https://www.adzuna.in/details/5816842563?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816842563?utm_medium=api&` |
