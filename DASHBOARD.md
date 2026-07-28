@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-28 14:38 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-28 17:45 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (225)
+## 🎯 To apply (227)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -20,6 +20,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-28 | Software Engineer Job in Noida at UKG / Apply Now | StudyECart Technologies Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5818252187?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5818252187?utm_medium=api&` |
 | — | 2026-07-28 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5818252184?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5818252184?utm_medium=api&` |
 | — | 2026-07-28 | Backend Software Engineer | Vinterraai | [apply ↗](https://www.adzuna.in/details/5818241973?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5818241973?utm_medium=api&` |
+| — | 2026-07-28 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5818425862?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5818425862?utm_medium=api&` |
+| — | 2026-07-28 | Associate Engineer - SW Design | Silicon Laboratories | [apply ↗](https://www.adzuna.in/details/5818420310?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5818420310?utm_medium=api&` |
 | — | 2026-07-27 | Backend Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5816994884?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816994884?utm_medium=api&` |
 | — | 2026-07-27 | Software Engineer (SRE) | Jobgether | [apply ↗](https://www.adzuna.in/details/5816843411?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816843411?utm_medium=api&` |
 | — | 2026-07-27 | Software Engineer | Cisco Systems | [apply ↗](https://www.adzuna.in/details/5816842563?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5816842563?utm_medium=api&` |
