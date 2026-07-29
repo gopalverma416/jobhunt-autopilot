@@ -124,6 +124,10 @@
 "first": "2026-07-25T21:08:54+00:00",
 "sig": "cloudflare|systems engineer global resource management data residency"
 },
+"https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751": {
+"first": "2026-07-29T21:12:49+00:00",
+"sig": "cloudflare|software engineer cloudflare network interconnect"
+},
 "https://careers-americas.icims.com/jobs/25301/software-engineer/job": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "atlassian|software engineer"
@@ -2468,6 +2472,10 @@
 "first": "2026-07-29T17:38:48+00:00",
 "sig": "postman|software engineer"
 },
+"https://www.adzuna.in/details/5820125801?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-29T21:12:33+00:00",
+"sig": "seventh contact hiring solutions|software engineer i data operations sql etl aws gcp remote"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -2644,6 +2652,10 @@
 "first": "2026-07-29T10:48:49+00:00",
 "sig": "amazon|software development engineer fba"
 },
+"https://www.amazon.jobs/en/jobs/10487554/software-development-engineer-amazon-currency-converter-for-sellers-accs": {
+"first": "2026-07-29T21:12:33+00:00",
+"sig": "amazon|software development engineer amazon currency converter for sellers accs"
+},
 "https://www.cockroachlabs.com/careers/job/?gh_jid=7774966": {
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "cockroachlabs|member of technical staff test engineering"
@@ -2775,6 +2787,7 @@
 "amazon|software development engineer alexa audio alexa audio": "2026-07-13T17:25:25+00:00",
 "amazon|software development engineer alexa connections": "2026-07-21T17:45:43+00:00",
 "amazon|software development engineer am tools iss": "2026-07-12T06:29:34+00:00",
+"amazon|software development engineer amazon currency converter for sellers accs": "2026-07-29T21:12:33+00:00",
 "amazon|software development engineer amazon external payments": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer amazon opensearch service diy observability": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer amazon pay credit lending": "2026-07-12T06:29:34+00:00",
@@ -2866,6 +2879,7 @@
 "cloudflare|distributed systems engineer data platform delivery database retrieval": "2026-07-14T13:22:21+00:00",
 "cloudflare|distributed systems engineer data platform logs and audit logs": "2026-07-14T13:22:21+00:00",
 "cloudflare|full stack engineer internal audit": "2026-07-14T13:22:21+00:00",
+"cloudflare|software engineer cloudflare network interconnect": "2026-07-29T21:12:49+00:00",
 "cloudflare|software engineer network performance reliability": "2026-07-14T13:22:21+00:00",
 "cloudflare|software engineer network platforms": "2026-07-14T13:22:21+00:00",
 "cloudflare|software engineer realtime": "2026-07-22T17:41:31+00:00",
@@ -3084,6 +3098,7 @@
 "scout incorporation|software engineer": "2026-07-16T03:37:38+00:00",
 "scout incorporation|software engineer backend": "2026-07-18T03:32:23+00:00",
 "scout incorporation|software engineer java": "2026-07-29T03:39:48+00:00",
+"seventh contact hiring solutions|software engineer i data operations sql etl aws gcp remote": "2026-07-29T21:12:33+00:00",
 "silicon laboratories|associate engineer sw design": "2026-07-28T17:45:36+00:00",
 "solaredge|embedded software engineer": "2026-07-25T09:59:53+00:00",
 "sparix global.|ai native software engineer": "2026-07-16T21:16:31+00:00",

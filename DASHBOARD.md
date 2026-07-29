@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-29 17:38 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-29 21:12 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (241)
+## 🎯 To apply (242)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -24,6 +24,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-29 | Software Engineer (L1) | Twilio | [apply ↗](https://job-boards.greenhouse.io/twilio/jobs/8026201) | `python track.py applied 8026201` |
 | — | 2026-07-29 | Software Engineer | Postman | [apply ↗](https://www.adzuna.in/details/5819929149?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819929149?utm_medium=api&` |
 | — | 2026-07-29 | Backend Engineer - Platform - Stacks / Sweden / Remote | Grafanalabs | [apply ↗](https://job-boards.greenhouse.io/grafanalabs/jobs/5999672004) | `python track.py applied 5999672004` |
+| — | 2026-07-29 | Software Engineer, Cloudflare Network Interconnect | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8088751?gh_jid=8088751) | `python track.py applied 8088751?gh_jid=8088751` |
 | — | 2026-07-28 | Software Engineer- SONiC | Arista Networks | [apply ↗](https://www.adzuna.in/details/5817921251?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5817921251?utm_medium=api&` |
 | — | 2026-07-28 | Software Engineer AI/ML | Arista Networks | [apply ↗](https://www.adzuna.in/details/5817921266?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5817921266?utm_medium=api&` |
 | — | 2026-07-28 | Software Engineer - Orchestrator | Arista Networks | [apply ↗](https://www.adzuna.in/details/5817921195?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5817921195?utm_medium=api&` |
