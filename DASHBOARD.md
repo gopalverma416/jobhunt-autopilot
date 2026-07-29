@@ -1,15 +1,21 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-28 21:32 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-29 03:39 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (227)
+## 🎯 To apply (233)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-07-29 | Configurator Solution Specialist - Full Stack | ABB | [apply ↗](https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183) | `python track.py applied 5819192387?se=8uEEIv-K8RGb` |
+| — | 2026-07-29 | Software Engineer-Azure Functions - Remote | Qentelli Solutions Private Limited | [apply ↗](https://www.adzuna.in/details/5819192082?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819192082?utm_medium=api&` |
+| — | 2026-07-29 | Software Development Engineer -Backend | Altium | [apply ↗](https://www.adzuna.in/details/5819146801?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819146801?utm_medium=api&` |
+| — | 2026-07-29 | Backend Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5819142032?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819142032?utm_medium=api&` |
+| — | 2026-07-29 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5819142033?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819142033?utm_medium=api&` |
+| — | 2026-07-29 | Software Engineer, Ray Core | Anyscale | [apply ↗](https://jobs.ashbyhq.com/anyscale/8b29c5e5-d56f-4c52-8887-a6a1827cf042) | `python track.py applied 8b29c5e5-d56f-4c52-8887-a6` |
 | — | 2026-07-28 | Software Engineer- SONiC | Arista Networks | [apply ↗](https://www.adzuna.in/details/5817921251?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5817921251?utm_medium=api&` |
 | — | 2026-07-28 | Software Engineer AI/ML | Arista Networks | [apply ↗](https://www.adzuna.in/details/5817921266?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5817921266?utm_medium=api&` |
 | — | 2026-07-28 | Software Engineer - Orchestrator | Arista Networks | [apply ↗](https://www.adzuna.in/details/5817921195?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5817921195?utm_medium=api&` |
