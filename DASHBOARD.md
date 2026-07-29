@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-29 03:39 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-29 06:45 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (233)
+## 🎯 To apply (236)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -16,6 +16,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-29 | Backend Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5819142032?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819142032?utm_medium=api&` |
 | — | 2026-07-29 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5819142033?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819142033?utm_medium=api&` |
 | — | 2026-07-29 | Software Engineer, Ray Core | Anyscale | [apply ↗](https://jobs.ashbyhq.com/anyscale/8b29c5e5-d56f-4c52-8887-a6a1827cf042) | `python track.py applied 8b29c5e5-d56f-4c52-8887-a6` |
+| — | 2026-07-29 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5819382796?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819382796?utm_medium=api&` |
+| — | 2026-07-29 | Software Engineer, Platform Engineering | Pegasystems | [apply ↗](https://www.adzuna.in/details/5819381853?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819381853?utm_medium=api&` |
+| — | 2026-07-29 | Safety Event Review Specialist - New Grad | Samsara | [apply ↗](https://www.samsara.com/company/careers/roles/8076414?gh_jid=8076414) | `python track.py applied 8076414?gh_jid=8076414` |
 | — | 2026-07-28 | Software Engineer- SONiC | Arista Networks | [apply ↗](https://www.adzuna.in/details/5817921251?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5817921251?utm_medium=api&` |
 | — | 2026-07-28 | Software Engineer AI/ML | Arista Networks | [apply ↗](https://www.adzuna.in/details/5817921266?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5817921266?utm_medium=api&` |
 | — | 2026-07-28 | Software Engineer - Orchestrator | Arista Networks | [apply ↗](https://www.adzuna.in/details/5817921195?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5817921195?utm_medium=api&` |

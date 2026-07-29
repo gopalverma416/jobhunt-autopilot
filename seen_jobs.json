@@ -2368,6 +2368,26 @@
 "first": "2026-07-29T03:39:46+00:00",
 "sig": "artech infosystems private limited|software engineering custom software engineer"
 },
+"https://www.adzuna.in/details/5819381480?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-29T06:45:13+00:00",
+"sig": "r1 rcm|software engineer i"
+},
+"https://www.adzuna.in/details/5819381853?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-29T06:45:13+00:00",
+"sig": "pegasystems|software engineer platform engineering"
+},
+"https://www.adzuna.in/details/5819382239?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-29T06:45:13+00:00",
+"sig": "cargill|software engineer"
+},
+"https://www.adzuna.in/details/5819382796?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-29T06:45:13+00:00",
+"sig": "u.s. bank|software engineer"
+},
+"https://www.adzuna.in/details/5819382810?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-29T06:45:13+00:00",
+"sig": "u.s. bank|software engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -2536,6 +2556,10 @@
 "first": "2026-07-23T21:28:42+00:00",
 "sig": "amazon|software development engineer aws dynamodb"
 },
+"https://www.amazon.jobs/en/jobs/10486910/software-development-engineer-affs": {
+"first": "2026-07-29T06:45:13+00:00",
+"sig": "amazon|software development engineer affs"
+},
 "https://www.cockroachlabs.com/careers/job/?gh_jid=7774966": {
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "cockroachlabs|member of technical staff test engineering"
@@ -2615,6 +2639,10 @@
 "https://www.rubrik.com/company/careers/departments/job.8076301?gh_jid=8076301": {
 "first": "2026-07-23T10:34:57+00:00",
 "sig": "rubrik|software engineer atlas"
+},
+"https://www.samsara.com/company/careers/roles/8076414?gh_jid=8076414": {
+"first": "2026-07-29T06:45:13+00:00",
+"sig": "samsara|safety event review specialist new grad"
 }
 },
 "sigs": {
@@ -2657,6 +2685,7 @@
 "amazon|software dev engineer i": "2026-07-12T06:29:34+00:00",
 "amazon|software dev engineer i ftc": "2026-07-15T10:15:46+00:00",
 "amazon|software development engineer": "2026-07-14T12:15:30+00:00",
+"amazon|software development engineer affs": "2026-07-29T06:45:13+00:00",
 "amazon|software development engineer alexa ai logistics for infrastructure cost efficiency": "2026-07-17T03:37:18+00:00",
 "amazon|software development engineer alexa audio alexa audio": "2026-07-13T17:25:25+00:00",
 "amazon|software development engineer alexa connections": "2026-07-21T17:45:43+00:00",
@@ -2897,6 +2926,7 @@
 "pani|software engineer": "2026-07-27T11:39:34+00:00",
 "paychex|database engineer i": "2026-07-19T06:43:12+00:00",
 "payu|software engineer java": "2026-07-23T03:44:41+00:00",
+"pegasystems|software engineer platform engineering": "2026-07-29T06:45:13+00:00",
 "phonepe|software engineer android": "2026-07-12T06:29:34+00:00",
 "phonepe|software engineer backend years pune": "2026-07-21T10:33:53+00:00",
 "phonepe|software engineer ios": "2026-07-12T06:29:34+00:00",
@@ -2921,6 +2951,7 @@
 "psiog|software engineer snowflake": "2026-07-23T14:32:21+00:00",
 "qentelli solutions private limited|software engineer azure functions remote": "2026-07-29T03:39:48+00:00",
 "quorum software|software engineer i dawinci hybrid work model": "2026-07-18T03:32:23+00:00",
+"r1 rcm|software engineer i": "2026-07-29T06:45:13+00:00",
 "ramp|software engineer argentina": "2026-07-14T13:22:23+00:00",
 "razorpay|full stack builder": "2026-07-12T06:29:34+00:00",
 "reddit|backend engineer moderation enforcement": "2026-07-14T13:22:23+00:00",
@@ -2949,6 +2980,7 @@
 "salesforce|software engineering mts": "2026-07-22T21:30:31+00:00",
 "salesforce|software engineering mts smts salesforce developer": "2026-07-28T17:45:36+00:00",
 "salesforce|software engineering smts mts platform engineering distributed systems infrastructure": "2026-07-13T07:37:11+00:00",
+"samsara|safety event review specialist new grad": "2026-07-29T06:45:13+00:00",
 "sanofi group|hyperautomation fullstack developer": "2026-07-27T07:51:31+00:00",
 "sap fioneer|cloud native full stack java developer": "2026-07-24T17:52:15+00:00",
 "saviynt|software engineer java": "2026-07-14T14:05:09+00:00",
