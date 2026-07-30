@@ -476,6 +476,10 @@
 "first": "2026-07-29T14:31:26+00:00",
 "sig": "twilio|software engineer"
 },
+"https://job-boards.greenhouse.io/twilio/jobs/8097672": {
+"first": "2026-07-30T21:32:08+00:00",
+"sig": "twilio|software engineer"
+},
 "https://job-boards.greenhouse.io/vercel/jobs/5179639004": {
 "first": "2026-07-14T13:22:24+00:00",
 "sig": "vercel|software engineer cdn"
@@ -783,6 +787,10 @@
 "https://remoteOK.com/remote-jobs/remote-junior-software-engineer-haystack-1135318": {
 "first": "2026-07-24T03:44:14+00:00",
 "sig": "haystack|junior software engineer"
+},
+"https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634": {
+"first": "2026-07-30T21:32:08+00:00",
+"sig": "wakacje.pl|software engineer go"
 },
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Data-Engineering-MTS_JR350293": {
 "first": "2026-07-24T10:28:34+00:00",
@@ -3402,6 +3410,7 @@
 "vercel|software engineer trust safety": "2026-07-14T13:22:24+00:00",
 "vercel|software engineer workflows": "2026-07-14T13:22:24+00:00",
 "vinterraai|backend software engineer": "2026-07-28T10:45:27+00:00",
+"wakacje.pl|software engineer go": "2026-07-30T21:32:08+00:00",
 "wayflyer|frontend software engineer": "2026-07-14T14:05:09+00:00",
 "wayflyer|full stack software engineer": "2026-07-21T17:45:43+00:00",
 "weekday ai|full stack engineer": "2026-07-24T14:13:11+00:00",

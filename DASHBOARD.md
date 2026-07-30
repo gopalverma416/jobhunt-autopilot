@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-30 17:48 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-30 21:32 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (264)
+## 🎯 To apply (266)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -32,6 +32,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-30 | Software Engineer (Fullstack (Angular) | Jobgether | [apply ↗](https://www.adzuna.in/details/5821226557?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5821226557?utm_medium=api&` |
 | — | 2026-07-30 | Software Engineer, Cloud | Google | [apply ↗](https://www.adzuna.in/details/5821225999?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5821225999?utm_medium=api&` |
 | — | 2026-07-30 | Systems Engineer, Spectrum | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8094826?gh_jid=8094826) | `python track.py applied 8094826?gh_jid=8094826` |
+| — | 2026-07-30 | Software Engineer GO | Wakacje.pl | [apply ↗](https://remoteOK.com/remote-jobs/remote-software-engineer-go-wakacje-pl-1135634) | `python track.py applied remote-software-engineer-g` |
+| — | 2026-07-30 | Software Engineer (L2) | Twilio | [apply ↗](https://job-boards.greenhouse.io/twilio/jobs/8097672) | `python track.py applied 8097672` |
 | — | 2026-07-29 | Configurator Solution Specialist - Full Stack | ABB | [apply ↗](https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183) | `python track.py applied 5819192387?se=8uEEIv-K8RGb` |
 | — | 2026-07-29 | Software Engineer-Azure Functions - Remote | Qentelli Solutions Private Limited | [apply ↗](https://www.adzuna.in/details/5819192082?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819192082?utm_medium=api&` |
 | — | 2026-07-29 | Software Development Engineer -Backend | Altium | [apply ↗](https://www.adzuna.in/details/5819146801?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819146801?utm_medium=api&` |
