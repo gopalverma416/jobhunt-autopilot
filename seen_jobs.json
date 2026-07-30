@@ -132,6 +132,10 @@
 "first": "2026-07-29T21:12:49+00:00",
 "sig": "cloudflare|software engineer cloudflare network interconnect"
 },
+"https://boards.greenhouse.io/cloudflare/jobs/8094826?gh_jid=8094826": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "cloudflare|systems engineer spectrum"
+},
 "https://careers-americas.icims.com/jobs/25301/software-engineer/job": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "atlassian|software engineer"
@@ -2596,6 +2600,66 @@
 "first": "2026-07-30T14:32:04+00:00",
 "sig": "h&m|software engineer sap commerce cloud hybris"
 },
+"https://www.adzuna.in/details/5821222832?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "amazon|software developer platform bsp engineer ssg"
+},
+"https://www.adzuna.in/details/5821222841?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5821223075?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "cgi|java full stack developer with aws"
+},
+"https://www.adzuna.in/details/5821223175?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5821224731?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5821224760?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5821224771?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "ford motor|software development engineer in test"
+},
+"https://www.adzuna.in/details/5821224801?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5821224894?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5821224992?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5821225656?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5821225999?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "google|software engineer cloud"
+},
+"https://www.adzuna.in/details/5821226491?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:44+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5821226557?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:43+00:00",
+"sig": "jobgether|software engineer fullstack angular"
+},
+"https://www.adzuna.in/details/5821326525?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T17:48:43+00:00",
+"sig": "aptiv|software engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -2916,6 +2980,7 @@
 "amazon|software application engineer": "2026-07-20T11:12:54+00:00",
 "amazon|software dev engineer i": "2026-07-12T06:29:34+00:00",
 "amazon|software dev engineer i ftc": "2026-07-15T10:15:46+00:00",
+"amazon|software developer platform bsp engineer ssg": "2026-07-30T17:48:44+00:00",
 "amazon|software development engineer": "2026-07-14T12:15:30+00:00",
 "amazon|software development engineer affs": "2026-07-29T06:45:13+00:00",
 "amazon|software development engineer alexa ai logistics for infrastructure cost efficiency": "2026-07-17T03:37:18+00:00",
@@ -2965,6 +3030,7 @@
 "applicate|software engineer": "2026-07-16T03:37:38+00:00",
 "applied materials|software engineer": "2026-07-17T06:27:35+00:00",
 "applied systems, inc.|software engineer": "2026-07-19T06:43:12+00:00",
+"aptiv|software engineer": "2026-07-30T17:48:43+00:00",
 "arista networks|software engineer": "2026-07-28T03:35:25+00:00",
 "arista networks|software engineer ai ml": "2026-07-28T03:35:25+00:00",
 "arista networks|software engineer cvp backend": "2026-07-28T03:35:25+00:00",
@@ -3003,6 +3069,7 @@
 "caterpillar, inc.|software engineer platform services": "2026-07-19T06:43:12+00:00",
 "caterpillar|software engineer performance engineering": "2026-07-21T03:45:19+00:00",
 "central business solutions|software development engineer in test sdet pune": "2026-07-20T04:04:49+00:00",
+"cgi|java full stack developer with aws": "2026-07-30T17:48:44+00:00",
 "cgi|java full stack engineer": "2026-07-27T04:02:21+00:00",
 "cgi|software engineer": "2026-07-17T10:12:05+00:00",
 "cglia solutions llp|software engineer": "2026-07-29T10:48:49+00:00",
@@ -3026,6 +3093,7 @@
 "cloudflare|systems engineer": "2026-07-30T14:32:04+00:00",
 "cloudflare|systems engineer global resource management data residency": "2026-07-25T21:08:54+00:00",
 "cloudflare|systems engineer maps": "2026-07-14T13:22:21+00:00",
+"cloudflare|systems engineer spectrum": "2026-07-30T17:48:44+00:00",
 "cloudflare|threat intelligence software engineer cloudforce one": "2026-07-14T13:22:21+00:00",
 "cockroachlabs|member of technical staff": "2026-07-23T10:34:57+00:00",
 "cockroachlabs|member of technical staff test engineering": "2026-07-14T13:22:21+00:00",
@@ -3064,6 +3132,7 @@
 "experian|software engineer java full stack aws": "2026-07-15T14:09:35+00:00",
 "factspan|factspan python full stack developer": "2026-07-29T10:48:49+00:00",
 "finastra technology|software engineer": "2026-07-29T17:38:48+00:00",
+"ford motor|software development engineer in test": "2026-07-30T17:48:44+00:00",
 "ford motor|software engineer": "2026-07-15T03:34:54+00:00",
 "fortive corporation|software engineer": "2026-07-17T06:27:35+00:00",
 "ge healthcare|software engineer": "2026-07-17T06:27:35+00:00",
@@ -3078,6 +3147,7 @@
 "glean|software engineer evals": "2026-07-12T12:26:43+00:00",
 "glean|software engineer machine learning": "2026-07-12T12:26:43+00:00",
 "google|embedded software engineer kernel drivers and systems engineering": "2026-07-12T06:29:34+00:00",
+"google|software engineer cloud": "2026-07-30T17:48:44+00:00",
 "google|software engineer engprod google one and google photos": "2026-07-12T06:29:34+00:00",
 "google|software engineer firmware": "2026-07-12T06:29:34+00:00",
 "google|software engineer full stack": "2026-07-17T21:08:13+00:00",
@@ -3109,6 +3179,7 @@
 "ixigo|fullstack developer nodejs react": "2026-07-17T21:08:13+00:00",
 "jobgenix|graduate software engineer": "2026-07-20T11:12:54+00:00",
 "jobgether|full stack engineer": "2026-07-15T03:34:54+00:00",
+"jobgether|software engineer fullstack angular": "2026-07-30T17:48:43+00:00",
 "jobgether|software engineer java and aws": "2026-07-27T04:02:21+00:00",
 "jobgether|software engineer sre": "2026-07-27T04:02:20+00:00",
 "johnson controls international|software engineer data scientist": "2026-07-21T03:45:19+00:00",
