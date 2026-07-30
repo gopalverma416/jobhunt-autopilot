@@ -168,6 +168,10 @@
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "datadog|technical support engineer"
 },
+"https://databricks.com/company/careers/open-positions/job?gh_jid=8632126002": {
+"first": "2026-07-30T10:34:34+00:00",
+"sig": "databricks|full stack developer ai agents"
+},
 "https://job-boards.greenhouse.io/anthropic/jobs/5255853008": {
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "anthropic|it systems engineer client platform engineer"
@@ -715,6 +719,10 @@
 "https://jobs.smartrecruiters.com/BoschGroup/744000139871798": {
 "first": "2026-07-26T21:11:39+00:00",
 "sig": "bosch|full stack developer"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000140632838": {
+"first": "2026-07-30T10:34:34+00:00",
+"sig": "bosch|vehicle application engineer"
 },
 "https://jobs.smartrecruiters.com/Zomato1/104244178": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -2552,6 +2560,26 @@
 "first": "2026-07-30T06:41:10+00:00",
 "sig": "oracle|full stack developer"
 },
+"https://www.adzuna.in/details/5820889383?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T10:34:34+00:00",
+"sig": "gsstech group|software engineer fullstack genai llms"
+},
+"https://www.adzuna.in/details/5820889402?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T10:34:34+00:00",
+"sig": "erbity private limited|wireless protocol software engineer c c gsm umts lte"
+},
+"https://www.adzuna.in/details/5820973841?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T10:34:34+00:00",
+"sig": "altinvest online platform pvt ltd|tech solution full stack engineer"
+},
+"https://www.adzuna.in/details/5820996368?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T10:34:34+00:00",
+"sig": "talentxo|software engineer core engineer"
+},
+"https://www.adzuna.in/details/5820996369?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-07-30T10:34:34+00:00",
+"sig": "auxo ai|full stack engineer frontend focus"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -2732,6 +2760,18 @@
 "first": "2026-07-29T21:12:33+00:00",
 "sig": "amazon|software development engineer amazon currency converter for sellers accs"
 },
+"https://www.amazon.jobs/en/jobs/10488045/software-development-engineer-i-ftc": {
+"first": "2026-07-30T10:34:34+00:00",
+"sig": "amazon|software development engineer i ftc"
+},
+"https://www.amazon.jobs/en/jobs/10488071/data-engineer-i-data-engineer-i": {
+"first": "2026-07-30T10:34:34+00:00",
+"sig": "amazon|data engineer i data engineer i"
+},
+"https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
+"first": "2026-07-30T10:34:34+00:00",
+"sig": "axonius|backend engineer s o paulo"
+},
 "https://www.cockroachlabs.com/careers/job/?gh_jid=7774966": {
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "cockroachlabs|member of technical staff test engineering"
@@ -2848,11 +2888,13 @@
 "airbnb|android software engineer quality platform": "2026-07-14T13:22:21+00:00",
 "airbnb|software engineer biztech python llm genai mcp": "2026-07-20T14:33:35+00:00",
 "airbnb|software engineer cloud networking": "2026-07-14T13:22:21+00:00",
+"altinvest online platform pvt ltd|tech solution full stack engineer": "2026-07-30T10:34:34+00:00",
 "altium|software development engineer backend": "2026-07-29T03:39:48+00:00",
 "altium|software engineer frontend developer": "2026-07-30T06:41:10+00:00",
 "amazon dev center india - hyderabad|sde fixed term contract": "2026-07-25T14:02:10+00:00",
 "amazon dev center india - hyderabad|software development engineer amazon fulfillment technology aft platform engineering and services": "2026-07-14T12:15:30+00:00",
 "amazon|amazon fulfilment tech software development engineer aft inventory": "2026-07-13T17:25:25+00:00",
+"amazon|data engineer i data engineer i": "2026-07-30T10:34:34+00:00",
 "amazon|its systems engineer corporate infrastructure services it": "2026-07-27T07:51:31+00:00",
 "amazon|sde alexa for shopping": "2026-07-14T03:40:09+00:00",
 "amazon|software application engineer": "2026-07-20T11:12:54+00:00",
@@ -2880,6 +2922,7 @@
 "amazon|software development engineer fulfillment by amazon fba": "2026-07-21T06:41:37+00:00",
 "amazon|software development engineer hardline fx wireless h b hardline fx wireless h b": "2026-07-20T14:33:35+00:00",
 "amazon|software development engineer i amazon payments": "2026-07-13T11:32:15+00:00",
+"amazon|software development engineer i ftc": "2026-07-30T10:34:34+00:00",
 "amazon|software development engineer iesp merchant tech": "2026-07-27T07:51:31+00:00",
 "amazon|software development engineer last mile last mile execution planning": "2026-07-21T17:45:43+00:00",
 "amazon|software development engineer lmdt dto": "2026-07-12T06:29:34+00:00",
@@ -2921,7 +2964,9 @@
 "atlassian|principle software engineer search and data": "2026-07-12T06:29:34+00:00",
 "atlassian|software engineer": "2026-07-12T06:29:34+00:00",
 "aurumdata solutions india private limited|developer dynamics application engineer support": "2026-07-27T04:02:20+00:00",
+"auxo ai|full stack engineer frontend focus": "2026-07-30T10:34:34+00:00",
 "avaloq|software developer pl sql": "2026-07-30T03:28:38+00:00",
+"axonius|backend engineer s o paulo": "2026-07-30T10:34:34+00:00",
 "barclays|software engineer": "2026-07-22T03:46:27+00:00",
 "benchling|software engineer platform developer experience": "2026-07-14T13:22:21+00:00",
 "bizmatics india private limited|software engineer in test": "2026-07-17T03:37:18+00:00",
@@ -2976,6 +3021,7 @@
 "creospan private limited|software engineer in test": "2026-07-27T04:02:20+00:00",
 "ct nova|full stack engineer": "2026-07-21T10:33:53+00:00",
 "cult fit|backend engineer": "2026-07-23T03:44:41+00:00",
+"databricks|full stack developer ai agents": "2026-07-30T10:34:34+00:00",
 "datadog|technical support engineer": "2026-07-14T13:22:21+00:00",
 "dropbox|frontend product software engineer design systems": "2026-07-14T13:22:21+00:00",
 "dropbox|infrastructure software engineer": "2026-07-14T13:22:22+00:00",
@@ -2994,6 +3040,7 @@
 "episteme soft|software engineer linux kernel and crypto": "2026-07-30T03:28:38+00:00",
 "episteme soft|software engineer routing": "2026-07-30T03:28:38+00:00",
 "episteme soft|software engineer systems and architecture": "2026-07-30T03:28:38+00:00",
+"erbity private limited|wireless protocol software engineer c c gsm umts lte": "2026-07-30T10:34:34+00:00",
 "eurofins gsc it dc|software engineer": "2026-07-21T03:45:19+00:00",
 "eurofins gsc it dc|software engineer net core full stack along with angular": "2026-07-30T03:28:38+00:00",
 "exioms technology|mean stack software engineer": "2026-07-19T03:55:04+00:00",
@@ -3024,6 +3071,7 @@
 "google|software engineer site reliability engineering": "2026-07-20T18:19:55+00:00",
 "google|software engineer workspace search quality": "2026-07-21T17:45:43+00:00",
 "grafanalabs|backend engineer platform stacks sweden remote": "2026-07-29T17:38:48+00:00",
+"gsstech group|software engineer fullstack genai llms": "2026-07-30T10:34:34+00:00",
 "hackajob|software engineer": "2026-07-27T17:55:37+00:00",
 "hackerrank|software development engineer in test i": "2026-07-14T13:22:22+00:00",
 "halliburton|software developer c": "2026-07-21T21:33:40+00:00",
@@ -3209,6 +3257,7 @@
 "supabase|software engineer iac platform experience": "2026-07-14T13:22:23+00:00",
 "swiggy|software dev engineer i": "2026-07-22T21:30:31+00:00",
 "talentpro india hr private limited|software developer c": "2026-07-30T03:28:38+00:00",
+"talentxo|software engineer core engineer": "2026-07-30T10:34:34+00:00",
 "tata elxsi limited|adas software engineer automotive domain": "2026-07-23T03:44:41+00:00",
 "techbiz global gmbh|full stack developer": "2026-07-16T03:37:38+00:00",
 "teradata|ai full stack engineer ai platform": "2026-07-23T06:40:12+00:00",

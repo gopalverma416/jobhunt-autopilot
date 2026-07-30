@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-30 06:41 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-30 10:34 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (255)
+## 🎯 To apply (257)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -23,6 +23,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-30 | EAI Software Engineer | Mattel | [apply ↗](https://www.adzuna.in/details/5820554684?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5820554684?utm_medium=api&` |
 | — | 2026-07-30 | Full stack Developer | Oracle | [apply ↗](https://www.adzuna.in/details/5820792959?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5820792959?utm_medium=api&` |
 | — | 2026-07-30 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5820791990?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5820791990?utm_medium=api&` |
+| — | 2026-07-30 | Software Engineer FullStack - (GenAI & LLMs) | GSSTech Group | [apply ↗](https://www.adzuna.in/details/5820889383?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5820889383?utm_medium=api&` |
+| — | 2026-07-30 | Software Development Engineer I FTC | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10488045/software-development-engineer-i-ftc) | `python track.py applied software-development-engin` |
 | — | 2026-07-29 | Configurator Solution Specialist - Full Stack | ABB | [apply ↗](https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183) | `python track.py applied 5819192387?se=8uEEIv-K8RGb` |
 | — | 2026-07-29 | Software Engineer-Azure Functions - Remote | Qentelli Solutions Private Limited | [apply ↗](https://www.adzuna.in/details/5819192082?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819192082?utm_medium=api&` |
 | — | 2026-07-29 | Software Development Engineer -Backend | Altium | [apply ↗](https://www.adzuna.in/details/5819146801?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5819146801?utm_medium=api&` |
