@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-31 03:49 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-31 07:14 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (269)
+## 🎯 To apply (272)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-31 | Cybersecurity Software Engineer | Magna International | [apply ↗](https://www.adzuna.in/details/5821858355?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5821858355?utm_medium=api&` |
 | — | 2026-07-31 | Software Engineer (Cramer) | amdocs | [apply ↗](https://www.adzuna.in/details/5821857171?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5821857171?utm_medium=api&` |
 | — | 2026-07-31 | Software Engineer | amdocs | [apply ↗](https://www.adzuna.in/details/5821857140?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5821857140?utm_medium=api&` |
+| — | 2026-07-31 | Business Consulting-Developer Software Engineer | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5822059723?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5822059723?utm_medium=api&` |
+| — | 2026-07-31 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5822059504?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5822059504?utm_medium=api&` |
+| — | 2026-07-31 | Full Stack Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5822059357?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5822059357?utm_medium=api&` |
 | — | 2026-07-30 | Custom Software Engineer | Artech Infosystems Private Limited | [apply ↗](https://www.adzuna.in/details/5820585942?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5820585942?utm_medium=api&` |
 | — | 2026-07-30 | Jr.Embedded Software Engineer | Episteme Soft | [apply ↗](https://www.adzuna.in/details/5820583695?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5820583695?utm_medium=api&` |
 | — | 2026-07-30 | Embedded Software Engineer | Episteme Soft | [apply ↗](https://www.adzuna.in/details/5820583687?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5820583687?utm_medium=api&` |
