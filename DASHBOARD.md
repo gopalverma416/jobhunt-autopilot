@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-07-31 10:50 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-07-31 14:35 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (277)
+## 🎯 To apply (279)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -21,6 +21,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-07-31 | Data Engineer I, Data Engineer I | ADSIPL - Karnataka | [apply ↗](https://www.adzuna.in/details/5822285314?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5822285314?utm_medium=api&` |
 | — | 2026-07-31 | Software engineer | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-engineer_R-281108) | `python track.py applied Software-engineer_R-281108` |
 | — | 2026-07-31 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556633063) | `python track.py applied 1970393556633063` |
+| — | 2026-07-31 | Customer-Focused Software Engineer | Check Point Software Technologies | [apply ↗](https://www.adzuna.in/details/5822377375?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5822377375?utm_medium=api&` |
+| — | 2026-07-31 | Software engineer (DevSecOps) | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-engineer--DevSecOps-_R-282027) | `python track.py applied Software-engineer--DevSecO` |
 | — | 2026-07-30 | Custom Software Engineer | Artech Infosystems Private Limited | [apply ↗](https://www.adzuna.in/details/5820585942?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5820585942?utm_medium=api&` |
 | — | 2026-07-30 | Jr.Embedded Software Engineer | Episteme Soft | [apply ↗](https://www.adzuna.in/details/5820583695?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5820583695?utm_medium=api&` |
 | — | 2026-07-30 | Embedded Software Engineer | Episteme Soft | [apply ↗](https://www.adzuna.in/details/5820583687?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5820583687?utm_medium=api&` |
