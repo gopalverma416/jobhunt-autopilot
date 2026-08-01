@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-01 03:50 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-01 06:41 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (282)
+## 🎯 To apply (284)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-01 | Software Engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5823370184?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5823370184?utm_medium=api&` |
+| — | 2026-08-01 | Software Engineer - Confluent | IBM | [apply ↗](https://www.adzuna.in/details/5823366389?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5823366389?utm_medium=api&` |
 | — | 2026-07-31 | Cybersecurity Software Engineer | Magna International | [apply ↗](https://www.adzuna.in/details/5821858355?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5821858355?utm_medium=api&` |
 | — | 2026-07-31 | Software Engineer (Cramer) | amdocs | [apply ↗](https://www.adzuna.in/details/5821857171?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5821857171?utm_medium=api&` |
 | — | 2026-07-31 | Software Engineer | amdocs | [apply ↗](https://www.adzuna.in/details/5821857140?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5821857140?utm_medium=api&` |
