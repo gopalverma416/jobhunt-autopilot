@@ -2884,6 +2884,34 @@
 "first": "2026-08-01T06:41:47+00:00",
 "sig": "wells fargo|software engineer"
 },
+"https://www.adzuna.in/details/5823794411?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-01T13:55:15+00:00",
+"sig": "tarlan|software engineer"
+},
+"https://www.adzuna.in/details/5823802668?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-01T13:55:15+00:00",
+"sig": "kla|software engineer c linux"
+},
+"https://www.adzuna.in/details/5823802760?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-01T13:55:15+00:00",
+"sig": "thomson reuters|software engineer i"
+},
+"https://www.adzuna.in/details/5823811435?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-01T13:55:15+00:00",
+"sig": "techno wise|python full stack developer"
+},
+"https://www.adzuna.in/details/5823813113?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-01T13:55:15+00:00",
+"sig": "adci - karnataka|software development engineer prime video sports immersive experience"
+},
+"https://www.adzuna.in/details/5823813118?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-01T13:55:15+00:00",
+"sig": "adci - karnataka|software development engineer wwostech"
+},
+"https://www.adzuna.in/details/5823975879?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-01T13:55:15+00:00",
+"sig": "microstrategy india|software engineer java react"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -3188,6 +3216,8 @@
 "adci - karnataka|software development engineer customer experience and business trends": "2026-07-23T10:34:57+00:00",
 "adci - karnataka|software development engineer fulfillment by amazon fba": "2026-07-21T10:33:53+00:00",
 "adci - karnataka|software development engineer loss prevention tech wwos corporate": "2026-07-17T10:12:05+00:00",
+"adci - karnataka|software development engineer prime video sports immersive experience": "2026-08-01T13:55:15+00:00",
+"adci - karnataka|software development engineer wwostech": "2026-08-01T13:55:15+00:00",
 "adci - maharashtra|software development engineer alexa ai developer tech": "2026-07-22T10:34:12+00:00",
 "adci hyd 13 sez|quality assurance engineer i shiptech qa": "2026-07-28T10:45:27+00:00",
 "adci hyd 13 sez|software development engineer amazon finance technology": "2026-07-20T11:12:54+00:00",
@@ -3430,6 +3460,7 @@
 "johnson controls international|software engineer data scientist": "2026-07-21T03:45:19+00:00",
 "jumpcloud|software engineer ai platform t rkiye": "2026-07-14T14:05:09+00:00",
 "jumpcloud|software engineer auth access india": "2026-07-28T17:45:36+00:00",
+"kla|software engineer c linux": "2026-08-01T13:55:15+00:00",
 "kyndryl|full stack developer": "2026-07-31T07:14:09+00:00",
 "kyndryl|full stack software developer": "2026-07-20T07:29:20+00:00",
 "kyndryl|full stack software engineer": "2026-07-20T07:29:20+00:00",
@@ -3464,6 +3495,7 @@
 "microsoft|software engineer": "2026-07-13T11:32:17+00:00",
 "microsoft|software engineer ai native development": "2026-07-16T14:23:21+00:00",
 "microstrategy india|software engineer c c": "2026-07-17T03:37:18+00:00",
+"microstrategy india|software engineer java react": "2026-08-01T13:55:15+00:00",
 "millenium infotech|software engineer full stack": "2026-07-31T03:49:55+00:00",
 "millenium infotech|software engineer reference data platform": "2026-07-31T03:49:55+00:00",
 "millerknoll|software engineer full stack net react oracle": "2026-07-14T12:15:30+00:00",
@@ -3606,8 +3638,10 @@
 "swiggy|software dev engineer i": "2026-07-22T21:30:31+00:00",
 "talentpro india hr private limited|software developer c": "2026-07-30T03:28:38+00:00",
 "talentxo|software engineer core engineer": "2026-07-30T10:34:34+00:00",
+"tarlan|software engineer": "2026-08-01T13:55:15+00:00",
 "tata elxsi limited|adas software engineer automotive domain": "2026-07-23T03:44:41+00:00",
 "techbiz global gmbh|full stack developer": "2026-07-16T03:37:38+00:00",
+"techno wise|python full stack developer": "2026-08-01T13:55:15+00:00",
 "teradata|ai full stack engineer ai platform": "2026-07-23T06:40:12+00:00",
 "the auction collective|software engineer fullstack python react node aws genai": "2026-07-15T10:15:46+00:00",
 "the boeing company|associate ate software engineer": "2026-07-15T06:28:20+00:00",
@@ -3615,6 +3649,7 @@
 "the cigna group|software engineering associate advisor hih evernorth": "2026-07-21T03:45:19+00:00",
 "the future university|software engineer golang": "2026-07-22T03:46:27+00:00",
 "the hartford|indstaff software engineer ai": "2026-07-29T17:38:48+00:00",
+"thomson reuters|software engineer i": "2026-08-01T13:55:15+00:00",
 "tifin fintech india|fullstack engineer": "2026-07-23T10:34:57+00:00",
 "trackier|software development engineer i backend": "2026-07-14T12:15:30+00:00",
 "trigent software private limited|custom software engineer asp net mvc": "2026-07-20T18:19:55+00:00",
