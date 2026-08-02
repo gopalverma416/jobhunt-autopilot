@@ -3000,6 +3000,42 @@
 "first": "2026-08-02T06:46:29+00:00",
 "sig": "unitedhealth group|software engineer react js node js sql api mngt"
 },
+"https://www.adzuna.in/details/5825770070?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-02T17:15:45+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5825770307?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-02T17:15:45+00:00",
+"sig": "csg|software development engineer"
+},
+"https://www.adzuna.in/details/5825770879?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-02T17:15:45+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5825770886?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-02T17:15:45+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5825771047?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-02T17:15:45+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5825771308?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-02T17:15:45+00:00",
+"sig": "hyderabad office|associate software engineer direct contract"
+},
+"https://www.adzuna.in/details/5825771981?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-02T17:15:45+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5825772261?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-02T17:15:45+00:00",
+"sig": "cohesity|software engineer c golang python"
+},
+"https://www.adzuna.in/details/5825772849?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-02T17:15:44+00:00",
+"sig": "wells fargo bank|software engineer java full stack engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -3465,6 +3501,7 @@
 "cloudflare|threat intelligence software engineer cloudforce one": "2026-07-14T13:22:21+00:00",
 "cockroachlabs|member of technical staff": "2026-07-23T10:34:57+00:00",
 "cockroachlabs|member of technical staff test engineering": "2026-07-14T13:22:21+00:00",
+"cohesity|software engineer c golang python": "2026-08-02T17:15:45+00:00",
 "coinbase|software engineer": "2026-07-14T13:22:21+00:00",
 "coinbase|software engineer eaa integrations": "2026-07-14T13:22:21+00:00",
 "coinbase|software engineer enterprise apps": "2026-07-14T13:22:21+00:00",
@@ -3472,6 +3509,7 @@
 "colan infotech|java software engineer": "2026-07-28T03:35:25+00:00",
 "colruyt it consultancy india|software engineer iti s": "2026-07-23T03:44:41+00:00",
 "creospan private limited|software engineer in test": "2026-07-27T04:02:20+00:00",
+"csg|software development engineer": "2026-08-02T17:15:45+00:00",
 "ct nova|full stack engineer": "2026-07-21T10:33:53+00:00",
 "cult fit|backend engineer": "2026-07-23T03:44:41+00:00",
 "databricks|full stack developer ai agents": "2026-07-30T10:34:34+00:00",
@@ -3541,6 +3579,7 @@
 "hp|software application engineer": "2026-07-18T17:14:36+00:00",
 "hsbc|software engineer": "2026-07-23T06:40:12+00:00",
 "httpswwwicloudemscomvlog|software engineer ai ml": "2026-07-25T14:02:10+00:00",
+"hyderabad office|associate software engineer direct contract": "2026-08-02T17:15:45+00:00",
 "ibm|full stack storage software engineer java script java full stack": "2026-07-17T06:27:35+00:00",
 "ibm|software engineer confluent": "2026-07-14T12:15:30+00:00",
 "infor|software engineer": "2026-07-20T11:12:54+00:00",
@@ -3804,6 +3843,7 @@
 "weekday ai|software development engineer in test sdet": "2026-07-17T10:12:05+00:00",
 "weekday ai|software engineer": "2026-07-22T14:22:20+00:00",
 "weir|software engineer full stack": "2026-08-01T17:14:47+00:00",
+"wells fargo bank|software engineer java full stack engineer": "2026-08-02T17:15:44+00:00",
 "wells fargo|software engineer": "2026-08-01T06:41:47+00:00",
 "wells fargo|software engineer backend java spring boot microservices kafka ai ml gen ai": "2026-07-26T06:48:58+00:00",
 "wisdomai|software engineer backend": "2026-07-25T14:02:10+00:00",

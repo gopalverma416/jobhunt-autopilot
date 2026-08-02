@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-02 13:54 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-02 17:15 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (297)
+## 🎯 To apply (299)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -16,6 +16,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-02 | Data Engineer I, ITC | Nike | [apply ↗](https://www.adzuna.in/details/5825362226?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5825362226?utm_medium=api&` |
 | — | 2026-08-02 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5825362225?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5825362225?utm_medium=api&` |
 | — | 2026-08-02 | Software Engineer | Microsoft Corporation | [apply ↗](https://www.adzuna.in/details/5825362178?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5825362178?utm_medium=api&` |
+| — | 2026-08-02 | Software Engineer - Java full stack engineer | Wells Fargo Bank | [apply ↗](https://www.adzuna.in/details/5825772849?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5825772849?utm_medium=api&` |
+| — | 2026-08-02 | Associate Software Engineer (Direct Contract) | Hyderabad Office | [apply ↗](https://www.adzuna.in/details/5825771308?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5825771308?utm_medium=api&` |
 | — | 2026-08-01 | Software Engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5823370184?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5823370184?utm_medium=api&` |
 | — | 2026-08-01 | Software Engineer - Confluent | IBM | [apply ↗](https://www.adzuna.in/details/5823366389?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5823366389?utm_medium=api&` |
 | — | 2026-08-01 | Software Development Engineer (Prime Video), Sports Immersive Experience | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5823813113?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5823813113?utm_medium=api&` |
