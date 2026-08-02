@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-01 21:09 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-02 03:52 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (291)
+## 🎯 To apply (292)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-02 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5824968112?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5824968112?utm_medium=api&` |
 | — | 2026-08-01 | Software Engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5823370184?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5823370184?utm_medium=api&` |
 | — | 2026-08-01 | Software Engineer - Confluent | IBM | [apply ↗](https://www.adzuna.in/details/5823366389?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5823366389?utm_medium=api&` |
 | — | 2026-08-01 | Software Development Engineer (Prime Video), Sports Immersive Experience | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5823813113?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5823813113?utm_medium=api&` |
