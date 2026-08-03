@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-02 21:10 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-03 03:54 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (299)
+## 🎯 To apply (301)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-03 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5826246965?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5826246965?utm_medium=api&` |
+| — | 2026-08-03 | Backend Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5826247008?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5826247008?utm_medium=api&` |
 | — | 2026-08-02 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5824968112?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5824968112?utm_medium=api&` |
 | — | 2026-08-02 | Software Engineer - React JS, Node.Js, SQL, API Mngt | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5825362944?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5825362944?utm_medium=api&` |
 | — | 2026-08-02 | Software Engineer I, ITC | Nike | [apply ↗](https://www.adzuna.in/details/5825362243?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5825362243?utm_medium=api&` |
