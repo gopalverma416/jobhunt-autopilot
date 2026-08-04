@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-04 06:40 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-04 10:49 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (316)
+## 🎯 To apply (317)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-04 | .NET Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5827232409?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827232409?utm_medium=api&` |
 | — | 2026-08-04 | Experienced Software Engineer in IT reputed company AI and Omnichannel | remote zest jobs | [apply ↗](https://www.adzuna.in/details/5827200373?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827200373?utm_medium=api&` |
 | — | 2026-08-04 | Software Engineer - IHC172B | Marriott Tech Accelerator | [apply ↗](https://www.adzuna.in/details/5827440338?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827440338?utm_medium=api&` |
+| — | 2026-08-04 | C / C++ Communication Gateway - Software Engineer | Bosch Group | [apply ↗](https://www.adzuna.in/details/5827476832?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827476832?utm_medium=api&` |
 | — | 2026-08-03 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5826246965?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5826246965?utm_medium=api&` |
 | — | 2026-08-03 | Backend Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5826247008?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5826247008?utm_medium=api&` |
 | — | 2026-08-03 | Software Engineer - Java full stack engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5826344411?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5826344411?utm_medium=api&` |
