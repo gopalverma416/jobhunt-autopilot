@@ -356,6 +356,10 @@
 "first": "2026-07-21T10:33:53+00:00",
 "sig": "phonepe|software engineer backend years pune"
 },
+"https://job-boards.greenhouse.io/phonepe/jobs/7821471003": {
+"first": "2026-08-04T06:40:43+00:00",
+"sig": "phonepe|software engineer years backend"
+},
 "https://job-boards.greenhouse.io/planetscale/jobs/4009746009": {
 "first": "2026-07-14T13:22:23+00:00",
 "sig": "planetscale|software engineer planetscale vitess"
@@ -3148,6 +3152,18 @@
 "first": "2026-08-04T03:37:00+00:00",
 "sig": "ascendion|java fullstack engineer"
 },
+"https://www.adzuna.in/details/5827438030?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-04T06:40:43+00:00",
+"sig": "lululemon india tech hub|software engineer data and ai platforms"
+},
+"https://www.adzuna.in/details/5827440338?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-04T06:40:43+00:00",
+"sig": "marriott tech accelerator|software engineer"
+},
+"https://www.adzuna.in/details/5827450840?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-04T06:40:43+00:00",
+"sig": "chevron corporation|full stack developer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -3587,6 +3603,7 @@
 "cgi|software engineer": "2026-07-17T10:12:05+00:00",
 "cglia solutions llp|software engineer": "2026-07-29T10:48:49+00:00",
 "check point software technologies|customer focused software engineer": "2026-07-31T14:35:08+00:00",
+"chevron corporation|full stack developer": "2026-08-04T06:40:43+00:00",
 "cisco systems|software engineer": "2026-07-27T04:02:20+00:00",
 "cisco|software engineer": "2026-07-17T06:27:35+00:00",
 "cisco|software engineer c c cellular wireless satellite communications": "2026-08-02T06:46:30+00:00",
@@ -3730,10 +3747,12 @@
 "launchdarkly|full stack engineer observability": "2026-07-14T13:22:22+00:00",
 "launchdarkly|sdk software engineer ai": "2026-07-14T13:22:22+00:00",
 "lseg|software engineer": "2026-07-20T18:19:55+00:00",
+"lululemon india tech hub|software engineer data and ai platforms": "2026-08-04T06:40:43+00:00",
 "maersk|software engineer net fullsatck": "2026-07-22T03:46:27+00:00",
 "magna international|cybersecurity software engineer": "2026-07-31T03:49:55+00:00",
 "magna international|software engineer alm platform python java full stack": "2026-07-20T04:04:49+00:00",
 "magnit|software engineer": "2026-07-31T17:52:20+00:00",
+"marriott tech accelerator|software engineer": "2026-08-04T06:40:43+00:00",
 "mastercard|software engineer": "2026-07-31T10:50:38+00:00",
 "mastercard|software engineer devsecops": "2026-07-31T14:35:08+00:00",
 "mastercard|software engineer i": "2026-07-17T21:08:13+00:00",
@@ -3808,6 +3827,7 @@
 "phonepe|software engineer ios": "2026-07-12T06:29:34+00:00",
 "phonepe|software engineer react native years": "2026-07-12T06:29:34+00:00",
 "phonepe|software engineer sre rust": "2026-07-12T06:29:34+00:00",
+"phonepe|software engineer years backend": "2026-08-04T06:40:43+00:00",
 "planetscale|software engineer information security": "2026-07-14T13:22:23+00:00",
 "planetscale|software engineer insights": "2026-07-14T13:22:23+00:00",
 "planetscale|software engineer neki orchestration": "2026-07-14T13:22:23+00:00",
