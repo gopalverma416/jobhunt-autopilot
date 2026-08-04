@@ -1,15 +1,18 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-03 21:30 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-04 03:37 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (312)
+## 🎯 To apply (315)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-04 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5827232440?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827232440?utm_medium=api&` |
+| — | 2026-08-04 | .NET Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5827232409?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827232409?utm_medium=api&` |
+| — | 2026-08-04 | Experienced Software Engineer in IT reputed company AI and Omnichannel | remote zest jobs | [apply ↗](https://www.adzuna.in/details/5827200373?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827200373?utm_medium=api&` |
 | — | 2026-08-03 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5826246965?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5826246965?utm_medium=api&` |
 | — | 2026-08-03 | Backend Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5826247008?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5826247008?utm_medium=api&` |
 | — | 2026-08-03 | Software Engineer - Java full stack engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5826344411?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5826344411?utm_medium=api&` |
