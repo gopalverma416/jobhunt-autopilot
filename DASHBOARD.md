@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-05 06:41 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-05 10:46 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (327)
+## 🎯 To apply (333)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,12 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-05 | Backend Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5828584602?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828584602?utm_medium=api&` |
 | — | 2026-08-05 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5828584547?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828584547?utm_medium=api&` |
 | — | 2026-08-05 | Software Engineer, Vulnerability Management | Stripe | [apply ↗](https://stripe.com/jobs/search?gh_jid=8089353) | `python track.py applied search?gh_jid=8089353` |
+| — | 2026-08-05 | Software Development Engineer, Amazon Pharmacy, Amazon Phamarcy | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5828959268?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828959268?utm_medium=api&` |
+| — | 2026-08-05 | Software Development Engineer I, Amazon Payments | Amazon | [apply ↗](https://www.adzuna.in/details/5828958849?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828958849?utm_medium=api&` |
+| — | 2026-08-05 | Software Development Engineer, Ads Campaign Management | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5828957070?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828957070?utm_medium=api&` |
+| — | 2026-08-05 | Software Development Engineer , Amazon Lending | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5828957060?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828957060?utm_medium=api&` |
+| — | 2026-08-05 | Software Development Engineer, Customer Experience and Business Trends | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5828957053?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828957053?utm_medium=api&` |
+| — | 2026-08-05 | Embedded Software Engineer | Happiest Resume | [apply ↗](https://www.adzuna.in/details/5828880358?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828880358?utm_medium=api&` |
 | — | 2026-08-04 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5827232440?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827232440?utm_medium=api&` |
 | — | 2026-08-04 | .NET Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5827232409?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827232409?utm_medium=api&` |
 | — | 2026-08-04 | Experienced Software Engineer in IT reputed company AI and Omnichannel | remote zest jobs | [apply ↗](https://www.adzuna.in/details/5827200373?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827200373?utm_medium=api&` |
