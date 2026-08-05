@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-05 14:32 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-05 17:53 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (333)
+## 🎯 To apply (336)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -21,6 +21,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-05 | Software Development Engineer , Amazon Lending | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5828957060?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828957060?utm_medium=api&` |
 | — | 2026-08-05 | Software Development Engineer, Customer Experience and Business Trends | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5828957053?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828957053?utm_medium=api&` |
 | — | 2026-08-05 | Embedded Software Engineer | Happiest Resume | [apply ↗](https://www.adzuna.in/details/5828880358?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828880358?utm_medium=api&` |
+| — | 2026-08-05 | Databricks Application Engineer | Showtime Consulting | [apply ↗](https://www.adzuna.in/details/5829349852?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829349852?utm_medium=api&` |
+| — | 2026-08-05 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5829209431?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829209431?utm_medium=api&` |
+| — | 2026-08-05 | Specialist Software Engineer | Amgen | [apply ↗](https://www.adzuna.in/details/5829206909?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829206909?utm_medium=api&` |
 | — | 2026-08-04 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5827232440?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827232440?utm_medium=api&` |
 | — | 2026-08-04 | .NET Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5827232409?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827232409?utm_medium=api&` |
 | — | 2026-08-04 | Experienced Software Engineer in IT reputed company AI and Omnichannel | remote zest jobs | [apply ↗](https://www.adzuna.in/details/5827200373?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827200373?utm_medium=api&` |
