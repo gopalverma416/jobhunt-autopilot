@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-04 21:35 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-05 03:32 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (322)
+## 🎯 To apply (327)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-05 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5828611049?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828611049?utm_medium=api&` |
+| — | 2026-08-05 | IT Software Engineer | Vmware | [apply ↗](https://www.adzuna.in/details/5828607710?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828607710?utm_medium=api&` |
+| — | 2026-08-05 | Backend Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5828584602?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828584602?utm_medium=api&` |
+| — | 2026-08-05 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5828584547?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828584547?utm_medium=api&` |
+| — | 2026-08-05 | Software Engineer, Vulnerability Management | Stripe | [apply ↗](https://stripe.com/jobs/search?gh_jid=8089353) | `python track.py applied search?gh_jid=8089353` |
 | — | 2026-08-04 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5827232440?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827232440?utm_medium=api&` |
 | — | 2026-08-04 | .NET Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5827232409?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827232409?utm_medium=api&` |
 | — | 2026-08-04 | Experienced Software Engineer in IT reputed company AI and Omnichannel | remote zest jobs | [apply ↗](https://www.adzuna.in/details/5827200373?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5827200373?utm_medium=api&` |

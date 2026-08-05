@@ -936,6 +936,10 @@
 "first": "2026-07-20T21:32:55+00:00",
 "sig": "stripe|software engineer optimized checkout link"
 },
+"https://stripe.com/jobs/search?gh_jid=8089353": {
+"first": "2026-08-05T03:32:47+00:00",
+"sig": "stripe|software engineer vulnerability management"
+},
 "https://www.adzuna.in/details/5799592114?utm_medium=api&utm_source=616fbe19": {
 "first": "2026-07-14T12:15:30+00:00",
 "sig": "mercari, inc.|software engineer machine learning recommendation"
@@ -3244,6 +3248,30 @@
 "first": "2026-08-04T21:35:54+00:00",
 "sig": "konecranes|graduate engineer trainee mechanical"
 },
+"https://www.adzuna.in/details/5828465306?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-05T03:32:47+00:00",
+"sig": "cgi|software engineer python ai"
+},
+"https://www.adzuna.in/details/5828584547?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-05T03:32:47+00:00",
+"sig": "scout incorporation|software engineer java"
+},
+"https://www.adzuna.in/details/5828584602?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-05T03:32:47+00:00",
+"sig": "scout incorporation|backend engineer"
+},
+"https://www.adzuna.in/details/5828607710?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-05T03:32:47+00:00",
+"sig": "vmware|it software engineer"
+},
+"https://www.adzuna.in/details/5828607848?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-05T03:32:47+00:00",
+"sig": "zynga|senio software engineer i"
+},
+"https://www.adzuna.in/details/5828611049?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-05T03:32:47+00:00",
+"sig": "ascendion|java fullstack engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -3696,6 +3724,7 @@
 "cgi|java full stack developer with aws": "2026-07-30T17:48:44+00:00",
 "cgi|java full stack engineer": "2026-07-27T04:02:21+00:00",
 "cgi|software engineer": "2026-07-17T10:12:05+00:00",
+"cgi|software engineer python ai": "2026-08-05T03:32:47+00:00",
 "cglia solutions llp|software engineer": "2026-07-29T10:48:49+00:00",
 "check point software technologies|customer focused software engineer": "2026-07-31T14:35:08+00:00",
 "chevron corporation|full stack developer": "2026-08-04T06:40:43+00:00",
@@ -4008,6 +4037,7 @@
 "stripe|software engineer internal systems": "2026-07-14T13:22:23+00:00",
 "stripe|software engineer optimized checkout link": "2026-07-20T21:32:55+00:00",
 "stripe|software engineer security analytics infrastructure": "2026-07-14T13:22:23+00:00",
+"stripe|software engineer vulnerability management": "2026-08-05T03:32:47+00:00",
 "studyecart technologies pvt ltd|finastra hiring associate software engineer freshers pune apply now": "2026-07-27T11:39:34+00:00",
 "studyecart technologies pvt ltd|software engineer job in noida at ukg apply now": "2026-07-28T10:45:27+00:00",
 "supabase|software engineer auth": "2026-07-14T13:22:23+00:00",
@@ -4077,6 +4107,7 @@
 "vercel|software engineer trust safety": "2026-07-14T13:22:24+00:00",
 "vercel|software engineer workflows": "2026-07-14T13:22:24+00:00",
 "vinterraai|backend software engineer": "2026-07-28T10:45:27+00:00",
+"vmware|it software engineer": "2026-08-05T03:32:47+00:00",
 "wakacje.pl|software engineer go": "2026-07-30T21:32:08+00:00",
 "wayflyer|frontend software engineer": "2026-07-14T14:05:09+00:00",
 "wayflyer|full stack software engineer": "2026-07-21T17:45:43+00:00",
@@ -4100,6 +4131,7 @@
 "youtrip|frontend software engineer web": "2026-07-21T17:45:43+00:00",
 "zapier|software engineer release engineering": "2026-07-14T14:05:09+00:00",
 "zeiss|software engineer": "2026-07-24T03:44:14+00:00",
-"zomato|software engineer back end": "2026-07-12T06:29:34+00:00"
+"zomato|software engineer back end": "2026-07-12T06:29:34+00:00",
+"zynga|senio software engineer i": "2026-08-05T03:32:47+00:00"
 }
 }
