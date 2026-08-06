@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-06 03:37 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-06 06:45 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (346)
+## 🎯 To apply (349)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -18,6 +18,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-06 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5829857593?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829857593?utm_medium=api&` |
 | — | 2026-08-06 | Software Engineer-I | BU Consultants | [apply ↗](https://www.adzuna.in/details/5829857510?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829857510?utm_medium=api&` |
 | — | 2026-08-06 | Software Engineer | Vynexa | [apply ↗](https://www.adzuna.in/details/5829763383?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829763383?utm_medium=api&` |
+| — | 2026-08-06 | Software Engineer - Java Full Stack, Angular, Kafka, CI/CD | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5830105106?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5830105106?utm_medium=api&` |
+| — | 2026-08-06 | Software Engineer | Microsoft Corporation | [apply ↗](https://www.adzuna.in/details/5830103895?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5830103895?utm_medium=api&` |
+| — | 2026-08-06 | Software Engineer | Microsoft Corporation | [apply ↗](https://www.adzuna.in/details/5830103875?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5830103875?utm_medium=api&` |
 | — | 2026-08-05 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5828611049?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828611049?utm_medium=api&` |
 | — | 2026-08-05 | IT Software Engineer | Vmware | [apply ↗](https://www.adzuna.in/details/5828607710?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828607710?utm_medium=api&` |
 | — | 2026-08-05 | Backend Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5828584602?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5828584602?utm_medium=api&` |
