@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-07 09:15 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-07 13:39 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (366)
+## 🎯 To apply (369)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -25,6 +25,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-07 | Advisory Quality Assurance Software Engineer | Pitney Bowes | [apply ↗](https://www.adzuna.in/details/5831607925?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5831607925?utm_medium=api&` |
 | — | 2026-08-07 | Software Engineer - Forward Deployment | Cisco | [apply ↗](https://www.adzuna.in/details/5831601062?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5831601062?utm_medium=api&` |
 | — | 2026-08-07 | Software Engineer - Forward Deployment | Cisco | [apply ↗](https://www.adzuna.in/details/5831601032?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5831601032?utm_medium=api&` |
+| — | 2026-08-07 | Software Engineer - Python Developer Chennai | Optum India | [apply ↗](https://www.adzuna.in/details/5831869895?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5831869895?utm_medium=api&` |
+| — | 2026-08-07 | Software Development Engineer, RBS Tech | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5831867264?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5831867264?utm_medium=api&` |
+| — | 2026-08-07 | Fullstack Software Engineer: L4 | Cutshort Lightning | [apply ↗](https://www.adzuna.in/details/5831849445?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5831849445?utm_medium=api&` |
 | — | 2026-08-06 | Software Engineer I | Tower Research Capital | [apply ↗](https://www.adzuna.in/details/5829887460?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829887460?utm_medium=api&` |
 | — | 2026-08-06 | Software Engineer | Tower Research Capital | [apply ↗](https://www.adzuna.in/details/5829887461?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829887461?utm_medium=api&` |
 | — | 2026-08-06 | Software Reliability Engineer I | Tower Research Capital | [apply ↗](https://www.adzuna.in/details/5829887455?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829887455?utm_medium=api&` |
