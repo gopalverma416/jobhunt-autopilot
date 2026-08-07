@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-07 17:07 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-07 20:58 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (376)
+## 🎯 To apply (377)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -35,6 +35,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-07 | Software Development Engineer 4 | Amadeus | [apply ↗](https://www.adzuna.in/details/5832098367?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832098367?utm_medium=api&` |
 | — | 2026-08-07 | Software Engineer | Microchip | [apply ↗](https://www.adzuna.in/details/5832095083?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832095083?utm_medium=api&` |
 | — | 2026-08-07 | Software Engineer | BP | [apply ↗](https://www.adzuna.in/details/5832092427?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832092427?utm_medium=api&` |
+| — | 2026-08-07 | Software Engineering - Custom Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5832275125?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832275125?utm_medium=api&` |
 | — | 2026-08-06 | Software Engineer I | Tower Research Capital | [apply ↗](https://www.adzuna.in/details/5829887460?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829887460?utm_medium=api&` |
 | — | 2026-08-06 | Software Engineer | Tower Research Capital | [apply ↗](https://www.adzuna.in/details/5829887461?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829887461?utm_medium=api&` |
 | — | 2026-08-06 | Software Reliability Engineer I | Tower Research Capital | [apply ↗](https://www.adzuna.in/details/5829887455?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829887455?utm_medium=api&` |
