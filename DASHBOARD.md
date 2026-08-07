@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-07 00:55 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-07 05:50 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (362)
+## 🎯 To apply (366)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -21,6 +21,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-07 | Software Engineer, CX | NICE | [apply ↗](https://www.adzuna.in/details/5830638237?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5830638237?utm_medium=api&` |
 | — | 2026-08-07 | Software Engineer - Fullstack | DigiCert | [apply ↗](https://www.adzuna.in/details/5830636860?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5830636860?utm_medium=api&` |
 | — | 2026-08-07 | Software Engineer, Network Firewall | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8106815?gh_jid=8106815) | `python track.py applied 8106815?gh_jid=8106815` |
+| — | 2026-08-07 | Software Engineer | Cargill | [apply ↗](https://www.adzuna.in/details/5831608485?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5831608485?utm_medium=api&` |
+| — | 2026-08-07 | Advisory Quality Assurance Software Engineer | Pitney Bowes | [apply ↗](https://www.adzuna.in/details/5831607925?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5831607925?utm_medium=api&` |
+| — | 2026-08-07 | Software Engineer - Forward Deployment | Cisco | [apply ↗](https://www.adzuna.in/details/5831601062?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5831601062?utm_medium=api&` |
+| — | 2026-08-07 | Software Engineer - Forward Deployment | Cisco | [apply ↗](https://www.adzuna.in/details/5831601032?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5831601032?utm_medium=api&` |
 | — | 2026-08-06 | Software Engineer I | Tower Research Capital | [apply ↗](https://www.adzuna.in/details/5829887460?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829887460?utm_medium=api&` |
 | — | 2026-08-06 | Software Engineer | Tower Research Capital | [apply ↗](https://www.adzuna.in/details/5829887461?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829887461?utm_medium=api&` |
 | — | 2026-08-06 | Software Reliability Engineer I | Tower Research Capital | [apply ↗](https://www.adzuna.in/details/5829887455?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5829887455?utm_medium=api&` |
