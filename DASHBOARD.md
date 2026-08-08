@@ -1,15 +1,21 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-07 20:58 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-08 02:22 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (377)
+## 🎯 To apply (383)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-08 | Software Engineer 1 (Android Developer) | Dozee | [apply ↗](https://www.adzuna.in/details/5832801213?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832801213?utm_medium=api&` |
+| — | 2026-08-08 | Software Engineer | Ford | [apply ↗](https://www.adzuna.in/details/5832799211?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832799211?utm_medium=api&` |
+| — | 2026-08-08 | Software Engineer (FullStack-JavaReact) | Ford | [apply ↗](https://www.adzuna.in/details/5832799190?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832799190?utm_medium=api&` |
+| — | 2026-08-08 | Full Stack .Net Developer | Coditas Technologies | [apply ↗](https://www.adzuna.in/details/5832798230?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832798230?utm_medium=api&` |
+| — | 2026-08-08 | Dot NET Full stack developer | Coditas Technologies | [apply ↗](https://www.adzuna.in/details/5832798234?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832798234?utm_medium=api&` |
+| — | 2026-08-08 | Software Development Engineer in Test - I | Ather Energy | [apply ↗](https://www.adzuna.in/details/5832796604?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832796604?utm_medium=api&` |
 | — | 2026-08-07 | Custom Software Engineer - Microsoft Azure PaaS | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5830840628?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5830840628?utm_medium=api&` |
 | — | 2026-08-07 | Java Full Stack Developer – India Remote | RELQ TECHNOLOGIES LLC | [apply ↗](https://www.adzuna.in/details/5830840571?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5830840571?utm_medium=api&` |
 | — | 2026-08-07 | Software Engineer - C++ Middleware | Harman Becker Automotive Systems Manufacturing Kft | [apply ↗](https://www.adzuna.in/details/5830641862?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5830641862?utm_medium=api&` |
