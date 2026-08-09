@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-09 13:15 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-09 16:53 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (402)
+## 🎯 To apply (405)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -20,6 +20,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-09 | Software Engineer Trainee | Emerson | [apply ↗](https://www.adzuna.in/details/5834377748?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5834377748?utm_medium=api&` |
 | — | 2026-08-09 | Full Stack Engineer, INSWA | The Coca-Cola Company | [apply ↗](https://www.adzuna.in/details/5834375888?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5834375888?utm_medium=api&` |
 | — | 2026-08-09 | Software Engineer (C#, .NET / Industrial Automation) | TalentXO | [apply ↗](https://www.adzuna.in/land/ad/5834649707?se=-qtDaPST8RGWPoJqQXFPnw&utm_medium=api&utm_source=616fbe19&v=B48F200879EC4128576F44F55CA778A230740060) | `python track.py applied 5834649707?se=-qtDaPST8RGW` |
+| — | 2026-08-09 | Specialist Software Engineer | AGDATA LP | [apply ↗](https://www.adzuna.in/details/5834779600?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5834779600?utm_medium=api&` |
+| — | 2026-08-09 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5834771893?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5834771893?utm_medium=api&` |
+| — | 2026-08-09 | Specialist Software Engineer | Amgen | [apply ↗](https://www.adzuna.in/details/5834765382?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5834765382?utm_medium=api&` |
 | — | 2026-08-08 | Software Engineer 1 (Android Developer) | Dozee | [apply ↗](https://www.adzuna.in/details/5832801213?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832801213?utm_medium=api&` |
 | — | 2026-08-08 | Software Engineer | Ford | [apply ↗](https://www.adzuna.in/details/5832799211?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832799211?utm_medium=api&` |
 | — | 2026-08-08 | Software Engineer (FullStack-JavaReact) | Ford | [apply ↗](https://www.adzuna.in/details/5832799190?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832799190?utm_medium=api&` |
