@@ -1,15 +1,18 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-08 20:48 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-09 02:29 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (392)
+## 🎯 To apply (395)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-09 | Full-stack app developer (Part-time, Equity only) | Kefilo | [apply ↗](https://www.adzuna.in/details/5834189053?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5834189053?utm_medium=api&` |
+| — | 2026-08-09 | Full-stack app developer (Part-time, Equity only) | PD Consulting | [apply ↗](https://www.adzuna.in/details/5834188904?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5834188904?utm_medium=api&` |
+| — | 2026-08-09 | Software Engineer (C, C++) | NetApp | [apply ↗](https://www.adzuna.in/land/ad/5833711736?se=BPx2CJqT8RGlDuOngCclFw&utm_medium=api&utm_source=616fbe19&v=9D83B5EAC009BF2EDA4E238836012FADE33EF955) | `python track.py applied 5833711736?se=BPx2CJqT8RGl` |
 | — | 2026-08-08 | Software Engineer 1 (Android Developer) | Dozee | [apply ↗](https://www.adzuna.in/details/5832801213?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832801213?utm_medium=api&` |
 | — | 2026-08-08 | Software Engineer | Ford | [apply ↗](https://www.adzuna.in/details/5832799211?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832799211?utm_medium=api&` |
 | — | 2026-08-08 | Software Engineer (FullStack-JavaReact) | Ford | [apply ↗](https://www.adzuna.in/details/5832799190?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5832799190?utm_medium=api&` |
