@@ -1,15 +1,25 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-10 02:34 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-10 05:44 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (405)
+## 🎯 To apply (415)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-10 | Software Development Engineer (Jira Data Center) | Zscaler | [apply ↗](https://www.adzuna.in/details/5835321227?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835321227?utm_medium=api&` |
+| — | 2026-08-10 | Software Engineer | Red Hat | [apply ↗](https://www.adzuna.in/details/5835315415?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835315415?utm_medium=api&` |
+| — | 2026-08-10 | Software Engineer - Java/Go / Distributed Systems / Microservices / Kafka / Cloud / 4-8 Years | Cisco | [apply ↗](https://www.adzuna.in/details/5835312150?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835312150?utm_medium=api&` |
+| — | 2026-08-10 | Software Development Engineer in Test (SDET) - Java | Applied Materials | [apply ↗](https://www.adzuna.in/details/5835311325?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835311325?utm_medium=api&` |
+| — | 2026-08-10 | Software Development Engineer, DaS FinTech | Amazon | [apply ↗](https://www.adzuna.in/details/5835310897?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835310897?utm_medium=api&` |
+| — | 2026-08-10 | Software Development Engineer, Vendor Experience | Amazon | [apply ↗](https://www.adzuna.in/details/5835310855?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835310855?utm_medium=api&` |
+| — | 2026-08-10 | Software Development Engineer, AWS Compliance & Security Assurance, Denied Party Screening | Amazon | [apply ↗](https://www.adzuna.in/details/5835310870?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835310870?utm_medium=api&` |
+| — | 2026-08-10 | System Development Engineer I, FBA | Amazon | [apply ↗](https://www.adzuna.in/details/5835310860?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835310860?utm_medium=api&` |
+| — | 2026-08-10 | Software Engineer (C++ & AI) | Hyland | [apply ↗](https://www.adzuna.in/details/5835289612?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835289612?utm_medium=api&` |
+| — | 2026-08-10 | Software Engineer (C, C++) | NetApp | [apply ↗](https://www.adzuna.in/land/ad/5835260796?se=TicxgH6U8RGlDuOngCclFw&utm_medium=api&utm_source=616fbe19&v=452889031685BB91246D3542A074781BA78F158D) | `python track.py applied 5835260796?se=TicxgH6U8RGl` |
 | — | 2026-08-09 | Full-stack app developer (Part-time, Equity only) | Kefilo | [apply ↗](https://www.adzuna.in/details/5834189053?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5834189053?utm_medium=api&` |
 | — | 2026-08-09 | Full-stack app developer (Part-time, Equity only) | PD Consulting | [apply ↗](https://www.adzuna.in/details/5834188904?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5834188904?utm_medium=api&` |
 | — | 2026-08-09 | Software Engineer (C, C++) | NetApp | [apply ↗](https://www.adzuna.in/land/ad/5833711736?se=BPx2CJqT8RGlDuOngCclFw&utm_medium=api&utm_source=616fbe19&v=9D83B5EAC009BF2EDA4E238836012FADE33EF955) | `python track.py applied 5833711736?se=BPx2CJqT8RGl` |
