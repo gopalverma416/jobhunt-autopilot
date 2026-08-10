@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-10 09:48 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-10 13:43 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (416)
+## 🎯 To apply (419)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -21,6 +21,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-10 | Software Engineer (C++ & AI) | Hyland | [apply ↗](https://www.adzuna.in/details/5835289612?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835289612?utm_medium=api&` |
 | — | 2026-08-10 | Software Engineer (C, C++) | NetApp | [apply ↗](https://www.adzuna.in/land/ad/5835260796?se=TicxgH6U8RGlDuOngCclFw&utm_medium=api&utm_source=616fbe19&v=452889031685BB91246D3542A074781BA78F158D) | `python track.py applied 5835260796?se=TicxgH6U8RGl` |
 | — | 2026-08-10 | Software Engineer (C, C++) | NetApp | [apply ↗](https://www.adzuna.in/land/ad/5835260796?se=Tl3Mh6CU8RGlDuOngCclFw&utm_medium=api&utm_source=616fbe19&v=452889031685BB91246D3542A074781BA78F158D) | `python track.py applied 5835260796?se=Tl3Mh6CU8RGl` |
+| — | 2026-08-10 | Software Development Engineer , Ordering | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5835486342?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835486342?utm_medium=api&` |
+| — | 2026-08-10 | MTS 1 - Mobile Security Engineer | eBay | [apply ↗](https://www.adzuna.in/details/5835481513?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835481513?utm_medium=api&` |
+| — | 2026-08-10 | Site Reliability Engineer I | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Site-Reliability-Engineer-I_R-286909-1) | `python track.py applied Site-Reliability-Engineer-` |
 | — | 2026-08-09 | Full-stack app developer (Part-time, Equity only) | Kefilo | [apply ↗](https://www.adzuna.in/details/5834189053?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5834189053?utm_medium=api&` |
 | — | 2026-08-09 | Full-stack app developer (Part-time, Equity only) | PD Consulting | [apply ↗](https://www.adzuna.in/details/5834188904?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5834188904?utm_medium=api&` |
 | — | 2026-08-09 | Software Engineer (C, C++) | NetApp | [apply ↗](https://www.adzuna.in/land/ad/5833711736?se=BPx2CJqT8RGlDuOngCclFw&utm_medium=api&utm_source=616fbe19&v=9D83B5EAC009BF2EDA4E238836012FADE33EF955) | `python track.py applied 5833711736?se=BPx2CJqT8RGl` |
