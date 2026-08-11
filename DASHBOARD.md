@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-11 13:42 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-11 17:12 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (435)
+## 🎯 To apply (440)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -16,6 +16,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-11 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556957890) | `python track.py applied 1970393556957890` |
 | — | 2026-08-11 | Full Stack Developer | Momentum Financial Services Group | [apply ↗](https://www.adzuna.in/details/5836583681?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836583681?utm_medium=api&` |
 | — | 2026-08-11 | Intermediate Backend Engineer | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8686962002) | `python track.py applied 8686962002` |
+| — | 2026-08-11 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5836878067?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836878067?utm_medium=api&` |
+| — | 2026-08-11 | Software Engineer | Microsoft | [apply ↗](https://www.adzuna.in/details/5836873148?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836873148?utm_medium=api&` |
+| — | 2026-08-11 | Software Engineer (Platform/Backend) - ClickHouse | Omnissa | [apply ↗](https://www.adzuna.in/details/5836853212?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836853212?utm_medium=api&` |
+| — | 2026-08-11 | Software Engineer | Wells Fargo Bank | [apply ↗](https://www.adzuna.in/details/5836852328?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836852328?utm_medium=api&` |
+| — | 2026-08-11 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5836852182?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836852182?utm_medium=api&` |
 | — | 2026-08-10 | Software Development Engineer (Jira Data Center) | Zscaler | [apply ↗](https://www.adzuna.in/details/5835321227?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835321227?utm_medium=api&` |
 | — | 2026-08-10 | Software Engineer | Red Hat | [apply ↗](https://www.adzuna.in/details/5835315415?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835315415?utm_medium=api&` |
 | — | 2026-08-10 | Software Engineer - Java/Go / Distributed Systems / Microservices / Kafka / Cloud / 4-8 Years | Cisco | [apply ↗](https://www.adzuna.in/details/5835312150?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835312150?utm_medium=api&` |
