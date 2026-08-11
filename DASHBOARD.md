@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-11 17:12 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-11 21:04 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (440)
+## 🎯 To apply (445)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -21,6 +21,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-11 | Software Engineer (Platform/Backend) - ClickHouse | Omnissa | [apply ↗](https://www.adzuna.in/details/5836853212?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836853212?utm_medium=api&` |
 | — | 2026-08-11 | Software Engineer | Wells Fargo Bank | [apply ↗](https://www.adzuna.in/details/5836852328?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836852328?utm_medium=api&` |
 | — | 2026-08-11 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5836852182?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836852182?utm_medium=api&` |
+| — | 2026-08-11 | Software Developer - AI | Kyndryl | [apply ↗](https://www.adzuna.in/land/ad/5837139101?se=DjqKNsiV8RGwIbMnLvoVfw&utm_medium=api&utm_source=616fbe19&v=61F3A9F15FEE752B93A2E1BD1C355743A71CB86F) | `python track.py applied 5837139101?se=DjqKNsiV8RGw` |
+| — | 2026-08-11 | Full Stack Developer | Kyndryl | [apply ↗](https://www.adzuna.in/land/ad/5837138672?se=DjqKNsiV8RGwIbMnLvoVfw&utm_medium=api&utm_source=616fbe19&v=1109FD93A5F57659EB8611BB3B482244D00E18AA) | `python track.py applied 5837138672?se=DjqKNsiV8RGw` |
+| — | 2026-08-11 | Software Engineering - Full Stack Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5837109770?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837109770?utm_medium=api&` |
+| — | 2026-08-11 | Custom Software Engineer - Performance Testing Strategy | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5837109785?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837109785?utm_medium=api&` |
+| — | 2026-08-11 | Custom Software Engineer - Snowflake Data Warehouse | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5837109801?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837109801?utm_medium=api&` |
 | — | 2026-08-10 | Software Development Engineer (Jira Data Center) | Zscaler | [apply ↗](https://www.adzuna.in/details/5835321227?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835321227?utm_medium=api&` |
 | — | 2026-08-10 | Software Engineer | Red Hat | [apply ↗](https://www.adzuna.in/details/5835315415?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835315415?utm_medium=api&` |
 | — | 2026-08-10 | Software Engineer - Java/Go / Distributed Systems / Microservices / Kafka / Cloud / 4-8 Years | Cisco | [apply ↗](https://www.adzuna.in/details/5835312150?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835312150?utm_medium=api&` |
