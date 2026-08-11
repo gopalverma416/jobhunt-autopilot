@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-10 21:01 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-11 02:28 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (429)
+## 🎯 To apply (431)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-11 | Software Engineer (Java, React) | MicroStrategy India | [apply ↗](https://www.adzuna.in/details/5836259344?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836259344?utm_medium=api&` |
+| — | 2026-08-11 | Software Development Engineer | Growloc Private Limited | [apply ↗](https://www.adzuna.in/details/5836227940?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836227940?utm_medium=api&` |
 | — | 2026-08-10 | Software Development Engineer (Jira Data Center) | Zscaler | [apply ↗](https://www.adzuna.in/details/5835321227?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835321227?utm_medium=api&` |
 | — | 2026-08-10 | Software Engineer | Red Hat | [apply ↗](https://www.adzuna.in/details/5835315415?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835315415?utm_medium=api&` |
 | — | 2026-08-10 | Software Engineer - Java/Go / Distributed Systems / Microservices / Kafka / Cloud / 4-8 Years | Cisco | [apply ↗](https://www.adzuna.in/details/5835312150?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5835312150?utm_medium=api&` |
