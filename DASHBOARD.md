@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-12 09:31 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-12 13:47 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (458)
+## 🎯 To apply (464)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -23,6 +23,12 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-12 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5837797857?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837797857?utm_medium=api&` |
 | — | 2026-08-12 | Software Engineer- Agentic AI Developer- 6yrs exp | Cisco | [apply ↗](https://www.adzuna.in/details/5837797836?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837797836?utm_medium=api&` |
 | — | 2026-08-12 | Backend Engineer, Geo Team | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8695515002) | `python track.py applied 8695515002` |
+| — | 2026-08-12 | Require a Software Engineer Trainee in Pune | TestHiring | [apply ↗](https://www.adzuna.in/details/5838170544?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838170544?utm_medium=api&` |
+| — | 2026-08-12 | Software Development Engineer, AFFS | ADCI - Maharashtra | [apply ↗](https://www.adzuna.in/details/5838100567?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838100567?utm_medium=api&` |
+| — | 2026-08-12 | Software Development Engineer, AI Ops Integration | ADCI - Haryana | [apply ↗](https://www.adzuna.in/details/5838098611?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838098611?utm_medium=api&` |
+| — | 2026-08-12 | Software Development Engineer, RBS Tech | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5838098518?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838098518?utm_medium=api&` |
+| — | 2026-08-12 | Full Stack Engineer - Internal Audit | Cloudflare | [apply ↗](https://www.adzuna.in/details/5838096677?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838096677?utm_medium=api&` |
+| — | 2026-08-12 | Software Engineer Securityprivacy Gtech | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/112995736836022982-software-engineer-securityprivacy-gtech) | `python track.py applied 112995736836022982-softwar` |
 | — | 2026-08-11 | Software Engineer (Java, React) | MicroStrategy India | [apply ↗](https://www.adzuna.in/details/5836259344?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836259344?utm_medium=api&` |
 | — | 2026-08-11 | Software Development Engineer | Growloc Private Limited | [apply ↗](https://www.adzuna.in/details/5836227940?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836227940?utm_medium=api&` |
 | — | 2026-08-11 | Specialist Software Engineer | Amgen | [apply ↗](https://www.adzuna.in/details/5836398082?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836398082?utm_medium=api&` |
