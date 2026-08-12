@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-12 13:47 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-12 17:12 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (464)
+## 🎯 To apply (471)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -29,6 +29,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-12 | Software Development Engineer, RBS Tech | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5838098518?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838098518?utm_medium=api&` |
 | — | 2026-08-12 | Full Stack Engineer - Internal Audit | Cloudflare | [apply ↗](https://www.adzuna.in/details/5838096677?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838096677?utm_medium=api&` |
 | — | 2026-08-12 | Software Engineer Securityprivacy Gtech | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/112995736836022982-software-engineer-securityprivacy-gtech) | `python track.py applied 112995736836022982-softwar` |
+| — | 2026-08-12 | Software Developer (GoLang/ AWS) | Showtime Consulting | [apply ↗](https://www.adzuna.in/details/5838617024?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838617024?utm_medium=api&` |
+| — | 2026-08-12 | SDE, International Cobranded Credit Cards | Amazon | [apply ↗](https://www.adzuna.in/details/5838602412?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838602412?utm_medium=api&` |
+| — | 2026-08-12 | Software Development Engineer Test, WebApps/tvApps | Fox | [apply ↗](https://www.adzuna.in/details/5838501730?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838501730?utm_medium=api&` |
+| — | 2026-08-12 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5838495279?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838495279?utm_medium=api&` |
+| — | 2026-08-12 | Software Engineer - Java and Spring Boot | Maersk | [apply ↗](https://www.adzuna.in/details/5838494018?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838494018?utm_medium=api&` |
+| — | 2026-08-12 | Software Engineer Cabin Management | Airbus | [apply ↗](https://www.adzuna.in/details/5838489172?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838489172?utm_medium=api&` |
+| — | 2026-08-12 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5838486606?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838486606?utm_medium=api&` |
 | — | 2026-08-11 | Software Engineer (Java, React) | MicroStrategy India | [apply ↗](https://www.adzuna.in/details/5836259344?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836259344?utm_medium=api&` |
 | — | 2026-08-11 | Software Development Engineer | Growloc Private Limited | [apply ↗](https://www.adzuna.in/details/5836227940?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836227940?utm_medium=api&` |
 | — | 2026-08-11 | Specialist Software Engineer | Amgen | [apply ↗](https://www.adzuna.in/details/5836398082?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836398082?utm_medium=api&` |
