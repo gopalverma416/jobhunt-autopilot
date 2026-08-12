@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-12 17:12 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-12 21:03 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (471)
+## 🎯 To apply (473)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -36,6 +36,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-12 | Software Engineer - Java and Spring Boot | Maersk | [apply ↗](https://www.adzuna.in/details/5838494018?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838494018?utm_medium=api&` |
 | — | 2026-08-12 | Software Engineer Cabin Management | Airbus | [apply ↗](https://www.adzuna.in/details/5838489172?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838489172?utm_medium=api&` |
 | — | 2026-08-12 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5838486606?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838486606?utm_medium=api&` |
+| — | 2026-08-12 | - .NET Full Stack Developer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5838663112?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838663112?utm_medium=api&` |
+| — | 2026-08-12 | CYBER-SEC_IT Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5838663136?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5838663136?utm_medium=api&` |
 | — | 2026-08-11 | Software Engineer (Java, React) | MicroStrategy India | [apply ↗](https://www.adzuna.in/details/5836259344?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836259344?utm_medium=api&` |
 | — | 2026-08-11 | Software Development Engineer | Growloc Private Limited | [apply ↗](https://www.adzuna.in/details/5836227940?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836227940?utm_medium=api&` |
 | — | 2026-08-11 | Specialist Software Engineer | Amgen | [apply ↗](https://www.adzuna.in/details/5836398082?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836398082?utm_medium=api&` |
