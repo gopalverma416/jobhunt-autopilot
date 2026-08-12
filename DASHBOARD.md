@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-11 21:04 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-12 02:44 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (445)
+## 🎯 To apply (450)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-12 | Software Engineer Data Analytics | Mattel | [apply ↗](https://www.adzuna.in/details/5837583689?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837583689?utm_medium=api&` |
+| — | 2026-08-12 | Require a Full stack software engineer in Bangalore | TestHiring | [apply ↗](https://www.adzuna.in/details/5837548646?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837548646?utm_medium=api&` |
+| — | 2026-08-12 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5837542456?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837542456?utm_medium=api&` |
+| — | 2026-08-12 | Backend Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5837542356?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837542356?utm_medium=api&` |
+| — | 2026-08-12 | Software Developer - AI | Kyndryl | [apply ↗](https://www.adzuna.in/land/ad/5837139101?se=to8ssveV8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=616fbe19&v=61F3A9F15FEE752B93A2E1BD1C355743A71CB86F) | `python track.py applied 5837139101?se=to8ssveV8RGi` |
 | — | 2026-08-11 | Software Engineer (Java, React) | MicroStrategy India | [apply ↗](https://www.adzuna.in/details/5836259344?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836259344?utm_medium=api&` |
 | — | 2026-08-11 | Software Development Engineer | Growloc Private Limited | [apply ↗](https://www.adzuna.in/details/5836227940?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836227940?utm_medium=api&` |
 | — | 2026-08-11 | Specialist Software Engineer | Amgen | [apply ↗](https://www.adzuna.in/details/5836398082?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836398082?utm_medium=api&` |
