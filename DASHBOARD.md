@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-12 02:44 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-12 05:46 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (450)
+## 🎯 To apply (458)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,14 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-12 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5837542456?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837542456?utm_medium=api&` |
 | — | 2026-08-12 | Backend Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5837542356?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837542356?utm_medium=api&` |
 | — | 2026-08-12 | Software Developer - AI | Kyndryl | [apply ↗](https://www.adzuna.in/land/ad/5837139101?se=to8ssveV8RGiYpuj0Q3xbQ&utm_medium=api&utm_source=616fbe19&v=61F3A9F15FEE752B93A2E1BD1C355743A71CB86F) | `python track.py applied 5837139101?se=to8ssveV8RGi` |
+| — | 2026-08-12 | Software Engineer 1 | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5837806435?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837806435?utm_medium=api&` |
+| — | 2026-08-12 | Software Engineer 1 - IN | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5837806392?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837806392?utm_medium=api&` |
+| — | 2026-08-12 | Python Developer - Software Engineer | Citigroup | [apply ↗](https://www.adzuna.in/details/5837798198?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837798198?utm_medium=api&` |
+| — | 2026-08-12 | Software Engineer - Python, React, AI, Exp: 4-8 Yrs, Bangalore | Cisco | [apply ↗](https://www.adzuna.in/details/5837797871?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837797871?utm_medium=api&` |
+| — | 2026-08-12 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5837797887?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837797887?utm_medium=api&` |
+| — | 2026-08-12 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5837797857?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837797857?utm_medium=api&` |
+| — | 2026-08-12 | Software Engineer- Agentic AI Developer- 6yrs exp | Cisco | [apply ↗](https://www.adzuna.in/details/5837797836?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837797836?utm_medium=api&` |
+| — | 2026-08-12 | Backend Engineer, Geo Team | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8695515002) | `python track.py applied 8695515002` |
 | — | 2026-08-11 | Software Engineer (Java, React) | MicroStrategy India | [apply ↗](https://www.adzuna.in/details/5836259344?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836259344?utm_medium=api&` |
 | — | 2026-08-11 | Software Development Engineer | Growloc Private Limited | [apply ↗](https://www.adzuna.in/details/5836227940?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836227940?utm_medium=api&` |
 | — | 2026-08-11 | Specialist Software Engineer | Amgen | [apply ↗](https://www.adzuna.in/details/5836398082?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5836398082?utm_medium=api&` |
