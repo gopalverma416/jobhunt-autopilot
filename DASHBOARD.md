@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-13 09:33 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-13 13:47 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (485)
+## 🎯 To apply (489)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -22,6 +22,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-13 | Cloud Software Engineer | McAfee, Inc. | [apply ↗](https://www.adzuna.in/details/5839590620?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839590620?utm_medium=api&` |
 | — | 2026-08-13 | Full Stack Engineer | Check Point Software Technologies | [apply ↗](https://www.adzuna.in/details/5840001638?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5840001638?utm_medium=api&` |
 | — | 2026-08-13 | Software Developer - Fully Remote | Mercor | [apply ↗](https://www.adzuna.in/details/5839871081?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839871081?utm_medium=api&` |
+| — | 2026-08-13 | Software Engineer I | Thermo Fisher Scientific | [apply ↗](https://www.adzuna.in/land/ad/5840277305?se=mDWRgB2X8RGtU5Il3Z8v3A&utm_medium=api&utm_source=616fbe19&v=96CFE3909768B9590FCD0DDD1DAF21090FAA288D) | `python track.py applied 5840277305?se=mDWRgB2X8RGt` |
+| — | 2026-08-13 | Software Development Engineer, Amazon Fulfilment Tech | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5840192544?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5840192544?utm_medium=api&` |
+| — | 2026-08-13 | Software Development Engineer | Amazon | [apply ↗](https://www.adzuna.in/details/5840182738?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5840182738?utm_medium=api&` |
+| — | 2026-08-13 | Software Development Engineer in Test | Egnyte | [apply ↗](https://www.adzuna.in/details/5840174990?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5840174990?utm_medium=api&` |
 | — | 2026-08-12 | Software Engineer Data Analytics | Mattel | [apply ↗](https://www.adzuna.in/details/5837583689?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837583689?utm_medium=api&` |
 | — | 2026-08-12 | Require a Full stack software engineer in Bangalore | TestHiring | [apply ↗](https://www.adzuna.in/details/5837548646?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837548646?utm_medium=api&` |
 | — | 2026-08-12 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5837542456?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837542456?utm_medium=api&` |
