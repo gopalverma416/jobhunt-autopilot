@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-13 05:48 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-13 09:33 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (483)
+## 🎯 To apply (485)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -20,6 +20,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-13 | Software Engineer | Microsoft Corporation | [apply ↗](https://www.adzuna.in/details/5839591133?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839591133?utm_medium=api&` |
 | — | 2026-08-13 | Selenium API - Software Development Engineer in Test | McAfee, Inc. | [apply ↗](https://www.adzuna.in/details/5839590890?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839590890?utm_medium=api&` |
 | — | 2026-08-13 | Cloud Software Engineer | McAfee, Inc. | [apply ↗](https://www.adzuna.in/details/5839590620?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839590620?utm_medium=api&` |
+| — | 2026-08-13 | Full Stack Engineer | Check Point Software Technologies | [apply ↗](https://www.adzuna.in/details/5840001638?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5840001638?utm_medium=api&` |
+| — | 2026-08-13 | Software Developer - Fully Remote | Mercor | [apply ↗](https://www.adzuna.in/details/5839871081?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839871081?utm_medium=api&` |
 | — | 2026-08-12 | Software Engineer Data Analytics | Mattel | [apply ↗](https://www.adzuna.in/details/5837583689?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837583689?utm_medium=api&` |
 | — | 2026-08-12 | Require a Full stack software engineer in Bangalore | TestHiring | [apply ↗](https://www.adzuna.in/details/5837548646?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837548646?utm_medium=api&` |
 | — | 2026-08-12 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5837542456?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837542456?utm_medium=api&` |
