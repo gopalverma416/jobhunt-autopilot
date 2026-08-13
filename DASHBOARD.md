@@ -1,15 +1,19 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-12 21:03 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-13 02:47 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (473)
+## 🎯 To apply (477)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-13 | Advanced Software Engineer | Diebold | [apply ↗](https://www.adzuna.in/details/5839224147?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839224147?utm_medium=api&` |
+| — | 2026-08-13 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5839177582?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839177582?utm_medium=api&` |
+| — | 2026-08-13 | Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5839177519?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839177519?utm_medium=api&` |
+| — | 2026-08-13 | Agentic Software Engineer | Eka Software Solutions | [apply ↗](https://www.adzuna.in/details/5839138862?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839138862?utm_medium=api&` |
 | — | 2026-08-12 | Software Engineer Data Analytics | Mattel | [apply ↗](https://www.adzuna.in/details/5837583689?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837583689?utm_medium=api&` |
 | — | 2026-08-12 | Require a Full stack software engineer in Bangalore | TestHiring | [apply ↗](https://www.adzuna.in/details/5837548646?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837548646?utm_medium=api&` |
 | — | 2026-08-12 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5837542456?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5837542456?utm_medium=api&` |
