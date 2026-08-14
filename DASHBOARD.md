@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-14 02:46 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-14 05:46 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (504)
+## 🎯 To apply (507)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-14 | Software Engineer - GoTo Financial | Tokopedia | [apply ↗](https://www.adzuna.in/details/5841130067?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841130067?utm_medium=api&` |
 | — | 2026-08-14 | Software Engineer | Tokopedia | [apply ↗](https://www.adzuna.in/details/5841129926?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841129926?utm_medium=api&` |
 | — | 2026-08-14 | Fullstack Software Engineer, DX | Atlassian | [apply ↗](https://careers-americas.icims.com/jobs/26345/fullstack-software-engineer%2c-dx/job) | `python track.py applied job` |
+| — | 2026-08-14 | Application Engineer, Vice President | BlackRock | [apply ↗](https://www.adzuna.in/details/5841398682?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841398682?utm_medium=api&` |
+| — | 2026-08-14 | Software Development Engineer, FBA | Amazon | [apply ↗](https://www.adzuna.in/details/5841398230?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841398230?utm_medium=api&` |
+| — | 2026-08-14 | Software Development Engineer, Amazon Fulfilment Tech | Amazon | [apply ↗](https://www.adzuna.in/details/5841398262?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841398262?utm_medium=api&` |
 | — | 2026-08-13 | Advanced Software Engineer | Diebold | [apply ↗](https://www.adzuna.in/details/5839224147?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839224147?utm_medium=api&` |
 | — | 2026-08-13 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5839177582?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839177582?utm_medium=api&` |
 | — | 2026-08-13 | Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5839177519?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839177519?utm_medium=api&` |
