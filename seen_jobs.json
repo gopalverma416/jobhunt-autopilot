@@ -416,6 +416,10 @@
 "first": "2026-08-13T09:33:23+00:00",
 "sig": "phonepe|software engineer backend years"
 },
+"https://job-boards.greenhouse.io/phonepe/jobs/7869947003": {
+"first": "2026-08-14T13:42:47+00:00",
+"sig": "phonepe|software engineer backend years"
+},
 "https://job-boards.greenhouse.io/planetscale/jobs/4009746009": {
 "first": "2026-07-14T13:22:23+00:00",
 "sig": "planetscale|software engineer planetscale vitess"
@@ -4336,6 +4340,30 @@
 "first": "2026-08-14T09:20:49+00:00",
 "sig": "version 1|ai full stack engineer"
 },
+"https://www.adzuna.in/details/5841706021?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-14T13:42:47+00:00",
+"sig": "proofofskill|founding full stack engineer"
+},
+"https://www.adzuna.in/details/5841714331?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-14T13:42:47+00:00",
+"sig": "natwest group|software engineer avp"
+},
+"https://www.adzuna.in/details/5841714518?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-14T13:42:47+00:00",
+"sig": "amazon|software development engineer alexa connections"
+},
+"https://www.adzuna.in/details/5841714546?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-14T13:42:47+00:00",
+"sig": "natwest group|software engineer"
+},
+"https://www.adzuna.in/details/5841714681?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-14T13:42:47+00:00",
+"sig": "agivant technologies|software engineer java full stack"
+},
+"https://www.adzuna.in/details/5841723356?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-14T13:42:46+00:00",
+"sig": "adci hyd 13 sez|quality assurance engineer i amazon pay india"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -4380,8 +4408,16 @@
 "first": "2026-08-14T09:20:49+00:00",
 "sig": "kyndryl|software engineer microsoft power platform developer"
 },
+"https://www.adzuna.in/land/ad/5841509246?se=prnoBOaX8RGqM9tlrK2FfQ&utm_medium=api&utm_source=616fbe19&v=77A93A263198B258FF86EBD054D2013BF2EF8C57": {
+"first": "2026-08-14T13:42:47+00:00",
+"sig": "kyndryl|software engineer microsoft power platform developer"
+},
 "https://www.adzuna.in/land/ad/5841509309?se=aIcJasGX8RGisIJAvKtLSA&utm_medium=api&utm_source=616fbe19&v=F0CBD76E98B59033FBF717A5F1D65AD6666830ED": {
 "first": "2026-08-14T09:20:49+00:00",
+"sig": "abb|software engineer"
+},
+"https://www.adzuna.in/land/ad/5841509309?se=prnoBOaX8RGqM9tlrK2FfQ&utm_medium=api&utm_source=616fbe19&v=F0CBD76E98B59033FBF717A5F1D65AD6666830ED": {
+"first": "2026-08-14T13:42:47+00:00",
 "sig": "abb|software engineer"
 },
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
@@ -4660,6 +4696,10 @@
 "first": "2026-08-12T02:44:17+00:00",
 "sig": "amazon|software development engineer fba"
 },
+"https://www.amazon.jobs/en/jobs/10502106/software-development-engineer-everyday-essentials-experiences": {
+"first": "2026-08-14T13:42:47+00:00",
+"sig": "amazon|software development engineer everyday essentials experiences"
+},
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
 "sig": "axonius|backend engineer s o paulo"
@@ -4793,6 +4833,7 @@
 "adci - maharashtra|software development engineer affs": "2026-08-12T13:47:17+00:00",
 "adci - maharashtra|software development engineer alexa ai developer tech": "2026-07-22T10:34:12+00:00",
 "adci - uttar pradesh|software development engineer das fintech": "2026-08-08T13:12:29+00:00",
+"adci hyd 13 sez|quality assurance engineer i amazon pay india": "2026-08-14T13:42:46+00:00",
 "adci hyd 13 sez|quality assurance engineer i shiptech qa": "2026-07-28T10:45:27+00:00",
 "adci hyd 13 sez|software development engineer amazon finance technology": "2026-07-20T11:12:54+00:00",
 "adci hyd 13 sez|software development engineer amazon traffic engineering": "2026-07-24T14:13:11+00:00",
@@ -4806,6 +4847,7 @@
 "adobe|software engineer ml tech transfer": "2026-07-27T21:30:02+00:00",
 "adsipl - karnataka|data engineer i data engineer i": "2026-07-31T10:50:38+00:00",
 "agdata lp|specialist software engineer": "2026-08-09T16:53:50+00:00",
+"agivant technologies|software engineer java full stack": "2026-08-14T13:42:47+00:00",
 "aion|software engineer general": "2026-08-04T18:03:43+00:00",
 "airbnb|android software engineer quality platform": "2026-07-14T13:22:21+00:00",
 "airbnb|software engineer biztech python llm genai mcp": "2026-07-20T14:33:35+00:00",
@@ -4855,6 +4897,7 @@
 "amazon|software development engineer das fintech": "2026-08-08T02:22:47+00:00",
 "amazon|software development engineer delivery choices": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer eu mfn acceleration": "2026-07-12T06:29:34+00:00",
+"amazon|software development engineer everyday essentials experiences": "2026-08-14T13:42:47+00:00",
 "amazon|software development engineer fba": "2026-07-29T10:48:49+00:00",
 "amazon|software development engineer fulfillment by amazon fba": "2026-07-21T06:41:37+00:00",
 "amazon|software development engineer hardline fx wireless h b hardline fx wireless h b": "2026-07-20T14:33:35+00:00",
@@ -5279,6 +5322,7 @@
 "postman|software engineer fullstack frontend heavy integrations": "2026-07-12T06:29:34+00:00",
 "pratiti technologies pvt. ltd.|c software engineer": "2026-07-14T17:34:37+00:00",
 "prefect|product engineer fullstack cloud": "2026-07-14T14:05:09+00:00",
+"proofofskill|founding full stack engineer": "2026-08-14T13:42:47+00:00",
 "proximity works|software engineer golang contractual role": "2026-07-15T10:15:46+00:00",
 "proximity works|software engineer python contractual role": "2026-07-15T10:15:46+00:00",
 "psiog|software engineer snowflake": "2026-07-23T14:32:21+00:00",
