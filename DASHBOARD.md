@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-14 13:42 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-14 17:11 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (524)
+## 🎯 To apply (528)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -35,6 +35,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-14 | Founding Full Stack Engineer | ProofofSkill | [apply ↗](https://www.adzuna.in/details/5841706021?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841706021?utm_medium=api&` |
 | — | 2026-08-14 | Software Engineer | ABB | [apply ↗](https://www.adzuna.in/land/ad/5841509309?se=prnoBOaX8RGqM9tlrK2FfQ&utm_medium=api&utm_source=616fbe19&v=F0CBD76E98B59033FBF717A5F1D65AD6666830ED) | `python track.py applied 5841509309?se=prnoBOaX8RGq` |
 | — | 2026-08-14 | Software Engineer - Microsoft Power Platform Developer | Kyndryl | [apply ↗](https://www.adzuna.in/land/ad/5841509246?se=prnoBOaX8RGqM9tlrK2FfQ&utm_medium=api&utm_source=616fbe19&v=77A93A263198B258FF86EBD054D2013BF2EF8C57) | `python track.py applied 5841509246?se=prnoBOaX8RGq` |
+| — | 2026-08-14 | Software Engineer, Java, VP | Natwest Group | [apply ↗](https://www.adzuna.in/details/5841969258?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841969258?utm_medium=api&` |
+| — | 2026-08-14 | Software Development Engineer, Alexa Customers & Technology | Amazon | [apply ↗](https://www.adzuna.in/details/5841968818?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841968818?utm_medium=api&` |
+| — | 2026-08-14 | Associate Software Engineer | Pitney Bowes | [apply ↗](https://www.adzuna.in/details/5841956200?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841956200?utm_medium=api&` |
+| — | 2026-08-14 | Software Development Engineer, Payroll Tech | Amazon | [apply ↗](https://www.adzuna.in/details/5841952696?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841952696?utm_medium=api&` |
 | — | 2026-08-13 | Advanced Software Engineer | Diebold | [apply ↗](https://www.adzuna.in/details/5839224147?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839224147?utm_medium=api&` |
 | — | 2026-08-13 | Software Engineer - Java | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5839177582?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839177582?utm_medium=api&` |
 | — | 2026-08-13 | Software Engineer | Scout Incorporation | [apply ↗](https://www.adzuna.in/details/5839177519?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5839177519?utm_medium=api&` |
