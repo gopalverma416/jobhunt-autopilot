@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-15 01:49 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-15 04:46 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (530)
+## 🎯 To apply (532)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,8 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-08-15 | Full-Stack developer | Check Point Software | [apply ↗](https://www.adzuna.in/details/5842489475?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842489475?utm_medium=api&` |
 | — | 2026-08-15 | Software Engineer - HyperionDeveloper | CGI | [apply ↗](https://www.adzuna.in/details/5842489453?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842489453?utm_medium=api&` |
+| — | 2026-08-15 | Software Engineer Trainee | Emerson | [apply ↗](https://www.adzuna.in/details/5842617091?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842617091?utm_medium=api&` |
+| — | 2026-08-15 | Associate Software Engineer | Anblicks Solutions | [apply ↗](https://www.adzuna.in/details/5842589836?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842589836?utm_medium=api&` |
 | — | 2026-08-14 | Software Engineer (iOS) | Laminaar Aviation Infotech India | [apply ↗](https://www.adzuna.in/details/5841130756?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841130756?utm_medium=api&` |
 | — | 2026-08-14 | Software Engineer (.Net Developer) | Laminaar Aviation Infotech India | [apply ↗](https://www.adzuna.in/details/5841130741?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841130741?utm_medium=api&` |
 | — | 2026-08-14 | Software Engineer - GoTo Financial | Tokopedia | [apply ↗](https://www.adzuna.in/details/5841130067?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841130067?utm_medium=api&` |
