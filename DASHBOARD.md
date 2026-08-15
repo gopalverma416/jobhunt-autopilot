@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-15 12:59 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-15 16:41 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (548)
+## 🎯 To apply (554)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -30,6 +30,12 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-15 | Software Engineer - ERP | WhiteCrow Research | [apply ↗](https://www.adzuna.in/details/5843020137?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843020137?utm_medium=api&` |
 | — | 2026-08-15 | Application Engineer | Palo Alto Networks | [apply ↗](https://www.adzuna.in/details/5843020207?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843020207?utm_medium=api&` |
 | — | 2026-08-15 | Software Engineer | TrueBlue | [apply ↗](https://www.adzuna.in/details/5843012300?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843012300?utm_medium=api&` |
+| — | 2026-08-15 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5843197217?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843197217?utm_medium=api&` |
+| — | 2026-08-15 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5843196487?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843196487?utm_medium=api&` |
+| — | 2026-08-15 | Software Development Engineer, Emerging Devices Software | Amazon | [apply ↗](https://www.adzuna.in/details/5843194387?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843194387?utm_medium=api&` |
+| — | 2026-08-15 | Software Development Engineer, Inbound & Inventory Management Tech | Amazon | [apply ↗](https://www.adzuna.in/details/5843193957?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843193957?utm_medium=api&` |
+| — | 2026-08-15 | Software Development Engineer, Alexa Customers & Technology | Amazon | [apply ↗](https://www.adzuna.in/details/5843191900?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843191900?utm_medium=api&` |
+| — | 2026-08-15 | Software Development Engineer in Test | DTCC | [apply ↗](https://www.adzuna.in/details/5843184719?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843184719?utm_medium=api&` |
 | — | 2026-08-14 | Software Engineer (iOS) | Laminaar Aviation Infotech India | [apply ↗](https://www.adzuna.in/details/5841130756?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841130756?utm_medium=api&` |
 | — | 2026-08-14 | Software Engineer (.Net Developer) | Laminaar Aviation Infotech India | [apply ↗](https://www.adzuna.in/details/5841130741?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841130741?utm_medium=api&` |
 | — | 2026-08-14 | Software Engineer - GoTo Financial | Tokopedia | [apply ↗](https://www.adzuna.in/details/5841130067?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841130067?utm_medium=api&` |
