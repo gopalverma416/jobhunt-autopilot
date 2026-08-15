@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-15 04:46 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-15 08:45 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (532)
+## 🎯 To apply (544)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,18 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-15 | Software Engineer - HyperionDeveloper | CGI | [apply ↗](https://www.adzuna.in/details/5842489453?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842489453?utm_medium=api&` |
 | — | 2026-08-15 | Software Engineer Trainee | Emerson | [apply ↗](https://www.adzuna.in/details/5842617091?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842617091?utm_medium=api&` |
 | — | 2026-08-15 | Associate Software Engineer | Anblicks Solutions | [apply ↗](https://www.adzuna.in/details/5842589836?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842589836?utm_medium=api&` |
+| — | 2026-08-15 | Software Engineer | Eurofins GSC IT DC | [apply ↗](https://www.adzuna.in/details/5842846591?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842846591?utm_medium=api&` |
+| — | 2026-08-15 | .Net Fullstack Developer | Eurofins GSC IT DC | [apply ↗](https://www.adzuna.in/details/5842846574?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842846574?utm_medium=api&` |
+| — | 2026-08-15 | Software Engineer 1 | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5842778707?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842778707?utm_medium=api&` |
+| — | 2026-08-15 | Software Engineer - Java | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5842778693?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842778693?utm_medium=api&` |
+| — | 2026-08-15 | Software Engineer | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5842777563?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842777563?utm_medium=api&` |
+| — | 2026-08-15 | Full-Stack Software Engineer (Frontend, Backend & Cloud) - Applied & Agentic AI Systems | Roche | [apply ↗](https://www.adzuna.in/details/5842764291?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842764291?utm_medium=api&` |
+| — | 2026-08-15 | Full-Stack AI Engineer / Data Scientist - Agentic Systems | Roche | [apply ↗](https://www.adzuna.in/details/5842764272?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842764272?utm_medium=api&` |
+| — | 2026-08-15 | Application Engineer | Palo Alto Networks | [apply ↗](https://www.adzuna.in/details/5842763774?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842763774?utm_medium=api&` |
+| — | 2026-08-15 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5842763621?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842763621?utm_medium=api&` |
+| — | 2026-08-15 | Software Engineer - Microsoft Power Platform Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5842763522?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842763522?utm_medium=api&` |
+| — | 2026-08-15 | Software Engineer - Microsoft Power Platform Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5842763492?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842763492?utm_medium=api&` |
+| — | 2026-08-15 | Software Development Engineer | LiveRamp | [apply ↗](https://www.adzuna.in/details/5842763369?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842763369?utm_medium=api&` |
 | — | 2026-08-14 | Software Engineer (iOS) | Laminaar Aviation Infotech India | [apply ↗](https://www.adzuna.in/details/5841130756?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841130756?utm_medium=api&` |
 | — | 2026-08-14 | Software Engineer (.Net Developer) | Laminaar Aviation Infotech India | [apply ↗](https://www.adzuna.in/details/5841130741?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841130741?utm_medium=api&` |
 | — | 2026-08-14 | Software Engineer - GoTo Financial | Tokopedia | [apply ↗](https://www.adzuna.in/details/5841130067?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5841130067?utm_medium=api&` |
