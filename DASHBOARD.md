@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-16 08:46 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-16 13:00 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (558)
+## 🎯 To apply (559)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-16 | Software Engineer | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5843997741?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843997741?utm_medium=api&` |
 | — | 2026-08-16 | Software Engineer | Microsoft Corporation | [apply ↗](https://www.adzuna.in/details/5843992800?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843992800?utm_medium=api&` |
 | — | 2026-08-16 | Software Engineer Playready | Microsoft Corporation | [apply ↗](https://www.adzuna.in/details/5843992791?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843992791?utm_medium=api&` |
+| — | 2026-08-16 | Software Development Engineer, CAM | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5844155172?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5844155172?utm_medium=api&` |
 | — | 2026-08-15 | Full-Stack developer | Check Point Software | [apply ↗](https://www.adzuna.in/details/5842489475?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842489475?utm_medium=api&` |
 | — | 2026-08-15 | Software Engineer - HyperionDeveloper | CGI | [apply ↗](https://www.adzuna.in/details/5842489453?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842489453?utm_medium=api&` |
 | — | 2026-08-15 | Software Engineer Trainee | Emerson | [apply ↗](https://www.adzuna.in/details/5842617091?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5842617091?utm_medium=api&` |
