@@ -1,6 +1,6 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-15 20:38 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-16 01:57 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
