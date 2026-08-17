@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-17 16:45 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-17 20:43 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (572)
+## 🎯 To apply (577)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -16,6 +16,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-17 | ITS Systems Engineer, Corporate Infrastructure Services, IT | Amazon | [apply ↗](https://www.adzuna.in/details/5845086892?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5845086892?utm_medium=api&` |
 | — | 2026-08-17 | Software Development Engineer, Everyday Essentials Experiences | Amazon | [apply ↗](https://www.adzuna.in/details/5845245291?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5845245291?utm_medium=api&` |
 | — | 2026-08-17 | Full Stack Software Engineer - India | Jumpcloud | [apply ↗](https://jobs.lever.co/jumpcloud/4ebbdea9-39c2-465d-bbdf-bf379a8e4a06) | `python track.py applied 4ebbdea9-39c2-465d-bbdf-bf` |
+| — | 2026-08-17 | Full Stack Engineer - Java Full Stack Development | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5845374568?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5845374568?utm_medium=api&` |
+| — | 2026-08-17 | Custom Software Engineer - Reltio | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5845374565?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5845374565?utm_medium=api&` |
+| — | 2026-08-17 | Custom Software Engineer - Google BigQuery | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5845374603?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5845374603?utm_medium=api&` |
+| — | 2026-08-17 | Custom Software Engineer - Selenium | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5845374600?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5845374600?utm_medium=api&` |
+| — | 2026-08-17 | Custom Software Engineer - Salesforce Marketing Cloud | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5845374572?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5845374572?utm_medium=api&` |
 | — | 2026-08-16 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5843998055?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843998055?utm_medium=api&` |
 | — | 2026-08-16 | Software Engineer | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5843997741?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843997741?utm_medium=api&` |
 | — | 2026-08-16 | Software Engineer | Microsoft Corporation | [apply ↗](https://www.adzuna.in/details/5843992800?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5843992800?utm_medium=api&` |
