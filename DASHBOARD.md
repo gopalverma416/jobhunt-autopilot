@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-18 13:07 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-18 16:48 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (587)
+## 🎯 To apply (593)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -20,6 +20,12 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-18 | Software Development Engineer | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5846562140?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5846562140?utm_medium=api&` |
 | — | 2026-08-18 | Business Intelligence Engineer I, Risk and Compliance Solutions (RCS) | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5846562138?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5846562138?utm_medium=api&` |
 | — | 2026-08-18 | Software Developer | Automate Accounts | [apply ↗](https://www.adzuna.in/details/5846555955?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5846555955?utm_medium=api&` |
+| — | 2026-08-18 | Software Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5847067153?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847067153?utm_medium=api&` |
+| — | 2026-08-18 | Software Engineer - AWS Cloud Engineer | CGI | [apply ↗](https://www.adzuna.in/details/5847067117?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847067117?utm_medium=api&` |
+| — | 2026-08-18 | (Ind) Distinguished, Software Engineer | WM Global Technology Services India | [apply ↗](https://www.adzuna.in/details/5846921098?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5846921098?utm_medium=api&` |
+| — | 2026-08-18 | Software Engineer I - Test | Danaher | [apply ↗](https://www.adzuna.in/details/5846917775?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5846917775?utm_medium=api&` |
+| — | 2026-08-18 | Software Engineer - Career | Equifax | [apply ↗](https://www.adzuna.in/details/5846917371?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5846917371?utm_medium=api&` |
+| — | 2026-08-18 | Engineer I Electrical & Electronics Engineering IX | Vertiv Group | [apply ↗](https://www.adzuna.in/details/5846916980?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5846916980?utm_medium=api&` |
 | — | 2026-08-17 | Member of Technical Staff Engineering | Physical Superintelligence | [apply ↗](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798) | `python track.py applied remote-member-of-technical` |
 | — | 2026-08-17 | Software Developer | IQVIA | [apply ↗](https://www.adzuna.in/details/5844946531?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5844946531?utm_medium=api&` |
 | — | 2026-08-17 | Software Engineer (C, C++) | NetApp | [apply ↗](https://www.adzuna.in/land/ad/5844802896?se=SFsHHBqa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=616fbe19&v=9E939FF271BB956EE0CC3DA2CBBCA58F87BA6EFB) | `python track.py applied 5844802896?se=SFsHHBqa8RGk` |
