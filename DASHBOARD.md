@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-18 16:48 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-18 20:40 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (593)
+## 🎯 To apply (594)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -26,6 +26,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-18 | Software Engineer I - Test | Danaher | [apply ↗](https://www.adzuna.in/details/5846917775?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5846917775?utm_medium=api&` |
 | — | 2026-08-18 | Software Engineer - Career | Equifax | [apply ↗](https://www.adzuna.in/details/5846917371?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5846917371?utm_medium=api&` |
 | — | 2026-08-18 | Engineer I Electrical & Electronics Engineering IX | Vertiv Group | [apply ↗](https://www.adzuna.in/details/5846916980?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5846916980?utm_medium=api&` |
+| — | 2026-08-18 | Custom Software Engineer - Spring Boot | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5847115544?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847115544?utm_medium=api&` |
 | — | 2026-08-17 | Member of Technical Staff Engineering | Physical Superintelligence | [apply ↗](https://remoteOK.com/remote-jobs/remote-member-of-technical-staff-engineering-physical-superintelligence-1136798) | `python track.py applied remote-member-of-technical` |
 | — | 2026-08-17 | Software Developer | IQVIA | [apply ↗](https://www.adzuna.in/details/5844946531?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5844946531?utm_medium=api&` |
 | — | 2026-08-17 | Software Engineer (C, C++) | NetApp | [apply ↗](https://www.adzuna.in/land/ad/5844802896?se=SFsHHBqa8RGkvsrO_ePWHQ&utm_medium=api&utm_source=616fbe19&v=9E939FF271BB956EE0CC3DA2CBBCA58F87BA6EFB) | `python track.py applied 5844802896?se=SFsHHBqa8RGk` |
