@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-19 13:08 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-19 16:47 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (598)
+## 🎯 To apply (605)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-19 | Business Consulting-Developer Software Engineer | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5847852144?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847852144?utm_medium=api&` |
 | — | 2026-08-19 | Software Engineer | CBRE | [apply ↗](https://www.adzuna.in/details/5848053736?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848053736?utm_medium=api&` |
 | — | 2026-08-19 | Python Full Stack Developer | Ajackus | [apply ↗](https://www.adzuna.in/details/5848053521?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848053521?utm_medium=api&` |
+| — | 2026-08-19 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5848444189?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848444189?utm_medium=api&` |
+| — | 2026-08-19 | Software Engineer | Pitney Bowes | [apply ↗](https://www.adzuna.in/details/5848436360?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848436360?utm_medium=api&` |
+| — | 2026-08-19 | Packaged/SaaS Application Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5848435906?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848435906?utm_medium=api&` |
+| — | 2026-08-19 | Junior Software Engineer | Crowe | [apply ↗](https://www.adzuna.in/details/5848435371?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848435371?utm_medium=api&` |
+| — | 2026-08-19 | Advisory Quality Assurance Software Engineer | Pitney Bowes | [apply ↗](https://www.adzuna.in/details/5848434616?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848434616?utm_medium=api&` |
+| — | 2026-08-19 | Software Engineer Search | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/109366416456458950-software-engineer-search) | `python track.py applied 109366416456458950-softwar` |
+| — | 2026-08-19 | Software Engineer Youtube | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/98526331318215366-software-engineer-youtube) | `python track.py applied 98526331318215366-software` |
 | — | 2026-08-18 | Enterprise Software Engineer Cloud Data Engineering | Wolters Kluwer | [apply ↗](https://www.adzuna.in/details/5845820609?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5845820609?utm_medium=api&` |
 | — | 2026-08-18 | Systems Engineer | Emerson | [apply ↗](https://www.adzuna.in/details/5845843208?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5845843208?utm_medium=api&` |
 | — | 2026-08-18 | Fullstack Developer | ascendion | [apply ↗](https://www.adzuna.in/details/5845843158?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5845843158?utm_medium=api&` |
