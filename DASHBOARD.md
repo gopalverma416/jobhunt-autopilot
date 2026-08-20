@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-20 16:50 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-20 20:46 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (631)
+## 🎯 To apply (632)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -35,6 +35,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-20 | Java Full Stack Developer - Officer | State Street | [apply ↗](https://www.adzuna.in/details/5849707256?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849707256?utm_medium=api&` |
 | — | 2026-08-20 | Software Engineer(IAM/Ping), VP | Natwest Group | [apply ↗](https://www.adzuna.in/details/5849702673?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849702673?utm_medium=api&` |
 | — | 2026-08-20 | Cybersecurity Engineer I | American Express | [apply ↗](https://www.adzuna.in/details/5849701786?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849701786?utm_medium=api&` |
+| — | 2026-08-20 | Custom Software Engineer - Spring Boot | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5849894325?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849894325?utm_medium=api&` |
 | — | 2026-08-19 | Software engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5847853433?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847853433?utm_medium=api&` |
 | — | 2026-08-19 | Business Consulting-Developer Software Engineer | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5847852144?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847852144?utm_medium=api&` |
 | — | 2026-08-19 | Software Engineer | CBRE | [apply ↗](https://www.adzuna.in/details/5848053736?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848053736?utm_medium=api&` |
