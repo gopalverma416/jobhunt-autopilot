@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-20 13:11 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-20 16:50 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (626)
+## 🎯 To apply (631)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -30,6 +30,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-20 | Software Engineer- PLSQL -ACP | Avaloq | [apply ↗](https://www.adzuna.in/details/5849524168?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849524168?utm_medium=api&` |
 | — | 2026-08-20 | Backend Engineer | Weekday AI | [apply ↗](https://www.adzuna.in/details/5849523716?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849523716?utm_medium=api&` |
 | — | 2026-08-20 | Software Engineer - 1 | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---1_R-288516) | `python track.py applied Software-Engineer---1_R-28` |
+| — | 2026-08-20 | Specialist Software Engineer | Amgen | [apply ↗](https://www.adzuna.in/details/5849719975?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849719975?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer | Maersk | [apply ↗](https://www.adzuna.in/details/5849719876?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849719876?utm_medium=api&` |
+| — | 2026-08-20 | Java Full Stack Developer - Officer | State Street | [apply ↗](https://www.adzuna.in/details/5849707256?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849707256?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer(IAM/Ping), VP | Natwest Group | [apply ↗](https://www.adzuna.in/details/5849702673?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849702673?utm_medium=api&` |
+| — | 2026-08-20 | Cybersecurity Engineer I | American Express | [apply ↗](https://www.adzuna.in/details/5849701786?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849701786?utm_medium=api&` |
 | — | 2026-08-19 | Software engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5847853433?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847853433?utm_medium=api&` |
 | — | 2026-08-19 | Business Consulting-Developer Software Engineer | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5847852144?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847852144?utm_medium=api&` |
 | — | 2026-08-19 | Software Engineer | CBRE | [apply ↗](https://www.adzuna.in/details/5848053736?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848053736?utm_medium=api&` |
