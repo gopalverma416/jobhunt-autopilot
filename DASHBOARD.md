@@ -1,15 +1,18 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-19 20:45 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-20 01:51 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (606)
+## 🎯 To apply (609)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-20 | Software Engineer - Full Stack & AI | NSQTech Private Limited | [apply ↗](https://www.adzuna.in/details/5849116066?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849116066?utm_medium=api&` |
+| — | 2026-08-20 | Associate Software Engineer- C# & .NET | Jungleworks | [apply ↗](https://www.adzuna.in/details/5848974164?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848974164?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer Mobile Android | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/121355422526251718-software-engineer-mobile-android) | `python track.py applied 121355422526251718-softwar` |
 | — | 2026-08-19 | Software engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5847853433?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847853433?utm_medium=api&` |
 | — | 2026-08-19 | Business Consulting-Developer Software Engineer | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5847852144?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847852144?utm_medium=api&` |
 | — | 2026-08-19 | Software Engineer | CBRE | [apply ↗](https://www.adzuna.in/details/5848053736?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848053736?utm_medium=api&` |
