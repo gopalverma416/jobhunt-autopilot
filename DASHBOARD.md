@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-20 08:56 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-20 13:11 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (622)
+## 🎯 To apply (626)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -26,6 +26,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-20 | Software Engineer - Full Stack Development | Kyndryl | [apply ↗](https://www.adzuna.in/details/5849327037?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849327037?utm_medium=api&` |
 | — | 2026-08-20 | Software Engineer - Full Stack Development | Kyndryl | [apply ↗](https://www.adzuna.in/details/5849327062?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849327062?utm_medium=api&` |
 | — | 2026-08-20 | Software Engineer - Cloud Native Protection | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053) | `python track.py applied job.8121053?gh_jid=8121053` |
+| — | 2026-08-20 | SDE I - Temp, Amazon | ADCI - Karnataka - A66 | [apply ↗](https://www.adzuna.in/details/5849527302?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849527302?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer- PLSQL -ACP | Avaloq | [apply ↗](https://www.adzuna.in/details/5849524168?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849524168?utm_medium=api&` |
+| — | 2026-08-20 | Backend Engineer | Weekday AI | [apply ↗](https://www.adzuna.in/details/5849523716?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849523716?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer - 1 | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---1_R-288516) | `python track.py applied Software-Engineer---1_R-28` |
 | — | 2026-08-19 | Software engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5847853433?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847853433?utm_medium=api&` |
 | — | 2026-08-19 | Business Consulting-Developer Software Engineer | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5847852144?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847852144?utm_medium=api&` |
 | — | 2026-08-19 | Software Engineer | CBRE | [apply ↗](https://www.adzuna.in/details/5848053736?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848053736?utm_medium=api&` |
