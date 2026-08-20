@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-20 01:51 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-20 04:53 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (609)
+## 🎯 To apply (615)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,12 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-20 | Software Engineer - Full Stack & AI | NSQTech Private Limited | [apply ↗](https://www.adzuna.in/details/5849116066?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849116066?utm_medium=api&` |
 | — | 2026-08-20 | Associate Software Engineer- C# & .NET | Jungleworks | [apply ↗](https://www.adzuna.in/details/5848974164?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848974164?utm_medium=api&` |
 | — | 2026-08-20 | Software Engineer Mobile Android | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/121355422526251718-software-engineer-mobile-android) | `python track.py applied 121355422526251718-softwar` |
+| — | 2026-08-20 | Software Engineer I | Stronghold Investment Management | [apply ↗](https://www.adzuna.in/details/5849238464?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849238464?utm_medium=api&` |
+| — | 2026-08-20 | Advisory Software Engineer | Pitney Bowes | [apply ↗](https://www.adzuna.in/details/5849136878?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849136878?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer - User Provision Support | Pitney Bowes | [apply ↗](https://www.adzuna.in/details/5849136887?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849136887?utm_medium=api&` |
+| — | 2026-08-20 | Advisory Software Engineer - AD/Azure | Pitney Bowes | [apply ↗](https://www.adzuna.in/details/5849136866?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849136866?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer - AD/Azure Support | Pitney Bowes | [apply ↗](https://www.adzuna.in/details/5849136825?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849136825?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer (C, C++) | NetApp | [apply ↗](https://www.adzuna.in/land/ad/5849129411?se=Lt_QB1Oc8RGlrvMe-VN8Yg&utm_medium=api&utm_source=616fbe19&v=2077B3357D2CF7612DF665CA48AB4D0FAD22D837) | `python track.py applied 5849129411?se=Lt_QB1Oc8RGl` |
 | — | 2026-08-19 | Software engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5847853433?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847853433?utm_medium=api&` |
 | — | 2026-08-19 | Business Consulting-Developer Software Engineer | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5847852144?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847852144?utm_medium=api&` |
 | — | 2026-08-19 | Software Engineer | CBRE | [apply ↗](https://www.adzuna.in/details/5848053736?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848053736?utm_medium=api&` |
