@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-20 04:53 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-20 08:56 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (615)
+## 🎯 To apply (622)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -19,6 +19,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-20 | Advisory Software Engineer - AD/Azure | Pitney Bowes | [apply ↗](https://www.adzuna.in/details/5849136866?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849136866?utm_medium=api&` |
 | — | 2026-08-20 | Software Engineer - AD/Azure Support | Pitney Bowes | [apply ↗](https://www.adzuna.in/details/5849136825?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849136825?utm_medium=api&` |
 | — | 2026-08-20 | Software Engineer (C, C++) | NetApp | [apply ↗](https://www.adzuna.in/land/ad/5849129411?se=Lt_QB1Oc8RGlrvMe-VN8Yg&utm_medium=api&utm_source=616fbe19&v=2077B3357D2CF7612DF665CA48AB4D0FAD22D837) | `python track.py applied 5849129411?se=Lt_QB1Oc8RGl` |
+| — | 2026-08-20 | Software Engineer, D&T, Azure/Cloud Dev | West Pharmaceutical Services | [apply ↗](https://www.adzuna.in/details/5849328403?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849328403?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5849328285?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849328285?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer | Xylem | [apply ↗](https://www.adzuna.in/details/5849327926?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849327926?utm_medium=api&` |
+| — | 2026-08-20 | Cybersecurity Engineer I | American Express | [apply ↗](https://www.adzuna.in/details/5849327854?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849327854?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer - Full Stack Development | Kyndryl | [apply ↗](https://www.adzuna.in/details/5849327037?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849327037?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer - Full Stack Development | Kyndryl | [apply ↗](https://www.adzuna.in/details/5849327062?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849327062?utm_medium=api&` |
+| — | 2026-08-20 | Software Engineer - Cloud Native Protection | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8121053?gh_jid=8121053) | `python track.py applied job.8121053?gh_jid=8121053` |
 | — | 2026-08-19 | Software engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5847853433?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847853433?utm_medium=api&` |
 | — | 2026-08-19 | Business Consulting-Developer Software Engineer | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5847852144?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5847852144?utm_medium=api&` |
 | — | 2026-08-19 | Software Engineer | CBRE | [apply ↗](https://www.adzuna.in/details/5848053736?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848053736?utm_medium=api&` |
