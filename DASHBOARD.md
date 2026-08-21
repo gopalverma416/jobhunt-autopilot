@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-21 16:51 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-21 20:41 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (652)
+## 🎯 To apply (653)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -30,6 +30,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-21 | WoW - Software Engineer, AVP | Natwest Group | [apply ↗](https://www.adzuna.in/details/5851159789?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851159789?utm_medium=api&` |
 | — | 2026-08-21 | Full Stack Engineer [SSwar] | Central Business Solutions | [apply ↗](https://www.adzuna.in/details/5851159783?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851159783?utm_medium=api&` |
 | — | 2026-08-21 | Software Engineer | Bajaj Finance | [apply ↗](https://www.adzuna.in/details/5851158902?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851158902?utm_medium=api&` |
+| — | 2026-08-21 | Software Engineer L2-Messaging API | Twilio | [apply ↗](https://job-boards.greenhouse.io/twilio/jobs/7816159) | `python track.py applied 7816159` |
 | — | 2026-08-20 | Software Engineer - Full Stack & AI | NSQTech Private Limited | [apply ↗](https://www.adzuna.in/details/5849116066?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849116066?utm_medium=api&` |
 | — | 2026-08-20 | Associate Software Engineer- C# & .NET | Jungleworks | [apply ↗](https://www.adzuna.in/details/5848974164?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848974164?utm_medium=api&` |
 | — | 2026-08-20 | Software Engineer Mobile Android | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/121355422526251718-software-engineer-mobile-android) | `python track.py applied 121355422526251718-softwar` |
