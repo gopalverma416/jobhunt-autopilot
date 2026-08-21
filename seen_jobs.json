@@ -884,6 +884,14 @@
 "first": "2026-08-20T08:56:32+00:00",
 "sig": "bosch|application engineer heat pumps"
 },
+"https://jobs.smartrecruiters.com/BoschGroup/744000144692864": {
+"first": "2026-08-21T08:58:17+00:00",
+"sig": "bosch|java full stack developer"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000144693538": {
+"first": "2026-08-21T08:58:17+00:00",
+"sig": "bosch|java full stack developer"
+},
 "https://jobs.smartrecruiters.com/ServiceNow/744000144386100": {
 "first": "2026-08-19T20:45:35+00:00",
 "sig": "servicenow|software engineer"
@@ -983,6 +991,10 @@
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Software-Engineering-SMTS---MTS----Platform-Engineering--Backend--Kubernetes---Cloud-_JR347341": {
 "first": "2026-07-13T07:37:11+00:00",
 "sig": "salesforce|software engineering smts mts platform engineering distributed systems infrastructure"
+},
+"https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Member-of-Technical-Staff--Software-Engineering_JR356805": {
+"first": "2026-08-21T08:58:17+00:00",
+"sig": "salesforce|member of technical staff software engineering"
 },
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Performance-Engineer--MTS-SMTS-_JR312773": {
 "first": "2026-07-13T10:18:54+00:00",
@@ -5100,6 +5112,26 @@
 "first": "2026-08-21T04:54:36+00:00",
 "sig": "xplor|software engineer fullstack"
 },
+"https://www.adzuna.in/details/5850632924?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-21T08:58:17+00:00",
+"sig": "netapp|software engineer"
+},
+"https://www.adzuna.in/details/5850634173?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-21T08:58:17+00:00",
+"sig": "roche|full stack developer submission data and content generation reuse aidcg pharma r d"
+},
+"https://www.adzuna.in/details/5850635187?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-21T08:58:17+00:00",
+"sig": "wells fargo|software engineer"
+},
+"https://www.adzuna.in/details/5850636137?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-21T08:58:17+00:00",
+"sig": "synchrony|api software development engineer eis"
+},
+"https://www.adzuna.in/details/5850637018?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-21T08:58:17+00:00",
+"sig": "zebra technologies|software engineer professional i"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -5476,6 +5508,14 @@
 "first": "2026-08-20T20:46:23+00:00",
 "sig": "amazon|embedded sde security silicon systems group"
 },
+"https://www.amazon.jobs/en/jobs/10509821/software-development-engineer-aft-external-fulfillment": {
+"first": "2026-08-21T08:58:17+00:00",
+"sig": "amazon|software development engineer aft external fulfillment"
+},
+"https://www.amazon.jobs/en/jobs/10509822/software-development-engineer-aft-external-fulfillment": {
+"first": "2026-08-21T08:58:17+00:00",
+"sig": "amazon|software development engineer aft external fulfillment"
+},
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
 "sig": "axonius|backend engineer s o paulo"
@@ -5673,6 +5713,7 @@
 "amazon|software development engineer": "2026-07-14T12:15:30+00:00",
 "amazon|software development engineer ads campaign management": "2026-08-04T14:39:46+00:00",
 "amazon|software development engineer affs": "2026-07-29T06:45:13+00:00",
+"amazon|software development engineer aft external fulfillment": "2026-08-21T08:58:17+00:00",
 "amazon|software development engineer alexa ai logistics for infrastructure cost efficiency": "2026-07-17T03:37:18+00:00",
 "amazon|software development engineer alexa audio": "2026-08-07T00:55:23+00:00",
 "amazon|software development engineer alexa audio alexa audio": "2026-07-13T17:25:25+00:00",
@@ -5797,6 +5838,7 @@
 "bosch|full stack angular c": "2026-07-12T12:26:42+00:00",
 "bosch|full stack developer": "2026-07-26T21:11:39+00:00",
 "bosch|full stack developer for web applications": "2026-07-22T14:22:20+00:00",
+"bosch|java full stack developer": "2026-08-21T08:58:17+00:00",
 "bosch|net full stack architect ms eac em coimbatore": "2026-07-22T06:42:27+00:00",
 "bosch|net full stack developer": "2026-07-15T14:09:35+00:00",
 "bosch|vehicle application engineer": "2026-07-13T15:15:06+00:00",
@@ -6210,6 +6252,7 @@
 "resilinc|software engineer": "2026-07-18T03:32:23+00:00",
 "riverbed technology|member of technical staff": "2026-08-10T13:43:55+00:00",
 "roche|full stack ai engineer data scientist agentic systems": "2026-08-15T08:45:06+00:00",
+"roche|full stack developer submission data and content generation reuse aidcg pharma r d": "2026-08-21T08:58:17+00:00",
 "roche|full stack software engineer frontend backend cloud applied agentic ai systems": "2026-08-15T08:45:06+00:00",
 "rubrik|software engineer atlas": "2026-07-23T10:34:57+00:00",
 "rubrik|software engineer cloud native protection": "2026-08-20T08:56:32+00:00",
@@ -6218,6 +6261,7 @@
 "s&p global|software engineer python": "2026-07-24T06:39:43+00:00",
 "safesend technologies|associate software engineer": "2026-08-08T16:51:40+00:00",
 "salesforce|data engineering mts": "2026-07-24T10:28:34+00:00",
+"salesforce|member of technical staff software engineering": "2026-08-21T08:58:17+00:00",
 "salesforce|mts smts lmts software engineer": "2026-07-13T07:37:11+00:00",
 "salesforce|performance engineer mts": "2026-07-13T10:18:54+00:00",
 "salesforce|performance engineer mts smts": "2026-08-21T04:54:37+00:00",
@@ -6276,6 +6320,7 @@
 "supabase|software engineer auth": "2026-07-14T13:22:23+00:00",
 "supabase|software engineer iac platform experience": "2026-07-14T13:22:23+00:00",
 "swiggy|software dev engineer i": "2026-07-22T21:30:31+00:00",
+"synchrony|api software development engineer eis": "2026-08-21T08:58:17+00:00",
 "synechron|java full stack developer spring rest apis sql": "2026-08-11T17:12:44+00:00",
 "talentpro india hr private limited|software developer c": "2026-07-30T03:28:38+00:00",
 "talentxo|software engineer c net industrial automation": "2026-08-09T13:15:40+00:00",
@@ -6415,6 +6460,7 @@
 "youtrip|frontend software engineer web": "2026-07-21T17:45:43+00:00",
 "zapier|software engineer release engineering": "2026-07-14T14:05:09+00:00",
 "zebra technologies|application engineer": "2026-08-08T13:12:29+00:00",
+"zebra technologies|software engineer professional i": "2026-08-21T08:58:17+00:00",
 "zeiss|software engineer": "2026-07-24T03:44:14+00:00",
 "zomato|software engineer back end": "2026-07-12T06:29:34+00:00",
 "zscaler|software development engineer jira data center": "2026-08-10T05:44:11+00:00",

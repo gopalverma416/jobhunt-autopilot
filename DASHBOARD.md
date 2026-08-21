@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-21 04:54 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-21 08:58 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (639)
+## 🎯 To apply (644)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -17,6 +17,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-21 | Software Engineer In Test | Ss C Technologies | [apply ↗](https://www.adzuna.in/details/5850379890?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850379890?utm_medium=api&` |
 | — | 2026-08-21 | Member of Technical Staff - File Systems | Wind River | [apply ↗](https://www.adzuna.in/details/5850378983?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850378983?utm_medium=api&` |
 | — | 2026-08-21 | Software Engineer | Kla | [apply ↗](https://www.adzuna.in/details/5850377882?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850377882?utm_medium=api&` |
+| — | 2026-08-21 | Software Engineer, Professional I | Zebra Technologies | [apply ↗](https://www.adzuna.in/details/5850637018?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850637018?utm_medium=api&` |
+| — | 2026-08-21 | API Software Development Engineer - ?, EIS (L08) | Synchrony | [apply ↗](https://www.adzuna.in/details/5850636137?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850636137?utm_medium=api&` |
+| — | 2026-08-21 | Software Engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5850635187?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850635187?utm_medium=api&` |
+| — | 2026-08-21 | Full Stack Developer Submission Data and Content Generation & Reuse (AIDCG) - Pharma R&D | Roche | [apply ↗](https://www.adzuna.in/details/5850634173?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850634173?utm_medium=api&` |
+| — | 2026-08-21 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5850632924?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850632924?utm_medium=api&` |
 | — | 2026-08-20 | Software Engineer - Full Stack & AI | NSQTech Private Limited | [apply ↗](https://www.adzuna.in/details/5849116066?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849116066?utm_medium=api&` |
 | — | 2026-08-20 | Associate Software Engineer- C# & .NET | Jungleworks | [apply ↗](https://www.adzuna.in/details/5848974164?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848974164?utm_medium=api&` |
 | — | 2026-08-20 | Software Engineer Mobile Android | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/121355422526251718-software-engineer-mobile-android) | `python track.py applied 121355422526251718-softwar` |
