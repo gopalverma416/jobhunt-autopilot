@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-21 08:58 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-21 13:10 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (644)
+## 🎯 To apply (649)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -22,6 +22,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-21 | Software Engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5850635187?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850635187?utm_medium=api&` |
 | — | 2026-08-21 | Full Stack Developer Submission Data and Content Generation & Reuse (AIDCG) - Pharma R&D | Roche | [apply ↗](https://www.adzuna.in/details/5850634173?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850634173?utm_medium=api&` |
 | — | 2026-08-21 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5850632924?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850632924?utm_medium=api&` |
+| — | 2026-08-21 | Quality Assurance Engineer-I, Speed  AI | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5850908905?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850908905?utm_medium=api&` |
+| — | 2026-08-21 | Software Development Engineer, AFT External Fulfillment | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5850908909?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850908909?utm_medium=api&` |
+| — | 2026-08-21 | Software Developer (Java) | Charles Schwab India | [apply ↗](https://www.adzuna.in/details/5850894069?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850894069?utm_medium=api&` |
+| — | 2026-08-21 | Software Engineer (Java Developer) | Maropost | [apply ↗](https://www.adzuna.in/details/5850893458?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850893458?utm_medium=api&` |
+| — | 2026-08-21 | Software Engineer â Full Stack (Node.js and React) | Deltek | [apply ↗](https://www.adzuna.in/details/5850890432?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850890432?utm_medium=api&` |
 | — | 2026-08-20 | Software Engineer - Full Stack & AI | NSQTech Private Limited | [apply ↗](https://www.adzuna.in/details/5849116066?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5849116066?utm_medium=api&` |
 | — | 2026-08-20 | Associate Software Engineer- C# & .NET | Jungleworks | [apply ↗](https://www.adzuna.in/details/5848974164?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5848974164?utm_medium=api&` |
 | — | 2026-08-20 | Software Engineer Mobile Android | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/121355422526251718-software-engineer-mobile-android) | `python track.py applied 121355422526251718-softwar` |
