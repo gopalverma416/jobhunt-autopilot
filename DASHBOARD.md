@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-22 08:47 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-22 13:00 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (666)
+## 🎯 To apply (669)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -23,6 +23,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-22 | Software Engineer I | American Express | [apply ↗](https://www.adzuna.in/details/5852147755?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5852147755?utm_medium=api&` |
 | — | 2026-08-22 | Advisory Quality Assurance Software Engineer | Pitney Bowes | [apply ↗](https://www.adzuna.in/details/5852147285?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5852147285?utm_medium=api&` |
 | — | 2026-08-22 | IT Software Engineer - RDT Digital Operations and Reliability | Roche | [apply ↗](https://www.adzuna.in/details/5852146948?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5852146948?utm_medium=api&` |
+| — | 2026-08-22 | Software Engineer (Custom Tech) | Two Circles | [apply ↗](https://www.adzuna.in/details/5852336674?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5852336674?utm_medium=api&` |
+| — | 2026-08-22 | Software Engineer - Cloud Native Protection | Rubrik | [apply ↗](https://www.adzuna.in/details/5852336502?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5852336502?utm_medium=api&` |
+| — | 2026-08-22 | Software Engineer | ABB | [apply ↗](https://www.adzuna.in/land/ad/5852164535?se=crgjfime8RGGQeUjJFBV4w&utm_medium=api&utm_source=616fbe19&v=9209E8787944C1DC2369EB9C41C3094786ECA2A0) | `python track.py applied 5852164535?se=crgjfime8RGG` |
 | — | 2026-08-21 | Software Engineer - Fullstack | Xplor | [apply ↗](https://www.adzuna.in/details/5850383744?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850383744?utm_medium=api&` |
 | — | 2026-08-21 | Software engineer | Eurofins GSC IT DC | [apply ↗](https://www.adzuna.in/details/5850383657?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850383657?utm_medium=api&` |
 | — | 2026-08-21 | Python Software Developer | Randomtrees | [apply ↗](https://www.adzuna.in/details/5850380219?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850380219?utm_medium=api&` |
