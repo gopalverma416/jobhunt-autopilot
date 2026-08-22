@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-21 20:41 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-22 01:50 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (653)
+## 🎯 To apply (655)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-22 | Junior Software Engineer - Backend | LogiNext | [apply ↗](https://www.adzuna.in/details/5851750136?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851750136?utm_medium=api&` |
+| — | 2026-08-22 | Software Development Engineer , Concessions Tech | Amazon | [apply ↗](https://www.adzuna.in/details/5851749996?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851749996?utm_medium=api&` |
 | — | 2026-08-21 | Software Engineer - Fullstack | Xplor | [apply ↗](https://www.adzuna.in/details/5850383744?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850383744?utm_medium=api&` |
 | — | 2026-08-21 | Software engineer | Eurofins GSC IT DC | [apply ↗](https://www.adzuna.in/details/5850383657?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850383657?utm_medium=api&` |
 | — | 2026-08-21 | Python Software Developer | Randomtrees | [apply ↗](https://www.adzuna.in/details/5850380219?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850380219?utm_medium=api&` |
