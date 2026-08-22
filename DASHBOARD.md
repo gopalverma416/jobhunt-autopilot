@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-22 01:50 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-22 04:49 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (655)
+## 🎯 To apply (661)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,12 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-08-22 | Junior Software Engineer - Backend | LogiNext | [apply ↗](https://www.adzuna.in/details/5851750136?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851750136?utm_medium=api&` |
 | — | 2026-08-22 | Software Development Engineer , Concessions Tech | Amazon | [apply ↗](https://www.adzuna.in/details/5851749996?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851749996?utm_medium=api&` |
+| — | 2026-08-22 | Founding Backend Engineer | Stealth AI | [apply ↗](https://www.adzuna.in/details/5851958263?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851958263?utm_medium=api&` |
+| — | 2026-08-22 | Software engineer - SOA Backend | Eurofins GSC IT DC | [apply ↗](https://www.adzuna.in/details/5851868216?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851868216?utm_medium=api&` |
+| — | 2026-08-22 | Software Engineer Generative AI | HealthAsyst | [apply ↗](https://www.adzuna.in/details/5851865199?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851865199?utm_medium=api&` |
+| — | 2026-08-22 | Software Engineer (Python, Django, React, AI-based applications) | Franklin Templeton | [apply ↗](https://www.adzuna.in/details/5851860955?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851860955?utm_medium=api&` |
+| — | 2026-08-22 | Junior Software Engineer | Ametek Instruments India | [apply ↗](https://www.adzuna.in/details/5851860345?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851860345?utm_medium=api&` |
+| — | 2026-08-22 | Software Engineer | Ametek Instruments India | [apply ↗](https://www.adzuna.in/details/5851860309?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851860309?utm_medium=api&` |
 | — | 2026-08-21 | Software Engineer - Fullstack | Xplor | [apply ↗](https://www.adzuna.in/details/5850383744?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850383744?utm_medium=api&` |
 | — | 2026-08-21 | Software engineer | Eurofins GSC IT DC | [apply ↗](https://www.adzuna.in/details/5850383657?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850383657?utm_medium=api&` |
 | — | 2026-08-21 | Python Software Developer | Randomtrees | [apply ↗](https://www.adzuna.in/details/5850380219?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5850380219?utm_medium=api&` |
