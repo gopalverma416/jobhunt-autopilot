@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-23 16:43 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-23 20:38 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (697)
+## 🎯 To apply (698)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -31,6 +31,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-23 | Java Full Stack Developer - Officer | State Street | [apply ↗](https://www.adzuna.in/details/5853715106?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853715106?utm_medium=api&` |
 | — | 2026-08-23 | Shopfloor Apps Software Engineer - Cloud & Integration | PHINIA | [apply ↗](https://www.adzuna.in/details/5853713259?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853713259?utm_medium=api&` |
 | — | 2026-08-23 | Software Engineer | Barracuda Networks | [apply ↗](https://www.adzuna.in/details/5853710543?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853710543?utm_medium=api&` |
+| — | 2026-08-23 | Fullstack Software Engineer – .NET / React | Sparix Global. | [apply ↗](https://www.adzuna.in/details/5853823917?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853823917?utm_medium=api&` |
 | — | 2026-08-22 | Junior Software Engineer - Backend | LogiNext | [apply ↗](https://www.adzuna.in/details/5851750136?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851750136?utm_medium=api&` |
 | — | 2026-08-22 | Software Development Engineer , Concessions Tech | Amazon | [apply ↗](https://www.adzuna.in/details/5851749996?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851749996?utm_medium=api&` |
 | — | 2026-08-22 | Founding Backend Engineer | Stealth AI | [apply ↗](https://www.adzuna.in/details/5851958263?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851958263?utm_medium=api&` |
