@@ -1,16 +1,24 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-23 04:51 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-23 08:48 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (677)
+## 🎯 To apply (685)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-08-23 | DESARROLLADOR FULL STACK | Kruger NearShore LLC - Rekluti | [apply ↗](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062) | `python track.py applied remote-desarrollador-full-` |
+| — | 2026-08-23 | Software Engineer I | Zebra Technologies | [apply ↗](https://www.adzuna.in/details/5853380895?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853380895?utm_medium=api&` |
+| — | 2026-08-23 | Iseries Production Support/Software Engineer | HSBC | [apply ↗](https://www.adzuna.in/details/5853379871?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853379871?utm_medium=api&` |
+| — | 2026-08-23 | Software Engineer | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5853379390?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853379390?utm_medium=api&` |
+| — | 2026-08-23 | Software Engineer | Iron Mountain | [apply ↗](https://www.adzuna.in/details/5853378214?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853378214?utm_medium=api&` |
+| — | 2026-08-23 | Software Engineer - Cloud Native Protection | Rubrik | [apply ↗](https://www.adzuna.in/details/5853376824?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853376824?utm_medium=api&` |
+| — | 2026-08-23 | Software Development Engineer in Test (API, UI & Agentic Systems) | NetApp | [apply ↗](https://www.adzuna.in/details/5853373405?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853373405?utm_medium=api&` |
+| — | 2026-08-23 | Software Engineer | Eaton Corporation | [apply ↗](https://www.adzuna.in/details/5853367312?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853367312?utm_medium=api&` |
+| — | 2026-08-23 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5853364534?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853364534?utm_medium=api&` |
 | — | 2026-08-22 | Junior Software Engineer - Backend | LogiNext | [apply ↗](https://www.adzuna.in/details/5851750136?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851750136?utm_medium=api&` |
 | — | 2026-08-22 | Software Development Engineer , Concessions Tech | Amazon | [apply ↗](https://www.adzuna.in/details/5851749996?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851749996?utm_medium=api&` |
 | — | 2026-08-22 | Founding Backend Engineer | Stealth AI | [apply ↗](https://www.adzuna.in/details/5851958263?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851958263?utm_medium=api&` |
