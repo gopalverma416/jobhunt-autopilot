@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-22 20:39 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-23 01:59 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (676)
+## 🎯 To apply (677)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-23 | DESARROLLADOR FULL STACK | Kruger NearShore LLC - Rekluti | [apply ↗](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062) | `python track.py applied remote-desarrollador-full-` |
 | — | 2026-08-22 | Junior Software Engineer - Backend | LogiNext | [apply ↗](https://www.adzuna.in/details/5851750136?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851750136?utm_medium=api&` |
 | — | 2026-08-22 | Software Development Engineer , Concessions Tech | Amazon | [apply ↗](https://www.adzuna.in/details/5851749996?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851749996?utm_medium=api&` |
 | — | 2026-08-22 | Founding Backend Engineer | Stealth AI | [apply ↗](https://www.adzuna.in/details/5851958263?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851958263?utm_medium=api&` |
