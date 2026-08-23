@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-23 08:48 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-23 13:02 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (685)
+## 🎯 To apply (690)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -19,6 +19,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-23 | Software Development Engineer in Test (API, UI & Agentic Systems) | NetApp | [apply ↗](https://www.adzuna.in/details/5853373405?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853373405?utm_medium=api&` |
 | — | 2026-08-23 | Software Engineer | Eaton Corporation | [apply ↗](https://www.adzuna.in/details/5853367312?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853367312?utm_medium=api&` |
 | — | 2026-08-23 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5853364534?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853364534?utm_medium=api&` |
+| — | 2026-08-23 | SDE  Associate Instructor (FSD) | Newton School of Technology | [apply ↗](https://www.adzuna.in/land/ad/5853620913?se=EgVVzfKe8RGfQpohglHoaw&utm_medium=api&utm_source=616fbe19&v=38E2653EABA134AF88807E8EFCAA984BEF45AD7D) | `python track.py applied 5853620913?se=EgVVzfKe8RGf` |
+| — | 2026-08-23 | System Development Engineer I, FBA | ADCI - Karnataka - A66 | [apply ↗](https://www.adzuna.in/details/5853561708?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853561708?utm_medium=api&` |
+| — | 2026-08-23 | Software Development Engineer , Concessions Tech | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5853561280?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853561280?utm_medium=api&` |
+| — | 2026-08-23 | Robotics Software Engineer - L2 | Botsync | [apply ↗](https://www.adzuna.in/details/5853550037?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853550037?utm_medium=api&` |
+| — | 2026-08-23 | Software Engineer | Appfire | [apply ↗](https://www.adzuna.in/details/5853549752?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853549752?utm_medium=api&` |
 | — | 2026-08-22 | Junior Software Engineer - Backend | LogiNext | [apply ↗](https://www.adzuna.in/details/5851750136?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851750136?utm_medium=api&` |
 | — | 2026-08-22 | Software Development Engineer , Concessions Tech | Amazon | [apply ↗](https://www.adzuna.in/details/5851749996?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851749996?utm_medium=api&` |
 | — | 2026-08-22 | Founding Backend Engineer | Stealth AI | [apply ↗](https://www.adzuna.in/details/5851958263?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851958263?utm_medium=api&` |

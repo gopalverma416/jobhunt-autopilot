@@ -5416,6 +5416,22 @@
 "first": "2026-08-23T08:48:26+00:00",
 "sig": "zebra technologies|software engineer i"
 },
+"https://www.adzuna.in/details/5853549752?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-23T13:01:55+00:00",
+"sig": "appfire|software engineer"
+},
+"https://www.adzuna.in/details/5853550037?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-23T13:01:55+00:00",
+"sig": "botsync|robotics software engineer"
+},
+"https://www.adzuna.in/details/5853561280?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-23T13:01:55+00:00",
+"sig": "adci hyd 13 sez|software development engineer concessions tech"
+},
+"https://www.adzuna.in/details/5853561708?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-23T13:01:55+00:00",
+"sig": "adci - karnataka - a66|system development engineer i fba"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -5495,6 +5511,10 @@
 "https://www.adzuna.in/land/ad/5852164535?se=jrdlFwae8RGfQpohglHoaw&utm_medium=api&utm_source=616fbe19&v=9209E8787944C1DC2369EB9C41C3094786ECA2A0": {
 "first": "2026-08-22T08:47:29+00:00",
 "sig": "abb|software engineer"
+},
+"https://www.adzuna.in/land/ad/5853620913?se=EgVVzfKe8RGfQpohglHoaw&utm_medium=api&utm_source=616fbe19&v=38E2653EABA134AF88807E8EFCAA984BEF45AD7D": {
+"first": "2026-08-23T13:01:55+00:00",
+"sig": "newton school of technology|sde associate instructor fsd"
 },
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -5941,6 +5961,7 @@
 "adci - haryana|software development engineer ai ops integration": "2026-08-12T13:47:17+00:00",
 "adci - haryana|software development engineer shiptech": "2026-08-18T13:07:34+00:00",
 "adci - karnataka - a66|sde i temp amazon": "2026-08-20T13:11:02+00:00",
+"adci - karnataka - a66|system development engineer i fba": "2026-08-23T13:01:55+00:00",
 "adci - karnataka - a66|systems development engineer i": "2026-07-18T13:49:28+00:00",
 "adci - karnataka|amazon fulfilment tech software development engineer aft inventory": "2026-07-31T10:50:38+00:00",
 "adci - karnataka|business intelligence engineer i risk and compliance solutions rcs": "2026-08-18T13:07:34+00:00",
@@ -5970,6 +5991,7 @@
 "adci hyd 13 sez|quality assurance engineer i speed ai": "2026-08-21T13:10:29+00:00",
 "adci hyd 13 sez|software development engineer amazon finance technology": "2026-07-20T11:12:54+00:00",
 "adci hyd 13 sez|software development engineer amazon traffic engineering": "2026-07-24T14:13:11+00:00",
+"adci hyd 13 sez|software development engineer concessions tech": "2026-08-23T13:01:55+00:00",
 "adci hyd 13 sez|software development engineer i amazon payments": "2026-07-14T12:15:30+00:00",
 "adci hyd 13 sez|software development engineer i ftc": "2026-07-31T10:50:38+00:00",
 "adci hyd 13 sez|software development engineer ordering": "2026-08-10T13:43:55+00:00",
@@ -6084,6 +6106,7 @@
 "anyscale|software engineer ray core": "2026-07-29T03:39:48+00:00",
 "anyscale|software engineer ray data": "2026-07-29T03:39:48+00:00",
 "anyscale|software engineer ray serve": "2026-07-14T14:05:09+00:00",
+"appfire|software engineer": "2026-08-23T13:01:55+00:00",
 "apple|software engineer search indexing platform apple ads": "2026-07-19T10:01:52+00:00",
 "applicate|software engineer": "2026-07-16T03:37:38+00:00",
 "applied materials|python full stack developer": "2026-08-07T17:07:02+00:00",
@@ -6141,6 +6164,7 @@
 "bosch|net full stack developer": "2026-07-15T14:09:35+00:00",
 "bosch|vehicle application engineer": "2026-07-13T15:15:06+00:00",
 "bosch|vm brakes algorithm software developer indian oem": "2026-07-22T06:42:27+00:00",
+"botsync|robotics software engineer": "2026-08-23T13:01:55+00:00",
 "bp|software engineer": "2026-08-07T17:07:02+00:00",
 "broadcom|r d software engineer": "2026-08-10T17:08:40+00:00",
 "bu consultants|software engineer i": "2026-08-06T03:36:53+00:00",
@@ -6460,6 +6484,7 @@
 "netapp|software engineer golang java python microservices cloud": "2026-07-16T06:31:28+00:00",
 "netomi|sde i fullstack": "2026-08-01T17:14:47+00:00",
 "newfold digital philippines inc|software engineer": "2026-07-23T03:44:41+00:00",
+"newton school of technology|sde associate instructor fsd": "2026-08-23T13:01:55+00:00",
 "nexthink|platform software engineer core infrastructure": "2026-07-18T09:44:59+00:00",
 "nice|software engineer cx": "2026-07-17T03:37:18+00:00",
 "nice|specialist software engineer": "2026-07-19T03:55:04+00:00",
