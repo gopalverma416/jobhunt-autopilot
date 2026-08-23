@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-23 13:02 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-23 16:43 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (690)
+## 🎯 To apply (697)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -24,6 +24,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-23 | Software Development Engineer , Concessions Tech | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5853561280?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853561280?utm_medium=api&` |
 | — | 2026-08-23 | Robotics Software Engineer - L2 | Botsync | [apply ↗](https://www.adzuna.in/details/5853550037?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853550037?utm_medium=api&` |
 | — | 2026-08-23 | Software Engineer | Appfire | [apply ↗](https://www.adzuna.in/details/5853549752?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853549752?utm_medium=api&` |
+| — | 2026-08-23 | Software Engineer – Cisco IQ / Bangalore | Cisco | [apply ↗](https://www.adzuna.in/details/5853727573?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853727573?utm_medium=api&` |
+| — | 2026-08-23 | Software Engineer | Kobie Marketing | [apply ↗](https://www.adzuna.in/details/5853720587?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853720587?utm_medium=api&` |
+| — | 2026-08-23 | Software Engineer - AI/ML | Harman Becker Automotive Systems Manufacturing Kft | [apply ↗](https://www.adzuna.in/details/5853719513?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853719513?utm_medium=api&` |
+| — | 2026-08-23 | Jul_POS19_Principal Software Engineer | SimCorp | [apply ↗](https://www.adzuna.in/details/5853715876?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853715876?utm_medium=api&` |
+| — | 2026-08-23 | Java Full Stack Developer - Officer | State Street | [apply ↗](https://www.adzuna.in/details/5853715106?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853715106?utm_medium=api&` |
+| — | 2026-08-23 | Shopfloor Apps Software Engineer - Cloud & Integration | PHINIA | [apply ↗](https://www.adzuna.in/details/5853713259?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853713259?utm_medium=api&` |
+| — | 2026-08-23 | Software Engineer | Barracuda Networks | [apply ↗](https://www.adzuna.in/details/5853710543?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853710543?utm_medium=api&` |
 | — | 2026-08-22 | Junior Software Engineer - Backend | LogiNext | [apply ↗](https://www.adzuna.in/details/5851750136?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851750136?utm_medium=api&` |
 | — | 2026-08-22 | Software Development Engineer , Concessions Tech | Amazon | [apply ↗](https://www.adzuna.in/details/5851749996?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851749996?utm_medium=api&` |
 | — | 2026-08-22 | Founding Backend Engineer | Stealth AI | [apply ↗](https://www.adzuna.in/details/5851958263?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5851958263?utm_medium=api&` |
