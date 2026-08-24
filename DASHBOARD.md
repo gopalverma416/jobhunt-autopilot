@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-24 13:13 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-24 16:55 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (708)
+## 🎯 To apply (712)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -20,6 +20,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-24 | Software Engineer | Erekrut... Recruitment Made Easy | [apply ↗](https://www.adzuna.in/details/5854321645?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854321645?utm_medium=api&` |
 | — | 2026-08-24 | Intermediate Backend Engineer - Database Change Management | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8722304002) | `python track.py applied 8722304002` |
 | — | 2026-08-24 | Software Engineer Firmware | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/110574479087674054-software-engineer-firmware) | `python track.py applied 110574479087674054-softwar` |
+| — | 2026-08-24 | Software Engineer - Android | VIDA Digital Identity | [apply ↗](https://www.adzuna.in/details/5854495772?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854495772?utm_medium=api&` |
+| — | 2026-08-24 | Enterprise Software Engineer (Artificial Intelligence) | Wolters Kluwer | [apply ↗](https://www.adzuna.in/details/5854495713?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854495713?utm_medium=api&` |
+| — | 2026-08-24 | Embedded SDE - Security, Silicon & Systems Group | Amazon | [apply ↗](https://www.adzuna.in/details/5854462737?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854462737?utm_medium=api&` |
+| — | 2026-08-24 | Software Engineer - ALM Platform (Python/Java, Full-Stack) | Magna International | [apply ↗](https://www.adzuna.in/details/5854444680?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854444680?utm_medium=api&` |
 | — | 2026-08-23 | DESARROLLADOR FULL STACK | Kruger NearShore LLC - Rekluti | [apply ↗](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062) | `python track.py applied remote-desarrollador-full-` |
 | — | 2026-08-23 | Software Engineer I | Zebra Technologies | [apply ↗](https://www.adzuna.in/details/5853380895?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853380895?utm_medium=api&` |
 | — | 2026-08-23 | Iseries Production Support/Software Engineer | HSBC | [apply ↗](https://www.adzuna.in/details/5853379871?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853379871?utm_medium=api&` |
