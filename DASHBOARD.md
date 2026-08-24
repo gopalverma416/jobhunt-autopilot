@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-24 09:04 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-24 13:13 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (702)
+## 🎯 To apply (708)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,12 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-24 | Software Engineer (Golang / Python / Java / Kubernetes / Cloud / Microservices / Distributed) | NetApp | [apply ↗](https://www.adzuna.in/details/5854211594?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854211594?utm_medium=api&` |
 | — | 2026-08-24 | Software Engineer - Cisco IQ / Bangalore | Cisco | [apply ↗](https://www.adzuna.in/details/5854205531?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854205531?utm_medium=api&` |
 | — | 2026-08-24 | MES Application Engineer | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000145185264) | `python track.py applied 744000145185264` |
+| — | 2026-08-24 | Software Development Engineer, AFT External Fulfillment | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5854329931?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854329931?utm_medium=api&` |
+| — | 2026-08-24 | Member of Technical Staff, Cekura (Bangalore, In-Person) | Cekura | [apply ↗](https://www.adzuna.in/details/5854321777?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854321777?utm_medium=api&` |
+| — | 2026-08-24 | Software Engineer (Java) | Veradigm | [apply ↗](https://www.adzuna.in/details/5854321740?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854321740?utm_medium=api&` |
+| — | 2026-08-24 | Software Engineer | Erekrut... Recruitment Made Easy | [apply ↗](https://www.adzuna.in/details/5854321645?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854321645?utm_medium=api&` |
+| — | 2026-08-24 | Intermediate Backend Engineer - Database Change Management | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8722304002) | `python track.py applied 8722304002` |
+| — | 2026-08-24 | Software Engineer Firmware | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/110574479087674054-software-engineer-firmware) | `python track.py applied 110574479087674054-softwar` |
 | — | 2026-08-23 | DESARROLLADOR FULL STACK | Kruger NearShore LLC - Rekluti | [apply ↗](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062) | `python track.py applied remote-desarrollador-full-` |
 | — | 2026-08-23 | Software Engineer I | Zebra Technologies | [apply ↗](https://www.adzuna.in/details/5853380895?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853380895?utm_medium=api&` |
 | — | 2026-08-23 | Iseries Production Support/Software Engineer | HSBC | [apply ↗](https://www.adzuna.in/details/5853379871?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853379871?utm_medium=api&` |

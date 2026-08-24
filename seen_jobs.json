@@ -332,6 +332,10 @@
 "first": "2026-08-12T05:46:26+00:00",
 "sig": "gitlab|backend engineer geo team"
 },
+"https://job-boards.greenhouse.io/gitlab/jobs/8722304002": {
+"first": "2026-08-24T13:13:06+00:00",
+"sig": "gitlab|intermediate backend engineer database change management"
+},
 "https://job-boards.greenhouse.io/gleanwork/jobs/4006731005": {
 "first": "2026-07-12T12:26:43+00:00",
 "sig": "glean|software engineer backend"
@@ -5532,6 +5536,22 @@
 "first": "2026-08-24T09:04:50+00:00",
 "sig": "netapp|software engineer golang python java kubernetes cloud microservices distributed"
 },
+"https://www.adzuna.in/details/5854321645?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-24T13:13:06+00:00",
+"sig": "erekrut... recruitment made easy|software engineer"
+},
+"https://www.adzuna.in/details/5854321740?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-24T13:13:06+00:00",
+"sig": "veradigm|software engineer java"
+},
+"https://www.adzuna.in/details/5854321777?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-24T13:13:06+00:00",
+"sig": "cekura|member of technical staff cekura bangalore in person"
+},
+"https://www.adzuna.in/details/5854329931?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-24T13:13:06+00:00",
+"sig": "adci - karnataka|software development engineer aft external fulfillment"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -5980,6 +6000,10 @@
 "first": "2026-08-19T16:46:52+00:00",
 "sig": "google|software engineer search"
 },
+"https://www.google.com/about/careers/applications/jobs/results/110574479087674054-software-engineer-firmware": {
+"first": "2026-08-24T13:13:06+00:00",
+"sig": "google|software engineer firmware"
+},
 "https://www.google.com/about/careers/applications/jobs/results/112995736836022982-software-engineer-securityprivacy-gtech": {
 "first": "2026-08-12T13:47:17+00:00",
 "sig": "google|software engineer securityprivacy gtech"
@@ -6287,6 +6311,7 @@
 "caterpillar|software engineer performance engineering": "2026-07-21T03:45:19+00:00",
 "cbre|software engineer": "2026-08-19T13:08:27+00:00",
 "cdk global|assoc software engineer": "2026-08-22T16:40:59+00:00",
+"cekura|member of technical staff cekura bangalore in person": "2026-08-24T13:13:06+00:00",
 "central business solutions|full stack engineer sswar": "2026-08-21T16:51:06+00:00",
 "central business solutions|software development engineer in test sdet pune": "2026-07-20T04:04:49+00:00",
 "certifyos|software engineer apps": "2026-08-16T16:42:28+00:00",
@@ -6397,6 +6422,7 @@
 "episteme soft|software engineer systems and architecture": "2026-07-30T03:28:38+00:00",
 "equifax|software engineer career": "2026-08-18T16:48:26+00:00",
 "erbity private limited|wireless protocol software engineer c c gsm umts lte": "2026-07-30T10:34:34+00:00",
+"erekrut... recruitment made easy|software engineer": "2026-08-24T13:13:06+00:00",
 "eurofins gsc it dc|net fullstack developer": "2026-08-15T08:45:06+00:00",
 "eurofins gsc it dc|software engineer": "2026-07-21T03:45:19+00:00",
 "eurofins gsc it dc|software engineer net core full stack along with angular": "2026-07-30T03:28:38+00:00",
@@ -6425,6 +6451,7 @@
 "gitlab|intermediate backend engineer": "2026-08-11T13:42:34+00:00",
 "gitlab|intermediate backend engineer analytics instrumentation": "2026-07-14T13:22:22+00:00",
 "gitlab|intermediate backend engineer c tenant scale git": "2026-07-14T13:22:22+00:00",
+"gitlab|intermediate backend engineer database change management": "2026-08-24T13:13:06+00:00",
 "gitlab|intermediate backend engineer platform integrations monetization": "2026-07-23T10:34:57+00:00",
 "gitlab|intermediate fullstack engineer data products": "2026-07-14T13:22:22+00:00",
 "glean|software engineer agents": "2026-07-12T12:26:43+00:00",
@@ -6865,6 +6892,7 @@
 "unitedhealth group|software engineer react js node js sql api mngt": "2026-08-02T06:46:29+00:00",
 "valtitude|associate software engineer full stack and cloud pune india office": "2026-07-18T03:32:23+00:00",
 "valuemomentum|software engineer": "2026-08-10T17:08:40+00:00",
+"veradigm|software engineer java": "2026-08-24T13:13:06+00:00",
 "veralto|software engineer i": "2026-07-19T03:55:04+00:00",
 "vercel|security software engineer iam": "2026-07-14T13:22:24+00:00",
 "vercel|software engineer agent": "2026-07-14T13:22:24+00:00",
