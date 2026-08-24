@@ -1,16 +1,19 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-24 05:01 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-24 09:04 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (699)
+## 🎯 To apply (702)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-08-24 | Software Engineer | Atlassian | [apply ↗](https://careers-americas.icims.com/jobs/26348/software-engineer/job) | `python track.py applied job` |
+| — | 2026-08-24 | Software Engineer (Golang / Python / Java / Kubernetes / Cloud / Microservices / Distributed) | NetApp | [apply ↗](https://www.adzuna.in/details/5854211594?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854211594?utm_medium=api&` |
+| — | 2026-08-24 | Software Engineer - Cisco IQ / Bangalore | Cisco | [apply ↗](https://www.adzuna.in/details/5854205531?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854205531?utm_medium=api&` |
+| — | 2026-08-24 | MES Application Engineer | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000145185264) | `python track.py applied 744000145185264` |
 | — | 2026-08-23 | DESARROLLADOR FULL STACK | Kruger NearShore LLC - Rekluti | [apply ↗](https://remoteOK.com/remote-jobs/remote-desarrollador-full-stack-kruger-nearshore-llc-rekluti-1137062) | `python track.py applied remote-desarrollador-full-` |
 | — | 2026-08-23 | Software Engineer I | Zebra Technologies | [apply ↗](https://www.adzuna.in/details/5853380895?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853380895?utm_medium=api&` |
 | — | 2026-08-23 | Iseries Production Support/Software Engineer | HSBC | [apply ↗](https://www.adzuna.in/details/5853379871?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5853379871?utm_medium=api&` |
