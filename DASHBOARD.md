@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-25 09:00 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-25 13:11 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (717)
+## 🎯 To apply (727)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,16 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-25 | Software Engineer - Java | Path Solutions | [apply ↗](https://www.adzuna.in/details/5854880891?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854880891?utm_medium=api&` |
 | — | 2026-08-25 | API Software Engineer | Purview India Consulting And Services Llp | [apply ↗](https://www.adzuna.in/details/5854877661?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854877661?utm_medium=api&` |
 | — | 2026-08-25 | Java Full Stack Developer | Purview India Consulting And Services Llp | [apply ↗](https://www.adzuna.in/details/5854877445?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854877445?utm_medium=api&` |
+| — | 2026-08-25 | Geographic Information Systems Engineer | Lepton Software | [apply ↗](https://www.adzuna.in/land/ad/5855325804?se=WnuNc4ag8RGs-MwoEY4nVw&utm_medium=api&utm_source=616fbe19&v=FF9F6173E89465DA06ED0A0CB3A2F3EAD1A7D5A6) | `python track.py applied 5855325804?se=WnuNc4ag8RGs` |
+| — | 2026-08-25 | Software Development Engineer, Amazon International Seller Services | Amazon Dev Center India - Hyderabad | [apply ↗](https://www.adzuna.in/details/5855263526?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855263526?utm_medium=api&` |
+| — | 2026-08-25 | Software Engineer, Under the Roof Labor Planning, UTR | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5855263492?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855263492?utm_medium=api&` |
+| — | 2026-08-25 | Software Development Engineer, Vendor Experience | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5855263502?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855263502?utm_medium=api&` |
+| — | 2026-08-25 | Software Engineer - SAP EWM | H&M Group | [apply ↗](https://www.adzuna.in/details/5855250030?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855250030?utm_medium=api&` |
+| — | 2026-08-25 | SOFTWARE ENGINEER L3 | Wipro | [apply ↗](https://www.adzuna.in/details/5855249711?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855249711?utm_medium=api&` |
+| — | 2026-08-25 | Full Stack Engineer | Duruper | [apply ↗](https://www.adzuna.in/details/5855249606?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855249606?utm_medium=api&` |
+| — | 2026-08-25 | Software Engineer | Metron Security Private Limited | [apply ↗](https://www.adzuna.in/details/5855247355?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855247355?utm_medium=api&` |
+| — | 2026-08-25 | Associate Engineer | Eaton Corporation | [apply ↗](https://www.adzuna.in/details/5855044877?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855044877?utm_medium=api&` |
+| — | 2026-08-25 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5855043855?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855043855?utm_medium=api&` |
 | — | 2026-08-24 | Software Engineer | Atlassian | [apply ↗](https://careers-americas.icims.com/jobs/26348/software-engineer/job) | `python track.py applied job` |
 | — | 2026-08-24 | Software Engineer (Golang / Python / Java / Kubernetes / Cloud / Microservices / Distributed) | NetApp | [apply ↗](https://www.adzuna.in/details/5854211594?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854211594?utm_medium=api&` |
 | — | 2026-08-24 | Software Engineer - Cisco IQ / Bangalore | Cisco | [apply ↗](https://www.adzuna.in/details/5854205531?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854205531?utm_medium=api&` |
