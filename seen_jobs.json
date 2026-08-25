@@ -332,6 +332,10 @@
 "first": "2026-08-12T05:46:26+00:00",
 "sig": "gitlab|backend engineer geo team"
 },
+"https://job-boards.greenhouse.io/gitlab/jobs/8721229002": {
+"first": "2026-08-25T01:52:41+00:00",
+"sig": "gitlab|intermediate software engineer"
+},
 "https://job-boards.greenhouse.io/gitlab/jobs/8722304002": {
 "first": "2026-08-24T13:13:06+00:00",
 "sig": "gitlab|intermediate backend engineer database change management"
@@ -6510,6 +6514,7 @@
 "gitlab|intermediate backend engineer database change management": "2026-08-24T13:13:06+00:00",
 "gitlab|intermediate backend engineer platform integrations monetization": "2026-07-23T10:34:57+00:00",
 "gitlab|intermediate fullstack engineer data products": "2026-07-14T13:22:22+00:00",
+"gitlab|intermediate software engineer": "2026-08-25T01:52:41+00:00",
 "glean|software engineer agents": "2026-07-12T12:26:43+00:00",
 "glean|software engineer agents governance": "2026-08-18T13:07:34+00:00",
 "glean|software engineer backend": "2026-07-12T12:26:43+00:00",
