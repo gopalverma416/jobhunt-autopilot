@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-25 16:55 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-25 20:45 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (733)
+## 🎯 To apply (734)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -31,6 +31,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-25 | Intermediate Backend Engineer - Database Change Management | GitLab | [apply ↗](https://www.adzuna.in/details/5855482469?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855482469?utm_medium=api&` |
 | — | 2026-08-25 | Associate Engineer | RTX | [apply ↗](https://www.adzuna.in/details/5855482219?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855482219?utm_medium=api&` |
 | — | 2026-08-25 | Java Full stack developer | Barclays | [apply ↗](https://www.adzuna.in/details/5855481027?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855481027?utm_medium=api&` |
+| — | 2026-08-25 | Associate Software Engineer (Devops, Terraform, AWS) | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5855704287?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5855704287?utm_medium=api&` |
 | — | 2026-08-24 | Software Engineer | Atlassian | [apply ↗](https://careers-americas.icims.com/jobs/26348/software-engineer/job) | `python track.py applied job` |
 | — | 2026-08-24 | Software Engineer (Golang / Python / Java / Kubernetes / Cloud / Microservices / Distributed) | NetApp | [apply ↗](https://www.adzuna.in/details/5854211594?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854211594?utm_medium=api&` |
 | — | 2026-08-24 | Software Engineer - Cisco IQ / Bangalore | Cisco | [apply ↗](https://www.adzuna.in/details/5854205531?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854205531?utm_medium=api&` |
