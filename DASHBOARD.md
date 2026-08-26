@@ -1,16 +1,19 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-26 01:58 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-26 04:55 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (735)
+## 🎯 To apply (738)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-08-26 | (IND) DISTINGUISHED, SOFTWARE ENGINEER | Walmart Global Tech India | [apply ↗](https://www.adzuna.in/details/5856111008?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856111008?utm_medium=api&` |
+| — | 2026-08-26 | Software Developer (AI Applications and Platform Engineering) | Infosys Limited | [apply ↗](https://www.adzuna.in/details/5856196657?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856196657?utm_medium=api&` |
+| — | 2026-08-26 | Full Stack Associate developer | Infosys Limited | [apply ↗](https://www.adzuna.in/details/5856196415?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856196415?utm_medium=api&` |
+| — | 2026-08-26 | Full Stack developer | Infosys Limited | [apply ↗](https://www.adzuna.in/details/5856196435?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856196435?utm_medium=api&` |
 | — | 2026-08-25 | Intermediate Software Engineer | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8721229002) | `python track.py applied 8721229002` |
 | — | 2026-08-25 | Software Engineer - Fullstack | Path Solutions | [apply ↗](https://www.adzuna.in/details/5854880919?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854880919?utm_medium=api&` |
 | — | 2026-08-25 | Software Engineer - Java | Path Solutions | [apply ↗](https://www.adzuna.in/details/5854880891?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854880891?utm_medium=api&` |
