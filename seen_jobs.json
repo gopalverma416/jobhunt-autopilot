@@ -5820,6 +5820,18 @@
 "first": "2026-08-26T16:59:02+00:00",
 "sig": "accenture|custom software engineer"
 },
+"https://www.adzuna.in/details/5857207912?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-26T23:33:03+00:00",
+"sig": "trigent software private limited|python langchain langgraph software engineer"
+},
+"https://www.adzuna.in/details/5857207916?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-26T23:33:03+00:00",
+"sig": "trigent software private limited|software engineer"
+},
+"https://www.adzuna.in/details/5857236985?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-08-26T23:33:03+00:00",
+"sig": "nielseniq|software engineer java springboot"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -5911,6 +5923,10 @@
 "https://www.adzuna.in/land/ad/5856695651?se=Gl4pTFCh8RGIOO3EmcgFtA&utm_medium=api&utm_source=616fbe19&v=D2E259B9461EA24A6E223BCA0DC272A465D4862C": {
 "first": "2026-08-26T13:16:14+00:00",
 "sig": "kyndryl|full stack sw engineer"
+},
+"https://www.adzuna.in/land/ad/5857251195?se=CImJd6ah8RGhZ7gcUJZivg&utm_medium=api&utm_source=616fbe19&v=E49B5ECE7D20CCF180A98FC4373DE6966F72A53D": {
+"first": "2026-08-26T23:33:03+00:00",
+"sig": "ebay|mts software engineer fe"
 },
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -6332,6 +6348,10 @@
 "first": "2026-08-13T17:12:38+00:00",
 "sig": "google|software engineer youtube full stack"
 },
+"https://www.google.com/about/careers/applications/jobs/results/76733338693313222-software-engineer-search": {
+"first": "2026-08-26T23:33:03+00:00",
+"sig": "google|software engineer search"
+},
 "https://www.google.com/about/careers/applications/jobs/results/88630606946017990-software-engineer-full-stack-google-cloud": {
 "first": "2026-07-14T10:13:53+00:00",
 "sig": "google|software engineer full stack google cloud"
@@ -6705,6 +6725,7 @@
 "eaton corporation|associate engineer cloud": "2026-08-03T07:46:27+00:00",
 "eaton corporation|software engineer": "2026-08-23T08:48:26+00:00",
 "ebay|mts mobile security engineer": "2026-08-10T13:43:55+00:00",
+"ebay|mts software engineer fe": "2026-08-26T23:33:03+00:00",
 "egnyte|software development engineer in test": "2026-08-13T13:47:39+00:00",
 "eka software solutions|agentic software engineer": "2026-08-13T02:47:36+00:00",
 "electronic arts|associate software engineer": "2026-07-17T10:12:05+00:00",
@@ -6949,6 +6970,7 @@
 "nielseniq|software engineer angular nodejs": "2026-07-15T03:34:54+00:00",
 "nielseniq|software engineer c with networking protocols e g wireshark": "2026-08-04T21:35:54+00:00",
 "nielseniq|software engineer data engineer python sql snowflake cloud devops ci cd pipeline ai co pilot usage and prompt engineering gen ai docker kubernetes": "2026-07-24T14:13:11+00:00",
+"nielseniq|software engineer java springboot": "2026-08-26T23:33:03+00:00",
 "nielseniq|software engineer java with angular": "2026-07-23T21:28:42+00:00",
 "nike|data engineer i itc": "2026-08-02T06:46:29+00:00",
 "nike|software engineer i itc": "2026-07-26T06:48:58+00:00",
@@ -7186,6 +7208,7 @@
 "trigent software private limited|cyber sec it software engineer": "2026-08-12T21:03:12+00:00",
 "trigent software private limited|full stack engineer java full stack development": "2026-08-17T20:43:33+00:00",
 "trigent software private limited|net full stack developer": "2026-08-12T21:03:12+00:00",
+"trigent software private limited|python langchain langgraph software engineer": "2026-08-26T23:33:03+00:00",
 "trigent software private limited|software engineer": "2026-07-22T21:30:31+00:00",
 "trigent software private limited|software engineering custom software engineer": "2026-07-22T21:30:31+00:00",
 "trigent software private limited|software engineering full stack engineer": "2026-08-11T21:04:28+00:00",

@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-26 16:59 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-26 23:33 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (751)
+## 🎯 To apply (756)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -27,6 +27,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-26 | Software Development Engineer | AMD | [apply ↗](https://www.adzuna.in/details/5856679371?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856679371?utm_medium=api&` |
 | — | 2026-08-26 | R&D Software Engineer (C++) | Siemens EDA  | [apply ↗](https://www.adzuna.in/details/5856679129?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856679129?utm_medium=api&` |
 | — | 2026-08-26 | Software Engineer | Celonis | [apply ↗](https://www.adzuna.in/details/5857015095?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857015095?utm_medium=api&` |
+| — | 2026-08-26 | MTS 1, Software Engineer(FE) | eBay | [apply ↗](https://www.adzuna.in/land/ad/5857251195?se=CImJd6ah8RGhZ7gcUJZivg&utm_medium=api&utm_source=616fbe19&v=E49B5ECE7D20CCF180A98FC4373DE6966F72A53D) | `python track.py applied 5857251195?se=CImJd6ah8RGh` |
+| — | 2026-08-26 | Software Engineer (Java, Springboot) | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5857236985?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857236985?utm_medium=api&` |
+| — | 2026-08-26 | Python, Langchain, Langgraph -Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5857207912?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857207912?utm_medium=api&` |
+| — | 2026-08-26 | Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5857207916?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857207916?utm_medium=api&` |
+| — | 2026-08-26 | Software Engineer Search | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/76733338693313222-software-engineer-search) | `python track.py applied 76733338693313222-software` |
 | — | 2026-08-25 | Intermediate Software Engineer | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8721229002) | `python track.py applied 8721229002` |
 | — | 2026-08-25 | Software Engineer - Fullstack | Path Solutions | [apply ↗](https://www.adzuna.in/details/5854880919?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854880919?utm_medium=api&` |
 | — | 2026-08-25 | Software Engineer - Java | Path Solutions | [apply ↗](https://www.adzuna.in/details/5854880891?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854880891?utm_medium=api&` |
