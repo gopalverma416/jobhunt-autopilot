@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-26 09:02 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-26 13:16 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (744)
+## 🎯 To apply (750)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -20,6 +20,12 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-26 | Full stack SW Engineer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5856447417?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856447417?utm_medium=api&` |
 | — | 2026-08-26 | Software Engineer, Firmware | Google | [apply ↗](https://www.adzuna.in/details/5856444214?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856444214?utm_medium=api&` |
 | — | 2026-08-26 | Software Engineer | Epsilon | [apply ↗](https://www.adzuna.in/details/5856432919?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856432919?utm_medium=api&` |
+| — | 2026-08-26 | Full stack SW Engineer | Kyndryl | [apply ↗](https://www.adzuna.in/land/ad/5856695651?se=Gl4pTFCh8RGIOO3EmcgFtA&utm_medium=api&utm_source=616fbe19&v=D2E259B9461EA24A6E223BCA0DC272A465D4862C) | `python track.py applied 5856695651?se=Gl4pTFCh8RGI` |
+| — | 2026-08-26 | Software Development Engineer, Last Mile, Last Mile - Execution Planning, Last Mile - Execution Planning | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5856689778?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856689778?utm_medium=api&` |
+| — | 2026-08-26 | Software Engineer - Rust (KI) | Fortanix | [apply ↗](https://www.adzuna.in/details/5856679847?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856679847?utm_medium=api&` |
+| — | 2026-08-26 | Full Stack Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5856679612?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856679612?utm_medium=api&` |
+| — | 2026-08-26 | Software Development Engineer | AMD | [apply ↗](https://www.adzuna.in/details/5856679371?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856679371?utm_medium=api&` |
+| — | 2026-08-26 | R&D Software Engineer (C++) | Siemens EDA  | [apply ↗](https://www.adzuna.in/details/5856679129?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856679129?utm_medium=api&` |
 | — | 2026-08-25 | Intermediate Software Engineer | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8721229002) | `python track.py applied 8721229002` |
 | — | 2026-08-25 | Software Engineer - Fullstack | Path Solutions | [apply ↗](https://www.adzuna.in/details/5854880919?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854880919?utm_medium=api&` |
 | — | 2026-08-25 | Software Engineer - Java | Path Solutions | [apply ↗](https://www.adzuna.in/details/5854880891?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5854880891?utm_medium=api&` |
