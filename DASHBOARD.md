@@ -1,15 +1,21 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-26 23:33 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-27 09:49 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (756)
+## 🎯 To apply (762)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-27 | AI Software Engineer | Zimmer Biomet | [apply ↗](https://www.adzuna.in/details/5857961951?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857961951?utm_medium=api&` |
+| — | 2026-08-27 | Associate Engineer - Digital Technology | United Airlines | [apply ↗](https://www.adzuna.in/details/5857961248?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857961248?utm_medium=api&` |
+| — | 2026-08-27 | Software Engineer I | R1 RCM | [apply ↗](https://www.adzuna.in/details/5857959039?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857959039?utm_medium=api&` |
+| — | 2026-08-27 | Software Engineer (Golang and Kubernetes) | NetApp | [apply ↗](https://www.adzuna.in/details/5857957322?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857957322?utm_medium=api&` |
+| — | 2026-08-27 | Full Stack Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5857956782?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857956782?utm_medium=api&` |
+| — | 2026-08-27 | Full Stack Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5857956767?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857956767?utm_medium=api&` |
 | — | 2026-08-26 | (IND) DISTINGUISHED, SOFTWARE ENGINEER | Walmart Global Tech India | [apply ↗](https://www.adzuna.in/details/5856111008?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856111008?utm_medium=api&` |
 | — | 2026-08-26 | Software Developer (AI Applications and Platform Engineering) | Infosys Limited | [apply ↗](https://www.adzuna.in/details/5856196657?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856196657?utm_medium=api&` |
 | — | 2026-08-26 | Full Stack Associate developer | Infosys Limited | [apply ↗](https://www.adzuna.in/details/5856196415?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856196415?utm_medium=api&` |
