@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-27 09:49 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-27 22:16 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (762)
+## 🎯 To apply (772)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -16,6 +16,16 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-27 | Software Engineer (Golang and Kubernetes) | NetApp | [apply ↗](https://www.adzuna.in/details/5857957322?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857957322?utm_medium=api&` |
 | — | 2026-08-27 | Full Stack Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5857956782?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857956782?utm_medium=api&` |
 | — | 2026-08-27 | Full Stack Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5857956767?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857956767?utm_medium=api&` |
+| — | 2026-08-27 | Graduate Engineer - Trainee | Axium Global | [apply ↗](https://www.adzuna.in/details/5858724443?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5858724443?utm_medium=api&` |
+| — | 2026-08-27 | Custom Software Engineer - Spring Boot | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5858599632?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5858599632?utm_medium=api&` |
+| — | 2026-08-27 | Embedded Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5858599616?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5858599616?utm_medium=api&` |
+| — | 2026-08-27 | Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5858599573?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5858599573?utm_medium=api&` |
+| — | 2026-08-27 | MTS-1 Machine Learning Engineer | eBay | [apply ↗](https://www.adzuna.in/land/ad/5858537523?se=xrFj3mSi8RGfx5bEd-nhPg&utm_medium=api&utm_source=616fbe19&v=4219F9238C4FE19DFCEAD65DAA98E56A5B89F388) | `python track.py applied 5858537523?se=xrFj3mSi8RGf` |
+| — | 2026-08-27 | Software Engineer I - React, Node, AWS | Ellucian | [apply ↗](https://www.adzuna.in/details/5858516237?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5858516237?utm_medium=api&` |
+| — | 2026-08-27 | DTICI_DLE_Senior Software Engineer | Daimler Truck | [apply ↗](https://www.adzuna.in/details/5858414176?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5858414176?utm_medium=api&` |
+| — | 2026-08-27 | Software Engineer, FL | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8158920?gh_jid=8158920) | `python track.py applied 8158920?gh_jid=8158920` |
+| — | 2026-08-27 | Software Engineer, Rulesets | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8159348?gh_jid=8159348) | `python track.py applied 8159348?gh_jid=8159348` |
+| — | 2026-08-27 | Software Engineering MTS | Salesforce | [apply ↗](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR356833) | `python track.py applied Software-Engineering-MTS_J` |
 | — | 2026-08-26 | (IND) DISTINGUISHED, SOFTWARE ENGINEER | Walmart Global Tech India | [apply ↗](https://www.adzuna.in/details/5856111008?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856111008?utm_medium=api&` |
 | — | 2026-08-26 | Software Developer (AI Applications and Platform Engineering) | Infosys Limited | [apply ↗](https://www.adzuna.in/details/5856196657?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856196657?utm_medium=api&` |
 | — | 2026-08-26 | Full Stack Associate developer | Infosys Limited | [apply ↗](https://www.adzuna.in/details/5856196415?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5856196415?utm_medium=api&` |
