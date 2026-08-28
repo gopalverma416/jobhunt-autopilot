@@ -1,15 +1,22 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-27 22:16 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-28 11:23 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (772)
+## 🎯 To apply (779)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-28 | Software Development Engineer, Alexa Connections | ADCI MAA 15 SEZ | [apply ↗](https://www.adzuna.in/details/5859593773?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5859593773?utm_medium=api&` |
+| — | 2026-08-28 | SDE-1 (Fixed Term Contract) | ADCI HYD 13 SEZ - H84 | [apply ↗](https://www.adzuna.in/details/5859593767?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5859593767?utm_medium=api&` |
+| — | 2026-08-28 | Software Development Engineer, PXT Case Management System | ADCI HYD 13 SEZ - H84 | [apply ↗](https://www.adzuna.in/details/5859593771?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5859593771?utm_medium=api&` |
+| — | 2026-08-28 | Software Engineer, API(Python) | Nexla | [apply ↗](https://www.adzuna.in/details/5859583286?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5859583286?utm_medium=api&` |
+| — | 2026-08-28 | Software Engineer -Snowflake Development | The Depository Trust & Clearing Corporation  | [apply ↗](https://www.adzuna.in/details/5859583001?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5859583001?utm_medium=api&` |
+| — | 2026-08-28 | SOFTWARE ENGINEER L4 | Wipro | [apply ↗](https://www.adzuna.in/details/5859582720?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5859582720?utm_medium=api&` |
+| — | 2026-08-28 | Software Engineer- AIML Fresher | httpswwwicloudemscomvlog | [apply ↗](https://www.adzuna.in/details/5859578260?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5859578260?utm_medium=api&` |
 | — | 2026-08-27 | AI Software Engineer | Zimmer Biomet | [apply ↗](https://www.adzuna.in/details/5857961951?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857961951?utm_medium=api&` |
 | — | 2026-08-27 | Associate Engineer - Digital Technology | United Airlines | [apply ↗](https://www.adzuna.in/details/5857961248?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857961248?utm_medium=api&` |
 | — | 2026-08-27 | Software Engineer I | R1 RCM | [apply ↗](https://www.adzuna.in/details/5857959039?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5857959039?utm_medium=api&` |
