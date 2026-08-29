@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-29 07:04 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-29 13:50 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (788)
+## 🎯 To apply (790)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-29 | Software Engineer | Cargill | [apply ↗](https://www.adzuna.in/details/5860807230?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5860807230?utm_medium=api&` |
 | — | 2026-08-29 | Software Engineer - Java Springboot with Gen AI | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5860806984?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5860806984?utm_medium=api&` |
 | — | 2026-08-29 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5860806074?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5860806074?utm_medium=api&` |
+| — | 2026-08-29 | Android Engineer - MTS 1 | JobCrexa | [apply ↗](https://www.adzuna.in/details/5860970018?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5860970018?utm_medium=api&` |
+| — | 2026-08-29 | Software Engineer (Backend) | SHIELD | [apply ↗](https://www.adzuna.in/details/5860969532?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5860969532?utm_medium=api&` |
 | — | 2026-08-28 | Software Development Engineer, Alexa Connections | ADCI MAA 15 SEZ | [apply ↗](https://www.adzuna.in/details/5859593773?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5859593773?utm_medium=api&` |
 | — | 2026-08-28 | SDE-1 (Fixed Term Contract) | ADCI HYD 13 SEZ - H84 | [apply ↗](https://www.adzuna.in/details/5859593767?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5859593767?utm_medium=api&` |
 | — | 2026-08-28 | Software Development Engineer, PXT Case Management System | ADCI HYD 13 SEZ - H84 | [apply ↗](https://www.adzuna.in/details/5859593771?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5859593771?utm_medium=api&` |
