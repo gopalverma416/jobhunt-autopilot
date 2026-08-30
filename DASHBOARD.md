@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-30 19:18 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-30 22:44 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (808)
+## 🎯 To apply (811)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -21,6 +21,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-08-30 | Software Engineer (Java Alfresco) | Houghton Mifflin Harcourt | [apply ↗](https://www.adzuna.in/details/5861795128?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5861795128?utm_medium=api&` |
 | — | 2026-08-30 | Software Engineer (Java Alfresco) | Houghton Mifflin Harcourt | [apply ↗](https://www.adzuna.in/details/5861795127?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5861795127?utm_medium=api&` |
 | — | 2026-08-30 | Software Development Engineer | Transaction Network Services | [apply ↗](https://www.adzuna.in/details/5861795035?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5861795035?utm_medium=api&` |
+| — | 2026-08-30 | Backend Engineer | Resolve To Save Lives | [apply ↗](https://www.adzuna.in/details/5862298265?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862298265?utm_medium=api&` |
+| — | 2026-08-30 | Software Engineer Intermediate | Gentrack | [apply ↗](https://www.adzuna.in/details/5862295419?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862295419?utm_medium=api&` |
+| — | 2026-08-30 | Full Stack Engineer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5862292413?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862292413?utm_medium=api&` |
 | — | 2026-08-29 | Software Engineer | Cargill | [apply ↗](https://www.adzuna.in/details/5860807230?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5860807230?utm_medium=api&` |
 | — | 2026-08-29 | Software Engineer - Java Springboot with Gen AI | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5860806984?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5860806984?utm_medium=api&` |
 | — | 2026-08-29 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5860806074?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5860806074?utm_medium=api&` |
