@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-31 05:35 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-31 16:10 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (813)
+## 🎯 To apply (818)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,11 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-08-31 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5862297236?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862297236?utm_medium=api&` |
 | — | 2026-08-31 | Software Development Engineer -Java | Amadeus | [apply ↗](https://www.adzuna.in/details/5862295676?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862295676?utm_medium=api&` |
+| — | 2026-08-31 | Full Stack Engineer | Classavo | [apply ↗](https://www.adzuna.in/details/5863009694?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5863009694?utm_medium=api&` |
+| — | 2026-08-31 | Software Development Engineer (tvOS) | Fox | [apply ↗](https://www.adzuna.in/details/5862991327?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862991327?utm_medium=api&` |
+| — | 2026-08-31 | Software Development Engineer (WebApps) | Fox | [apply ↗](https://www.adzuna.in/details/5862990416?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862990416?utm_medium=api&` |
+| — | 2026-08-31 | Software Development Engineer | Adobe | [apply ↗](https://www.adzuna.in/details/5862989996?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862989996?utm_medium=api&` |
+| — | 2026-08-31 | Software Engineer - IAM | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.7956918?gh_jid=7956918) | `python track.py applied job.7956918?gh_jid=7956918` |
 | — | 2026-08-30 | Java Full Stack and Data Engineering | Infosys Limited | [apply ↗](https://www.adzuna.in/details/5861797538?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5861797538?utm_medium=api&` |
 | — | 2026-08-30 | Custom Software Engineer | Artech Infosystems Private Limited | [apply ↗](https://www.adzuna.in/details/5861797558?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5861797558?utm_medium=api&` |
 | — | 2026-08-30 | Applications Software Engineer | Agilent Technologies | [apply ↗](https://www.adzuna.in/details/5861796344?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5861796344?utm_medium=api&` |
