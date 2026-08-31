@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-08-30 22:44 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-08-31 05:35 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (811)
+## 🎯 To apply (813)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-08-31 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5862297236?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862297236?utm_medium=api&` |
+| — | 2026-08-31 | Software Development Engineer -Java | Amadeus | [apply ↗](https://www.adzuna.in/details/5862295676?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862295676?utm_medium=api&` |
 | — | 2026-08-30 | Java Full Stack and Data Engineering | Infosys Limited | [apply ↗](https://www.adzuna.in/details/5861797538?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5861797538?utm_medium=api&` |
 | — | 2026-08-30 | Custom Software Engineer | Artech Infosystems Private Limited | [apply ↗](https://www.adzuna.in/details/5861797558?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5861797558?utm_medium=api&` |
 | — | 2026-08-30 | Applications Software Engineer | Agilent Technologies | [apply ↗](https://www.adzuna.in/details/5861796344?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5861796344?utm_medium=api&` |
