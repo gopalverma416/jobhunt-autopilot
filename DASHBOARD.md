@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-01 19:23 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-01 22:36 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (835)
+## 🎯 To apply (838)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -23,6 +23,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-01 | Software Development Engineer in Test | StockX | [apply ↗](https://www.adzuna.in/details/5864848880?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5864848880?utm_medium=api&` |
 | — | 2026-09-01 | Advance Software Engineer - Autosar | Aptiv | [apply ↗](https://www.adzuna.in/details/5864846154?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5864846154?utm_medium=api&` |
 | — | 2026-09-01 | Embedded Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5864845915?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5864845915?utm_medium=api&` |
+| — | 2026-09-01 | Software Engineer | PlaySimple Games | [apply ↗](https://www.adzuna.in/details/5865376057?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5865376057?utm_medium=api&` |
+| — | 2026-09-01 | 104 - AI Software Engineer | Lifted, an Upwork Company™ | [apply ↗](https://www.adzuna.in/details/5865231080?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5865231080?utm_medium=api&` |
+| — | 2026-09-01 | 130526 - Software Engineer, Data and Java | Lifted, an Upwork Company™ | [apply ↗](https://www.adzuna.in/details/5865231083?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5865231083?utm_medium=api&` |
 | — | 2026-08-31 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5862297236?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862297236?utm_medium=api&` |
 | — | 2026-08-31 | Software Development Engineer -Java | Amadeus | [apply ↗](https://www.adzuna.in/details/5862295676?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862295676?utm_medium=api&` |
 | — | 2026-08-31 | Full Stack Engineer | Classavo | [apply ↗](https://www.adzuna.in/details/5863009694?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5863009694?utm_medium=api&` |
