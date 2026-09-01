@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-01 13:30 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-01 19:23 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (825)
+## 🎯 To apply (835)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,16 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-01 | Fullstack Java Engineer | Talent XO | [apply ↗](https://www.adzuna.in/details/5863015892?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5863015892?utm_medium=api&` |
 | — | 2026-09-01 | Engineer, IT Software - Fullstack [T500-28957] | ANSR | [apply ↗](https://www.adzuna.in/land/ad/5864441044?se=vF-nNQmm8RGv1rlAOULmew&utm_medium=api&utm_source=616fbe19&v=E5E6D994600CDF9C02520452A432AB6C75370DF9) | `python track.py applied 5864441044?se=vF-nNQmm8RGv` |
 | — | 2026-09-01 | Software Engineer - Platforms & Productivity | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623) | `python track.py applied 8168623?gh_jid=8168623` |
+| — | 2026-09-01 | Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5865169819?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5865169819?utm_medium=api&` |
+| — | 2026-09-01 | Custom Software Engineer - Node.js | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5865169826?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5865169826?utm_medium=api&` |
+| — | 2026-09-01 | Custom Software Engineer - API Testing | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5865169849?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5865169849?utm_medium=api&` |
+| — | 2026-09-01 | Custom Software Engineer- PHP (Programming Language) | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5865169807?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5865169807?utm_medium=api&` |
+| — | 2026-09-01 | Software Engineer - Sharepoint Developer | Moody's | [apply ↗](https://www.adzuna.in/land/ad/5865064890?se=hqjvozqm8RG5At0T0GlLXQ&utm_medium=api&utm_source=616fbe19&v=7D08E55F7B8119270271C16BDF7CB0165F3E88A9) | `python track.py applied 5865064890?se=hqjvozqm8RG5` |
+| — | 2026-09-01 | Software Engineer | Infor | [apply ↗](https://www.adzuna.in/details/5865055937?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5865055937?utm_medium=api&` |
+| — | 2026-09-01 | Software Engineer I (Java, Springboot) | First Citizens India | [apply ↗](https://www.adzuna.in/details/5864849723?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5864849723?utm_medium=api&` |
+| — | 2026-09-01 | Software Development Engineer in Test | StockX | [apply ↗](https://www.adzuna.in/details/5864848880?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5864848880?utm_medium=api&` |
+| — | 2026-09-01 | Advance Software Engineer - Autosar | Aptiv | [apply ↗](https://www.adzuna.in/details/5864846154?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5864846154?utm_medium=api&` |
+| — | 2026-09-01 | Embedded Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5864845915?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5864845915?utm_medium=api&` |
 | — | 2026-08-31 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5862297236?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862297236?utm_medium=api&` |
 | — | 2026-08-31 | Software Development Engineer -Java | Amadeus | [apply ↗](https://www.adzuna.in/details/5862295676?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5862295676?utm_medium=api&` |
 | — | 2026-08-31 | Full Stack Engineer | Classavo | [apply ↗](https://www.adzuna.in/details/5863009694?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5863009694?utm_medium=api&` |
