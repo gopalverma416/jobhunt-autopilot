@@ -120,6 +120,10 @@
 "first": "2026-08-20T08:56:32+00:00",
 "sig": "microsoft|software engineer"
 },
+"https://apply.careers.microsoft.com/careers/job/1970393556984390": {
+"first": "2026-09-01T13:29:57+00:00",
+"sig": "microsoft|software engineer full stack"
+},
 "https://boards.greenhouse.io/cloudflare/jobs/7309174?gh_jid=7309174": {
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "cloudflare|threat intelligence software engineer cloudforce one"
@@ -211,6 +215,10 @@
 "https://boards.greenhouse.io/cloudflare/jobs/8159348?gh_jid=8159348": {
 "first": "2026-08-27T22:16:07+00:00",
 "sig": "cloudflare|software engineer rulesets"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623": {
+"first": "2026-09-01T13:29:57+00:00",
+"sig": "cloudflare|software engineer platforms productivity"
 },
 "https://careers-americas.icims.com/jobs/25301/software-engineer/job": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -932,6 +940,10 @@
 "first": "2026-08-24T09:04:50+00:00",
 "sig": "bosch|mes application engineer"
 },
+"https://jobs.smartrecruiters.com/BoschGroup/744000146711419": {
+"first": "2026-09-01T13:29:57+00:00",
+"sig": "bosch|java full stack developer with devops experience"
+},
 "https://jobs.smartrecruiters.com/ServiceNow/744000144386100": {
 "first": "2026-08-19T20:45:35+00:00",
 "sig": "servicenow|software engineer"
@@ -1095,6 +1107,10 @@
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR356834": {
 "first": "2026-08-27T22:16:07+00:00",
 "sig": "salesforce|software engineering mts"
+},
+"https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Workday-System-Analyst--Software-Engineer--SMTS-_JR335225": {
+"first": "2026-09-01T13:29:57+00:00",
+"sig": "salesforce|zuora revenue systems engineer"
 },
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR352343": {
 "first": "2026-07-23T17:45:40+00:00",
@@ -6392,6 +6408,10 @@
 "first": "2026-08-27T22:16:06+00:00",
 "sig": "ebay|mts machine learning engineer"
 },
+"https://www.adzuna.in/land/ad/5864441044?se=vF-nNQmm8RGv1rlAOULmew&utm_medium=api&utm_source=616fbe19&v=E5E6D994600CDF9C02520452A432AB6C75370DF9": {
+"first": "2026-09-01T13:29:57+00:00",
+"sig": "ansr|engineer it software fullstack"
+},
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "amazon|software development engineer amazon opensearch service diy observability"
@@ -7058,6 +7078,7 @@
 "analog devices|cloud software engineer": "2026-07-24T03:44:14+00:00",
 "analog devices|software engineer": "2026-07-16T03:37:39+00:00",
 "anblicks solutions|associate software engineer": "2026-08-15T04:46:43+00:00",
+"ansr|engineer it software fullstack": "2026-09-01T13:29:57+00:00",
 "anthropic|it systems engineer client platform engineer": "2026-07-14T13:22:21+00:00",
 "anyscale|software engineer platform infrastructure foundations": "2026-07-14T14:05:09+00:00",
 "anyscale|software engineer ray core": "2026-07-29T03:39:48+00:00",
@@ -7121,6 +7142,7 @@
 "bosch|full stack developer": "2026-07-26T21:11:39+00:00",
 "bosch|full stack developer for web applications": "2026-07-22T14:22:20+00:00",
 "bosch|java full stack developer": "2026-08-21T08:58:17+00:00",
+"bosch|java full stack developer with devops experience": "2026-09-01T13:29:57+00:00",
 "bosch|mes application engineer": "2026-08-24T09:04:50+00:00",
 "bosch|net full stack architect ms eac em coimbatore": "2026-07-22T06:42:27+00:00",
 "bosch|net full stack developer": "2026-07-15T14:09:35+00:00",
@@ -7196,6 +7218,7 @@
 "cloudflare|software engineer network firewall": "2026-08-07T00:55:23+00:00",
 "cloudflare|software engineer network performance reliability": "2026-07-14T13:22:21+00:00",
 "cloudflare|software engineer network platforms": "2026-07-14T13:22:21+00:00",
+"cloudflare|software engineer platforms productivity": "2026-09-01T13:29:57+00:00",
 "cloudflare|software engineer realtime": "2026-07-22T17:41:31+00:00",
 "cloudflare|software engineer registrar": "2026-07-31T03:49:55+00:00",
 "cloudflare|software engineer rulesets": "2026-08-27T22:16:07+00:00",
@@ -7451,6 +7474,7 @@
 "microsoft|consultant apps full stack engineer": "2026-07-12T09:19:35+00:00",
 "microsoft|software engineer": "2026-07-13T11:32:17+00:00",
 "microsoft|software engineer ai native development": "2026-07-16T14:23:21+00:00",
+"microsoft|software engineer full stack": "2026-09-01T13:29:57+00:00",
 "microsoft|software engineer playready": "2026-08-14T09:20:49+00:00",
 "microstrategy india|software engineer c c": "2026-07-17T03:37:18+00:00",
 "microstrategy india|software engineer java react": "2026-08-01T13:55:15+00:00",
@@ -7642,6 +7666,7 @@
 "salesforce|software engineering mts smts java spark ai ml bangalore": "2026-07-29T10:48:49+00:00",
 "salesforce|software engineering mts smts salesforce developer": "2026-07-28T17:45:36+00:00",
 "salesforce|software engineering smts mts platform engineering distributed systems infrastructure": "2026-07-13T07:37:11+00:00",
+"salesforce|zuora revenue systems engineer": "2026-09-01T13:29:57+00:00",
 "samsara|safety event review specialist new grad": "2026-07-29T06:45:13+00:00",
 "sanofi group|hyperautomation fullstack developer": "2026-07-27T07:51:31+00:00",
 "sap fioneer|cloud native full stack java developer": "2026-07-24T17:52:15+00:00",
