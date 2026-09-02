@@ -252,6 +252,10 @@
 "first": "2026-07-22T10:34:12+00:00",
 "sig": "atlassian|software engineer"
 },
+"https://careers-apac-atlassian.icims.com/jobs/26996/software-engineer%2c-dev-infra/job": {
+"first": "2026-09-02T12:46:30+00:00",
+"sig": "atlassian|software engineer dev infra"
+},
 "https://careers.airbnb.com/positions/7744247?gh_jid=7744247": {
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "airbnb|android software engineer quality platform"
@@ -811,6 +815,10 @@
 "https://jobs.ashbyhq.com/render/d52dc923-1641-4386-b8ba-5c15e1d7028d": {
 "first": "2026-07-14T13:22:23+00:00",
 "sig": "render|software engineer infrastructure all levels"
+},
+"https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60": {
+"first": "2026-09-02T12:46:30+00:00",
+"sig": "supabase|software engineer branching"
 },
 "https://jobs.ashbyhq.com/supabase/b7206c22-979f-444a-809b-e70d9ee23c7f": {
 "first": "2026-07-14T13:22:23+00:00",
@@ -6396,6 +6404,46 @@
 "first": "2026-09-02T04:34:19+00:00",
 "sig": "artech infosystems private limited|java fullstack developer"
 },
+"https://www.adzuna.in/details/5866915416?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-02T12:46:30+00:00",
+"sig": "team geek solutions|full stack developer reactjava"
+},
+"https://www.adzuna.in/details/5866915625?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-02T12:46:30+00:00",
+"sig": "n2p systems|java full stack developer role"
+},
+"https://www.adzuna.in/details/5866922539?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-02T12:46:29+00:00",
+"sig": "kla|software engineer"
+},
+"https://www.adzuna.in/details/5866922834?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-02T12:46:29+00:00",
+"sig": "mattel, inc.|software engineer veeva"
+},
+"https://www.adzuna.in/details/5866922993?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-02T12:46:29+00:00",
+"sig": "recruiterflow|backend engineer"
+},
+"https://www.adzuna.in/details/5866927213?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-02T12:46:29+00:00",
+"sig": "orenda|ai software engineer"
+},
+"https://www.adzuna.in/details/5866936772?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-02T12:46:29+00:00",
+"sig": "adci - karnataka|software engineer cross border science and analytics"
+},
+"https://www.adzuna.in/details/5866936925?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-02T12:46:29+00:00",
+"sig": "adci - karnataka|software development engineer device software services"
+},
+"https://www.adzuna.in/details/5866937077?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-02T12:46:28+00:00",
+"sig": "adci hyd 13 sez|software development engineer pxt case management system"
+},
+"https://www.adzuna.in/details/5866937106?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-02T12:46:28+00:00",
+"sig": "adci - karnataka - a66|sde"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -6856,9 +6904,37 @@
 "first": "2026-08-31T16:09:54+00:00",
 "sig": "amazon|software development engineer payments acceptance and experience"
 },
+"https://www.amazon.jobs/en/jobs/10523331/software-devlopment-engineer-i-amazon-rewards": {
+"first": "2026-09-02T12:46:30+00:00",
+"sig": "amazon|software devlopment engineer i amazon rewards"
+},
 "https://www.amazon.jobs/en/jobs/10523762/software-development-engineer-pxt-case-management-system": {
 "first": "2026-09-01T19:23:48+00:00",
 "sig": "amazon|software development engineer pxt case management system"
+},
+"https://www.amazon.jobs/en/jobs/10525236/software-engineer-cross-border-science-and-analytics": {
+"first": "2026-09-02T12:46:30+00:00",
+"sig": "amazon|software engineer cross border science and analytics"
+},
+"https://www.amazon.jobs/en/jobs/10525614/software-development-engineer-digital-acceleration": {
+"first": "2026-09-02T12:46:30+00:00",
+"sig": "amazon|software development engineer digital acceleration"
+},
+"https://www.amazon.jobs/en/jobs/10525615/software-development-engineer-digital-acceleration": {
+"first": "2026-09-02T12:46:30+00:00",
+"sig": "amazon|software development engineer digital acceleration"
+},
+"https://www.amazon.jobs/en/jobs/10525641/sde-1-ftc": {
+"first": "2026-09-02T12:46:30+00:00",
+"sig": "amazon|sde ftc"
+},
+"https://www.amazon.jobs/en/jobs/10525642/sde-1-ftc": {
+"first": "2026-09-02T12:46:30+00:00",
+"sig": "amazon|sde ftc"
+},
+"https://www.amazon.jobs/en/jobs/10525643/sde-1-ftc": {
+"first": "2026-09-02T12:46:30+00:00",
+"sig": "amazon|sde ftc"
 },
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
@@ -7016,6 +7092,7 @@
 "adci - blr 14 sez|software development engineer rbs tech": "2026-08-07T13:39:34+00:00",
 "adci - haryana|software development engineer ai ops integration": "2026-08-12T13:47:17+00:00",
 "adci - haryana|software development engineer shiptech": "2026-08-18T13:07:34+00:00",
+"adci - karnataka - a66|sde": "2026-09-02T12:46:28+00:00",
 "adci - karnataka - a66|sde i temp amazon": "2026-08-20T13:11:02+00:00",
 "adci - karnataka - a66|system development engineer i fba": "2026-08-23T13:01:55+00:00",
 "adci - karnataka - a66|systems development engineer i": "2026-07-18T13:49:28+00:00",
@@ -7034,6 +7111,7 @@
 "adci - karnataka|software development engineer aws compliance security assurance denied party screening denied party screening": "2026-08-08T13:12:29+00:00",
 "adci - karnataka|software development engineer aws dynamodb": "2026-07-24T14:13:11+00:00",
 "adci - karnataka|software development engineer customer experience and business trends": "2026-07-23T10:34:57+00:00",
+"adci - karnataka|software development engineer device software services": "2026-09-02T12:46:29+00:00",
 "adci - karnataka|software development engineer fulfillment by amazon fba": "2026-07-21T10:33:53+00:00",
 "adci - karnataka|software development engineer last mile last mile execution planning last mile execution planning": "2026-08-26T13:16:14+00:00",
 "adci - karnataka|software development engineer loss prevention tech wwos corporate": "2026-07-17T10:12:05+00:00",
@@ -7041,6 +7119,7 @@
 "adci - karnataka|software development engineer traffic quality": "2026-08-15T12:58:59+00:00",
 "adci - karnataka|software development engineer vendor experience": "2026-08-25T13:11:36+00:00",
 "adci - karnataka|software development engineer wwostech": "2026-08-01T13:55:15+00:00",
+"adci - karnataka|software engineer cross border science and analytics": "2026-09-02T12:46:29+00:00",
 "adci - karnataka|software engineer under the roof labor planning utr": "2026-08-25T13:11:36+00:00",
 "adci - maharashtra|software development engineer affs": "2026-08-12T13:47:17+00:00",
 "adci - maharashtra|software development engineer alexa ai developer tech": "2026-07-22T10:34:12+00:00",
@@ -7056,6 +7135,7 @@
 "adci hyd 13 sez|software development engineer i amazon payments": "2026-07-14T12:15:30+00:00",
 "adci hyd 13 sez|software development engineer i ftc": "2026-07-31T10:50:38+00:00",
 "adci hyd 13 sez|software development engineer ordering": "2026-08-10T13:43:55+00:00",
+"adci hyd 13 sez|software development engineer pxt case management system": "2026-09-02T12:46:28+00:00",
 "adci hyd 13 sez|system development engineer i amazon wwr r": "2026-07-16T10:21:34+00:00",
 "adci maa 15 sez|software development engineer alexa audio alexa audio": "2026-07-14T12:15:30+00:00",
 "adci maa 15 sez|software development engineer alexa connections": "2026-08-28T11:23:38+00:00",
@@ -7091,6 +7171,7 @@
 "amazon|its systems engineer corporate infrastructure services it": "2026-07-27T07:51:31+00:00",
 "amazon|quality assurance engineer i speed ai": "2026-08-22T16:40:59+00:00",
 "amazon|sde alexa for shopping": "2026-07-14T03:40:09+00:00",
+"amazon|sde ftc": "2026-09-02T12:46:30+00:00",
 "amazon|sde international cobranded credit cards": "2026-08-12T17:12:16+00:00",
 "amazon|software application engineer": "2026-07-20T11:12:54+00:00",
 "amazon|software dev engineer i": "2026-07-12T06:29:34+00:00",
@@ -7126,6 +7207,7 @@
 "amazon|software development engineer concessions tech": "2026-07-21T21:33:40+00:00",
 "amazon|software development engineer das fintech": "2026-08-08T02:22:47+00:00",
 "amazon|software development engineer delivery choices": "2026-07-12T06:29:34+00:00",
+"amazon|software development engineer digital acceleration": "2026-09-02T12:46:30+00:00",
 "amazon|software development engineer emerging devices software": "2026-08-15T16:41:25+00:00",
 "amazon|software development engineer eu mfn acceleration": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer everyday essentials experiences": "2026-08-14T13:42:47+00:00",
@@ -7158,6 +7240,8 @@
 "amazon|software development engineer vendor experience": "2026-08-07T05:50:37+00:00",
 "amazon|software development engineer wwostech": "2026-08-02T06:46:30+00:00",
 "amazon|software development engineer your orders federation platform": "2026-07-12T06:29:34+00:00",
+"amazon|software devlopment engineer i amazon rewards": "2026-09-02T12:46:30+00:00",
+"amazon|software engineer cross border science and analytics": "2026-09-02T12:46:30+00:00",
 "amazon|software engineer selection monitoring selection monitoring": "2026-08-17T16:45:36+00:00",
 "amazon|system development engineer i fba": "2026-08-10T05:44:11+00:00",
 "amdocs|software engineer": "2026-07-31T03:49:55+00:00",
@@ -7210,6 +7294,7 @@
 "atlassian|fullstack software engineer dx": "2026-08-14T02:46:08+00:00",
 "atlassian|principle software engineer search and data": "2026-07-12T06:29:34+00:00",
 "atlassian|software engineer": "2026-07-12T06:29:34+00:00",
+"atlassian|software engineer dev infra": "2026-09-02T12:46:30+00:00",
 "aurumdata solutions india private limited|developer dynamics application engineer support": "2026-07-27T04:02:20+00:00",
 "automate accounts|software developer": "2026-08-18T13:07:34+00:00",
 "auxo ai|full stack engineer frontend focus": "2026-07-30T10:34:34+00:00",
@@ -7563,6 +7648,7 @@
 "mastercard|software engineer": "2026-07-31T10:50:38+00:00",
 "mastercard|software engineer devsecops": "2026-07-31T14:35:08+00:00",
 "mastercard|software engineer i": "2026-07-17T21:08:13+00:00",
+"mattel, inc.|software engineer veeva": "2026-09-02T12:46:29+00:00",
 "mattel|eai software engineer": "2026-07-30T03:28:38+00:00",
 "mattel|software engineer data analytics": "2026-07-23T21:28:42+00:00",
 "mavenir|software engineer layer": "2026-08-28T22:20:13+00:00",
@@ -7602,6 +7688,7 @@
 "msd|full stack engineer specialist": "2026-07-18T17:14:36+00:00",
 "msd|specialist software engineering full stack": "2026-07-21T17:45:43+00:00",
 "mtechzilla|full stack software engineer": "2026-07-30T14:32:04+00:00",
+"n2p systems|java full stack developer role": "2026-09-02T12:46:30+00:00",
 "nacre capital|full stack developer": "2026-07-17T14:03:53+00:00",
 "naehas|software engineer python": "2026-07-14T12:15:30+00:00",
 "nam info pvt ltd|embedded application engineer": "2026-08-08T13:12:29+00:00",
@@ -7665,6 +7752,7 @@
 "optum india|software engineer python developer chennai": "2026-08-07T13:39:34+00:00",
 "oracle|full stack developer": "2026-07-30T06:41:10+00:00",
 "oracle|software developer": "2026-07-27T07:51:31+00:00",
+"orenda|ai software engineer": "2026-09-02T12:46:29+00:00",
 "otis elevator company|associate engineer": "2026-07-23T06:40:12+00:00",
 "palo alto networks|application engineer": "2026-08-15T08:45:06+00:00",
 "pani|software engineer": "2026-07-27T11:39:34+00:00",
@@ -7727,6 +7815,7 @@
 "randomtrees|python software developer": "2026-08-21T04:54:36+00:00",
 "razorpay|full stack builder": "2026-07-12T06:29:34+00:00",
 "recrew ai|full stack engineer": "2026-08-11T02:28:04+00:00",
+"recruiterflow|backend engineer": "2026-09-02T12:46:29+00:00",
 "red hat|software engineer": "2026-08-08T16:51:40+00:00",
 "reddit|backend engineer moderation enforcement": "2026-07-14T13:22:23+00:00",
 "reddit|fullstack software engineer notifications lifecycle": "2026-07-14T13:22:23+00:00",
@@ -7829,6 +7918,7 @@
 "studyecart technologies pvt ltd|finastra hiring associate software engineer freshers pune apply now": "2026-07-27T11:39:34+00:00",
 "studyecart technologies pvt ltd|software engineer job in noida at ukg apply now": "2026-07-28T10:45:27+00:00",
 "supabase|software engineer auth": "2026-07-14T13:22:23+00:00",
+"supabase|software engineer branching": "2026-09-02T12:46:30+00:00",
 "supabase|software engineer iac platform experience": "2026-07-14T13:22:23+00:00",
 "swiggy|software dev engineer i": "2026-07-22T21:30:31+00:00",
 "synchrony|api software development engineer eis": "2026-08-21T08:58:17+00:00",
@@ -7839,6 +7929,7 @@
 "talentxo|software engineer core engineer": "2026-07-30T10:34:34+00:00",
 "tarlan|software engineer": "2026-08-01T13:55:15+00:00",
 "tata elxsi limited|adas software engineer automotive domain": "2026-07-23T03:44:41+00:00",
+"team geek solutions|full stack developer reactjava": "2026-09-02T12:46:30+00:00",
 "techbiz global gmbh|full stack developer": "2026-07-16T03:37:38+00:00",
 "techno wise|python full stack developer": "2026-08-01T13:55:15+00:00",
 "technoidentity|software engineer backend java": "2026-08-26T04:55:47+00:00",

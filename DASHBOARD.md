@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-02 04:34 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-02 12:46 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (840)
+## 🎯 To apply (853)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,19 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-09-02 | Java Fullstack Developer | Artech Infosystems Private Limited | [apply ↗](https://www.adzuna.in/details/5866126781?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866126781?utm_medium=api&` |
 | — | 2026-09-02 | Software Development Engineer 4 | IQVIA | [apply ↗](https://www.adzuna.in/details/5865975384?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5865975384?utm_medium=api&` |
+| — | 2026-09-02 | SDE | ADCI - Karnataka - A66 | [apply ↗](https://www.adzuna.in/details/5866937106?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866937106?utm_medium=api&` |
+| — | 2026-09-02 | Software Development Engineer, PXT Case Management System | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5866937077?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866937077?utm_medium=api&` |
+| — | 2026-09-02 | Software Development Engineer, Device Software Services | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5866936925?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866936925?utm_medium=api&` |
+| — | 2026-09-02 | Software Engineer, Cross Border Science and Analytics | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5866936772?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866936772?utm_medium=api&` |
+| — | 2026-09-02 | AI Software Engineer | Orenda | [apply ↗](https://www.adzuna.in/details/5866927213?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866927213?utm_medium=api&` |
+| — | 2026-09-02 | Backend Engineer | Recruiterflow | [apply ↗](https://www.adzuna.in/details/5866922993?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866922993?utm_medium=api&` |
+| — | 2026-09-02 | Software Engineer Veeva | Mattel, Inc. | [apply ↗](https://www.adzuna.in/details/5866922834?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866922834?utm_medium=api&` |
+| — | 2026-09-02 | Software Engineer | KLA | [apply ↗](https://www.adzuna.in/details/5866922539?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866922539?utm_medium=api&` |
+| — | 2026-09-02 | Java full stack developer role | N2P Systems | [apply ↗](https://www.adzuna.in/details/5866915625?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866915625?utm_medium=api&` |
+| — | 2026-09-02 | Full Stack Developer( ReactJava) | Team Geek Solutions | [apply ↗](https://www.adzuna.in/details/5866915416?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866915416?utm_medium=api&` |
+| — | 2026-09-02 | SDE-1 (FTC) | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10525643/sde-1-ftc) | `python track.py applied sde-1-ftc` |
+| — | 2026-09-02 | Software Devlopment Engineer I, Amazon Rewards | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10523331/software-devlopment-engineer-i-amazon-rewards) | `python track.py applied software-devlopment-engine` |
+| — | 2026-09-02 | Software Engineer, Dev Infra | Atlassian | [apply ↗](https://careers-apac-atlassian.icims.com/jobs/26996/software-engineer%2c-dev-infra/job) | `python track.py applied job` |
 | — | 2026-09-01 | Fullstack Java Engineer | Talent XO | [apply ↗](https://www.adzuna.in/details/5863015892?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5863015892?utm_medium=api&` |
 | — | 2026-09-01 | Engineer, IT Software - Fullstack [T500-28957] | ANSR | [apply ↗](https://www.adzuna.in/land/ad/5864441044?se=vF-nNQmm8RGv1rlAOULmew&utm_medium=api&utm_source=616fbe19&v=E5E6D994600CDF9C02520452A432AB6C75370DF9) | `python track.py applied 5864441044?se=vF-nNQmm8RGv` |
 | — | 2026-09-01 | Software Engineer - Platforms & Productivity | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623) | `python track.py applied 8168623?gh_jid=8168623` |
