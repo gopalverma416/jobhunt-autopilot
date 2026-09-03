@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-03 19:18 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-03 22:35 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (886)
+## 🎯 To apply (887)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -35,6 +35,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-03 | Software Engineer | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer_R-289525) | `python track.py applied Software-Engineer_R-289525` |
 | — | 2026-09-03 | Software Engineer - Full Stack | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---Full-Stack_R-289575) | `python track.py applied Software-Engineer---Full-S` |
 | — | 2026-09-03 | Software Engineer - Java Spring Boot | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289576) | `python track.py applied Software-Engineer---Java-S` |
+| — | 2026-09-03 | Systems Engineer, Growth Engineering | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8175620?gh_jid=8175620) | `python track.py applied 8175620?gh_jid=8175620` |
 | — | 2026-09-02 | Java Fullstack Developer | Artech Infosystems Private Limited | [apply ↗](https://www.adzuna.in/details/5866126781?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866126781?utm_medium=api&` |
 | — | 2026-09-02 | Software Development Engineer 4 | IQVIA | [apply ↗](https://www.adzuna.in/details/5865975384?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5865975384?utm_medium=api&` |
 | — | 2026-09-02 | SDE | ADCI - Karnataka - A66 | [apply ↗](https://www.adzuna.in/details/5866937106?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866937106?utm_medium=api&` |

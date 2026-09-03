@@ -228,6 +228,10 @@
 "first": "2026-09-01T13:29:57+00:00",
 "sig": "cloudflare|software engineer platforms productivity"
 },
+"https://boards.greenhouse.io/cloudflare/jobs/8175620?gh_jid=8175620": {
+"first": "2026-09-03T22:35:01+00:00",
+"sig": "cloudflare|systems engineer growth engineering"
+},
 "https://careers-americas.icims.com/jobs/25301/software-engineer/job": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "atlassian|software engineer"
@@ -455,6 +459,10 @@
 "https://job-boards.greenhouse.io/launchdarkly/jobs/7861151003": {
 "first": "2026-08-13T02:47:36+00:00",
 "sig": "launchdarkly|backend engineer flag delivery"
+},
+"https://job-boards.greenhouse.io/launchdarkly/jobs/7985794003": {
+"first": "2026-09-03T22:35:02+00:00",
+"sig": "launchdarkly|full stack engineer observability"
 },
 "https://job-boards.greenhouse.io/phonepe/jobs/7680147003": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -7618,6 +7626,7 @@
 "cloudflare|software engineer security rules": "2026-09-03T12:49:41+00:00",
 "cloudflare|systems engineer": "2026-07-30T14:32:04+00:00",
 "cloudflare|systems engineer global resource management data residency": "2026-07-25T21:08:54+00:00",
+"cloudflare|systems engineer growth engineering": "2026-09-03T22:35:01+00:00",
 "cloudflare|systems engineer maps": "2026-07-14T13:22:21+00:00",
 "cloudflare|systems engineer product platform tools": "2026-07-31T03:49:55+00:00",
 "cloudflare|systems engineer spectrum": "2026-07-30T17:48:44+00:00",
