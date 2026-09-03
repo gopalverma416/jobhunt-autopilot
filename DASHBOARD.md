@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-03 04:33 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-03 12:49 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (864)
+## 🎯 To apply (877)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,19 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-03 | Software Engineer - Backend | Reliance Games | [apply ↗](https://www.adzuna.in/details/5868120185?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868120185?utm_medium=api&` |
 | — | 2026-09-03 | Engineer I, Embedded Software Design | Schneider Electric | [apply ↗](https://www.adzuna.in/details/5868107190?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868107190?utm_medium=api&` |
 | — | 2026-09-03 | Full stack Developer (ReactJava) | Team Geek Solutions | [apply ↗](https://www.adzuna.in/details/5868097208?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868097208?utm_medium=api&` |
+| — | 2026-09-03 | Full Stack Engineer | Weekday AI | [apply ↗](https://www.adzuna.in/details/5868793535?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868793535?utm_medium=api&` |
+| — | 2026-09-03 | Backend Engineer | droplet.ink | [apply ↗](https://www.adzuna.in/land/ad/5868792505?se=7g-z5pWn8RGu7PkQw5G-KQ&utm_medium=api&utm_source=616fbe19&v=3B6A84A8DA0621B76ADF73B4F3374CA27E349969) | `python track.py applied 5868792505?se=7g-z5pWn8RGu` |
+| — | 2026-09-03 | Software Devlopment Engineer I, Amazon Rewards | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5868710103?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868710103?utm_medium=api&` |
+| — | 2026-09-03 | SDE-1 (FTC) | ADCI - Karnataka - A66 | [apply ↗](https://www.adzuna.in/details/5868710078?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868710078?utm_medium=api&` |
+| — | 2026-09-03 | Software Development Engineer, Amazon Music | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5868709980?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868709980?utm_medium=api&` |
+| — | 2026-09-03 | Software Engineer | BigThinkCode Technologies | [apply ↗](https://www.adzuna.in/details/5868707152?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868707152?utm_medium=api&` |
+| — | 2026-09-03 | Software Engineer | Cargill | [apply ↗](https://www.adzuna.in/details/5868705772?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868705772?utm_medium=api&` |
+| — | 2026-09-03 | Data Engineer - Software Engineer | CGI | [apply ↗](https://www.adzuna.in/details/5868702406?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868702406?utm_medium=api&` |
+| — | 2026-09-03 | Software Engineer - C/Python | Fortanix | [apply ↗](https://www.adzuna.in/details/5868702404?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868702404?utm_medium=api&` |
+| — | 2026-09-03 | Production Support - Software Engineer | CGI | [apply ↗](https://www.adzuna.in/details/5868702077?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868702077?utm_medium=api&` |
+| — | 2026-09-03 | P50 Fullstack Software Engineer | Atlassian | [apply ↗](https://careers-apac-atlassian.icims.com/jobs/27058/p50-fullstack-software-engineer/job) | `python track.py applied job` |
+| — | 2026-09-03 | Intermediate Backend Engineer | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8736877002) | `python track.py applied 8736877002` |
+| — | 2026-09-03 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556985595) | `python track.py applied 1970393556985595` |
 | — | 2026-09-02 | Java Fullstack Developer | Artech Infosystems Private Limited | [apply ↗](https://www.adzuna.in/details/5866126781?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866126781?utm_medium=api&` |
 | — | 2026-09-02 | Software Development Engineer 4 | IQVIA | [apply ↗](https://www.adzuna.in/details/5865975384?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5865975384?utm_medium=api&` |
 | — | 2026-09-02 | SDE | ADCI - Karnataka - A66 | [apply ↗](https://www.adzuna.in/details/5866937106?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866937106?utm_medium=api&` |
