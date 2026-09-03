@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-03 12:49 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-03 19:18 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (877)
+## 🎯 To apply (886)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -26,6 +26,15 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-03 | P50 Fullstack Software Engineer | Atlassian | [apply ↗](https://careers-apac-atlassian.icims.com/jobs/27058/p50-fullstack-software-engineer/job) | `python track.py applied job` |
 | — | 2026-09-03 | Intermediate Backend Engineer | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8736877002) | `python track.py applied 8736877002` |
 | — | 2026-09-03 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556985595) | `python track.py applied 1970393556985595` |
+| — | 2026-09-03 | Custom Software Engineer - Program Control Services | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5869479533?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869479533?utm_medium=api&` |
+| — | 2026-09-03 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5869226575?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869226575?utm_medium=api&` |
+| — | 2026-09-03 | Software Development Engineer in Test | Akamai | [apply ↗](https://www.adzuna.in/details/5869226488?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869226488?utm_medium=api&` |
+| — | 2026-09-03 | Python Software Engineer | Stellaspire | [apply ↗](https://www.adzuna.in/details/5869224560?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869224560?utm_medium=api&` |
+| — | 2026-09-03 | Software Development Engineer, Device Software Services | Amazon | [apply ↗](https://www.adzuna.in/details/5869224431?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869224431?utm_medium=api&` |
+| — | 2026-09-03 | Software Engineer – Python, SQL, Microservices, Kafka/Rabbit MQ, Azure | Blue Yonder | [apply ↗](https://www.adzuna.in/details/5869223544?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869223544?utm_medium=api&` |
+| — | 2026-09-03 | Software Engineer | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer_R-289525) | `python track.py applied Software-Engineer_R-289525` |
+| — | 2026-09-03 | Software Engineer - Full Stack | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---Full-Stack_R-289575) | `python track.py applied Software-Engineer---Full-S` |
+| — | 2026-09-03 | Software Engineer - Java Spring Boot | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289576) | `python track.py applied Software-Engineer---Java-S` |
 | — | 2026-09-02 | Java Fullstack Developer | Artech Infosystems Private Limited | [apply ↗](https://www.adzuna.in/details/5866126781?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866126781?utm_medium=api&` |
 | — | 2026-09-02 | Software Development Engineer 4 | IQVIA | [apply ↗](https://www.adzuna.in/details/5865975384?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5865975384?utm_medium=api&` |
 | — | 2026-09-02 | SDE | ADCI - Karnataka - A66 | [apply ↗](https://www.adzuna.in/details/5866937106?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5866937106?utm_medium=api&` |

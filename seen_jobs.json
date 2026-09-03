@@ -1016,6 +1016,18 @@
 "first": "2026-08-20T13:11:02+00:00",
 "sig": "mastercard|software engineer"
 },
+"https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---Full-Stack_R-289575": {
+"first": "2026-09-03T19:18:03+00:00",
+"sig": "mastercard|software engineer full stack"
+},
+"https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289576": {
+"first": "2026-09-03T19:18:05+00:00",
+"sig": "mastercard|software engineer java spring boot"
+},
+"https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289581": {
+"first": "2026-09-03T19:18:05+00:00",
+"sig": "mastercard|software engineer java spring boot"
+},
 "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---_R-287018": {
 "first": "2026-08-10T13:43:55+00:00",
 "sig": "mastercard|software engineer"
@@ -1023,6 +1035,10 @@
 "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I_R-282195": {
 "first": "2026-07-17T21:08:13+00:00",
 "sig": "mastercard|software engineer i"
+},
+"https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer_R-289525": {
+"first": "2026-09-03T19:18:03+00:00",
+"sig": "mastercard|software engineer"
 },
 "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-engineer--DevSecOps-_R-282027": {
 "first": "2026-07-31T14:35:08+00:00",
@@ -6564,6 +6580,58 @@
 "first": "2026-09-03T12:49:39+00:00",
 "sig": "weekday ai|full stack engineer"
 },
+"https://www.adzuna.in/details/5869223544?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:03+00:00",
+"sig": "blue yonder|software engineer python sql microservices kafka rabbit mq azure"
+},
+"https://www.adzuna.in/details/5869223986?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:05+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5869223996?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:05+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5869224431?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:03+00:00",
+"sig": "amazon|software development engineer device software services"
+},
+"https://www.adzuna.in/details/5869224450?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:05+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5869224517?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:05+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5869224560?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:03+00:00",
+"sig": "stellaspire|python software engineer"
+},
+"https://www.adzuna.in/details/5869225107?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:05+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5869225899?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:05+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5869225998?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:05+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5869226488?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:03+00:00",
+"sig": "akamai|software development engineer in test"
+},
+"https://www.adzuna.in/details/5869226575?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:02+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5869479533?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-03T19:18:02+00:00",
+"sig": "trigent software private limited|custom software engineer program control services"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -7287,6 +7355,7 @@
 "airbnb|software engineer cloud networking": "2026-07-14T13:22:21+00:00",
 "airbus|software engineer cabin management": "2026-08-12T17:12:16+00:00",
 "ajackus|python full stack developer": "2026-08-19T13:08:27+00:00",
+"akamai|software development engineer in test": "2026-09-03T19:18:03+00:00",
 "aliqan technologies|full stack engineer": "2026-08-01T03:50:12+00:00",
 "altinvest online platform pvt ltd|tech solution full stack engineer": "2026-07-30T10:34:34+00:00",
 "altium|software development engineer backend": "2026-07-29T03:39:48+00:00",
@@ -7339,6 +7408,7 @@
 "amazon|software development engineer concessions tech": "2026-07-21T21:33:40+00:00",
 "amazon|software development engineer das fintech": "2026-08-08T02:22:47+00:00",
 "amazon|software development engineer delivery choices": "2026-07-12T06:29:34+00:00",
+"amazon|software development engineer device software services": "2026-09-03T19:18:03+00:00",
 "amazon|software development engineer digital acceleration": "2026-09-02T12:46:30+00:00",
 "amazon|software development engineer emerging devices software": "2026-08-15T16:41:25+00:00",
 "amazon|software development engineer eu mfn acceleration": "2026-07-12T06:29:34+00:00",
@@ -7449,6 +7519,7 @@
 "bigthinkcode technologies|software engineer": "2026-09-03T12:49:39+00:00",
 "bizmatics india private limited|software engineer in test": "2026-07-17T03:37:18+00:00",
 "blackrock|application engineer vice president": "2026-08-14T05:46:02+00:00",
+"blue yonder|software engineer python sql microservices kafka rabbit mq azure": "2026-09-03T19:18:03+00:00",
 "booking holdings|software engineer integration": "2026-07-28T03:35:25+00:00",
 "bosch group|c c communication gateway software engineer": "2026-08-04T10:49:53+00:00",
 "bosch|application engineer heat pumps": "2026-08-20T08:56:32+00:00",
@@ -7790,7 +7861,9 @@
 "mastercard|site reliability engineer i": "2026-08-10T13:43:55+00:00",
 "mastercard|software engineer": "2026-07-31T10:50:38+00:00",
 "mastercard|software engineer devsecops": "2026-07-31T14:35:08+00:00",
+"mastercard|software engineer full stack": "2026-09-03T19:18:03+00:00",
 "mastercard|software engineer i": "2026-07-17T21:08:13+00:00",
+"mastercard|software engineer java spring boot": "2026-09-03T19:18:05+00:00",
 "mattel, inc.|software engineer veeva": "2026-09-02T12:46:29+00:00",
 "mattel|eai software engineer": "2026-07-30T03:28:38+00:00",
 "mattel|software engineer data analytics": "2026-07-23T21:28:42+00:00",
@@ -8048,6 +8121,7 @@
 "state street|java full stack developer officer": "2026-07-24T03:44:14+00:00",
 "state street|java full stack development assistant vice president": "2026-08-10T17:08:40+00:00",
 "stealth ai|founding backend engineer": "2026-08-22T04:49:05+00:00",
+"stellaspire|python software engineer": "2026-09-03T19:18:03+00:00",
 "stockx|software development engineer in test": "2026-09-01T19:23:47+00:00",
 "striim|software engineer": "2026-07-25T14:02:10+00:00",
 "stripe|backend engineer ai security": "2026-07-14T13:22:23+00:00",
