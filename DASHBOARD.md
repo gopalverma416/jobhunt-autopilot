@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-04 04:33 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-04 12:43 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (895)
+## 🎯 To apply (903)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -18,6 +18,14 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-04 | Software Engineer - Host networking | Meta Platforms | [apply ↗](https://www.adzuna.in/details/5869816608?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869816608?utm_medium=api&` |
 | — | 2026-09-04 | Software Engineer (Leadership), Host Networking | Meta Platforms | [apply ↗](https://www.adzuna.in/details/5869816570?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869816570?utm_medium=api&` |
 | — | 2026-09-04 | Software Engineer, Product | Meta Platforms | [apply ↗](https://www.adzuna.in/details/5869816590?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869816590?utm_medium=api&` |
+| — | 2026-09-04 | Software Development Engineer, Amazon Device Observability & Troubleshooting Team | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5870470915?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5870470915?utm_medium=api&` |
+| — | 2026-09-04 | Software Engineer | Apple | [apply ↗](https://www.adzuna.in/details/5870445597?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5870445597?utm_medium=api&` |
+| — | 2026-09-04 | Full Stack Engineer | Weekday AI | [apply ↗](https://www.adzuna.in/details/5870445400?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5870445400?utm_medium=api&` |
+| — | 2026-09-04 | Software Engineer | Checkmarx | [apply ↗](https://www.adzuna.in/details/5870445506?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5870445506?utm_medium=api&` |
+| — | 2026-09-04 | Full Stack AI Engineer | Cutshort Lightning | [apply ↗](https://www.adzuna.in/details/5870433175?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5870433175?utm_medium=api&` |
+| — | 2026-09-04 | Full-Stack Engineer - AI Systems | Mercor | [apply ↗](https://www.adzuna.in/details/5870197673?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5870197673?utm_medium=api&` |
+| — | 2026-09-04 | Intermediate Application Developer - Java, Full Stack | UPS | [apply ↗](https://www.adzuna.in/details/5870122857?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5870122857?utm_medium=api&` |
+| — | 2026-09-04 | Software Engineer I | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I_R-289557) | `python track.py applied Software-Engineer-I_R-2895` |
 | — | 2026-09-03 | Software Engineer - Backend | Reliance Games | [apply ↗](https://www.adzuna.in/details/5868120185?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868120185?utm_medium=api&` |
 | — | 2026-09-03 | Engineer I, Embedded Software Design | Schneider Electric | [apply ↗](https://www.adzuna.in/details/5868107190?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868107190?utm_medium=api&` |
 | — | 2026-09-03 | Full stack Developer (ReactJava) | Team Geek Solutions | [apply ↗](https://www.adzuna.in/details/5868097208?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868097208?utm_medium=api&` |
