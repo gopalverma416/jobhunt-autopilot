@@ -1,15 +1,23 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-03 22:35 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-04 04:33 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (887)
+## 🎯 To apply (895)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-04 | Java Software Engineer | Aditi Tech Consulting Private Limited | [apply ↗](https://www.adzuna.in/details/5869830404?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869830404?utm_medium=api&` |
+| — | 2026-09-04 | Software Development Engineer | Saffronbizz Solutions | [apply ↗](https://www.adzuna.in/details/5869823267?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869823267?utm_medium=api&` |
+| — | 2026-09-04 | Software Development Engineer | Saffronbizz Solutions | [apply ↗](https://www.adzuna.in/details/5869821994?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869821994?utm_medium=api&` |
+| — | 2026-09-04 | Software Engineer | Harness | [apply ↗](https://www.adzuna.in/details/5869821141?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869821141?utm_medium=api&` |
+| — | 2026-09-04 | Software Engineer - UI | Vakilsearch | [apply ↗](https://www.adzuna.in/details/5869817833?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869817833?utm_medium=api&` |
+| — | 2026-09-04 | Software Engineer - Host networking | Meta Platforms | [apply ↗](https://www.adzuna.in/details/5869816608?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869816608?utm_medium=api&` |
+| — | 2026-09-04 | Software Engineer (Leadership), Host Networking | Meta Platforms | [apply ↗](https://www.adzuna.in/details/5869816570?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869816570?utm_medium=api&` |
+| — | 2026-09-04 | Software Engineer, Product | Meta Platforms | [apply ↗](https://www.adzuna.in/details/5869816590?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869816590?utm_medium=api&` |
 | — | 2026-09-03 | Software Engineer - Backend | Reliance Games | [apply ↗](https://www.adzuna.in/details/5868120185?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868120185?utm_medium=api&` |
 | — | 2026-09-03 | Engineer I, Embedded Software Design | Schneider Electric | [apply ↗](https://www.adzuna.in/details/5868107190?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868107190?utm_medium=api&` |
 | — | 2026-09-03 | Full stack Developer (ReactJava) | Team Geek Solutions | [apply ↗](https://www.adzuna.in/details/5868097208?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5868097208?utm_medium=api&` |
