@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-05 15:14 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-05 18:18 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (918)
+## 🎯 To apply (928)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -18,6 +18,16 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-05 | Software Engineer - Java Backend_102980 | MyCareernet | [apply ↗](https://www.adzuna.in/details/5871787886?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5871787886?utm_medium=api&` |
 | — | 2026-09-05 | Software Engineer | Virtusa | [apply ↗](https://www.adzuna.in/details/5871787872?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5871787872?utm_medium=api&` |
 | — | 2026-09-05 | Linux Software Engineer (Mesa Graphics) | L&T Technology Services | [apply ↗](https://www.adzuna.in/land/ad/5871991891?se=Kgs7azyp8RGS9tX3gPU9Ng&utm_medium=api&utm_source=616fbe19&v=85F5DD62F6956FDEC8D178CAC39F431F64C62CBC) | `python track.py applied 5871991891?se=Kgs7azyp8RGS` |
+| — | 2026-09-05 | Software Engineer - Solutions Engineering | Jobgether | [apply ↗](https://www.adzuna.in/details/5872136492?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872136492?utm_medium=api&` |
+| — | 2026-09-05 | Full Stack Developer – Node.js, React.js, TypeScript & AI Code Generation | Synechron | [apply ↗](https://www.adzuna.in/details/5872135668?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872135668?utm_medium=api&` |
+| — | 2026-09-05 | Software QA Engineer I | Generac | [apply ↗](https://www.adzuna.in/details/5872135331?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872135331?utm_medium=api&` |
+| — | 2026-09-05 | Software Engineer 1 | Conde Nast | [apply ↗](https://www.adzuna.in/details/5872133744?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872133744?utm_medium=api&` |
+| — | 2026-09-05 | Software Engineer - Transformation Data | Cognite | [apply ↗](https://www.adzuna.in/details/5872132987?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872132987?utm_medium=api&` |
+| — | 2026-09-05 | Software Engineer - Data Engineering | Caterpillar | [apply ↗](https://www.adzuna.in/details/5872132772?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872132772?utm_medium=api&` |
+| — | 2026-09-05 | Full Stack Developer – Node.js, React, TypeScript & AI Code Generation | Synechron | [apply ↗](https://www.adzuna.in/details/5872132695?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872132695?utm_medium=api&` |
+| — | 2026-09-05 | Specialist, Software Engineer - Java Microservices | Nationwide Global Services Center | [apply ↗](https://www.adzuna.in/details/5872132546?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872132546?utm_medium=api&` |
+| — | 2026-09-05 | Intermediate Backend Engineer | Jobgether | [apply ↗](https://www.adzuna.in/details/5872132277?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872132277?utm_medium=api&` |
+| — | 2026-09-05 | Software Devlopment Engineer I, Amazon Rewards | Amazon | [apply ↗](https://www.adzuna.in/details/5872132000?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872132000?utm_medium=api&` |
 | — | 2026-09-04 | Java Software Engineer | Aditi Tech Consulting Private Limited | [apply ↗](https://www.adzuna.in/details/5869830404?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869830404?utm_medium=api&` |
 | — | 2026-09-04 | Software Development Engineer | Saffronbizz Solutions | [apply ↗](https://www.adzuna.in/details/5869823267?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869823267?utm_medium=api&` |
 | — | 2026-09-04 | Software Development Engineer | Saffronbizz Solutions | [apply ↗](https://www.adzuna.in/details/5869821994?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869821994?utm_medium=api&` |
