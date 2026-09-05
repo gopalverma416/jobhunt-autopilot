@@ -212,6 +212,10 @@
 "first": "2026-08-25T16:55:36+00:00",
 "sig": "cloudflare|software engineer enterprise integrations"
 },
+"https://boards.greenhouse.io/cloudflare/jobs/8158016?gh_jid=8158016": {
+"first": "2026-09-05T04:29:23+00:00",
+"sig": "cloudflare|systems engineer database platform"
+},
 "https://boards.greenhouse.io/cloudflare/jobs/8158920?gh_jid=8158920": {
 "first": "2026-08-27T22:16:07+00:00",
 "sig": "cloudflare|software engineer fl"
@@ -6764,6 +6768,30 @@
 "first": "2026-09-04T18:59:34+00:00",
 "sig": "trigent software private limited|software engineering packaged saas application engineer"
 },
+"https://www.adzuna.in/details/5871278818?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-05T04:29:23+00:00",
+"sig": "yotta infrastructure|full stack engineer"
+},
+"https://www.adzuna.in/details/5871278827?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-05T04:29:23+00:00",
+"sig": "yotta infrastructure|full stack engineer"
+},
+"https://www.adzuna.in/details/5871278865?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-05T04:29:23+00:00",
+"sig": "yotta infrastructure|full stack engineer"
+},
+"https://www.adzuna.in/details/5871278886?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-05T04:29:23+00:00",
+"sig": "yotta infrastructure|full stack engineer"
+},
+"https://www.adzuna.in/details/5871278894?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-05T04:29:23+00:00",
+"sig": "securonix consultancy|software engineer java"
+},
+"https://www.adzuna.in/details/5871280556?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-05T04:29:23+00:00",
+"sig": "ascendion|python fullstack"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -7626,6 +7654,7 @@
 "ascendion|fullstack developer": "2026-08-18T04:52:20+00:00",
 "ascendion|java fullstack engineer": "2026-08-04T03:37:00+00:00",
 "ascendion|net fullstack engineer": "2026-08-03T03:54:31+00:00",
+"ascendion|python fullstack": "2026-09-05T04:29:23+00:00",
 "ascendion|python fullstack engineer": "2026-07-17T03:37:18+00:00",
 "astrome technologies|software engineer space simulation platform": "2026-07-20T14:33:35+00:00",
 "ather energy|software development engineer in test i": "2026-08-08T02:22:47+00:00",
@@ -7754,6 +7783,7 @@
 "cloudflare|software engineer rulesets": "2026-08-27T22:16:07+00:00",
 "cloudflare|software engineer security rules": "2026-09-03T12:49:41+00:00",
 "cloudflare|systems engineer": "2026-07-30T14:32:04+00:00",
+"cloudflare|systems engineer database platform": "2026-09-05T04:29:23+00:00",
 "cloudflare|systems engineer global resource management data residency": "2026-07-25T21:08:54+00:00",
 "cloudflare|systems engineer growth engineering": "2026-09-03T22:35:01+00:00",
 "cloudflare|systems engineer maps": "2026-07-14T13:22:21+00:00",
@@ -8243,6 +8273,7 @@
 "scout incorporation|software engineer": "2026-07-16T03:37:38+00:00",
 "scout incorporation|software engineer backend": "2026-07-18T03:32:23+00:00",
 "scout incorporation|software engineer java": "2026-07-29T03:39:48+00:00",
+"securonix consultancy|software engineer java": "2026-09-05T04:29:23+00:00",
 "securonix|software engineer": "2026-08-13T17:12:38+00:00",
 "sentinelone|software development engineer in test": "2026-08-29T19:24:48+00:00",
 "servicenow|software engineer": "2026-08-19T20:45:35+00:00",
@@ -8458,6 +8489,7 @@
 "xplor|software engineer fullstack": "2026-08-21T04:54:36+00:00",
 "xplor|software engineer in test embedded payments": "2026-07-24T21:20:45+00:00",
 "xylem|software engineer": "2026-08-20T08:56:32+00:00",
+"yotta infrastructure|full stack engineer": "2026-09-05T04:29:23+00:00",
 "youtrip|frontend software engineer web": "2026-07-21T17:45:43+00:00",
 "zapier|software engineer release engineering": "2026-07-14T14:05:09+00:00",
 "zebra technologies|application engineer": "2026-08-08T13:12:29+00:00",

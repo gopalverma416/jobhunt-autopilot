@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-04 22:21 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-05 04:29 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (910)
+## 🎯 To apply (915)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-05 | Python Fullstack | ascendion | [apply ↗](https://www.adzuna.in/details/5871280556?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5871280556?utm_medium=api&` |
+| — | 2026-09-05 | Full Stack Engineer | Yotta Infrastructure | [apply ↗](https://www.adzuna.in/details/5871278886?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5871278886?utm_medium=api&` |
+| — | 2026-09-05 | Software Engineer (Java) | Securonix Consultancy | [apply ↗](https://www.adzuna.in/details/5871278894?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5871278894?utm_medium=api&` |
+| — | 2026-09-05 | Full Stack Engineer | Yotta Infrastructure | [apply ↗](https://www.adzuna.in/details/5871278865?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5871278865?utm_medium=api&` |
+| — | 2026-09-05 | Systems Engineer - Database Platform | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8158016?gh_jid=8158016) | `python track.py applied 8158016?gh_jid=8158016` |
 | — | 2026-09-04 | Java Software Engineer | Aditi Tech Consulting Private Limited | [apply ↗](https://www.adzuna.in/details/5869830404?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869830404?utm_medium=api&` |
 | — | 2026-09-04 | Software Development Engineer | Saffronbizz Solutions | [apply ↗](https://www.adzuna.in/details/5869823267?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869823267?utm_medium=api&` |
 | — | 2026-09-04 | Software Development Engineer | Saffronbizz Solutions | [apply ↗](https://www.adzuna.in/details/5869821994?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5869821994?utm_medium=api&` |
