@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-06 12:08 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-06 15:28 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (928)
+## 🎯 To apply (933)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-06 | Software Engineer | Iron Mountain | [apply ↗](https://www.adzuna.in/details/5872941739?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872941739?utm_medium=api&` |
+| — | 2026-09-06 | Software Engineer | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5872787576?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872787576?utm_medium=api&` |
+| — | 2026-09-06 | Software Engineer - Fullstack | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5872787560?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872787560?utm_medium=api&` |
+| — | 2026-09-06 | Full-Stack AI Engineer / Data Scientist - Agentic Systems | Roche | [apply ↗](https://www.adzuna.in/details/5872786814?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872786814?utm_medium=api&` |
+| — | 2026-09-06 | Angular Java Fullstack Expert-Assistant Vice President | Citigroup | [apply ↗](https://www.adzuna.in/details/5872785680?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872785680?utm_medium=api&` |
 | — | 2026-09-05 | Python Fullstack | ascendion | [apply ↗](https://www.adzuna.in/details/5871280556?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5871280556?utm_medium=api&` |
 | — | 2026-09-05 | Full Stack Engineer | Yotta Infrastructure | [apply ↗](https://www.adzuna.in/details/5871278886?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5871278886?utm_medium=api&` |
 | — | 2026-09-05 | Software Engineer (Java) | Securonix Consultancy | [apply ↗](https://www.adzuna.in/details/5871278894?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5871278894?utm_medium=api&` |
