@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-07 14:15 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-07 19:58 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (942)
+## 🎯 To apply (954)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -17,6 +17,18 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-07 | Software Engineer | Smiths Detection | [apply ↗](https://www.adzuna.in/details/5873627784?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5873627784?utm_medium=api&` |
 | — | 2026-09-07 | Software Development Engineer I, Amazon Payments | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments) | `python track.py applied software-development-engin` |
 | — | 2026-09-07 | SDE-1 (FTC) | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10525640/sde-1-ftc) | `python track.py applied sde-1-ftc` |
+| — | 2026-09-07 | Software Engineering - Packaged/SaaS Application Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5874376053?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5874376053?utm_medium=api&` |
+| — | 2026-09-07 | Custom Software Engineer - DevOps | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5874376074?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5874376074?utm_medium=api&` |
+| — | 2026-09-07 | Custom Software Engineer - Spring Boot | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5874376054?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5874376054?utm_medium=api&` |
+| — | 2026-09-07 | Custom Software Engineer - Java Full Stack Development | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5874376060?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5874376060?utm_medium=api&` |
+| — | 2026-09-07 | Applied AI Specialist-Cloud FullStack | Hakkōda, an IBM Company | [apply ↗](https://www.adzuna.in/details/5874288104?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5874288104?utm_medium=api&` |
+| — | 2026-09-07 | Distinguished, Software Engineer | Walmart Global Tech India | [apply ↗](https://www.adzuna.in/details/5874287949?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5874287949?utm_medium=api&` |
+| — | 2026-09-07 | Software Engineer - AI Algorithm | Paathz | [apply ↗](https://www.adzuna.in/details/5874287926?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5874287926?utm_medium=api&` |
+| — | 2026-09-07 | Software Development Engineer in Test | Applied Information Sciences | [apply ↗](https://www.adzuna.in/details/5874266142?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5874266142?utm_medium=api&` |
+| — | 2026-09-07 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5874265963?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5874265963?utm_medium=api&` |
+| — | 2026-09-07 | IOT Platform Software Developer | Mindpool Technologies | [apply ↗](https://www.adzuna.in/details/5874265287?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5874265287?utm_medium=api&` |
+| — | 2026-09-07 | Packaged/SaaS Application Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5874264322?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5874264322?utm_medium=api&` |
+| — | 2026-09-07 | Software Engineer 1 | UiPath | [apply ↗](https://www.adzuna.in/details/5874263473?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5874263473?utm_medium=api&` |
 | — | 2026-09-06 | Software Engineer | Iron Mountain | [apply ↗](https://www.adzuna.in/details/5872941739?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872941739?utm_medium=api&` |
 | — | 2026-09-06 | Software Engineer | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5872787576?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872787576?utm_medium=api&` |
 | — | 2026-09-06 | Software Engineer - Fullstack | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5872787560?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872787560?utm_medium=api&` |
