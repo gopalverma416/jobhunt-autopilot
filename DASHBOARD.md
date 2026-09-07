@@ -1,15 +1,22 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-07 04:41 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-07 14:15 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (935)
+## 🎯 To apply (942)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-07 | SMTS-System Software Engineer  Security | Tsavorite Scalable Intelligence | [apply ↗](https://www.adzuna.in/land/ad/5874134442?se=bCRbjMaq8RG_4vyL9J1GsQ&utm_medium=api&utm_source=616fbe19&v=33A9036EF2F691DB2B98C64D0517E44C7ED030D8) | `python track.py applied 5874134442?se=bCRbjMaq8RG_` |
+| — | 2026-09-07 | Software Development Engineer | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5873994546?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5873994546?utm_medium=api&` |
+| — | 2026-09-07 | Software Engineer - Ui Path Developer | Ecolab | [apply ↗](https://www.adzuna.in/details/5873987667?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5873987667?utm_medium=api&` |
+| — | 2026-09-07 | Full stack engineer (Python & GCP) | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5873770920?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5873770920?utm_medium=api&` |
+| — | 2026-09-07 | Software Engineer | Smiths Detection | [apply ↗](https://www.adzuna.in/details/5873627784?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5873627784?utm_medium=api&` |
+| — | 2026-09-07 | Software Development Engineer I, Amazon Payments | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments) | `python track.py applied software-development-engin` |
+| — | 2026-09-07 | SDE-1 (FTC) | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10525640/sde-1-ftc) | `python track.py applied sde-1-ftc` |
 | — | 2026-09-06 | Software Engineer | Iron Mountain | [apply ↗](https://www.adzuna.in/details/5872941739?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872941739?utm_medium=api&` |
 | — | 2026-09-06 | Software Engineer | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5872787576?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872787576?utm_medium=api&` |
 | — | 2026-09-06 | Software Engineer - Fullstack | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5872787560?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5872787560?utm_medium=api&` |
