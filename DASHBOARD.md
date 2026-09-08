@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-07 22:50 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-08 04:36 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (954)
+## 🎯 To apply (956)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-08 | AWS Data Engineer-1 | ascendion | [apply ↗](https://www.adzuna.in/details/5875084294?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875084294?utm_medium=api&` |
+| — | 2026-09-08 | Software Development Engineer | Amazon | [apply ↗](https://www.adzuna.in/details/5875018614?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875018614?utm_medium=api&` |
 | — | 2026-09-07 | SMTS-System Software Engineer  Security | Tsavorite Scalable Intelligence | [apply ↗](https://www.adzuna.in/land/ad/5874134442?se=bCRbjMaq8RG_4vyL9J1GsQ&utm_medium=api&utm_source=616fbe19&v=33A9036EF2F691DB2B98C64D0517E44C7ED030D8) | `python track.py applied 5874134442?se=bCRbjMaq8RG_` |
 | — | 2026-09-07 | Software Development Engineer | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5873994546?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5873994546?utm_medium=api&` |
 | — | 2026-09-07 | Software Engineer - Ui Path Developer | Ecolab | [apply ↗](https://www.adzuna.in/details/5873987667?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5873987667?utm_medium=api&` |
