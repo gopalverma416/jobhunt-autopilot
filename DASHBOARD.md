@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-08 12:52 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-08 19:25 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (962)
+## 🎯 To apply (969)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -18,6 +18,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-08 | Full Stack Engineer | Agivant Technologies | [apply ↗](https://www.adzuna.in/details/5875448299?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875448299?utm_medium=api&` |
 | — | 2026-09-08 | Founding Software Engineer | Nosh Network | [apply ↗](https://www.adzuna.in/land/ad/5875419931?se=hpxtH4Sr8RGxqarq9WyEug&utm_medium=api&utm_source=616fbe19&v=582BD3A3C05138BDA8A4DD296628C8C72D3625D5) | `python track.py applied 5875419931?se=hpxtH4Sr8RGx` |
 | — | 2026-09-08 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556990299) | `python track.py applied 1970393556990299` |
+| — | 2026-09-08 | Software Engineer -3GP | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5875848703?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875848703?utm_medium=api&` |
+| — | 2026-09-08 | Junior Software Developer - Python | WSP in India | [apply ↗](https://www.adzuna.in/details/5875782386?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875782386?utm_medium=api&` |
+| — | 2026-09-08 | Software Engineer | Copart | [apply ↗](https://www.adzuna.in/details/5875742220?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875742220?utm_medium=api&` |
+| — | 2026-09-08 | Software Engineer - Test Automation | Harman Becker Automotive Systems Manufacturing Kft | [apply ↗](https://www.adzuna.in/details/5875740633?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875740633?utm_medium=api&` |
+| — | 2026-09-08 | DCS Software Engineer | Yokogawa | [apply ↗](https://www.adzuna.in/details/5875737652?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875737652?utm_medium=api&` |
+| — | 2026-09-08 | Software Dev Engineer I, L4 | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10531567/software-dev-engineer-i-l4) | `python track.py applied software-dev-engineer-i-l4` |
+| — | 2026-09-08 | Software Engineer Search | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/122710813273137862-software-engineer-search) | `python track.py applied 122710813273137862-softwar` |
 | — | 2026-09-07 | SMTS-System Software Engineer  Security | Tsavorite Scalable Intelligence | [apply ↗](https://www.adzuna.in/land/ad/5874134442?se=bCRbjMaq8RG_4vyL9J1GsQ&utm_medium=api&utm_source=616fbe19&v=33A9036EF2F691DB2B98C64D0517E44C7ED030D8) | `python track.py applied 5874134442?se=bCRbjMaq8RG_` |
 | — | 2026-09-07 | Software Development Engineer | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5873994546?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5873994546?utm_medium=api&` |
 | — | 2026-09-07 | Software Engineer - Ui Path Developer | Ecolab | [apply ↗](https://www.adzuna.in/details/5873987667?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5873987667?utm_medium=api&` |
