@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-08 19:25 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-08 22:41 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (969)
+## 🎯 To apply (984)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -25,6 +25,21 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-08 | DCS Software Engineer | Yokogawa | [apply ↗](https://www.adzuna.in/details/5875737652?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875737652?utm_medium=api&` |
 | — | 2026-09-08 | Software Dev Engineer I, L4 | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10531567/software-dev-engineer-i-l4) | `python track.py applied software-dev-engineer-i-l4` |
 | — | 2026-09-08 | Software Engineer Search | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/122710813273137862-software-engineer-search) | `python track.py applied 122710813273137862-softwar` |
+| — | 2026-09-08 | Software Engineer | Tata Communications | [apply ↗](https://www.adzuna.in/land/ad/5876127415?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=E4E817491E53FB803FED48B3BFAB6FFBE5BA9241) | `python track.py applied 5876127415?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Full Stack Engineer | Joveo | [apply ↗](https://www.adzuna.in/land/ad/5876029203?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=CCBBBFD8C6053B83F2B2223B85829DF34740963D) | `python track.py applied 5876029203?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Software Engineer | swaya studio | [apply ↗](https://www.adzuna.in/land/ad/5876029155?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=C017CC2A47DF346B177225BC8EB37CBC591D25F2) | `python track.py applied 5876029155?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Software Engineer - Frontend | Superleap AI CRM | [apply ↗](https://www.adzuna.in/land/ad/5876029157?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=4D165E92CC958A9C96894DBFAC0BA6A87D6EECBD) | `python track.py applied 5876029157?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Software Engineer | NEXTHIRE | [apply ↗](https://www.adzuna.in/land/ad/5876029175?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=B07C3811AF65F62BA77360B7DE6AA2482050A6A8) | `python track.py applied 5876029175?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Expert Software Engineer - AS400 | Accendra Health | [apply ↗](https://www.adzuna.in/land/ad/5876029119?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=F300A777E9F81521E96BD3FD748D5D36B8D91D12) | `python track.py applied 5876029119?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Java Software Engineer | Tata Consultancy Services | [apply ↗](https://www.adzuna.in/land/ad/5876029081?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=3001733D34006799322555010C5851110BB3426C) | `python track.py applied 5876029081?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Software Engineer | Atlas  | [apply ↗](https://www.adzuna.in/land/ad/5876029065?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=56A1B8E24212FB9876A0852067EF92B0FD753626) | `python track.py applied 5876029065?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Software Engineer [T500-29075] | Marriott Tech Accelerator | [apply ↗](https://www.adzuna.in/land/ad/5876029101?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=25C1F3AFD7F5F04A39A8B16B2497522AB1175A88) | `python track.py applied 5876029101?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Software Engineer | Landmark Group | [apply ↗](https://www.adzuna.in/land/ad/5876029047?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=BDC886C1E68D37A52931DF245C2FFCC47892D83E) | `python track.py applied 5876029047?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Software Engineer (Wifi/ Kernel/ Embedded) | Arista Networks | [apply ↗](https://www.adzuna.in/land/ad/5876029008?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=2BB3578DF69308972ED7670EDF323C56D59143FF) | `python track.py applied 5876029008?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Software Engineer | Ribbon Communications | [apply ↗](https://www.adzuna.in/land/ad/5876029048?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=563508DDD7199EF431427897C2E9CB2F93029ED7) | `python track.py applied 5876029048?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Teamcenter/Full Stack Java Developer | Megan Soft Inc | [apply ↗](https://www.adzuna.in/land/ad/5876028965?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=1607B1FC97305229C18A58B2AACD58B5D36A84DF) | `python track.py applied 5876028965?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Software Engineer, AI-Native | PyjamaHR | [apply ↗](https://www.adzuna.in/land/ad/5876028973?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=4D81685A2AD07E80450E32D778C836580DD3BCE9) | `python track.py applied 5876028973?se=eB95TNar8RGN` |
+| — | 2026-09-08 | Full stack Java Developer | Integrated Consultancy Services | [apply ↗](https://www.adzuna.in/land/ad/5876028974?se=eB95TNar8RGN55pnK-PhvQ&utm_medium=api&utm_source=616fbe19&v=394D2AEFBB5FD297FF3506ECAED95C375CAF614F) | `python track.py applied 5876028974?se=eB95TNar8RGN` |
 | — | 2026-09-07 | SMTS-System Software Engineer  Security | Tsavorite Scalable Intelligence | [apply ↗](https://www.adzuna.in/land/ad/5874134442?se=bCRbjMaq8RG_4vyL9J1GsQ&utm_medium=api&utm_source=616fbe19&v=33A9036EF2F691DB2B98C64D0517E44C7ED030D8) | `python track.py applied 5874134442?se=bCRbjMaq8RG_` |
 | — | 2026-09-07 | Software Development Engineer | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5873994546?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5873994546?utm_medium=api&` |
 | — | 2026-09-07 | Software Engineer - Ui Path Developer | Ecolab | [apply ↗](https://www.adzuna.in/details/5873987667?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5873987667?utm_medium=api&` |
