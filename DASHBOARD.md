@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-08 22:41 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-09 04:42 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (984)
+## 🎯 To apply (989)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-09 | Application Engineer | Emerson | [apply ↗](https://www.adzuna.in/details/5876486199?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5876486199?utm_medium=api&` |
+| — | 2026-09-09 | Software Engineer .NET | Simplicity First | [apply ↗](https://www.adzuna.in/details/5876480409?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5876480409?utm_medium=api&` |
+| — | 2026-09-09 | Software Engineer - React | Simplicity First | [apply ↗](https://www.adzuna.in/details/5876480357?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5876480357?utm_medium=api&` |
+| — | 2026-09-09 | Software Development Engineer I | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10530909/software-development-engineer-i) | `python track.py applied software-development-engin` |
+| — | 2026-09-09 | SDE-1 (FTC) | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10525636/sde-1-ftc) | `python track.py applied sde-1-ftc` |
 | — | 2026-09-08 | AWS Data Engineer-1 | ascendion | [apply ↗](https://www.adzuna.in/details/5875084294?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875084294?utm_medium=api&` |
 | — | 2026-09-08 | Software Development Engineer | Amazon | [apply ↗](https://www.adzuna.in/details/5875018614?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875018614?utm_medium=api&` |
 | — | 2026-09-08 | Software Development Engineer I, Amazon Payments | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5875454732?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875454732?utm_medium=api&` |

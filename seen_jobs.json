@@ -7124,6 +7124,18 @@
 "first": "2026-09-08T19:25:42+00:00",
 "sig": "skywings advisors pvt. ltd.|software engineer qliksense sql"
 },
+"https://www.adzuna.in/details/5876480357?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T04:42:33+00:00",
+"sig": "simplicity first|software engineer react"
+},
+"https://www.adzuna.in/details/5876480409?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T04:42:33+00:00",
+"sig": "simplicity first|software engineer net"
+},
+"https://www.adzuna.in/details/5876486199?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T04:42:32+00:00",
+"sig": "emerson|application engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -7724,6 +7736,10 @@
 "first": "2026-09-02T12:46:30+00:00",
 "sig": "amazon|software development engineer digital acceleration"
 },
+"https://www.amazon.jobs/en/jobs/10525636/sde-1-ftc": {
+"first": "2026-09-09T04:42:33+00:00",
+"sig": "amazon|sde ftc"
+},
 "https://www.amazon.jobs/en/jobs/10525640/sde-1-ftc": {
 "first": "2026-09-07T14:15:28+00:00",
 "sig": "amazon|sde ftc"
@@ -7744,6 +7760,10 @@
 "first": "2026-09-03T04:33:35+00:00",
 "sig": "amazon|software development engineer amazon music"
 },
+"https://www.amazon.jobs/en/jobs/10530909/software-development-engineer-i": {
+"first": "2026-09-09T04:42:33+00:00",
+"sig": "amazon|software development engineer i"
+},
 "https://www.amazon.jobs/en/jobs/10530940/software-development-engineer-i-amazon-payments": {
 "first": "2026-09-07T14:15:28+00:00",
 "sig": "amazon|software development engineer i amazon payments"
@@ -7751,6 +7771,14 @@
 "https://www.amazon.jobs/en/jobs/10531567/software-dev-engineer-i-l4": {
 "first": "2026-09-08T19:25:42+00:00",
 "sig": "amazon|software dev engineer i"
+},
+"https://www.amazon.jobs/en/jobs/10533665/software-development-engineer-amazon": {
+"first": "2026-09-09T04:42:33+00:00",
+"sig": "amazon|software development engineer amazon"
+},
+"https://www.amazon.jobs/en/jobs/10533696/software-development-engineer": {
+"first": "2026-09-09T04:42:33+00:00",
+"sig": "amazon|software development engineer"
 },
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
@@ -8046,6 +8074,7 @@
 "amazon|software development engineer fba": "2026-07-29T10:48:49+00:00",
 "amazon|software development engineer fulfillment by amazon fba": "2026-07-21T06:41:37+00:00",
 "amazon|software development engineer hardline fx wireless h b hardline fx wireless h b": "2026-07-20T14:33:35+00:00",
+"amazon|software development engineer i": "2026-09-09T04:42:33+00:00",
 "amazon|software development engineer i amazon payments": "2026-07-13T11:32:15+00:00",
 "amazon|software development engineer i ftc": "2026-07-30T10:34:34+00:00",
 "amazon|software development engineer iesp merchant tech": "2026-07-27T07:51:31+00:00",
@@ -8320,6 +8349,7 @@
 "elevenlabs|forward deployed engineer software engineer india": "2026-07-20T04:04:49+00:00",
 "elite worldgroup inc.|full stack developer": "2026-07-23T17:45:40+00:00",
 "ellucian|software engineer i react node aws": "2026-08-27T22:16:06+00:00",
+"emerson|application engineer": "2026-09-09T04:42:32+00:00",
 "emerson|software engineer python electronics years": "2026-07-24T06:39:44+00:00",
 "emerson|software engineer to years of experience in linux": "2026-07-27T04:02:20+00:00",
 "emerson|software engineer trainee": "2026-08-09T09:02:11+00:00",
@@ -8786,6 +8816,8 @@
 "siemens eda|r d software engineer c": "2026-08-26T13:16:14+00:00",
 "silicon laboratories|associate engineer sw design": "2026-07-28T17:45:36+00:00",
 "simcorp|jul principal software engineer": "2026-08-23T16:43:16+00:00",
+"simplicity first|software engineer net": "2026-09-09T04:42:33+00:00",
+"simplicity first|software engineer react": "2026-09-09T04:42:33+00:00",
 "skywings advisors pvt. ltd.|software engineer qliksense sql": "2026-09-08T19:25:42+00:00",
 "skywings advisors pvt. ltd.|software engineer sap basis hana specialist": "2026-08-27T22:16:06+00:00",
 "smiths detection|software engineer": "2026-08-05T21:32:25+00:00",
