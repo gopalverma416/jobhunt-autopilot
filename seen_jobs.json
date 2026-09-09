@@ -240,6 +240,10 @@
 "first": "2026-09-03T22:35:01+00:00",
 "sig": "cloudflare|systems engineer growth engineering"
 },
+"https://boards.greenhouse.io/cloudflare/jobs/8187404?gh_jid=8187404": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "cloudflare|systems engineer network protocols distributed systems"
+},
 "https://careers-americas.icims.com/jobs/25301/software-engineer/job": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "atlassian|software engineer"
@@ -311,6 +315,10 @@
 "https://job-boards.greenhouse.io/anthropic/jobs/5255853008": {
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "anthropic|it systems engineer client platform engineer"
+},
+"https://job-boards.greenhouse.io/arcesiumllc/jobs/5207754007": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "arcesium|forward deployed software engineer"
 },
 "https://job-boards.greenhouse.io/clickhouse/jobs/5395374004": {
 "first": "2026-07-12T12:26:43+00:00",
@@ -676,6 +684,10 @@
 "first": "2026-07-14T13:22:23+00:00",
 "sig": "twilio|associate application engineer"
 },
+"https://job-boards.greenhouse.io/twilio/jobs/8052068": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "twilio|software engineer identity"
+},
 "https://job-boards.greenhouse.io/twilio/jobs/8079801": {
 "first": "2026-07-29T14:31:26+00:00",
 "sig": "twilio|software engineer"
@@ -907,6 +919,10 @@
 "https://jobs.lever.co/epifi/d29bf970-adb6-43c4-9155-03491b1b7b91": {
 "first": "2026-07-14T14:05:09+00:00",
 "sig": "epifi|member of technical staff mts devops infrastructure"
+},
+"https://jobs.lever.co/jumpcloud/1843b144-b17f-4b51-b569-f3e3d5597ba9": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "jumpcloud|devices software engineer india"
 },
 "https://jobs.lever.co/jumpcloud/4ebbdea9-39c2-465d-bbdf-bf379a8e4a06": {
 "first": "2026-08-17T16:45:36+00:00",
@@ -7200,6 +7216,70 @@
 "first": "2026-09-09T12:58:14+00:00",
 "sig": "weekday ai|software engineer"
 },
+"https://www.adzuna.in/details/5877296026?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "jobgether|sap integration full stack developer"
+},
+"https://www.adzuna.in/details/5877296147?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "light & wonder|software engineer"
+},
+"https://www.adzuna.in/details/5877296206?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5877296240?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "hitachi careers|engineer i automation qa"
+},
+"https://www.adzuna.in/details/5877296443?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5877296451?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "accenture|packaged saas application engineer"
+},
+"https://www.adzuna.in/details/5877296712?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5877296943?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "natwest group|wow software engineer host"
+},
+"https://www.adzuna.in/details/5877296952?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5877296971?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5877297062?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5877297363?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "speechify|software engineer data infrastructure acquisition bangalore india"
+},
+"https://www.adzuna.in/details/5877297530?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5877297811?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5877297915?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "amazon|software development engineer fixed term contract international fba tech"
+},
+"https://www.adzuna.in/details/5877297944?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "accenture|custom software engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -7844,6 +7924,14 @@
 "first": "2026-09-09T04:42:33+00:00",
 "sig": "amazon|software development engineer"
 },
+"https://www.amazon.jobs/en/jobs/10534417/software-development-engineer-everyday-essentials-experiences": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "amazon|software development engineer everyday essentials experiences"
+},
+"https://www.amazon.jobs/en/jobs/10534447/software-development-engineer-alexa-audio-alexa-audio": {
+"first": "2026-09-09T19:16:50+00:00",
+"sig": "amazon|software development engineer alexa audio alexa audio"
+},
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
 "sig": "axonius|backend engineer s o paulo"
@@ -8144,6 +8232,7 @@
 "amazon|software development engineer eu mfn acceleration": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer everyday essentials experiences": "2026-08-14T13:42:47+00:00",
 "amazon|software development engineer fba": "2026-07-29T10:48:49+00:00",
+"amazon|software development engineer fixed term contract international fba tech": "2026-09-09T19:16:50+00:00",
 "amazon|software development engineer fulfillment by amazon fba": "2026-07-21T06:41:37+00:00",
 "amazon|software development engineer hardline fx wireless h b hardline fx wireless h b": "2026-07-20T14:33:35+00:00",
 "amazon|software development engineer i": "2026-09-09T04:42:33+00:00",
@@ -8209,6 +8298,7 @@
 "applied systems, inc.|software engineer": "2026-07-19T06:43:12+00:00",
 "aptiv|advance software engineer autosar": "2026-09-01T19:23:48+00:00",
 "aptiv|software engineer": "2026-07-30T17:48:43+00:00",
+"arcesium|forward deployed software engineer": "2026-09-09T19:16:50+00:00",
 "arista networks|software engineer": "2026-07-28T03:35:25+00:00",
 "arista networks|software engineer ai ml": "2026-07-28T03:35:25+00:00",
 "arista networks|software engineer cvp backend": "2026-07-28T03:35:25+00:00",
@@ -8364,6 +8454,7 @@
 "cloudflare|systems engineer global resource management data residency": "2026-07-25T21:08:54+00:00",
 "cloudflare|systems engineer growth engineering": "2026-09-03T22:35:01+00:00",
 "cloudflare|systems engineer maps": "2026-07-14T13:22:21+00:00",
+"cloudflare|systems engineer network protocols distributed systems": "2026-09-09T19:16:50+00:00",
 "cloudflare|systems engineer product platform tools": "2026-07-31T03:49:55+00:00",
 "cloudflare|systems engineer spectrum": "2026-07-30T17:48:44+00:00",
 "cloudflare|systems engineer ssl tls team": "2026-08-27T22:16:07+00:00",
@@ -8530,6 +8621,7 @@
 "hewlett packard enterprise|experienced net systems engineer": "2026-07-24T03:44:14+00:00",
 "hewlett packard enterprise|graduate software engineer": "2026-07-15T10:15:46+00:00",
 "highrise solutions llp|full stack developer se ssse dot net angular and aws": "2026-08-25T16:55:36+00:00",
+"hitachi careers|engineer i automation qa": "2026-09-09T19:16:50+00:00",
 "honeywell|it engineer i": "2026-07-26T06:48:58+00:00",
 "houghton mifflin harcourt|software engineer": "2026-08-30T05:24:41+00:00",
 "houghton mifflin harcourt|software engineer java alfresco": "2026-08-30T05:24:41+00:00",
@@ -8564,12 +8656,14 @@
 "jobgether|full stack engineer": "2026-07-15T03:34:54+00:00",
 "jobgether|full stack engineer mds treasury asset management": "2026-08-07T00:55:22+00:00",
 "jobgether|intermediate backend engineer": "2026-09-05T18:18:16+00:00",
+"jobgether|sap integration full stack developer": "2026-09-09T19:16:50+00:00",
 "jobgether|software engineer fullstack angular": "2026-07-30T17:48:43+00:00",
 "jobgether|software engineer java and aws": "2026-07-27T04:02:21+00:00",
 "jobgether|software engineer solutions engineering": "2026-09-05T18:18:14+00:00",
 "jobgether|software engineer sre": "2026-07-27T04:02:20+00:00",
 "johnson controls international|software engineer data scientist": "2026-07-21T03:45:19+00:00",
 "joveo|full stack engineer": "2026-09-08T22:40:44+00:00",
+"jumpcloud|devices software engineer india": "2026-09-09T19:16:50+00:00",
 "jumpcloud|full stack software engineer india": "2026-08-17T16:45:36+00:00",
 "jumpcloud|software engineer ai platform t rkiye": "2026-07-14T14:05:09+00:00",
 "jumpcloud|software engineer auth access india": "2026-07-28T17:45:36+00:00",
@@ -8611,6 +8705,7 @@
 "lepton software|geographic information systems engineer": "2026-08-25T13:11:36+00:00",
 "lifted, an upwork company\u2122|ai software engineer": "2026-09-01T22:36:45+00:00",
 "lifted, an upwork company\u2122|software engineer data and java": "2026-09-01T22:36:45+00:00",
+"light & wonder|software engineer": "2026-09-09T19:16:50+00:00",
 "liveramp|software development engineer": "2026-08-15T08:45:08+00:00",
 "liveswitch|software engineer": "2026-08-09T16:53:49+00:00",
 "loginext|junior software engineer backend": "2026-08-22T01:50:24+00:00",
@@ -8694,6 +8789,7 @@
 "natwest group|wow software engineer": "2026-08-16T16:42:28+00:00",
 "natwest group|wow software engineer avp": "2026-08-21T16:51:06+00:00",
 "natwest group|wow software engineer gcp apigee avp": "2026-08-16T16:42:28+00:00",
+"natwest group|wow software engineer host": "2026-09-09T19:16:50+00:00",
 "nec software solutions|software engineer ibm planning analytics": "2026-07-30T03:28:38+00:00",
 "nec software solutions|software engineer instructional design": "2026-07-30T03:28:38+00:00",
 "netapp|software development engineer in test api ui agentic systems": "2026-08-23T08:48:26+00:00",
@@ -8905,6 +9001,7 @@
 "sourcingxpress|software engineer": "2026-08-18T16:48:26+00:00",
 "sparix global.|ai native software engineer": "2026-07-16T21:16:31+00:00",
 "sparix global.|fullstack software engineer net react": "2026-08-23T20:38:43+00:00",
+"speechify|software engineer data infrastructure acquisition bangalore india": "2026-09-09T19:16:50+00:00",
 "ss c technologies|software engineer in test": "2026-08-21T04:54:36+00:00",
 "staffnixcom|software engineer c net industrial automation": "2026-08-06T10:48:57+00:00",
 "staples india business innovation hub private limited|associate software engineer full stack": "2026-07-24T17:52:15+00:00",
@@ -9020,6 +9117,7 @@
 "twilio|software engineer cdp": "2026-07-14T13:22:23+00:00",
 "twilio|software engineer data substrate": "2026-07-14T13:22:23+00:00",
 "twilio|software engineer email": "2026-07-23T21:28:42+00:00",
+"twilio|software engineer identity": "2026-09-09T19:16:50+00:00",
 "twilio|software engineer messaging api": "2026-08-21T20:41:09+00:00",
 "twilio|technical support engineer": "2026-07-14T13:22:24+00:00",
 "two circles|software engineer custom tech": "2026-08-22T13:00:54+00:00",

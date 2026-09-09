@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-09 12:58 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-09 19:16 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1005)
+## 🎯 To apply (1013)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -31,6 +31,14 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-09 | Backend Software Engineer | Atlassian | [apply ↗](https://globalcareers-atlassian.icims.com/jobs/27007/backend-software-engineer/job) | `python track.py applied job` |
 | — | 2026-09-09 | Software Engineer Engprod Google One And Google Photos | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/128780495415583430-software-engineer-engprod-google-one-and-google-photos) | `python track.py applied 128780495415583430-softwar` |
 | — | 2026-09-09 | Software Engineer I | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290205-1) | `python track.py applied Software-Engineer-I_R-2902` |
+| — | 2026-09-09 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5877297944?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877297944?utm_medium=api&` |
+| — | 2026-09-09 | Software Development Engineer (Fixed Term Contract), International FBA Tech | Amazon | [apply ↗](https://www.adzuna.in/details/5877297915?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877297915?utm_medium=api&` |
+| — | 2026-09-09 | Software Engineer, Data Infrastructure & Acquisition - Bangalore, India | Speechify | [apply ↗](https://www.adzuna.in/details/5877297363?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877297363?utm_medium=api&` |
+| — | 2026-09-09 | WoW Software Engineer - Host | Natwest Group | [apply ↗](https://www.adzuna.in/details/5877296943?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877296943?utm_medium=api&` |
+| — | 2026-09-09 | Engineer I - Automation QA IRC302575 | Hitachi Careers | [apply ↗](https://www.adzuna.in/details/5877296240?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877296240?utm_medium=api&` |
+| — | 2026-09-09 | Software Engineer | Light & Wonder | [apply ↗](https://www.adzuna.in/details/5877296147?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877296147?utm_medium=api&` |
+| — | 2026-09-09 | SAP Integration & Full Stack Developer | Jobgether | [apply ↗](https://www.adzuna.in/details/5877296026?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877296026?utm_medium=api&` |
+| — | 2026-09-09 | Systems Engineer, Network Protocols & Distributed Systems | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8187404?gh_jid=8187404) | `python track.py applied 8187404?gh_jid=8187404` |
 | — | 2026-09-08 | AWS Data Engineer-1 | ascendion | [apply ↗](https://www.adzuna.in/details/5875084294?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875084294?utm_medium=api&` |
 | — | 2026-09-08 | Software Development Engineer | Amazon | [apply ↗](https://www.adzuna.in/details/5875018614?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875018614?utm_medium=api&` |
 | — | 2026-09-08 | Software Development Engineer I, Amazon Payments | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5875454732?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5875454732?utm_medium=api&` |
