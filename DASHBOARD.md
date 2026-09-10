@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-09 22:33 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-10 04:43 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1014)
+## 🎯 To apply (1019)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-10 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5877848852?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877848852?utm_medium=api&` |
+| — | 2026-09-10 | Software Development Engineer in Test - I | Clevanoo LLC | [apply ↗](https://www.adzuna.in/details/5877848780?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877848780?utm_medium=api&` |
+| — | 2026-09-10 | FullStack Engineer | Nihilent | [apply ↗](https://www.adzuna.in/details/5877845370?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877845370?utm_medium=api&` |
+| — | 2026-09-10 | Java Full Stack Developer (Angular OR React) @ Pune | Nihilent | [apply ↗](https://www.adzuna.in/details/5877845357?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877845357?utm_medium=api&` |
+| — | 2026-09-10 | Fullstack Developer (.NET  Angular) | Nihilent | [apply ↗](https://www.adzuna.in/details/5877845356?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877845356?utm_medium=api&` |
 | — | 2026-09-09 | Application Engineer | Emerson | [apply ↗](https://www.adzuna.in/details/5876486199?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5876486199?utm_medium=api&` |
 | — | 2026-09-09 | Software Engineer .NET | Simplicity First | [apply ↗](https://www.adzuna.in/details/5876480409?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5876480409?utm_medium=api&` |
 | — | 2026-09-09 | Software Engineer - React | Simplicity First | [apply ↗](https://www.adzuna.in/details/5876480357?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5876480357?utm_medium=api&` |
