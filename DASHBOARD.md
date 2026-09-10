@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-10 04:43 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-10 12:55 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1019)
+## 🎯 To apply (1028)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,15 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-10 | FullStack Engineer | Nihilent | [apply ↗](https://www.adzuna.in/details/5877845370?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877845370?utm_medium=api&` |
 | — | 2026-09-10 | Java Full Stack Developer (Angular OR React) @ Pune | Nihilent | [apply ↗](https://www.adzuna.in/details/5877845357?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877845357?utm_medium=api&` |
 | — | 2026-09-10 | Fullstack Developer (.NET  Angular) | Nihilent | [apply ↗](https://www.adzuna.in/details/5877845356?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877845356?utm_medium=api&` |
+| — | 2026-09-10 | Software Dev Engineer I FTC | Amazon Dev Center India - Hyderabad | [apply ↗](https://www.adzuna.in/details/5878330559?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5878330559?utm_medium=api&` |
+| — | 2026-09-10 | SDE-I | Amazon Development Centre  Private Limited - S55 | [apply ↗](https://www.adzuna.in/details/5878291400?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5878291400?utm_medium=api&` |
+| — | 2026-09-10 | Software Development Engineer, Alexa Audio, Alexa Audio | ADCI MAA 15 SEZ | [apply ↗](https://www.adzuna.in/details/5878291345?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5878291345?utm_medium=api&` |
+| — | 2026-09-10 | Software Engineer, New Grad | Stripe | [apply ↗](https://www.adzuna.in/details/5878278742?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5878278742?utm_medium=api&` |
+| — | 2026-09-10 | Software Engineer, Financial Platform - Issuing | Block | [apply ↗](https://www.adzuna.in/details/5878278676?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5878278676?utm_medium=api&` |
+| — | 2026-09-10 | Software Engineer - Market Data | Alpaca | [apply ↗](https://www.adzuna.in/details/5878277743?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5878277743?utm_medium=api&` |
+| — | 2026-09-10 | Software Engineer- Money Movement | Coinbase | [apply ↗](https://www.adzuna.in/details/5878277763?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5878277763?utm_medium=api&` |
+| — | 2026-09-10 | Software Engineer, Cash App Taxes | Block | [apply ↗](https://www.adzuna.in/details/5878277796?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5878277796?utm_medium=api&` |
+| — | 2026-09-10 | Binance Accelerator Programm - Software Engineer (Reconciliation) | Binance | [apply ↗](https://www.adzuna.in/details/5878277520?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5878277520?utm_medium=api&` |
 | — | 2026-09-09 | Application Engineer | Emerson | [apply ↗](https://www.adzuna.in/details/5876486199?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5876486199?utm_medium=api&` |
 | — | 2026-09-09 | Software Engineer .NET | Simplicity First | [apply ↗](https://www.adzuna.in/details/5876480409?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5876480409?utm_medium=api&` |
 | — | 2026-09-09 | Software Engineer - React | Simplicity First | [apply ↗](https://www.adzuna.in/details/5876480357?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5876480357?utm_medium=api&` |
