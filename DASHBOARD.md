@@ -1,15 +1,18 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-10 22:35 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-11 04:41 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1035)
+## 🎯 To apply (1038)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-11 | React full stack Developer | ascendion | [apply ↗](https://www.adzuna.in/details/5879148819?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879148819?utm_medium=api&` |
+| — | 2026-09-11 | Software Engineer | Progressive Infotech | [apply ↗](https://www.adzuna.in/details/5879143591?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879143591?utm_medium=api&` |
+| — | 2026-09-11 | Application Engineer | SKF | [apply ↗](https://www.adzuna.in/details/5879141688?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879141688?utm_medium=api&` |
 | — | 2026-09-10 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5877848852?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877848852?utm_medium=api&` |
 | — | 2026-09-10 | Software Development Engineer in Test - I | Clevanoo LLC | [apply ↗](https://www.adzuna.in/details/5877848780?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877848780?utm_medium=api&` |
 | — | 2026-09-10 | FullStack Engineer | Nihilent | [apply ↗](https://www.adzuna.in/details/5877845370?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877845370?utm_medium=api&` |
