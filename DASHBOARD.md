@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-11 19:09 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-11 22:35 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1047)
+## 🎯 To apply (1048)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -22,6 +22,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-11 | Product Software Engineer (C# /.Net Core / Angular / CSS / SQL) | Wolters Kluwer | [apply ↗](https://www.adzuna.in/details/5879948112?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879948112?utm_medium=api&` |
 | — | 2026-09-11 | Software Engineer I | American Express | [apply ↗](https://www.adzuna.in/details/5879948058?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879948058?utm_medium=api&` |
 | — | 2026-09-11 | Fullstack AI Quality Engineer – Applied & Agentic AI Systems | Roche | [apply ↗](https://www.adzuna.in/details/5879947583?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879947583?utm_medium=api&` |
+| — | 2026-09-11 | Associate Software Engineer | Sandisk | [apply ↗](https://www.adzuna.in/details/5880113731?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5880113731?utm_medium=api&` |
 | — | 2026-09-10 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5877848852?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877848852?utm_medium=api&` |
 | — | 2026-09-10 | Software Development Engineer in Test - I | Clevanoo LLC | [apply ↗](https://www.adzuna.in/details/5877848780?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877848780?utm_medium=api&` |
 | — | 2026-09-10 | FullStack Engineer | Nihilent | [apply ↗](https://www.adzuna.in/details/5877845370?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877845370?utm_medium=api&` |
