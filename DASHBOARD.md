@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-11 12:49 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-11 19:09 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1041)
+## 🎯 To apply (1047)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -16,6 +16,12 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-11 | Freelance Full Stack Software Engineer / Healthcare | IndiTech Consulting | [apply ↗](https://www.adzuna.in/land/ad/5879669531?se=4qW6PN-t8RGapZ8Ycb2ZXg&utm_medium=api&utm_source=616fbe19&v=0EAC84C7A274718C3FD3884E3A360BDBD67D9A19) | `python track.py applied 5879669531?se=4qW6PN-t8RGa` |
 | — | 2026-09-11 | Full Stack Engineer | Joveo | [apply ↗](https://www.adzuna.in/land/ad/5879665624?se=4qW6PN-t8RGapZ8Ycb2ZXg&utm_medium=api&utm_source=616fbe19&v=5163AEE5EDBE2164F427CF85C022314D3C10FE6E) | `python track.py applied 5879665624?se=4qW6PN-t8RGa` |
 | — | 2026-09-11 | Software Engineer I | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I_R-290204) | `python track.py applied Software-Engineer-I_R-2902` |
+| — | 2026-09-11 | Software Engineer (I) - Edge | NCR Voyix | [apply ↗](https://www.adzuna.in/details/5879998053?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879998053?utm_medium=api&` |
+| — | 2026-09-11 | Software Engineer (Java with Snowflake) | The Depository Trust & Clearing Corporation  | [apply ↗](https://www.adzuna.in/details/5879998006?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879998006?utm_medium=api&` |
+| — | 2026-09-11 | .NET Backend Engineer | Ascendion | [apply ↗](https://www.adzuna.in/details/5879997970?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879997970?utm_medium=api&` |
+| — | 2026-09-11 | Product Software Engineer (C# /.Net Core / Angular / CSS / SQL) | Wolters Kluwer | [apply ↗](https://www.adzuna.in/details/5879948112?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879948112?utm_medium=api&` |
+| — | 2026-09-11 | Software Engineer I | American Express | [apply ↗](https://www.adzuna.in/details/5879948058?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879948058?utm_medium=api&` |
+| — | 2026-09-11 | Fullstack AI Quality Engineer – Applied & Agentic AI Systems | Roche | [apply ↗](https://www.adzuna.in/details/5879947583?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879947583?utm_medium=api&` |
 | — | 2026-09-10 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5877848852?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877848852?utm_medium=api&` |
 | — | 2026-09-10 | Software Development Engineer in Test - I | Clevanoo LLC | [apply ↗](https://www.adzuna.in/details/5877848780?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877848780?utm_medium=api&` |
 | — | 2026-09-10 | FullStack Engineer | Nihilent | [apply ↗](https://www.adzuna.in/details/5877845370?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5877845370?utm_medium=api&` |
