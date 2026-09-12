@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-12 15:32 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-12 18:23 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1057)
+## 🎯 To apply (1061)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -19,6 +19,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-12 | Back-End Software Engineer - Core Java | Light & Wonder | [apply ↗](https://www.adzuna.in/details/5880854535?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5880854535?utm_medium=api&` |
 | — | 2026-09-12 | System Software Engineer | HeadSpin | [apply ↗](https://www.adzuna.in/land/ad/5880952515?se=iCfZFb-u8RGtce7t1ObUOQ&utm_medium=api&utm_source=616fbe19&v=50778B4BC09591E3CDB7471E8CD7BE7EB845F6B7) | `python track.py applied 5880952515?se=iCfZFb-u8RGt` |
 | — | 2026-09-12 | Software Engineer (Linux Application) | GRIDSHIELD TECHNOLOGY PVT LTD | [apply ↗](https://www.adzuna.in/land/ad/5880949888?se=iCfZFb-u8RGtce7t1ObUOQ&utm_medium=api&utm_source=616fbe19&v=ECE50B2BDFA2DF41D4459B0F745D66954266269E) | `python track.py applied 5880949888?se=iCfZFb-u8RGt` |
+| — | 2026-09-12 | Associate Software Engineer | Gartner | [apply ↗](https://www.adzuna.in/details/5881206875?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5881206875?utm_medium=api&` |
+| — | 2026-09-12 | Full Stack Engineer | FNZ | [apply ↗](https://www.adzuna.in/details/5881163256?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5881163256?utm_medium=api&` |
+| — | 2026-09-12 | Software Engineer | Finastra Technology | [apply ↗](https://www.adzuna.in/details/5881163017?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5881163017?utm_medium=api&` |
+| — | 2026-09-12 | Full Stack Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5881162561?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5881162561?utm_medium=api&` |
 | — | 2026-09-11 | React full stack Developer | ascendion | [apply ↗](https://www.adzuna.in/details/5879148819?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879148819?utm_medium=api&` |
 | — | 2026-09-11 | Software Engineer | Progressive Infotech | [apply ↗](https://www.adzuna.in/details/5879143591?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879143591?utm_medium=api&` |
 | — | 2026-09-11 | Application Engineer | SKF | [apply ↗](https://www.adzuna.in/details/5879141688?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5879141688?utm_medium=api&` |
