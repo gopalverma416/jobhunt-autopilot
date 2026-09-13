@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-12 22:17 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-13 04:48 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1061)
+## 🎯 To apply (1063)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-13 | .NET Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5882108565?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5882108565?utm_medium=api&` |
+| — | 2026-09-13 | Specialist Software Engineering, Full-Stack | MSD | [apply ↗](https://www.adzuna.in/land/ad/5881877325?se=tBN_US6v8RG-FLx_YfIXKQ&utm_medium=api&utm_source=616fbe19&v=20824832044E746505BB2454F0C4D25860F56651) | `python track.py applied 5881877325?se=tBN_US6v8RG-` |
 | — | 2026-09-12 | System Software Engineer | HeadSpin | [apply ↗](https://www.adzuna.in/land/ad/5880952515?se=VOCx6KKu8RG_09a_7HISAQ&utm_medium=api&utm_source=616fbe19&v=50778B4BC09591E3CDB7471E8CD7BE7EB845F6B7) | `python track.py applied 5880952515?se=VOCx6KKu8RG_` |
 | — | 2026-09-12 | Software Engineer (Linux Application) | GRIDSHIELD TECHNOLOGY PVT LTD | [apply ↗](https://www.adzuna.in/land/ad/5880949888?se=VOCx6KKu8RG_09a_7HISAQ&utm_medium=api&utm_source=616fbe19&v=ECE50B2BDFA2DF41D4459B0F745D66954266269E) | `python track.py applied 5880949888?se=VOCx6KKu8RG_` |
 | — | 2026-09-12 | Data Engineer I, Data Engineer RBS | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5880903317?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5880903317?utm_medium=api&` |
