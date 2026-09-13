@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-13 13:18 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-13 18:47 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1071)
+## 🎯 To apply (1078)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -20,6 +20,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-13 | Associate Software Engineer 1 | PowerSchool | [apply ↗](https://www.adzuna.in/details/5882499654?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5882499654?utm_medium=api&` |
 | — | 2026-09-13 | Software Engineer â Product, Automation & AI | AvancerPI | [apply ↗](https://www.adzuna.in/details/5882489516?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5882489516?utm_medium=api&` |
 | — | 2026-09-13 | Software Engineer | GE Vernova | [apply ↗](https://www.adzuna.in/details/5882275136?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5882275136?utm_medium=api&` |
+| — | 2026-09-13 | Software Engineer (Test) | GE HealthCare | [apply ↗](https://www.adzuna.in/details/5882782373?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5882782373?utm_medium=api&` |
+| — | 2026-09-13 | Software Engineer | Jobgether | [apply ↗](https://www.adzuna.in/details/5882782123?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5882782123?utm_medium=api&` |
+| — | 2026-09-13 | Software Engineer- IAM Developer | CGI | [apply ↗](https://www.adzuna.in/details/5882781011?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5882781011?utm_medium=api&` |
+| — | 2026-09-13 | Associate Software Engineer - AI | Alegeus | [apply ↗](https://www.adzuna.in/details/5882780862?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5882780862?utm_medium=api&` |
+| — | 2026-09-13 | Advanced Software Engineer - Autosare, BSW, CAN and Diagnostics | Aptiv | [apply ↗](https://www.adzuna.in/details/5882779913?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5882779913?utm_medium=api&` |
+| — | 2026-09-13 | Software Engineer - Full stack | Maersk | [apply ↗](https://www.adzuna.in/details/5882779122?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5882779122?utm_medium=api&` |
+| — | 2026-09-13 | Software Engineer | Mirantis | [apply ↗](https://remoteOK.com/remote-jobs/remote-software-engineer-mirantis-1137387) | `python track.py applied remote-software-engineer-m` |
 | — | 2026-09-12 | System Software Engineer | HeadSpin | [apply ↗](https://www.adzuna.in/land/ad/5880952515?se=VOCx6KKu8RG_09a_7HISAQ&utm_medium=api&utm_source=616fbe19&v=50778B4BC09591E3CDB7471E8CD7BE7EB845F6B7) | `python track.py applied 5880952515?se=VOCx6KKu8RG_` |
 | — | 2026-09-12 | Software Engineer (Linux Application) | GRIDSHIELD TECHNOLOGY PVT LTD | [apply ↗](https://www.adzuna.in/land/ad/5880949888?se=VOCx6KKu8RG_09a_7HISAQ&utm_medium=api&utm_source=616fbe19&v=ECE50B2BDFA2DF41D4459B0F745D66954266269E) | `python track.py applied 5880949888?se=VOCx6KKu8RG_` |
 | — | 2026-09-12 | Data Engineer I, Data Engineer RBS | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5880903317?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5880903317?utm_medium=api&` |
