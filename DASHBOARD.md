@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-14 04:57 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-14 15:01 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1078)
+## 🎯 To apply (1083)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-14 | Software Development Engineer, Payments Acceptance and Experience | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5883495481?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5883495481?utm_medium=api&` |
+| — | 2026-09-14 | WoW - Software Engineer - GCP Apigee, AVP | NatWest Group | [apply ↗](https://www.adzuna.in/details/5883489708?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5883489708?utm_medium=api&` |
+| — | 2026-09-14 | Software Development Engineer in Test (SDET) | onsemi | [apply ↗](https://www.adzuna.in/details/5883282485?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5883282485?utm_medium=api&` |
+| — | 2026-09-14 | Fullstack engineers  AI experience | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5883282446?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5883282446?utm_medium=api&` |
+| — | 2026-09-14 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556991791) | `python track.py applied 1970393556991791` |
 | — | 2026-09-13 | .NET Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5882108565?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5882108565?utm_medium=api&` |
 | — | 2026-09-13 | Specialist Software Engineering, Full-Stack | MSD | [apply ↗](https://www.adzuna.in/land/ad/5881877325?se=tBN_US6v8RG-FLx_YfIXKQ&utm_medium=api&utm_source=616fbe19&v=20824832044E746505BB2454F0C4D25860F56651) | `python track.py applied 5881877325?se=tBN_US6v8RG-` |
 | — | 2026-09-13 | Software Engineer – Ruby (Remote) | Quik Hire Staffing | [apply ↗](https://www.adzuna.in/land/ad/5882598256?se=Coy1m3Wv8RGw3foOHxJxCQ&utm_medium=api&utm_source=616fbe19&v=9F48E6EAACA3ADFEAE93A9ADE5D856E9B96BA85F) | `python track.py applied 5882598256?se=Coy1m3Wv8RGw` |
