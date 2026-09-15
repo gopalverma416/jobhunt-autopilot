@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-15 13:33 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-15 19:42 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1090)
+## 🎯 To apply (1098)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,14 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-15 | Software Engineer IRC303005 | GlobalLogic | [apply ↗](https://www.adzuna.in/details/5884512238?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884512238?utm_medium=api&` |
 | — | 2026-09-15 | Full stack software and AI Agent developer | OnePoint | [apply ↗](https://www.adzuna.in/details/5884507159?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884507159?utm_medium=api&` |
 | — | 2026-09-15 | Software Dev Engineer I, L4 FTC, IESP Merchant Tech | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10531567/software-dev-engineer-i-l4-ftc-iesp-merchant-tech) | `python track.py applied software-dev-engineer-i-l4` |
+| — | 2026-09-15 | Software Engineer - Resilience | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5884999429?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884999429?utm_medium=api&` |
+| — | 2026-09-15 | Embedded Software Engineer | Weekday AI | [apply ↗](https://www.adzuna.in/details/5884960167?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884960167?utm_medium=api&` |
+| — | 2026-09-15 | Associate Software Engineer | Park Place Technologies | [apply ↗](https://www.adzuna.in/details/5884952791?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884952791?utm_medium=api&` |
+| — | 2026-09-15 | Packaged/SaaS Application Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5884876060?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884876060?utm_medium=api&` |
+| — | 2026-09-15 | Software Engineer | Microsoft | [apply ↗](https://www.adzuna.in/details/5884854389?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884854389?utm_medium=api&` |
+| — | 2026-09-15 | Software Engineer, AVP | Natwest Group | [apply ↗](https://www.adzuna.in/details/5884846041?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884846041?utm_medium=api&` |
+| — | 2026-09-15 | Software Engineer, Full stack | Natwest Group | [apply ↗](https://www.adzuna.in/details/5884843171?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884843171?utm_medium=api&` |
+| — | 2026-09-15 | Software Engineer | Playpower Labs | [apply ↗](https://www.adzuna.in/details/5884841680?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884841680?utm_medium=api&` |
 | — | 2026-09-14 | Software Development Engineer, Payments Acceptance and Experience | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5883495481?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5883495481?utm_medium=api&` |
 | — | 2026-09-14 | WoW - Software Engineer - GCP Apigee, AVP | NatWest Group | [apply ↗](https://www.adzuna.in/details/5883489708?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5883489708?utm_medium=api&` |
 | — | 2026-09-14 | Software Development Engineer in Test (SDET) | onsemi | [apply ↗](https://www.adzuna.in/details/5883282485?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5883282485?utm_medium=api&` |
