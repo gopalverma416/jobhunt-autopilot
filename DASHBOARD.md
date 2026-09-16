@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-15 22:54 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-16 04:49 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1099)
+## 🎯 To apply (1104)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-16 | Compliance Engineering Software Engineer Associate Bengaluru | Goldman Sachs | [apply ↗](https://www.adzuna.in/details/5885446713?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5885446713?utm_medium=api&` |
+| — | 2026-09-16 | Software Engineer Site Reliability Engineering | CareerNet Technologies Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5885446757?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5885446757?utm_medium=api&` |
+| — | 2026-09-16 | Specialist Software Engineer Python Data Engineering | Charles Schwab | [apply ↗](https://www.adzuna.in/details/5885446736?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5885446736?utm_medium=api&` |
+| — | 2026-09-16 | Software Development Engineer, AFT External Fulfillment | Amazon | [apply ↗](https://www.adzuna.in/details/5885391142?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5885391142?utm_medium=api&` |
+| — | 2026-09-16 | Software Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5885391022?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5885391022?utm_medium=api&` |
 | — | 2026-09-15 | Software Development Engineer, RBS Tech | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5884525531?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884525531?utm_medium=api&` |
 | — | 2026-09-15 | Software Development Engineer in Test | Brivo | [apply ↗](https://www.adzuna.in/details/5884512329?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884512329?utm_medium=api&` |
 | — | 2026-09-15 | Software Engineer IRC303005 | GlobalLogic | [apply ↗](https://www.adzuna.in/details/5884512238?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5884512238?utm_medium=api&` |

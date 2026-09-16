@@ -1044,6 +1044,10 @@
 "first": "2026-09-08T12:52:26+00:00",
 "sig": "bosch|sap btp full stack developer"
 },
+"https://jobs.smartrecruiters.com/BoschGroup/744000149769988": {
+"first": "2026-09-16T04:49:24+00:00",
+"sig": "bosch|full stack software developer with ai expertise"
+},
 "https://jobs.smartrecruiters.com/ServiceNow/744000144386100": {
 "first": "2026-08-19T20:45:35+00:00",
 "sig": "servicenow|software engineer"
@@ -7764,6 +7768,26 @@
 "first": "2026-09-15T22:54:05+00:00",
 "sig": "happiest resume|full stack software developer"
 },
+"https://www.adzuna.in/details/5885391022?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-16T04:49:24+00:00",
+"sig": "sourcingxpress|software engineer"
+},
+"https://www.adzuna.in/details/5885391142?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-16T04:49:24+00:00",
+"sig": "amazon|software development engineer aft external fulfillment"
+},
+"https://www.adzuna.in/details/5885446713?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-16T04:49:24+00:00",
+"sig": "goldman sachs|compliance engineering software engineer associate bengaluru"
+},
+"https://www.adzuna.in/details/5885446736?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-16T04:49:24+00:00",
+"sig": "charles schwab|specialist software engineer python data engineering"
+},
+"https://www.adzuna.in/details/5885446757?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-16T04:49:24+00:00",
+"sig": "careernet technologies pvt ltd|software engineer site reliability engineering"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -8492,6 +8516,10 @@
 "first": "2026-09-15T19:42:21+00:00",
 "sig": "amazon|software development engineer sidewalk cloud"
 },
+"https://www.amazon.jobs/en/jobs/10544124/software-engineer-selection-monitoring": {
+"first": "2026-09-16T04:49:24+00:00",
+"sig": "amazon|software engineer selection monitoring"
+},
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
 "sig": "axonius|backend engineer s o paulo"
@@ -8838,6 +8866,7 @@
 "amazon|software development engineer your orders federation platform": "2026-07-12T06:29:34+00:00",
 "amazon|software devlopment engineer i amazon rewards": "2026-09-02T12:46:30+00:00",
 "amazon|software engineer cross border science and analytics": "2026-09-02T12:46:30+00:00",
+"amazon|software engineer selection monitoring": "2026-09-16T04:49:24+00:00",
 "amazon|software engineer selection monitoring selection monitoring": "2026-08-17T16:45:36+00:00",
 "amazon|system development engineer i fba": "2026-08-10T05:44:11+00:00",
 "amdocs|software engineer": "2026-07-31T03:49:55+00:00",
@@ -8940,6 +8969,7 @@
 "bosch|full stack angular c": "2026-07-12T12:26:42+00:00",
 "bosch|full stack developer": "2026-07-26T21:11:39+00:00",
 "bosch|full stack developer for web applications": "2026-07-22T14:22:20+00:00",
+"bosch|full stack software developer with ai expertise": "2026-09-16T04:49:24+00:00",
 "bosch|java full stack developer": "2026-08-21T08:58:17+00:00",
 "bosch|java full stack developer with devops experience": "2026-09-01T13:29:57+00:00",
 "bosch|mes application engineer": "2026-08-24T09:04:50+00:00",
@@ -8957,6 +8987,7 @@
 "candescent|software engineer": "2026-09-14T20:19:13+00:00",
 "cannondesign|jr software engineer": "2026-07-24T03:44:14+00:00",
 "capgemini|software engineer": "2026-07-18T13:49:28+00:00",
+"careernet technologies pvt ltd|software engineer site reliability engineering": "2026-09-16T04:49:24+00:00",
 "cargill|software engineer": "2026-07-26T06:48:58+00:00",
 "cargill|software engineer ag trade": "2026-07-27T07:51:31+00:00",
 "cargill|software engineer food": "2026-07-19T06:43:12+00:00",
@@ -8985,6 +9016,7 @@
 "cgi|software engineer python developer": "2026-08-05T10:46:36+00:00",
 "cglia solutions llp|software engineer": "2026-07-29T10:48:49+00:00",
 "charles schwab india|software developer java": "2026-08-21T13:10:30+00:00",
+"charles schwab|specialist software engineer python data engineering": "2026-09-16T04:49:24+00:00",
 "check point software technologies|customer focused software engineer": "2026-07-31T14:35:08+00:00",
 "check point software technologies|full stack developer": "2026-08-13T21:03:33+00:00",
 "check point software technologies|full stack engineer": "2026-08-13T09:33:23+00:00",
@@ -9174,6 +9206,7 @@
 "glean|software engineer evals": "2026-07-12T12:26:43+00:00",
 "glean|software engineer machine learning": "2026-07-12T12:26:43+00:00",
 "globallogic|software engineer": "2026-09-15T13:33:44+00:00",
+"goldman sachs|compliance engineering software engineer associate bengaluru": "2026-09-16T04:49:24+00:00",
 "google|embedded software engineer kernel drivers and systems engineering": "2026-07-12T06:29:34+00:00",
 "google|software engineer cloud": "2026-07-30T17:48:44+00:00",
 "google|software engineer engprod google one and google photos": "2026-07-12T06:29:34+00:00",
