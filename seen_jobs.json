@@ -252,6 +252,10 @@
 "first": "2026-09-09T19:16:50+00:00",
 "sig": "cloudflare|systems engineer network protocols distributed systems"
 },
+"https://boards.greenhouse.io/cloudflare/jobs/8188899?gh_jid=8188899": {
+"first": "2026-09-17T13:27:40+00:00",
+"sig": "cloudflare|software engineer cdn configuration group"
+},
 "https://boards.greenhouse.io/cloudflare/jobs/8195746?gh_jid=8195746": {
 "first": "2026-09-11T19:09:44+00:00",
 "sig": "cloudflare|software engineer egress go rust"
@@ -259,6 +263,10 @@
 "https://boards.greenhouse.io/cloudflare/jobs/8203784?gh_jid=8203784": {
 "first": "2026-09-16T19:33:59+00:00",
 "sig": "cloudflare|systems engineer"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/8207509?gh_jid=8207509": {
+"first": "2026-09-17T13:27:40+00:00",
+"sig": "cloudflare|systems engineer email service"
 },
 "https://careers-americas.icims.com/jobs/25301/software-engineer/job": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -303,6 +311,10 @@
 "https://careers-apac-atlassian.icims.com/jobs/27156/software-engineer/job": {
 "first": "2026-09-09T12:58:15+00:00",
 "sig": "atlassian|software engineer"
+},
+"https://careers-apac-atlassian.icims.com/jobs/27266/software-engineer%2c-search-platform/job": {
+"first": "2026-09-17T13:27:40+00:00",
+"sig": "atlassian|software engineer search platform"
 },
 "https://careers.airbnb.com/positions/7744247?gh_jid=7744247": {
 "first": "2026-07-14T13:22:21+00:00",
@@ -1111,6 +1123,10 @@
 "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---_R-287018": {
 "first": "2026-08-10T13:43:55+00:00",
 "sig": "mastercard|software engineer"
+},
+"https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288000": {
+"first": "2026-09-17T13:27:40+00:00",
+"sig": "mastercard|software engineer i"
 },
 "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I_R-282195": {
 "first": "2026-07-17T21:08:13+00:00",
@@ -7876,6 +7892,30 @@
 "first": "2026-09-17T04:53:20+00:00",
 "sig": "sourcingxpress|software engineer"
 },
+"https://www.adzuna.in/details/5887520645?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-17T13:27:40+00:00",
+"sig": "cgi|software engineer data engineer"
+},
+"https://www.adzuna.in/details/5887521020?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-17T13:27:40+00:00",
+"sig": "paypal|software engineer"
+},
+"https://www.adzuna.in/details/5887521064?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-17T13:27:40+00:00",
+"sig": "youtrip|software engineer mobile app development"
+},
+"https://www.adzuna.in/details/5887521122?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-17T13:27:40+00:00",
+"sig": "siemens eda|software engineer c ds algo"
+},
+"https://www.adzuna.in/details/5887546648?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-17T13:27:40+00:00",
+"sig": "adci - karnataka|software development engineer amazon"
+},
+"https://www.adzuna.in/details/5887628221?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-17T13:27:40+00:00",
+"sig": "euronet worldwide, inc.|software engineer java development"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -8163,6 +8203,10 @@
 "https://www.adzuna.in/land/ad/5882598256?se=Coy1m3Wv8RGw3foOHxJxCQ&utm_medium=api&utm_source=616fbe19&v=9F48E6EAACA3ADFEAE93A9ADE5D856E9B96BA85F": {
 "first": "2026-09-13T13:18:35+00:00",
 "sig": "quik hire staffing|software engineer ruby remote"
+},
+"https://www.adzuna.in/land/ad/5887707014?se=Nrhtipuy8RGVRMlcV8PrhA&utm_medium=api&utm_source=616fbe19&v=A88310F77467265ADC27A18FF3D3718A7EF4EC9E": {
+"first": "2026-09-17T13:27:39+00:00",
+"sig": "ebay|opensearch backend engineer"
 },
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -8608,6 +8652,14 @@
 "first": "2026-09-16T04:49:24+00:00",
 "sig": "amazon|software engineer selection monitoring"
 },
+"https://www.amazon.jobs/en/jobs/10551515/software-dev-engineer-i-ftc": {
+"first": "2026-09-17T13:27:40+00:00",
+"sig": "amazon|software dev engineer i ftc"
+},
+"https://www.amazon.jobs/en/jobs/10551624/software-development-engineer-rembrandt": {
+"first": "2026-09-17T13:27:40+00:00",
+"sig": "amazon|software development engineer rembrandt"
+},
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
 "sig": "axonius|backend engineer s o paulo"
@@ -8794,6 +8846,7 @@
 "adci - karnataka|software development engineer": "2026-07-19T10:01:52+00:00",
 "adci - karnataka|software development engineer ads campaign management": "2026-08-05T10:46:36+00:00",
 "adci - karnataka|software development engineer aft external fulfillment": "2026-08-21T13:10:30+00:00",
+"adci - karnataka|software development engineer amazon": "2026-09-17T13:27:40+00:00",
 "adci - karnataka|software development engineer amazon device observability troubleshooting team": "2026-07-25T14:02:10+00:00",
 "adci - karnataka|software development engineer amazon fulfilment tech": "2026-08-13T13:47:39+00:00",
 "adci - karnataka|software development engineer amazon lending": "2026-08-05T10:46:36+00:00",
@@ -8946,6 +8999,7 @@
 "amazon|software development engineer pxt case management system": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer rbs": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer rbs tech": "2026-07-23T14:32:21+00:00",
+"amazon|software development engineer rembrandt": "2026-09-17T13:27:40+00:00",
 "amazon|software development engineer shiptech": "2026-08-17T16:45:36+00:00",
 "amazon|software development engineer sidewalk cloud": "2026-09-15T19:42:21+00:00",
 "amazon|software development engineer tax engine services": "2026-07-16T17:40:23+00:00",
@@ -9020,6 +9074,7 @@
 "atlassian|principle software engineer search and data": "2026-07-12T06:29:34+00:00",
 "atlassian|software engineer": "2026-07-12T06:29:34+00:00",
 "atlassian|software engineer dev infra": "2026-09-02T12:46:30+00:00",
+"atlassian|software engineer search platform": "2026-09-17T13:27:40+00:00",
 "atlas|software engineer": "2026-09-08T22:40:45+00:00",
 "aurumdata solutions india private limited|developer dynamics application engineer support": "2026-07-27T04:02:20+00:00",
 "automate accounts|software developer": "2026-08-18T13:07:34+00:00",
@@ -9099,6 +9154,7 @@
 "cgi|software engineer": "2026-07-17T10:12:05+00:00",
 "cgi|software engineer automationtester": "2026-08-29T19:24:48+00:00",
 "cgi|software engineer aws cloud engineer": "2026-08-18T16:48:26+00:00",
+"cgi|software engineer data engineer": "2026-09-17T13:27:40+00:00",
 "cgi|software engineer hyperiondeveloper": "2026-08-15T01:49:43+00:00",
 "cgi|software engineer iam developer": "2026-09-13T18:47:22+00:00",
 "cgi|software engineer python ai": "2026-08-05T03:32:47+00:00",
@@ -9148,6 +9204,7 @@
 "cloudflare|distributed systems engineer data platform logs and audit logs": "2026-07-14T13:22:21+00:00",
 "cloudflare|full stack engineer internal audit": "2026-07-14T13:22:21+00:00",
 "cloudflare|software engineer": "2026-08-14T09:20:49+00:00",
+"cloudflare|software engineer cdn configuration group": "2026-09-17T13:27:40+00:00",
 "cloudflare|software engineer cloudflare network interconnect": "2026-07-29T21:12:49+00:00",
 "cloudflare|software engineer egress go rust": "2026-09-11T19:09:44+00:00",
 "cloudflare|software engineer enterprise integrations": "2026-08-25T16:55:36+00:00",
@@ -9162,6 +9219,7 @@
 "cloudflare|software engineer security rules": "2026-09-03T12:49:41+00:00",
 "cloudflare|systems engineer": "2026-07-30T14:32:04+00:00",
 "cloudflare|systems engineer database platform": "2026-09-05T04:29:23+00:00",
+"cloudflare|systems engineer email service": "2026-09-17T13:27:40+00:00",
 "cloudflare|systems engineer global resource management data residency": "2026-07-25T21:08:54+00:00",
 "cloudflare|systems engineer growth engineering": "2026-09-03T22:35:01+00:00",
 "cloudflare|systems engineer maps": "2026-07-14T13:22:21+00:00",
@@ -9219,6 +9277,7 @@
 "ebay|mts machine learning engineer": "2026-08-27T22:16:06+00:00",
 "ebay|mts mobile security engineer": "2026-08-10T13:43:55+00:00",
 "ebay|mts software engineer fe": "2026-08-26T23:33:03+00:00",
+"ebay|opensearch backend engineer": "2026-09-17T13:27:39+00:00",
 "ecolab|software engineer ui path developer": "2026-09-07T14:15:28+00:00",
 "egnyte|software development engineer in test": "2026-08-13T13:47:39+00:00",
 "eka software solutions|agentic software engineer": "2026-08-13T02:47:36+00:00",
@@ -9249,6 +9308,7 @@
 "eurofins gsc it dc|software engineer": "2026-07-21T03:45:19+00:00",
 "eurofins gsc it dc|software engineer net core full stack along with angular": "2026-07-30T03:28:38+00:00",
 "eurofins gsc it dc|software engineer soa backend": "2026-08-22T04:49:05+00:00",
+"euronet worldwide, inc.|software engineer java development": "2026-09-17T13:27:40+00:00",
 "evnek technologies pvt ltd|generative ai engineer fullstack": "2026-08-26T16:59:02+00:00",
 "evnek technologies pvt ltd|software engineer ai platform backend": "2026-08-03T18:05:11+00:00",
 "evnek|software engineer ai platform backend": "2026-08-03T18:05:11+00:00",
@@ -9593,6 +9653,7 @@
 "path solutions|software engineer java": "2026-08-25T04:53:39+00:00",
 "pavago|full stack engineer": "2026-08-13T21:03:33+00:00",
 "paychex|database engineer i": "2026-07-19T06:43:12+00:00",
+"paypal|software engineer": "2026-09-17T13:27:40+00:00",
 "payu|software engineer java": "2026-07-23T03:44:41+00:00",
 "pd consulting|full stack app developer part time equity only": "2026-08-09T02:29:00+00:00",
 "pegasystems|software engineer platform engineering": "2026-07-29T06:45:13+00:00",
@@ -9736,6 +9797,7 @@
 "showtime consulting|databricks application engineer": "2026-08-05T17:53:37+00:00",
 "showtime consulting|software developer golang aws": "2026-08-12T17:12:16+00:00",
 "siemens eda|r d software engineer c": "2026-08-26T13:16:14+00:00",
+"siemens eda|software engineer c ds algo": "2026-09-17T13:27:40+00:00",
 "silicon laboratories|associate engineer sw design": "2026-07-28T17:45:36+00:00",
 "simcorp|jul principal software engineer": "2026-08-23T16:43:16+00:00",
 "simplicity first|software engineer net": "2026-09-09T04:42:33+00:00",
@@ -9988,6 +10050,7 @@
 "yokogawa|dcs software engineer": "2026-09-08T19:25:42+00:00",
 "yotta infrastructure|full stack engineer": "2026-09-05T04:29:23+00:00",
 "youtrip|frontend software engineer web": "2026-07-21T17:45:43+00:00",
+"youtrip|software engineer mobile app development": "2026-09-17T13:27:40+00:00",
 "zapier|software engineer release engineering": "2026-07-14T14:05:09+00:00",
 "zebra technologies|application engineer": "2026-08-08T13:12:29+00:00",
 "zebra technologies|software engineer i": "2026-08-23T08:48:26+00:00",

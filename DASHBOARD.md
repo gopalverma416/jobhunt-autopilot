@@ -1,16 +1,26 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-17 04:53 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-17 13:27 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1111)
+## 🎯 To apply (1121)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-09-17 | Software Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5886946928?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5886946928?utm_medium=api&` |
+| — | 2026-09-17 | Opensearch Backend Engineer | eBay | [apply ↗](https://www.adzuna.in/land/ad/5887707014?se=Nrhtipuy8RGVRMlcV8PrhA&utm_medium=api&utm_source=616fbe19&v=A88310F77467265ADC27A18FF3D3718A7EF4EC9E) | `python track.py applied 5887707014?se=Nrhtipuy8RGV` |
+| — | 2026-09-17 | Software Development Engineer, Amazon | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5887546648?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5887546648?utm_medium=api&` |
+| — | 2026-09-17 | Software Engineer (C++/DS/Algo) | Siemens EDA  | [apply ↗](https://www.adzuna.in/details/5887521122?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5887521122?utm_medium=api&` |
+| — | 2026-09-17 | Software Engineer - Mobile App Development | YouTrip | [apply ↗](https://www.adzuna.in/details/5887521064?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5887521064?utm_medium=api&` |
+| — | 2026-09-17 | Software Engineer - Data Engineer | CGI | [apply ↗](https://www.adzuna.in/details/5887520645?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5887520645?utm_medium=api&` |
+| — | 2026-09-17 | Software Dev Engineer I FTC | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10551515/software-dev-engineer-i-ftc) | `python track.py applied software-dev-engineer-i-ft` |
+| — | 2026-09-17 | Software Engineer, Search Platform | Atlassian | [apply ↗](https://careers-apac-atlassian.icims.com/jobs/27266/software-engineer%2c-search-platform/job) | `python track.py applied job` |
+| — | 2026-09-17 | Software Engineer, CDN Configuration Group | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8188899?gh_jid=8188899) | `python track.py applied 8188899?gh_jid=8188899` |
+| — | 2026-09-17 | Systems Engineer, Email Service | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8207509?gh_jid=8207509) | `python track.py applied 8207509?gh_jid=8207509` |
+| — | 2026-09-17 | Software Engineer I | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288000) | `python track.py applied Software-Engineer-II_R-288` |
 | — | 2026-09-16 | Compliance Engineering Software Engineer Associate Bengaluru | Goldman Sachs | [apply ↗](https://www.adzuna.in/details/5885446713?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5885446713?utm_medium=api&` |
 | — | 2026-09-16 | Software Engineer Site Reliability Engineering | CareerNet Technologies Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5885446757?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5885446757?utm_medium=api&` |
 | — | 2026-09-16 | Specialist Software Engineer Python Data Engineering | Charles Schwab | [apply ↗](https://www.adzuna.in/details/5885446736?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5885446736?utm_medium=api&` |
