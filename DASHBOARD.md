@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-16 22:56 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-17 04:53 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1110)
+## 🎯 To apply (1111)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-17 | Software Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5886946928?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5886946928?utm_medium=api&` |
 | — | 2026-09-16 | Compliance Engineering Software Engineer Associate Bengaluru | Goldman Sachs | [apply ↗](https://www.adzuna.in/details/5885446713?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5885446713?utm_medium=api&` |
 | — | 2026-09-16 | Software Engineer Site Reliability Engineering | CareerNet Technologies Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5885446757?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5885446757?utm_medium=api&` |
 | — | 2026-09-16 | Specialist Software Engineer Python Data Engineering | Charles Schwab | [apply ↗](https://www.adzuna.in/details/5885446736?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5885446736?utm_medium=api&` |
