@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-18 12:58 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-18 19:02 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1139)
+## 🎯 To apply (1148)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -21,6 +21,15 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-18 | Software Engineer | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8212060?gh_jid=8212060) | `python track.py applied 8212060?gh_jid=8212060` |
 | — | 2026-09-18 | Systems Engineer, MCP Portals | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8207326?gh_jid=8207326) | `python track.py applied 8207326?gh_jid=8207326` |
 | — | 2026-09-18 | Software Engineer | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000150324259) | `python track.py applied 744000150324259` |
+| — | 2026-09-18 | Full Stack- Backend Engineer | Cyberidentitysolutions | [apply ↗](https://www.adzuna.in/details/5889699572?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5889699572?utm_medium=api&` |
+| — | 2026-09-18 | Custom Software Engineer - Azure Devops | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5889699128?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5889699128?utm_medium=api&` |
+| — | 2026-09-18 | Custom Software Engineer - Spring Boot | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5889699084?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5889699084?utm_medium=api&` |
+| — | 2026-09-18 | Software Engineer in Test - 1 | CoinSwitch | [apply ↗](https://www.adzuna.in/land/ad/5889679436?se=bNFBaZOz8RGk6dCvHcHp9g&utm_medium=api&utm_source=616fbe19&v=2AA078AC6BAA7D9F4362FD9B031932C6038E0A9C) | `python track.py applied 5889679436?se=bNFBaZOz8RGk` |
+| — | 2026-09-18 | Application Software Engineer 1 | Oracle | [apply ↗](https://www.adzuna.in/details/5889637039?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5889637039?utm_medium=api&` |
+| — | 2026-09-18 | Full Stack Engineer – AEM | Jobgether | [apply ↗](https://www.adzuna.in/details/5889598524?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5889598524?utm_medium=api&` |
+| — | 2026-09-18 | Founding Engineer: Fullstack - React Native  any backend (India) | Landeed | [apply ↗](https://www.adzuna.in/details/5889597084?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5889597084?utm_medium=api&` |
+| — | 2026-09-18 | SDE-1, Expansions Tech and Product | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10553343/sde-1-expansions-tech-and-product) | `python track.py applied sde-1-expansions-tech-and-` |
+| — | 2026-09-18 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556988740) | `python track.py applied 1970393556988740` |
 | — | 2026-09-17 | Software Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5886946928?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5886946928?utm_medium=api&` |
 | — | 2026-09-17 | Opensearch Backend Engineer | eBay | [apply ↗](https://www.adzuna.in/land/ad/5887707014?se=Nrhtipuy8RGVRMlcV8PrhA&utm_medium=api&utm_source=616fbe19&v=A88310F77467265ADC27A18FF3D3718A7EF4EC9E) | `python track.py applied 5887707014?se=Nrhtipuy8RGV` |
 | — | 2026-09-17 | Software Development Engineer, Amazon | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5887546648?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5887546648?utm_medium=api&` |
