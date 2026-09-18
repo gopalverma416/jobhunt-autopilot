@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-18 19:02 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-18 22:34 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1148)
+## 🎯 To apply (1149)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -30,6 +30,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-18 | Founding Engineer: Fullstack - React Native  any backend (India) | Landeed | [apply ↗](https://www.adzuna.in/details/5889597084?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5889597084?utm_medium=api&` |
 | — | 2026-09-18 | SDE-1, Expansions Tech and Product | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10553343/sde-1-expansions-tech-and-product) | `python track.py applied sde-1-expansions-tech-and-` |
 | — | 2026-09-18 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393556988740) | `python track.py applied 1970393556988740` |
+| — | 2026-09-18 | Software Engineer in Test - 1 | CoinSwitch | [apply ↗](https://www.adzuna.in/land/ad/5889679436?se=fIYuHLGz8RGSI57gYuD12g&utm_medium=api&utm_source=616fbe19&v=2AA078AC6BAA7D9F4362FD9B031932C6038E0A9C) | `python track.py applied 5889679436?se=fIYuHLGz8RGS` |
 | — | 2026-09-17 | Software Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5886946928?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5886946928?utm_medium=api&` |
 | — | 2026-09-17 | Opensearch Backend Engineer | eBay | [apply ↗](https://www.adzuna.in/land/ad/5887707014?se=Nrhtipuy8RGVRMlcV8PrhA&utm_medium=api&utm_source=616fbe19&v=A88310F77467265ADC27A18FF3D3718A7EF4EC9E) | `python track.py applied 5887707014?se=Nrhtipuy8RGV` |
 | — | 2026-09-17 | Software Development Engineer, Amazon | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5887546648?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5887546648?utm_medium=api&` |
