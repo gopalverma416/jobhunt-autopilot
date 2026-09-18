@@ -964,6 +964,10 @@
 "first": "2026-07-28T17:45:36+00:00",
 "sig": "jumpcloud|software engineer auth access india"
 },
+"https://jobs.lever.co/jumpcloud/90522edf-3575-4b45-a631-988e5771abb3": {
+"first": "2026-09-18T04:44:15+00:00",
+"sig": "jumpcloud|devices software engineer t rkiye"
+},
 "https://jobs.lever.co/jumpcloud/958656f7-b2f3-4034-8684-067c5a77b28d": {
 "first": "2026-07-14T14:05:09+00:00",
 "sig": "jumpcloud|software engineer ai platform t rkiye"
@@ -1078,6 +1082,10 @@
 },
 "https://jobs.smartrecruiters.com/ServiceNow/744000148490508": {
 "first": "2026-09-09T12:58:15+00:00",
+"sig": "servicenow|software engineer"
+},
+"https://jobs.smartrecruiters.com/ServiceNow/744000150274479": {
+"first": "2026-09-18T04:44:15+00:00",
 "sig": "servicenow|software engineer"
 },
 "https://jobs.smartrecruiters.com/Zomato1/104244178": {
@@ -7972,6 +7980,18 @@
 "first": "2026-09-17T19:43:58+00:00",
 "sig": "trigent software private limited|advanced software engineer"
 },
+"https://www.adzuna.in/details/5888551533?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-18T04:44:15+00:00",
+"sig": "ascendion|java backend engineer"
+},
+"https://www.adzuna.in/details/5888551558?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-18T04:44:15+00:00",
+"sig": "ascendion|net backend engineer"
+},
+"https://www.adzuna.in/details/5888551594?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-18T04:44:15+00:00",
+"sig": "emerson|software engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -9116,6 +9136,7 @@
 "artech infosystems private limited|software engineering custom software engineer": "2026-07-29T03:39:46+00:00",
 "ascendion|aws data engineer": "2026-09-08T04:36:19+00:00",
 "ascendion|fullstack developer": "2026-08-18T04:52:20+00:00",
+"ascendion|java backend engineer": "2026-09-18T04:44:15+00:00",
 "ascendion|java fullstack engineer": "2026-08-04T03:37:00+00:00",
 "ascendion|net backend engineer": "2026-09-11T19:09:43+00:00",
 "ascendion|net fullstack engineer": "2026-08-03T03:54:31+00:00",
@@ -9343,6 +9364,7 @@
 "elite worldgroup inc.|full stack developer": "2026-07-23T17:45:40+00:00",
 "ellucian|software engineer i react node aws": "2026-08-27T22:16:06+00:00",
 "emerson|application engineer": "2026-09-09T04:42:32+00:00",
+"emerson|software engineer": "2026-09-18T04:44:15+00:00",
 "emerson|software engineer python electronics years": "2026-07-24T06:39:44+00:00",
 "emerson|software engineer to years of experience in linux": "2026-07-27T04:02:20+00:00",
 "emerson|software engineer trainee": "2026-08-09T09:02:11+00:00",
@@ -9510,6 +9532,7 @@
 "johnson controls international|software engineer data scientist": "2026-07-21T03:45:19+00:00",
 "joveo|full stack engineer": "2026-09-08T22:40:44+00:00",
 "jumpcloud|devices software engineer india": "2026-09-09T19:16:50+00:00",
+"jumpcloud|devices software engineer t rkiye": "2026-09-18T04:44:15+00:00",
 "jumpcloud|full stack software engineer india": "2026-08-17T16:45:36+00:00",
 "jumpcloud|software engineer ai platform t rkiye": "2026-07-14T14:05:09+00:00",
 "jumpcloud|software engineer auth access india": "2026-07-28T17:45:36+00:00",

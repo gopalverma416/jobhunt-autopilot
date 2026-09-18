@@ -1,15 +1,19 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-17 22:51 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-18 04:44 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1128)
+## 🎯 To apply (1132)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-18 | Software Engineer | Emerson | [apply ↗](https://www.adzuna.in/details/5888551594?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5888551594?utm_medium=api&` |
+| — | 2026-09-18 | .NET Backend Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5888551558?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5888551558?utm_medium=api&` |
+| — | 2026-09-18 | Java Backend Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5888551533?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5888551533?utm_medium=api&` |
+| — | 2026-09-18 | Software Engineer | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000150274479) | `python track.py applied 744000150274479` |
 | — | 2026-09-17 | Software Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5886946928?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5886946928?utm_medium=api&` |
 | — | 2026-09-17 | Opensearch Backend Engineer | eBay | [apply ↗](https://www.adzuna.in/land/ad/5887707014?se=Nrhtipuy8RGVRMlcV8PrhA&utm_medium=api&utm_source=616fbe19&v=A88310F77467265ADC27A18FF3D3718A7EF4EC9E) | `python track.py applied 5887707014?se=Nrhtipuy8RGV` |
 | — | 2026-09-17 | Software Development Engineer, Amazon | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5887546648?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5887546648?utm_medium=api&` |
