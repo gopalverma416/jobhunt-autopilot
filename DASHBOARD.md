@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-18 04:44 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-18 12:58 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1132)
+## 🎯 To apply (1139)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-18 | .NET Backend Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5888551558?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5888551558?utm_medium=api&` |
 | — | 2026-09-18 | Java Backend Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5888551533?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5888551533?utm_medium=api&` |
 | — | 2026-09-18 | Software Engineer | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000150274479) | `python track.py applied 744000150274479` |
+| — | 2026-09-18 | Software Dev Engineer I FTC | ADCI - Karnataka - A66 | [apply ↗](https://www.adzuna.in/details/5889108968?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5889108968?utm_medium=api&` |
+| — | 2026-09-18 | Software Development Engineer, Buyer Fraud Prevention | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5889108506?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5889108506?utm_medium=api&` |
+| — | 2026-09-18 | Platform Software Engineer | Ford Motor Company | [apply ↗](https://www.adzuna.in/details/5889087307?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5889087307?utm_medium=api&` |
+| — | 2026-09-18 | Full Stack Developer | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000150282669) | `python track.py applied 744000150282669` |
+| — | 2026-09-18 | Software Engineer | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8212060?gh_jid=8212060) | `python track.py applied 8212060?gh_jid=8212060` |
+| — | 2026-09-18 | Systems Engineer, MCP Portals | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8207326?gh_jid=8207326) | `python track.py applied 8207326?gh_jid=8207326` |
+| — | 2026-09-18 | Software Engineer | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000150324259) | `python track.py applied 744000150324259` |
 | — | 2026-09-17 | Software Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5886946928?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5886946928?utm_medium=api&` |
 | — | 2026-09-17 | Opensearch Backend Engineer | eBay | [apply ↗](https://www.adzuna.in/land/ad/5887707014?se=Nrhtipuy8RGVRMlcV8PrhA&utm_medium=api&utm_source=616fbe19&v=A88310F77467265ADC27A18FF3D3718A7EF4EC9E) | `python track.py applied 5887707014?se=Nrhtipuy8RGV` |
 | — | 2026-09-17 | Software Development Engineer, Amazon | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5887546648?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5887546648?utm_medium=api&` |
