@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-19 12:30 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-19 18:37 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1157)
+## 🎯 To apply (1161)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -18,6 +18,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-19 | Software Development Engineer - I (Integrations) | Botsync | [apply ↗](https://www.adzuna.in/details/5890487522?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5890487522?utm_medium=api&` |
 | — | 2026-09-19 | Software Engineer - Android | Docusign | [apply ↗](https://www.adzuna.in/details/5890487386?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5890487386?utm_medium=api&` |
 | — | 2026-09-19 | Software Engineer - IOS | Docusign | [apply ↗](https://www.adzuna.in/details/5890487218?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5890487218?utm_medium=api&` |
+| — | 2026-09-19 | AI Software Engineer | DNV | [apply ↗](https://www.adzuna.in/details/5890826591?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5890826591?utm_medium=api&` |
+| — | 2026-09-19 | IN_Senior Associate_.NET Full Stack Developer_MS Engg_Advisory_Gurgaon | PricewaterhouseCoopers | [apply ↗](https://www.adzuna.in/details/5890824219?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5890824219?utm_medium=api&` |
+| — | 2026-09-19 | Full Stack Software Engineer - AI-First (Java, Angular) | Jobgether | [apply ↗](https://www.adzuna.in/details/5890819838?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5890819838?utm_medium=api&` |
+| — | 2026-09-19 | Software Engineer | Barclays | [apply ↗](https://www.adzuna.in/details/5890818996?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5890818996?utm_medium=api&` |
 | — | 2026-09-18 | Software Engineer | Emerson | [apply ↗](https://www.adzuna.in/details/5888551594?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5888551594?utm_medium=api&` |
 | — | 2026-09-18 | .NET Backend Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5888551558?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5888551558?utm_medium=api&` |
 | — | 2026-09-18 | Java Backend Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5888551533?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5888551533?utm_medium=api&` |
