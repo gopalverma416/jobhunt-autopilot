@@ -8056,6 +8056,34 @@
 "first": "2026-09-19T04:37:53+00:00",
 "sig": "ltm|software engineer"
 },
+"https://www.adzuna.in/details/5890487218?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-19T12:30:04+00:00",
+"sig": "docusign|software engineer ios"
+},
+"https://www.adzuna.in/details/5890487386?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-19T12:30:04+00:00",
+"sig": "docusign|software engineer android"
+},
+"https://www.adzuna.in/details/5890487388?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-19T12:30:04+00:00",
+"sig": "anblicks|java software engineer"
+},
+"https://www.adzuna.in/details/5890487522?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-19T12:30:04+00:00",
+"sig": "botsync|software development engineer i integrations"
+},
+"https://www.adzuna.in/details/5890494489?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-19T12:30:04+00:00",
+"sig": "vy systems private limited|dot net full stack developer"
+},
+"https://www.adzuna.in/details/5890494561?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-19T12:30:04+00:00",
+"sig": "ms outsourcing|software engineer python"
+},
+"https://www.adzuna.in/details/5890510066?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-19T12:30:04+00:00",
+"sig": "amazon dev center india - hyderabad|sde expansions tech and product"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -9082,6 +9110,7 @@
 "altium|software engineer frontend developer": "2026-07-30T06:41:10+00:00",
 "amadeus|software development engineer": "2026-08-07T17:07:02+00:00",
 "amadeus|software development engineer java": "2026-08-31T05:34:58+00:00",
+"amazon dev center india - hyderabad|sde expansions tech and product": "2026-09-19T12:30:04+00:00",
 "amazon dev center india - hyderabad|sde fixed term contract": "2026-07-25T14:02:10+00:00",
 "amazon dev center india - hyderabad|software dev engineer i ftc": "2026-09-10T12:55:20+00:00",
 "amazon dev center india - hyderabad|software development engineer amazon fulfillment technology aft platform engineering and services": "2026-07-14T12:15:30+00:00",
@@ -9190,6 +9219,7 @@
 "analog devices|cloud software engineer": "2026-07-24T03:44:14+00:00",
 "analog devices|software engineer": "2026-07-16T03:37:39+00:00",
 "anblicks solutions|associate software engineer": "2026-08-15T04:46:43+00:00",
+"anblicks|java software engineer": "2026-09-19T12:30:04+00:00",
 "ansr|engineer it software fullstack": "2026-09-01T13:29:57+00:00",
 "anthropic|it systems engineer client platform engineer": "2026-07-14T13:22:21+00:00",
 "anyscale|software engineer platform infrastructure foundations": "2026-07-14T14:05:09+00:00",
@@ -9289,6 +9319,7 @@
 "bosch|vehicle application engineer": "2026-07-13T15:15:06+00:00",
 "bosch|vm brakes algorithm software developer indian oem": "2026-07-22T06:42:27+00:00",
 "botsync|robotics software engineer": "2026-08-23T13:01:55+00:00",
+"botsync|software development engineer i integrations": "2026-09-19T12:30:04+00:00",
 "bp|software engineer": "2026-08-07T17:07:02+00:00",
 "brivo|software development engineer in test": "2026-09-15T13:33:44+00:00",
 "broadcom|r d software engineer": "2026-08-10T17:08:40+00:00",
@@ -9431,6 +9462,8 @@
 "diebold|advanced software engineer": "2026-08-13T02:47:36+00:00",
 "digicert|software engineer": "2026-09-04T18:59:34+00:00",
 "digicert|software engineer fullstack": "2026-08-07T00:55:23+00:00",
+"docusign|software engineer android": "2026-09-19T12:30:04+00:00",
+"docusign|software engineer ios": "2026-09-19T12:30:04+00:00",
 "dozee|software engineer android developer": "2026-08-08T02:22:47+00:00",
 "dp world|performance engineer i": "2026-08-07T00:55:23+00:00",
 "dropbox|frontend product software engineer design systems": "2026-07-14T13:22:21+00:00",
@@ -9737,6 +9770,7 @@
 "moody's|software engineer sharepoint developer": "2026-09-01T19:23:46+00:00",
 "morningstar|software engineer onboarding": "2026-08-18T13:07:34+00:00",
 "motorola solutions|full stack angular nodejs developer": "2026-08-10T17:08:40+00:00",
+"ms outsourcing|software engineer python": "2026-09-19T12:30:04+00:00",
 "msd|full stack engineer specialist": "2026-07-18T17:14:36+00:00",
 "msd|specialist software engineering full stack": "2026-07-21T17:45:43+00:00",
 "mtechzilla|full stack software engineer": "2026-07-30T14:32:04+00:00",
@@ -10180,6 +10214,7 @@
 "vrinda international|custom software engineer sap sd": "2026-09-11T22:35:24+00:00",
 "vrinda international|custom software engineer sap utilities": "2026-09-13T04:48:17+00:00",
 "vrinda international|software engineer": "2026-08-26T16:59:02+00:00",
+"vy systems private limited|dot net full stack developer": "2026-09-19T12:30:04+00:00",
 "vynexa|software engineer": "2026-08-06T03:36:54+00:00",
 "wakacje.pl|software engineer go": "2026-07-30T21:32:08+00:00",
 "walmart global tech india|distinguished software engineer": "2026-08-22T16:40:59+00:00",
