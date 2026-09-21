@@ -316,6 +316,10 @@
 "first": "2026-09-02T12:46:30+00:00",
 "sig": "atlassian|software engineer dev infra"
 },
+"https://careers-apac-atlassian.icims.com/jobs/27058/p40-fullstack-software-engineer/job": {
+"first": "2026-09-21T15:06:36+00:00",
+"sig": "atlassian|fullstack software engineer"
+},
 "https://careers-apac-atlassian.icims.com/jobs/27058/p50-fullstack-software-engineer/job": {
 "first": "2026-09-03T12:49:41+00:00",
 "sig": "atlassian|fullstack software engineer"
@@ -1084,6 +1088,14 @@
 "first": "2026-09-18T12:58:20+00:00",
 "sig": "bosch|full stack developer"
 },
+"https://jobs.smartrecruiters.com/BoschGroup/744000150650319": {
+"first": "2026-09-21T15:06:36+00:00",
+"sig": "bosch|in bosch rexroth india engineer executive embedded software developer for application software development and customer support"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000150702373": {
+"first": "2026-09-21T15:06:36+00:00",
+"sig": "bosch|vehicle application engineer"
+},
 "https://jobs.smartrecruiters.com/ServiceNow/744000144386100": {
 "first": "2026-08-19T20:45:35+00:00",
 "sig": "servicenow|software engineer"
@@ -1351,6 +1363,10 @@
 "https://stripe.com/jobs/search?gh_jid=8089353": {
 "first": "2026-08-05T03:32:47+00:00",
 "sig": "stripe|software engineer vulnerability management"
+},
+"https://stripe.com/jobs/search?gh_jid=8209970": {
+"first": "2026-09-21T15:06:36+00:00",
+"sig": "stripe|software engineer stripe data pipeline"
 },
 "https://www.adzuna.in/details/5799592114?utm_medium=api&utm_source=616fbe19": {
 "first": "2026-07-14T12:15:30+00:00",
@@ -8184,6 +8200,54 @@
 "first": "2026-09-21T04:56:10+00:00",
 "sig": "n human resources & management systems|hiring software engineer full stack"
 },
+"https://www.adzuna.in/details/5892384248?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-21T15:06:36+00:00",
+"sig": "kyndryl|full stack sw engineer"
+},
+"https://www.adzuna.in/details/5892384249?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-21T15:06:36+00:00",
+"sig": "kyndryl|full stack sw engineer"
+},
+"https://www.adzuna.in/details/5892384250?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-21T15:06:36+00:00",
+"sig": "kyndryl|full stack sw engineer"
+},
+"https://www.adzuna.in/details/5892384766?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-21T15:06:34+00:00",
+"sig": "cargill|software engineer"
+},
+"https://www.adzuna.in/details/5892689734?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-21T15:06:34+00:00",
+"sig": "7-eleven global solution center \u2013 india|software engineer i"
+},
+"https://www.adzuna.in/details/5892689853?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-21T15:06:34+00:00",
+"sig": "pivotroots|software engineer devops"
+},
+"https://www.adzuna.in/details/5892691801?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-21T15:06:34+00:00",
+"sig": "priceline|associate software engineer"
+},
+"https://www.adzuna.in/details/5892855116?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-21T15:06:34+00:00",
+"sig": "mattel|software developer coupa"
+},
+"https://www.adzuna.in/details/5892855166?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-21T15:06:34+00:00",
+"sig": "rexroth|in bosch rexroth india engineer executive embedded software developer for application software development and customer support"
+},
+"https://www.adzuna.in/details/5892855367?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-21T15:06:36+00:00",
+"sig": "servicenow|software engineer"
+},
+"https://www.adzuna.in/details/5892855408?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-21T15:06:34+00:00",
+"sig": "hitachi solutions india|python backend engineer"
+},
+"https://www.adzuna.in/details/5892855431?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-21T15:06:34+00:00",
+"sig": "servicenow|software engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -8972,6 +9036,18 @@
 "first": "2026-09-18T19:02:12+00:00",
 "sig": "amazon|sde expansions tech and product"
 },
+"https://www.amazon.jobs/en/jobs/10554323/software-development-engineer-amazon": {
+"first": "2026-09-21T15:06:36+00:00",
+"sig": "amazon|software development engineer amazon"
+},
+"https://www.amazon.jobs/en/jobs/10554342/software-development-engineer-rbs-tech": {
+"first": "2026-09-21T15:06:36+00:00",
+"sig": "amazon|software development engineer rbs tech"
+},
+"https://www.amazon.jobs/en/jobs/10554616/software-development-engineer-ai-business-automation-ai-business-automation-prime-video": {
+"first": "2026-09-21T15:06:36+00:00",
+"sig": "amazon|software development engineer ai business automation ai business automation prime video"
+},
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
 "sig": "axonius|backend engineer s o paulo"
@@ -9127,6 +9203,7 @@
 },
 "sigs": {
 "3i infotech limited|associate engineer software development": "2026-09-04T18:59:34+00:00",
+"7-eleven global solution center \u2013 india|software engineer i": "2026-09-21T15:06:34+00:00",
 "a2z saas private limited|software engineer testing": "2026-08-06T03:36:53+00:00",
 "abb|configurator solution specialist full stack": "2026-07-29T03:39:48+00:00",
 "abb|software engineer": "2026-07-18T17:14:36+00:00",
@@ -9259,6 +9336,7 @@
 "amazon|software development engineer ads campaign management": "2026-08-04T14:39:46+00:00",
 "amazon|software development engineer affs": "2026-07-29T06:45:13+00:00",
 "amazon|software development engineer aft external fulfillment": "2026-08-21T08:58:17+00:00",
+"amazon|software development engineer ai business automation ai business automation prime video": "2026-09-21T15:06:36+00:00",
 "amazon|software development engineer alexa ai logistics for infrastructure cost efficiency": "2026-07-17T03:37:18+00:00",
 "amazon|software development engineer alexa audio": "2026-08-07T00:55:23+00:00",
 "amazon|software development engineer alexa audio alexa audio": "2026-07-13T17:25:25+00:00",
@@ -9436,6 +9514,7 @@
 "bosch|full stack developer": "2026-07-26T21:11:39+00:00",
 "bosch|full stack developer for web applications": "2026-07-22T14:22:20+00:00",
 "bosch|full stack software developer with ai expertise": "2026-09-16T04:49:24+00:00",
+"bosch|in bosch rexroth india engineer executive embedded software developer for application software development and customer support": "2026-09-21T15:06:36+00:00",
 "bosch|java full stack developer": "2026-08-21T08:58:17+00:00",
 "bosch|java full stack developer with devops experience": "2026-09-01T13:29:57+00:00",
 "bosch|mes application engineer": "2026-08-24T09:04:50+00:00",
@@ -9740,6 +9819,7 @@
 "hewlett packard enterprise|software engineer vpn pki network security": "2026-09-16T19:33:59+00:00",
 "highrise solutions llp|full stack developer se ssse dot net angular and aws": "2026-08-25T16:55:36+00:00",
 "hitachi careers|engineer i automation qa": "2026-09-09T19:16:50+00:00",
+"hitachi solutions india|python backend engineer": "2026-09-21T15:06:34+00:00",
 "honeywell|it engineer i": "2026-07-26T06:48:58+00:00",
 "houghton mifflin harcourt|software engineer": "2026-08-30T05:24:41+00:00",
 "houghton mifflin harcourt|software engineer java alfresco": "2026-08-30T05:24:41+00:00",
@@ -9857,6 +9937,7 @@
 "mastercard|software engineer java spring boot": "2026-09-03T19:18:05+00:00",
 "mattel, inc.|software engineer veeva": "2026-09-02T12:46:29+00:00",
 "mattel|eai software engineer": "2026-07-30T03:28:38+00:00",
+"mattel|software developer coupa": "2026-09-21T15:06:34+00:00",
 "mattel|software engineer data analytics": "2026-07-23T21:28:42+00:00",
 "mavenir|software engineer layer": "2026-08-28T22:20:13+00:00",
 "mcafee, inc.|cloud software engineer": "2026-08-13T05:48:52+00:00",
@@ -10023,6 +10104,7 @@
 "pitney bowes|software engineer": "2026-08-19T16:46:52+00:00",
 "pitney bowes|software engineer ad azure support": "2026-08-20T04:53:11+00:00",
 "pitney bowes|software engineer user provision support": "2026-08-20T04:53:11+00:00",
+"pivotroots|software engineer devops": "2026-09-21T15:06:34+00:00",
 "planetscale|software engineer information security": "2026-07-14T13:22:23+00:00",
 "planetscale|software engineer insights": "2026-07-14T13:22:23+00:00",
 "planetscale|software engineer neki orchestration": "2026-07-14T13:22:23+00:00",
@@ -10043,6 +10125,7 @@
 "powerschool|associate software engineer": "2026-09-13T13:18:35+00:00",
 "pratiti technologies pvt. ltd.|c software engineer": "2026-07-14T17:34:37+00:00",
 "prefect|product engineer fullstack cloud": "2026-07-14T14:05:09+00:00",
+"priceline|associate software engineer": "2026-09-21T15:06:34+00:00",
 "pricewaterhousecoopers|in senior associate net full stack developer ms engg advisory gurgaon": "2026-09-19T18:36:58+00:00",
 "pricewaterhousecoopers|in senior associate python full stack developer with azure gcc advisory gurugram": "2026-09-04T18:59:34+00:00",
 "progressive infotech|software engineer": "2026-09-11T04:41:02+00:00",
@@ -10088,6 +10171,7 @@
 "render|software engineer security all levels": "2026-07-14T13:22:23+00:00",
 "resilinc|software engineer": "2026-07-18T03:32:23+00:00",
 "resolve to save lives|backend engineer": "2026-08-30T22:44:15+00:00",
+"rexroth|in bosch rexroth india engineer executive embedded software developer for application software development and customer support": "2026-09-21T15:06:34+00:00",
 "ribbon communications|software engineer": "2026-09-08T22:40:47+00:00",
 "riverbed technology|member of technical staff": "2026-08-10T13:43:55+00:00",
 "roche|full stack ai engineer data scientist agentic systems": "2026-08-15T08:45:06+00:00",
@@ -10183,6 +10267,7 @@
 "stripe|software engineer new grad": "2026-09-10T12:55:20+00:00",
 "stripe|software engineer optimized checkout link": "2026-07-20T21:32:55+00:00",
 "stripe|software engineer security analytics infrastructure": "2026-07-14T13:22:23+00:00",
+"stripe|software engineer stripe data pipeline": "2026-09-21T15:06:36+00:00",
 "stripe|software engineer vulnerability management": "2026-08-05T03:32:47+00:00",
 "stronghold investment management|software engineer i": "2026-08-20T04:53:11+00:00",
 "studyecart technologies pvt ltd|finastra hiring associate software engineer freshers pune apply now": "2026-07-27T11:39:34+00:00",

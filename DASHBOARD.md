@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-21 04:56 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-21 15:06 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1177)
+## 🎯 To apply (1190)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,19 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-21 | Hiring: Software Engineer – Full Stack | N Human Resources & Management Systems | [apply ↗](https://www.adzuna.in/details/5892348827?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892348827?utm_medium=api&` |
 | — | 2026-09-21 | Engineer I, Embededd Software Test | Schneider Electric | [apply ↗](https://www.adzuna.in/details/5892241008?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892241008?utm_medium=api&` |
 | — | 2026-09-21 | Software Engineer in Test | Atomicwork | [apply ↗](https://www.adzuna.in/land/ad/5891981308?se=jBPEu3i18RGk6dCvHcHp9g&utm_medium=api&utm_source=616fbe19&v=088210F8B75BEA2BE6FF727EA3CAE529E1B434DA) | `python track.py applied 5891981308?se=jBPEu3i18RGk` |
+| — | 2026-09-21 | Software Engineer | ServiceNow | [apply ↗](https://www.adzuna.in/details/5892855431?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892855431?utm_medium=api&` |
+| — | 2026-09-21 | Python Backend Engineer | Hitachi Solutions India | [apply ↗](https://www.adzuna.in/details/5892855408?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892855408?utm_medium=api&` |
+| — | 2026-09-21 | IN_Bosch Rexroth India_Engineer / Executive_Embedded Software Developer for Application Software Development and Customer Support | Rexroth | [apply ↗](https://www.adzuna.in/details/5892855166?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892855166?utm_medium=api&` |
+| — | 2026-09-21 | Associate Software Engineer | Priceline | [apply ↗](https://www.adzuna.in/details/5892691801?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892691801?utm_medium=api&` |
+| — | 2026-09-21 | Software Engineer - DevOps | PivotRoots | [apply ↗](https://www.adzuna.in/details/5892689853?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892689853?utm_medium=api&` |
+| — | 2026-09-21 | Software Engineer I | 7-Eleven Global Solution Center – India | [apply ↗](https://www.adzuna.in/details/5892689734?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892689734?utm_medium=api&` |
+| — | 2026-09-21 | Software Engineer | Cargill | [apply ↗](https://www.adzuna.in/details/5892384766?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892384766?utm_medium=api&` |
+| — | 2026-09-21 | 8 Full stack SW Engineer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5892384250?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892384250?utm_medium=api&` |
+| — | 2026-09-21 | 8 Full stack SW Engineer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5892384249?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892384249?utm_medium=api&` |
+| — | 2026-09-21 | 8 Full stack SW Engineer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5892384248?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892384248?utm_medium=api&` |
+| — | 2026-09-21 | P40 Fullstack Software Engineer | Atlassian | [apply ↗](https://careers-apac-atlassian.icims.com/jobs/27058/p40-fullstack-software-engineer/job) | `python track.py applied job` |
+| — | 2026-09-21 | Vehicle Application Engineer | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000150702373) | `python track.py applied 744000150702373` |
+| — | 2026-09-21 | IN_Bosch Rexroth India_Engineer / Executive_Embedded Software Developer for Application Software Development and Customer Support | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000150650319) | `python track.py applied 744000150650319` |
 | — | 2026-09-20 | 8 Full stack SW Engineer | Kyndryl | [apply ↗](https://www.adzuna.in/land/ad/5891204282?se=zj4DSK-08RGk6dCvHcHp9g&utm_medium=api&utm_source=616fbe19&v=98FB330ADE74580EC9C6C488DA24B00A1256C6AB) | `python track.py applied 5891204282?se=zj4DSK-08RGk` |
 | — | 2026-09-20 | Robotics Software Engineer | Origin | [apply ↗](https://www.adzuna.in/details/5891064755?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5891064755?utm_medium=api&` |
 | — | 2026-09-20 | Python Backend Engineer | Snayu AI | [apply ↗](https://www.adzuna.in/land/ad/5891690369?se=lL_tmvO08RGk6dCvHcHp9g&utm_medium=api&utm_source=616fbe19&v=1392801CAEBE78B7F5470B1C683DBBDFE729C312) | `python track.py applied 5891690369?se=lL_tmvO08RGk` |
