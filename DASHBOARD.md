@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-21 15:06 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-21 20:25 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1190)
+## 🎯 To apply (1199)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -26,6 +26,15 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-21 | P40 Fullstack Software Engineer | Atlassian | [apply ↗](https://careers-apac-atlassian.icims.com/jobs/27058/p40-fullstack-software-engineer/job) | `python track.py applied job` |
 | — | 2026-09-21 | Vehicle Application Engineer | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000150702373) | `python track.py applied 744000150702373` |
 | — | 2026-09-21 | IN_Bosch Rexroth India_Engineer / Executive_Embedded Software Developer for Application Software Development and Customer Support | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000150650319) | `python track.py applied 744000150650319` |
+| — | 2026-09-21 | Custom Software Engineer - Microsoft Azure Data Services | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5893057375?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893057375?utm_medium=api&` |
+| — | 2026-09-21 | Software Engineer | CTO Operations | [apply ↗](https://www.adzuna.in/details/5892986207?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892986207?utm_medium=api&` |
+| — | 2026-09-21 | Software Engineer - PLSQL | Managed Services | [apply ↗](https://www.adzuna.in/details/5892983610?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892983610?utm_medium=api&` |
+| — | 2026-09-21 | Software Engineer | WEX | [apply ↗](https://www.adzuna.in/details/5892980949?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892980949?utm_medium=api&` |
+| — | 2026-09-21 | Specialist, Software Engineer - Angular Developer, India | Nationwide Global Services Center | [apply ↗](https://www.adzuna.in/details/5892979840?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892979840?utm_medium=api&` |
+| — | 2026-09-21 | AI Application Engineer | Johnson Controls | [apply ↗](https://www.adzuna.in/details/5892978551?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892978551?utm_medium=api&` |
+| — | 2026-09-21 | Software Engineer - DevOps | Technology | [apply ↗](https://www.adzuna.in/details/5892978418?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892978418?utm_medium=api&` |
+| — | 2026-09-21 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5892977829?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892977829?utm_medium=api&` |
+| — | 2026-09-21 | 8 Full stack SW Engineer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5892974362?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892974362?utm_medium=api&` |
 | — | 2026-09-20 | 8 Full stack SW Engineer | Kyndryl | [apply ↗](https://www.adzuna.in/land/ad/5891204282?se=zj4DSK-08RGk6dCvHcHp9g&utm_medium=api&utm_source=616fbe19&v=98FB330ADE74580EC9C6C488DA24B00A1256C6AB) | `python track.py applied 5891204282?se=zj4DSK-08RGk` |
 | — | 2026-09-20 | Robotics Software Engineer | Origin | [apply ↗](https://www.adzuna.in/details/5891064755?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5891064755?utm_medium=api&` |
 | — | 2026-09-20 | Python Backend Engineer | Snayu AI | [apply ↗](https://www.adzuna.in/land/ad/5891690369?se=lL_tmvO08RGk6dCvHcHp9g&utm_medium=api&utm_source=616fbe19&v=1392801CAEBE78B7F5470B1C683DBBDFE729C312) | `python track.py applied 5891690369?se=lL_tmvO08RGk` |
