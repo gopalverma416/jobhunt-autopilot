@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-22 19:44 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-22 22:57 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1214)
+## 🎯 To apply (1215)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -25,6 +25,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-22 | Packaged/SaaS Application Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5894129977?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5894129977?utm_medium=api&` |
 | — | 2026-09-22 | Full Stack Developer | RECEX | [apply ↗](https://www.adzuna.in/details/5894127859?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5894127859?utm_medium=api&` |
 | — | 2026-09-22 | Software Engineer 1 | Modernizing Medicine | [apply ↗](https://www.adzuna.in/details/5894127660?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5894127660?utm_medium=api&` |
+| — | 2026-09-22 | Software Engineer (Physical Network Layer/PHY/Serdes) | Arista Networks | [apply ↗](https://www.adzuna.in/land/ad/5894224110?se=hmKR_di28RG6-LerT6N-jw&utm_medium=api&utm_source=616fbe19&v=1BEBCDC0AC5D942E8268EAB23F80796AD26813E8) | `python track.py applied 5894224110?se=hmKR_di28RG6` |
 | — | 2026-09-21 | Hiring: Software Engineer – Full Stack | N Human Resources & Management Systems | [apply ↗](https://www.adzuna.in/details/5892348827?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892348827?utm_medium=api&` |
 | — | 2026-09-21 | Engineer I, Embededd Software Test | Schneider Electric | [apply ↗](https://www.adzuna.in/details/5892241008?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892241008?utm_medium=api&` |
 | — | 2026-09-21 | Software Engineer in Test | Atomicwork | [apply ↗](https://www.adzuna.in/land/ad/5891981308?se=jBPEu3i18RGk6dCvHcHp9g&utm_medium=api&utm_source=616fbe19&v=088210F8B75BEA2BE6FF727EA3CAE529E1B434DA) | `python track.py applied 5891981308?se=jBPEu3i18RGk` |
