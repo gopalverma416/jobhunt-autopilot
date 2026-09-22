@@ -1,15 +1,24 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-22 04:56 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-22 13:25 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1199)
+## 🎯 To apply (1208)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-22 | Security Software Engineer – Backend (Remote / $30–$100/hr) | Synthires | [apply ↗](https://www.adzuna.in/land/ad/5893922580?se=dG9v94i28RG71pv3wTw-uw&utm_medium=api&utm_source=616fbe19&v=772CE816A742CB15FCCFC14E151D5AD564DAAE14) | `python track.py applied 5893922580?se=dG9v94i28RG7` |
+| — | 2026-09-22 | Quality Assurance Engineer I, Key For Business | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5893849177?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893849177?utm_medium=api&` |
+| — | 2026-09-22 | Software Development Engineer, AI Business Automation, AI Business Automation, Prime Video | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5893849119?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893849119?utm_medium=api&` |
+| — | 2026-09-22 | Software Development Engineer | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5893848981?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893848981?utm_medium=api&` |
+| — | 2026-09-22 | Software Development Engineer, Seller and AM GenAI Tools | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5893848937?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893848937?utm_medium=api&` |
+| — | 2026-09-22 | Software Development Engineer, AI Runtime | ADCI - Maharashtra | [apply ↗](https://www.adzuna.in/details/5893848962?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893848962?utm_medium=api&` |
+| — | 2026-09-22 | Software Engineer (Java) - Authentication & Tokenization | Adyen | [apply ↗](https://www.adzuna.in/details/5893831844?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893831844?utm_medium=api&` |
+| — | 2026-09-22 | SOFTWARE ENGINEER - Python | Happiest Minds Technologies | [apply ↗](https://www.adzuna.in/details/5893831868?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893831868?utm_medium=api&` |
+| — | 2026-09-22 | Software Engineer (Java) | Genesis Global | [apply ↗](https://www.adzuna.in/details/5893831624?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893831624?utm_medium=api&` |
 | — | 2026-09-21 | Hiring: Software Engineer – Full Stack | N Human Resources & Management Systems | [apply ↗](https://www.adzuna.in/details/5892348827?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892348827?utm_medium=api&` |
 | — | 2026-09-21 | Engineer I, Embededd Software Test | Schneider Electric | [apply ↗](https://www.adzuna.in/details/5892241008?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5892241008?utm_medium=api&` |
 | — | 2026-09-21 | Software Engineer in Test | Atomicwork | [apply ↗](https://www.adzuna.in/land/ad/5891981308?se=jBPEu3i18RGk6dCvHcHp9g&utm_medium=api&utm_source=616fbe19&v=088210F8B75BEA2BE6FF727EA3CAE529E1B434DA) | `python track.py applied 5891981308?se=jBPEu3i18RGk` |
