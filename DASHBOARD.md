@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-23 04:45 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-23 13:38 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1218)
+## 🎯 To apply (1227)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,15 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-23 | Software Engineer - Backend & AI Code Evaluation | Gramian Consulting Group | [apply ↗](https://www.adzuna.in/details/5894665501?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5894665501?utm_medium=api&` |
 | — | 2026-09-23 | Early Career Opportunities / Publicis Sapient Careers | Publicis Sapient | [apply ↗](https://www.adzuna.in/details/5894639257?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5894639257?utm_medium=api&` |
 | — | 2026-09-23 | Software Engineer (Physical Network Layer/PHY/Serdes) | Arista Networks | [apply ↗](https://www.adzuna.in/land/ad/5894224110?se=oBQqkAm38RGSS7o4hAxT2Q&utm_medium=api&utm_source=616fbe19&v=1BEBCDC0AC5D942E8268EAB23F80796AD26813E8) | `python track.py applied 5894224110?se=oBQqkAm38RGS` |
+| — | 2026-09-23 | Software Development Engineer, Prime Video Live Events - Sports Data Platform | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5895078971?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895078971?utm_medium=api&` |
+| — | 2026-09-23 | Software Development Engineer, AI Trust & Innovation | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5895078837?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895078837?utm_medium=api&` |
+| — | 2026-09-23 | Software Engineer I | Reputation | [apply ↗](https://www.adzuna.in/details/5895065900?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895065900?utm_medium=api&` |
+| — | 2026-09-23 | Software Engineer- JAVA | WebEngage | [apply ↗](https://www.adzuna.in/details/5895065940?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895065940?utm_medium=api&` |
+| — | 2026-09-23 | Software Engineer, NLP/Machine Learning | WisdomAI | [apply ↗](https://www.adzuna.in/details/5895065892?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895065892?utm_medium=api&` |
+| — | 2026-09-23 | Software Development Engineer, RBS Tech | Amazon | [apply ↗](https://www.adzuna.in/details/5895065799?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895065799?utm_medium=api&` |
+| — | 2026-09-23 | Software Engineer, Stripe Data Pipeline | Stripe | [apply ↗](https://www.adzuna.in/details/5895065624?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895065624?utm_medium=api&` |
+| — | 2026-09-23 | Software Engineer - Java Spring Boot | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289508) | `python track.py applied Software-Engineer---Java-S` |
+| — | 2026-09-23 | Software Developer Security Analytics | RedMimicry | [apply ↗](https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417) | `python track.py applied remote-software-developer-` |
 | — | 2026-09-22 | Security Software Engineer – Backend (Remote / $30–$100/hr) | Synthires | [apply ↗](https://www.adzuna.in/land/ad/5893922580?se=dG9v94i28RG71pv3wTw-uw&utm_medium=api&utm_source=616fbe19&v=772CE816A742CB15FCCFC14E151D5AD564DAAE14) | `python track.py applied 5893922580?se=dG9v94i28RG7` |
 | — | 2026-09-22 | Quality Assurance Engineer I, Key For Business | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5893849177?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893849177?utm_medium=api&` |
 | — | 2026-09-22 | Software Development Engineer, AI Business Automation, AI Business Automation, Prime Video | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5893849119?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893849119?utm_medium=api&` |
