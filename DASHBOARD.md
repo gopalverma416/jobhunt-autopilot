@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-23 13:38 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-23 19:41 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1227)
+## 🎯 To apply (1229)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -22,6 +22,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-23 | Software Engineer, Stripe Data Pipeline | Stripe | [apply ↗](https://www.adzuna.in/details/5895065624?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895065624?utm_medium=api&` |
 | — | 2026-09-23 | Software Engineer - Java Spring Boot | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer---Java-Spring-Boot_R-289508) | `python track.py applied Software-Engineer---Java-S` |
 | — | 2026-09-23 | Software Developer Security Analytics | RedMimicry | [apply ↗](https://remoteOK.com/remote-jobs/remote-software-developer-security-analytics-redmimicry-1137417) | `python track.py applied remote-software-developer-` |
+| — | 2026-09-23 | -Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5895535360?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895535360?utm_medium=api&` |
+| — | 2026-09-23 | Software Engineer Global | Southwest Airlines | [apply ↗](https://www.adzuna.in/details/5895399830?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895399830?utm_medium=api&` |
 | — | 2026-09-22 | Security Software Engineer – Backend (Remote / $30–$100/hr) | Synthires | [apply ↗](https://www.adzuna.in/land/ad/5893922580?se=dG9v94i28RG71pv3wTw-uw&utm_medium=api&utm_source=616fbe19&v=772CE816A742CB15FCCFC14E151D5AD564DAAE14) | `python track.py applied 5893922580?se=dG9v94i28RG7` |
 | — | 2026-09-22 | Quality Assurance Engineer I, Key For Business | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5893849177?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893849177?utm_medium=api&` |
 | — | 2026-09-22 | Software Development Engineer, AI Business Automation, AI Business Automation, Prime Video | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5893849119?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5893849119?utm_medium=api&` |
