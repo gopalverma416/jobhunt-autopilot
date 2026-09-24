@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-24 04:51 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-24 13:33 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1232)
+## 🎯 To apply (1240)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,14 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-09-24 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5896122708?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896122708?utm_medium=api&` |
 | — | 2026-09-24 | Full Stack Software Developer | Happiest Resume | [apply ↗](https://www.adzuna.in/details/5895780427?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895780427?utm_medium=api&` |
+| — | 2026-09-24 | Software Engineer - C++ / Game Engine | Keywords Studios | [apply ↗](https://www.adzuna.in/details/5896786073?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896786073?utm_medium=api&` |
+| — | 2026-09-24 | Software Engineer - FullStack | GSSTech Group | [apply ↗](https://www.adzuna.in/details/5896786052?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896786052?utm_medium=api&` |
+| — | 2026-09-24 | Software Development Engineer, Tax Engine Services | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5896675631?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896675631?utm_medium=api&` |
+| — | 2026-09-24 | WiFi Software Development Engineer, eero | ADCI - Tamil Nadu | [apply ↗](https://www.adzuna.in/details/5896675607?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896675607?utm_medium=api&` |
+| — | 2026-09-24 | .Net Full Stack Developer | VY SYSTEMS PRIVATE LIMITED | [apply ↗](https://www.adzuna.in/details/5896662981?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896662981?utm_medium=api&` |
+| — | 2026-09-24 | Full Stack Software Engineer | NCR Voyix | [apply ↗](https://www.adzuna.in/details/5896658154?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896658154?utm_medium=api&` |
+| — | 2026-09-24 | Software Engineer | Epsilon | [apply ↗](https://www.adzuna.in/details/5896658127?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896658127?utm_medium=api&` |
+| — | 2026-09-24 | Software Development Engineer, Prime Video Live Events - Sports Data Platform | Prime Video & Amazon MGM Studios | [apply ↗](https://www.adzuna.in/details/5896657938?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896657938?utm_medium=api&` |
 | — | 2026-09-23 | Software Engineer - Backend & AI Code Evaluation | Gramian Consulting Group | [apply ↗](https://www.adzuna.in/details/5894665501?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5894665501?utm_medium=api&` |
 | — | 2026-09-23 | Early Career Opportunities / Publicis Sapient Careers | Publicis Sapient | [apply ↗](https://www.adzuna.in/details/5894639257?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5894639257?utm_medium=api&` |
 | — | 2026-09-23 | Software Engineer (Physical Network Layer/PHY/Serdes) | Arista Networks | [apply ↗](https://www.adzuna.in/land/ad/5894224110?se=oBQqkAm38RGSS7o4hAxT2Q&utm_medium=api&utm_source=616fbe19&v=1BEBCDC0AC5D942E8268EAB23F80796AD26813E8) | `python track.py applied 5894224110?se=oBQqkAm38RGS` |
