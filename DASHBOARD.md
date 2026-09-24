@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-24 19:59 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-24 23:12 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1249)
+## 🎯 To apply (1251)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -29,6 +29,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-24 | Full Stack Software Engineer (Java & React/Angular) | Guidewire | [apply ↗](https://www.adzuna.in/details/5897067190?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897067190?utm_medium=api&` |
 | — | 2026-09-24 | Software Development Engineer, AFT External Fulfillment | Amazon | [apply ↗](https://www.adzuna.in/details/5897066938?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897066938?utm_medium=api&` |
 | — | 2026-09-24 | Software Engineer | Prenosis | [apply ↗](https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427) | `python track.py applied remote-software-engineer-p` |
+| — | 2026-09-24 | JAVA FULL STACK DEVELOPER | Vrinda International | [apply ↗](https://www.adzuna.in/details/5897308739?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897308739?utm_medium=api&` |
+| — | 2026-09-24 | Software Engineer in Test | Gurucul | [apply ↗](https://www.adzuna.in/land/ad/5897296388?se=YrG6aG248RGj3rbruZk4CQ&utm_medium=api&utm_source=616fbe19&v=4C39C5AB635C4B7022AD1E90C96ADD93324215E3) | `python track.py applied 5897296388?se=YrG6aG248RGj` |
 | — | 2026-09-23 | Software Engineer - Backend & AI Code Evaluation | Gramian Consulting Group | [apply ↗](https://www.adzuna.in/details/5894665501?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5894665501?utm_medium=api&` |
 | — | 2026-09-23 | Early Career Opportunities / Publicis Sapient Careers | Publicis Sapient | [apply ↗](https://www.adzuna.in/details/5894639257?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5894639257?utm_medium=api&` |
 | — | 2026-09-23 | Software Engineer (Physical Network Layer/PHY/Serdes) | Arista Networks | [apply ↗](https://www.adzuna.in/land/ad/5894224110?se=oBQqkAm38RGSS7o4hAxT2Q&utm_medium=api&utm_source=616fbe19&v=1BEBCDC0AC5D942E8268EAB23F80796AD26813E8) | `python track.py applied 5894224110?se=oBQqkAm38RGS` |
