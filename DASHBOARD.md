@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-24 13:33 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-24 19:59 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1240)
+## 🎯 To apply (1249)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -20,6 +20,15 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-24 | Full Stack Software Engineer | NCR Voyix | [apply ↗](https://www.adzuna.in/details/5896658154?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896658154?utm_medium=api&` |
 | — | 2026-09-24 | Software Engineer | Epsilon | [apply ↗](https://www.adzuna.in/details/5896658127?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896658127?utm_medium=api&` |
 | — | 2026-09-24 | Software Development Engineer, Prime Video Live Events - Sports Data Platform | Prime Video & Amazon MGM Studios | [apply ↗](https://www.adzuna.in/details/5896657938?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896657938?utm_medium=api&` |
+| — | 2026-09-24 | Software Engineer Retail POS Systems | Cyberidentitysolutions | [apply ↗](https://www.adzuna.in/details/5897259869?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897259869?utm_medium=api&` |
+| — | 2026-09-24 | Software Engineer : Legal Transformation, Operations & AI | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5897259795?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897259795?utm_medium=api&` |
+| — | 2026-09-24 | SOFTWARE ENGINEER | Light & Wonder | [apply ↗](https://www.adzuna.in/details/5897176742?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897176742?utm_medium=api&` |
+| — | 2026-09-24 | Software Engineer | Ecolab | [apply ↗](https://www.adzuna.in/details/5897067454?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897067454?utm_medium=api&` |
+| — | 2026-09-24 | Software Engineer - AI Platform (India) | Genios AI | [apply ↗](https://www.adzuna.in/details/5897067231?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897067231?utm_medium=api&` |
+| — | 2026-09-24 | Software Engineer - AMS Support | Kyndryl | [apply ↗](https://www.adzuna.in/details/5897067241?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897067241?utm_medium=api&` |
+| — | 2026-09-24 | Full Stack Software Engineer (Java & React/Angular) | Guidewire | [apply ↗](https://www.adzuna.in/details/5897067190?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897067190?utm_medium=api&` |
+| — | 2026-09-24 | Software Development Engineer, AFT External Fulfillment | Amazon | [apply ↗](https://www.adzuna.in/details/5897066938?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897066938?utm_medium=api&` |
+| — | 2026-09-24 | Software Engineer | Prenosis | [apply ↗](https://remoteOK.com/remote-jobs/remote-software-engineer-prenosis-1137427) | `python track.py applied remote-software-engineer-p` |
 | — | 2026-09-23 | Software Engineer - Backend & AI Code Evaluation | Gramian Consulting Group | [apply ↗](https://www.adzuna.in/details/5894665501?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5894665501?utm_medium=api&` |
 | — | 2026-09-23 | Early Career Opportunities / Publicis Sapient Careers | Publicis Sapient | [apply ↗](https://www.adzuna.in/details/5894639257?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5894639257?utm_medium=api&` |
 | — | 2026-09-23 | Software Engineer (Physical Network Layer/PHY/Serdes) | Arista Networks | [apply ↗](https://www.adzuna.in/land/ad/5894224110?se=oBQqkAm38RGSS7o4hAxT2Q&utm_medium=api&utm_source=616fbe19&v=1BEBCDC0AC5D942E8268EAB23F80796AD26813E8) | `python track.py applied 5894224110?se=oBQqkAm38RGS` |
