@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-25 13:48 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-25 20:02 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1264)
+## 🎯 To apply (1269)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -23,6 +23,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-25 | Binance Accelerator Programm - Software Engineer (KYB) | Binance | [apply ↗](https://www.adzuna.in/details/5898166802?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5898166802?utm_medium=api&` |
 | — | 2026-09-25 | Security Engineer I, Application Security | Trail of Bits | [apply ↗](https://www.adzuna.in/details/5898165821?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5898165821?utm_medium=api&` |
 | — | 2026-09-25 | Software Engineer I-1 | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-290795) | `python track.py applied Software-Engineer-I-1_R-29` |
+| — | 2026-09-25 | Custom Software Engineer - SAP Sales and Distribution (SD) | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5898655888?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5898655888?utm_medium=api&` |
+| — | 2026-09-25 | Software Engineer - C++ | Match Point Solutions | [apply ↗](https://www.adzuna.in/details/5898655751?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5898655751?utm_medium=api&` |
+| — | 2026-09-25 | Software Development Engineer, Digital Acceleration | Amazon | [apply ↗](https://www.adzuna.in/details/5898599460?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5898599460?utm_medium=api&` |
+| — | 2026-09-25 | C++ Software Engineer | IMC | [apply ↗](https://www.adzuna.in/details/5898505800?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5898505800?utm_medium=api&` |
+| — | 2026-09-25 | Associate Software Engineer | insightsoftware | [apply ↗](https://www.adzuna.in/details/5898505567?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5898505567?utm_medium=api&` |
 | — | 2026-09-24 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5896122708?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896122708?utm_medium=api&` |
 | — | 2026-09-24 | Full Stack Software Developer | Happiest Resume | [apply ↗](https://www.adzuna.in/details/5895780427?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895780427?utm_medium=api&` |
 | — | 2026-09-24 | Software Engineer - C++ / Game Engine | Keywords Studios | [apply ↗](https://www.adzuna.in/details/5896786073?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896786073?utm_medium=api&` |
