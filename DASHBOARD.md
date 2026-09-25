@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-24 23:12 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-25 04:57 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1251)
+## 🎯 To apply (1256)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-25 | Open-Source Software Engineer (DevOps) | Artech Infosystems Private Limited | [apply ↗](https://www.adzuna.in/details/5897783891?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897783891?utm_medium=api&` |
+| — | 2026-09-25 | Python Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5897783744?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897783744?utm_medium=api&` |
+| — | 2026-09-25 | Software Engineer | IBM | [apply ↗](https://www.adzuna.in/details/5897783710?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897783710?utm_medium=api&` |
+| — | 2026-09-25 | Software Engineer | Kyndryl | [apply ↗](https://www.adzuna.in/land/ad/5897683093?se=aGUanJ248RGalJvHu54znw&utm_medium=api&utm_source=616fbe19&v=70251153B2A1B3E56007B86BBA469C98B1F9A9E8) | `python track.py applied 5897683093?se=aGUanJ248RGa` |
+| — | 2026-09-25 | Software Engineer in Test | Gurucul | [apply ↗](https://www.adzuna.in/land/ad/5897296388?se=aGUanJ248RGalJvHu54znw&utm_medium=api&utm_source=616fbe19&v=4C39C5AB635C4B7022AD1E90C96ADD93324215E3) | `python track.py applied 5897296388?se=aGUanJ248RGa` |
 | — | 2026-09-24 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5896122708?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896122708?utm_medium=api&` |
 | — | 2026-09-24 | Full Stack Software Developer | Happiest Resume | [apply ↗](https://www.adzuna.in/details/5895780427?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5895780427?utm_medium=api&` |
 | — | 2026-09-24 | Software Engineer - C++ / Game Engine | Keywords Studios | [apply ↗](https://www.adzuna.in/details/5896786073?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5896786073?utm_medium=api&` |
