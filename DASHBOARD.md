@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-26 13:05 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-26 19:13 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1277)
+## 🎯 To apply (1282)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -18,6 +18,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-26 | Software Engineer, Mobile(iOS) | OKX | [apply ↗](https://www.adzuna.in/details/5899536858?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899536858?utm_medium=api&` |
 | — | 2026-09-26 | Full-Stack Software Engineer | FAiHr | [apply ↗](https://www.adzuna.in/details/5899536044?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899536044?utm_medium=api&` |
 | — | 2026-09-26 | Embedded Software Engineer | Gravity Engineering Services Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5899536047?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899536047?utm_medium=api&` |
+| — | 2026-09-26 | Engineer - Software Developer | 3i Infotech Limited | [apply ↗](https://www.adzuna.in/details/5899870577?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899870577?utm_medium=api&` |
+| — | 2026-09-26 | Software Engineer - Android HMI | Harman Becker Automotive Systems Manufacturing Kft | [apply ↗](https://www.adzuna.in/details/5899869378?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899869378?utm_medium=api&` |
+| — | 2026-09-26 | Full Stack Engineer – Node.js, Spring Boot, Java, Microservices & REST APIs | Synechron | [apply ↗](https://www.adzuna.in/details/5899867439?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899867439?utm_medium=api&` |
+| — | 2026-09-26 | Software Engineer (Core Java , Microservices) | Mobility Global | [apply ↗](https://www.adzuna.in/details/5899864073?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899864073?utm_medium=api&` |
+| — | 2026-09-26 | FullStack Javascript, NodeJS Developer | Motorola Solutions | [apply ↗](https://www.adzuna.in/details/5899863628?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899863628?utm_medium=api&` |
 | — | 2026-09-25 | Open-Source Software Engineer (DevOps) | Artech Infosystems Private Limited | [apply ↗](https://www.adzuna.in/details/5897783891?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897783891?utm_medium=api&` |
 | — | 2026-09-25 | Python Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5897783744?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897783744?utm_medium=api&` |
 | — | 2026-09-25 | Software Engineer | IBM | [apply ↗](https://www.adzuna.in/details/5897783710?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5897783710?utm_medium=api&` |
