@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-27 13:58 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-27 19:45 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1289)
+## 🎯 To apply (1300)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -17,6 +17,17 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-27 | Robotics Software Engineer - L1 | Botsync | [apply ↗](https://www.adzuna.in/details/5900533462?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900533462?utm_medium=api&` |
 | — | 2026-09-27 | Software Engineer | RemoteJobsOne | [apply ↗](https://www.adzuna.in/details/5900410240?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900410240?utm_medium=api&` |
 | — | 2026-09-27 | Software Engineer, New Grad | RemoteJobsOne | [apply ↗](https://www.adzuna.in/details/5900409924?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900409924?utm_medium=api&` |
+| — | 2026-09-27 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5900752700?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900752700?utm_medium=api&` |
+| — | 2026-09-27 | Software Development Engineer | Ford Motor | [apply ↗](https://www.adzuna.in/details/5900751464?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900751464?utm_medium=api&` |
+| — | 2026-09-27 | DCS Software Engineer | Yokogawa | [apply ↗](https://www.adzuna.in/details/5900750998?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900750998?utm_medium=api&` |
+| — | 2026-09-27 | Software Engineer - AI Hub | Linde | [apply ↗](https://www.adzuna.in/details/5900750709?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900750709?utm_medium=api&` |
+| — | 2026-09-27 | Software Engineer (Java with Snowflake) | DTCC | [apply ↗](https://www.adzuna.in/details/5900749060?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900749060?utm_medium=api&` |
+| — | 2026-09-27 | Graduate Engineer, Software | Barry-Wehmiller | [apply ↗](https://www.adzuna.in/details/5900746959?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900746959?utm_medium=api&` |
+| — | 2026-09-27 | Historian System and Software Engineer | Linde | [apply ↗](https://www.adzuna.in/details/5900746919?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900746919?utm_medium=api&` |
+| — | 2026-09-27 | Software Engineer - Python and K8s | Jobgether | [apply ↗](https://www.adzuna.in/details/5900743984?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900743984?utm_medium=api&` |
+| — | 2026-09-27 | Software Engineer I | BetterWorks Systems | [apply ↗](https://www.adzuna.in/details/5900743341?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900743341?utm_medium=api&` |
+| — | 2026-09-27 | Security Software Engineer | Jobgether | [apply ↗](https://www.adzuna.in/details/5900741816?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900741816?utm_medium=api&` |
+| — | 2026-09-27 | Packaged/SaaS Application Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5900741327?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900741327?utm_medium=api&` |
 | — | 2026-09-26 | Junior Software Engineer â Fresher AI/ML | httpswwwicloudemscomvlog | [apply ↗](https://www.adzuna.in/details/5899555577?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899555577?utm_medium=api&` |
 | — | 2026-09-26 | Graduate Engineer Trainee (GET) – Design Engineering | Milacron | [apply ↗](https://www.adzuna.in/details/5899549724?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899549724?utm_medium=api&` |
 | — | 2026-09-26 | Java Full Stack Developer | Planon | [apply ↗](https://www.adzuna.in/details/5899549570?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899549570?utm_medium=api&` |
