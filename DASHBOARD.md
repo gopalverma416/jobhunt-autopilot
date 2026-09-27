@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-27 05:18 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-27 13:58 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1285)
+## 🎯 To apply (1289)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-27 | Full Stack Development | Hucon Solutions India Private Limited | [apply ↗](https://www.adzuna.in/details/5900190860?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900190860?utm_medium=api&` |
 | — | 2026-09-27 | Software Engineer | H&M | [apply ↗](https://www.adzuna.in/details/5899991050?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899991050?utm_medium=api&` |
 | — | 2026-09-27 | Custom Software Engineer - Microsoft ASP.NET | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5899962562?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899962562?utm_medium=api&` |
+| — | 2026-09-27 | Software Development Engineer, Time & Pay Innovation | Amazon Dev Center India - Hyderabad | [apply ↗](https://www.adzuna.in/details/5900550682?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900550682?utm_medium=api&` |
+| — | 2026-09-27 | Robotics Software Engineer - L1 | Botsync | [apply ↗](https://www.adzuna.in/details/5900533462?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900533462?utm_medium=api&` |
+| — | 2026-09-27 | Software Engineer | RemoteJobsOne | [apply ↗](https://www.adzuna.in/details/5900410240?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900410240?utm_medium=api&` |
+| — | 2026-09-27 | Software Engineer, New Grad | RemoteJobsOne | [apply ↗](https://www.adzuna.in/details/5900409924?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900409924?utm_medium=api&` |
 | — | 2026-09-26 | Junior Software Engineer â Fresher AI/ML | httpswwwicloudemscomvlog | [apply ↗](https://www.adzuna.in/details/5899555577?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899555577?utm_medium=api&` |
 | — | 2026-09-26 | Graduate Engineer Trainee (GET) – Design Engineering | Milacron | [apply ↗](https://www.adzuna.in/details/5899549724?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899549724?utm_medium=api&` |
 | — | 2026-09-26 | Java Full Stack Developer | Planon | [apply ↗](https://www.adzuna.in/details/5899549570?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899549570?utm_medium=api&` |
