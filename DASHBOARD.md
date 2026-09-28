@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-28 05:24 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-28 16:45 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1302)
+## 🎯 To apply (1310)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,14 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-09-28 | Computer Vision Engineer I | Big Bang Boom Solutions Private Limited | [apply ↗](https://www.adzuna.in/land/ad/5901137331?se=1NiV0Py68RGGQ9u1mQKVdw&utm_medium=api&utm_source=616fbe19&v=BD8DC4BB63ADBC988D72F63751F8A89283B65E1A) | `python track.py applied 5901137331?se=1NiV0Py68RGG` |
 | — | 2026-09-28 | Full stack Python developer with AI // Pune/Mumbai/Chennai // Hybrid // Fulltime permanent | AceStack | [apply ↗](https://www.adzuna.in/land/ad/5901133441?se=1NiV0Py68RGGQ9u1mQKVdw&utm_medium=api&utm_source=616fbe19&v=BD7FF84F387A60DCE0EFD1477B2AC8FE3D148B8B) | `python track.py applied 5901133441?se=1NiV0Py68RGG` |
+| — | 2026-09-28 | Software Engineer, AVP | Natwest Group | [apply ↗](https://www.adzuna.in/details/5901699576?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5901699576?utm_medium=api&` |
+| — | 2026-09-28 | Software Development Engineer, Time & Pay Innovation | Amazon | [apply ↗](https://www.adzuna.in/details/5901696341?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5901696341?utm_medium=api&` |
+| — | 2026-09-28 | Backend Engineer | Nat Habit | [apply ↗](https://www.adzuna.in/land/ad/5901560020?se=nKo5_Fu78RG8drI3UgoA2A&utm_medium=api&utm_source=616fbe19&v=6B55394FEDE6FB8CC4D2048B6FF3EADE463570AF) | `python track.py applied 5901560020?se=nKo5_Fu78RG8` |
+| — | 2026-09-28 | Fullstack Web3 Engineer | Marketnode | [apply ↗](https://www.adzuna.in/details/5901481124?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5901481124?utm_medium=api&` |
+| — | 2026-09-28 | Software Development Engineer, Time & Pay Innovation | Amazon | [apply ↗](https://www.adzuna.in/details/5901481024?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5901481024?utm_medium=api&` |
+| — | 2026-09-28 | Python Backend Engineer | Hitachi Solutions India | [apply ↗](https://www.adzuna.in/details/5901427033?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5901427033?utm_medium=api&` |
+| — | 2026-09-28 | AI Software Engineer | Hitachi Solutions India | [apply ↗](https://www.adzuna.in/details/5901427030?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5901427030?utm_medium=api&` |
+| — | 2026-09-28 | Software Engineer | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer_R-290498-1) | `python track.py applied Software-Engineer_R-290498` |
 | — | 2026-09-27 | Full Stack Development | Hucon Solutions India Private Limited | [apply ↗](https://www.adzuna.in/details/5900190860?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5900190860?utm_medium=api&` |
 | — | 2026-09-27 | Software Engineer | H&M | [apply ↗](https://www.adzuna.in/details/5899991050?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899991050?utm_medium=api&` |
 | — | 2026-09-27 | Custom Software Engineer - Microsoft ASP.NET | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5899962562?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5899962562?utm_medium=api&` |
