@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-29 00:22 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-29 10:41 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1312)
+## 🎯 To apply (1320)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,14 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-09-29 | Software Engineer Frontend (React / TypeScript)_104088 | MyCareernet | [apply ↗](https://www.adzuna.in/details/5901762262?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5901762262?utm_medium=api&` |
 | — | 2026-09-29 | Backend Engineer | Nat Habit | [apply ↗](https://www.adzuna.in/land/ad/5901560020?se=uPZHzZu78RG3HbWPlKe6Vw&utm_medium=api&utm_source=616fbe19&v=6B55394FEDE6FB8CC4D2048B6FF3EADE463570AF) | `python track.py applied 5901560020?se=uPZHzZu78RG3` |
+| — | 2026-09-29 | Software Engineer | Ford Motor Company | [apply ↗](https://www.adzuna.in/details/5902594558?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5902594558?utm_medium=api&` |
+| — | 2026-09-29 | Software Development Engineer | Ford Motor Company | [apply ↗](https://www.adzuna.in/details/5902594507?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5902594507?utm_medium=api&` |
+| — | 2026-09-29 | Software Development Engineer, Inventory Authority Platform (IAP) | Amazon | [apply ↗](https://www.adzuna.in/details/5902583450?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5902583450?utm_medium=api&` |
+| — | 2026-09-29 | Software Engineer | ABB | [apply ↗](https://www.adzuna.in/land/ad/5902562268?se=oCe1RfK78RGQguK4I3PIXQ&utm_medium=api&utm_source=616fbe19&v=A87B08E09FDF66E37FCD585AB359EB4F2E8E1B12) | `python track.py applied 5902562268?se=oCe1RfK78RGQ` |
+| — | 2026-09-29 | Software Engineer (ETL Developers) | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5902535304?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5902535304?utm_medium=api&` |
+| — | 2026-09-29 | Systems Software Engineer — C++/Rust, Backend | MYSTINEX | [apply ↗](https://www.adzuna.in/land/ad/5902445980?se=oCe1RfK78RGQguK4I3PIXQ&utm_medium=api&utm_source=616fbe19&v=A43EE986CB4FD3E3F80D9083C514ED9CACDD0981) | `python track.py applied 5902445980?se=oCe1RfK78RGQ` |
+| — | 2026-09-29 | MERN Stack Software Engineer | Heads Up For Tails | [apply ↗](https://www.adzuna.in/details/5902287149?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5902287149?utm_medium=api&` |
+| — | 2026-09-29 | Software Engineer | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000152325889) | `python track.py applied 744000152325889` |
 | — | 2026-09-28 | Computer Vision Engineer I | Big Bang Boom Solutions Private Limited | [apply ↗](https://www.adzuna.in/land/ad/5901137331?se=1NiV0Py68RGGQ9u1mQKVdw&utm_medium=api&utm_source=616fbe19&v=BD8DC4BB63ADBC988D72F63751F8A89283B65E1A) | `python track.py applied 5901137331?se=1NiV0Py68RGG` |
 | — | 2026-09-28 | Full stack Python developer with AI // Pune/Mumbai/Chennai // Hybrid // Fulltime permanent | AceStack | [apply ↗](https://www.adzuna.in/land/ad/5901133441?se=1NiV0Py68RGGQ9u1mQKVdw&utm_medium=api&utm_source=616fbe19&v=BD7FF84F387A60DCE0EFD1477B2AC8FE3D148B8B) | `python track.py applied 5901133441?se=1NiV0Py68RGG` |
 | — | 2026-09-28 | Software Engineer, AVP | Natwest Group | [apply ↗](https://www.adzuna.in/details/5901699576?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5901699576?utm_medium=api&` |
