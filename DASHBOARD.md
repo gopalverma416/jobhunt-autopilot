@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-28 16:45 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-29 00:22 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1310)
+## 🎯 To apply (1312)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-29 | Software Engineer Frontend (React / TypeScript)_104088 | MyCareernet | [apply ↗](https://www.adzuna.in/details/5901762262?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5901762262?utm_medium=api&` |
+| — | 2026-09-29 | Backend Engineer | Nat Habit | [apply ↗](https://www.adzuna.in/land/ad/5901560020?se=uPZHzZu78RG3HbWPlKe6Vw&utm_medium=api&utm_source=616fbe19&v=6B55394FEDE6FB8CC4D2048B6FF3EADE463570AF) | `python track.py applied 5901560020?se=uPZHzZu78RG3` |
 | — | 2026-09-28 | Computer Vision Engineer I | Big Bang Boom Solutions Private Limited | [apply ↗](https://www.adzuna.in/land/ad/5901137331?se=1NiV0Py68RGGQ9u1mQKVdw&utm_medium=api&utm_source=616fbe19&v=BD8DC4BB63ADBC988D72F63751F8A89283B65E1A) | `python track.py applied 5901137331?se=1NiV0Py68RGG` |
 | — | 2026-09-28 | Full stack Python developer with AI // Pune/Mumbai/Chennai // Hybrid // Fulltime permanent | AceStack | [apply ↗](https://www.adzuna.in/land/ad/5901133441?se=1NiV0Py68RGGQ9u1mQKVdw&utm_medium=api&utm_source=616fbe19&v=BD7FF84F387A60DCE0EFD1477B2AC8FE3D148B8B) | `python track.py applied 5901133441?se=1NiV0Py68RGG` |
 | — | 2026-09-28 | Software Engineer, AVP | Natwest Group | [apply ↗](https://www.adzuna.in/details/5901699576?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5901699576?utm_medium=api&` |
