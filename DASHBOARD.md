@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-30 14:55 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-30 20:49 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1339)
+## 🎯 To apply (1348)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -20,6 +20,15 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-09-30 | Software Engineer | Smartstream Limited | [apply ↗](https://www.adzuna.in/details/5903790237?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903790237?utm_medium=api&` |
 | — | 2026-09-30 | Software Engineer-PLSQL Developer | Avaloq | [apply ↗](https://www.adzuna.in/details/5903790186?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903790186?utm_medium=api&` |
 | — | 2026-09-30 | Software Engineer, CDP - Foundations | Coinbase | [apply ↗](https://www.adzuna.in/details/5903779643?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903779643?utm_medium=api&` |
+| — | 2026-09-30 | Custom Software Engineer | Tekwissen India | [apply ↗](https://www.adzuna.in/details/5904171594?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904171594?utm_medium=api&` |
+| — | 2026-09-30 | Java Software Engineer - Connectors - Remote | Jitterbit | [apply ↗](https://www.adzuna.in/details/5904075712?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904075712?utm_medium=api&` |
+| — | 2026-09-30 | Java Software Engineer - Connectors - Remote | Jitterbit | [apply ↗](https://www.adzuna.in/details/5904075799?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904075799?utm_medium=api&` |
+| — | 2026-09-30 | Java Software Engineer - Connectors - Remote | Jitterbit | [apply ↗](https://www.adzuna.in/details/5904075596?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904075596?utm_medium=api&` |
+| — | 2026-09-30 | Software Engineer – Frontend Developer (Angular) | Altium | [apply ↗](https://www.adzuna.in/details/5904075574?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904075574?utm_medium=api&` |
+| — | 2026-09-30 | Java Software Engineer - Connectors - Remote | Jitterbit | [apply ↗](https://www.adzuna.in/details/5904075575?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904075575?utm_medium=api&` |
+| — | 2026-09-30 | Software Engineer | Genesys | [apply ↗](https://www.adzuna.in/details/5904052980?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904052980?utm_medium=api&` |
+| — | 2026-09-30 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5904052257?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904052257?utm_medium=api&` |
+| — | 2026-09-30 | Associate Software Engineer | Vistex Career | [apply ↗](https://www.adzuna.in/details/5904051973?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904051973?utm_medium=api&` |
 | — | 2026-09-29 | Software Engineer Frontend (React / TypeScript)_104088 | MyCareernet | [apply ↗](https://www.adzuna.in/details/5901762262?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5901762262?utm_medium=api&` |
 | — | 2026-09-29 | Backend Engineer | Nat Habit | [apply ↗](https://www.adzuna.in/land/ad/5901560020?se=uPZHzZu78RG3HbWPlKe6Vw&utm_medium=api&utm_source=616fbe19&v=6B55394FEDE6FB8CC4D2048B6FF3EADE463570AF) | `python track.py applied 5901560020?se=uPZHzZu78RG3` |
 | — | 2026-09-29 | Software Engineer | Ford Motor Company | [apply ↗](https://www.adzuna.in/details/5902594558?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5902594558?utm_medium=api&` |

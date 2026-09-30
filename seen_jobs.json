@@ -544,6 +544,14 @@
 "first": "2026-09-03T22:35:02+00:00",
 "sig": "launchdarkly|full stack engineer observability"
 },
+"https://job-boards.greenhouse.io/launchdarkly/jobs/8007080003": {
+"first": "2026-09-30T20:49:22+00:00",
+"sig": "launchdarkly|backend engineer multiple positions"
+},
+"https://job-boards.greenhouse.io/launchdarkly/jobs/8007085003": {
+"first": "2026-09-30T20:49:22+00:00",
+"sig": "launchdarkly|full stack engineer"
+},
 "https://job-boards.greenhouse.io/phonepe/jobs/7680147003": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "phonepe|software engineer ios"
@@ -9080,6 +9088,54 @@
 "first": "2026-09-30T14:55:42+00:00",
 "sig": "adci - karnataka|software development engineer ai trust innovation"
 },
+"https://www.adzuna.in/details/5904051973?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-30T20:49:22+00:00",
+"sig": "vistex career|associate software engineer"
+},
+"https://www.adzuna.in/details/5904052174?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-30T20:49:22+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5904052257?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-30T20:49:22+00:00",
+"sig": "cisco|software engineer"
+},
+"https://www.adzuna.in/details/5904052804?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-30T20:49:22+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5904052953?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-30T20:49:21+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5904052980?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-30T20:49:21+00:00",
+"sig": "genesys|software engineer"
+},
+"https://www.adzuna.in/details/5904075574?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-30T20:49:21+00:00",
+"sig": "altium|software engineer frontend developer angular"
+},
+"https://www.adzuna.in/details/5904075575?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-30T20:49:21+00:00",
+"sig": "jitterbit|java software engineer connectors remote"
+},
+"https://www.adzuna.in/details/5904075596?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-30T20:49:21+00:00",
+"sig": "jitterbit|java software engineer connectors remote"
+},
+"https://www.adzuna.in/details/5904075712?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-30T20:49:21+00:00",
+"sig": "jitterbit|java software engineer connectors remote"
+},
+"https://www.adzuna.in/details/5904075799?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-30T20:49:21+00:00",
+"sig": "jitterbit|java software engineer connectors remote"
+},
+"https://www.adzuna.in/details/5904171594?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-09-30T20:49:20+00:00",
+"sig": "tekwissen india|custom software engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -10298,6 +10354,7 @@
 "altinvest online platform pvt ltd|tech solution full stack engineer": "2026-07-30T10:34:34+00:00",
 "altium|software development engineer backend": "2026-07-29T03:39:48+00:00",
 "altium|software engineer frontend developer": "2026-07-30T06:41:10+00:00",
+"altium|software engineer frontend developer angular": "2026-09-30T20:49:21+00:00",
 "amadeus|software development engineer": "2026-08-07T17:07:02+00:00",
 "amadeus|software development engineer java": "2026-08-31T05:34:58+00:00",
 "amazon dev center india - hyderabad|sde expansions tech and product": "2026-09-19T12:30:04+00:00",
@@ -10772,6 +10829,7 @@
 "ge vernova|software engineer backend": "2026-07-24T06:39:43+00:00",
 "generac|software qa engineer i": "2026-09-05T18:18:14+00:00",
 "genesis global|software engineer java": "2026-09-22T13:24:59+00:00",
+"genesys|software engineer": "2026-09-30T20:49:21+00:00",
 "genios ai|software engineer ai platform india": "2026-09-24T19:59:32+00:00",
 "genl mills india priv|d t quality engineer i": "2026-08-22T16:41:00+00:00",
 "gentrack|software engineer intermediate": "2026-08-30T22:44:15+00:00",
@@ -10887,6 +10945,7 @@
 "iron mountain|software developer net": "2026-08-13T05:48:52+00:00",
 "iron mountain|software engineer": "2026-08-23T08:48:26+00:00",
 "ixigo|fullstack developer nodejs react": "2026-07-17T21:08:13+00:00",
+"jitterbit|java software engineer connectors remote": "2026-09-30T20:49:21+00:00",
 "jobcrexa|android engineer mts": "2026-08-29T13:49:59+00:00",
 "jobcrexa|software engineer": "2026-08-28T22:20:13+00:00",
 "jobcrexa|software engineer streaming messaging": "2026-09-14T20:19:12+00:00",
@@ -10946,6 +11005,8 @@
 "landeed|founding engineer fullstack react native any backend india": "2026-09-18T19:02:12+00:00",
 "landmark group|software engineer": "2026-09-08T22:40:45+00:00",
 "launchdarkly|backend engineer flag delivery": "2026-07-14T13:22:22+00:00",
+"launchdarkly|backend engineer multiple positions": "2026-09-30T20:49:22+00:00",
+"launchdarkly|full stack engineer": "2026-09-30T20:49:22+00:00",
 "launchdarkly|full stack engineer agentcontrol": "2026-07-14T13:22:22+00:00",
 "launchdarkly|full stack engineer experimentation": "2026-07-14T13:22:22+00:00",
 "launchdarkly|full stack engineer foundation": "2026-07-14T13:22:22+00:00",
@@ -11387,6 +11448,7 @@
 "techno wise|python full stack developer": "2026-08-01T13:55:15+00:00",
 "technoidentity|software engineer backend java": "2026-08-26T04:55:47+00:00",
 "technology|software engineer devops": "2026-09-21T20:25:35+00:00",
+"tekwissen india|custom software engineer": "2026-09-30T20:49:20+00:00",
 "teradata|ai full stack engineer ai platform": "2026-07-23T06:40:12+00:00",
 "teradata|full stack engineer ai platform": "2026-08-03T18:05:11+00:00",
 "testhiring|require a full stack software engineer in bangalore": "2026-08-12T02:44:17+00:00",
@@ -11527,6 +11589,7 @@
 "vida digital identity|software engineer android": "2026-08-24T16:55:28+00:00",
 "vinterraai|backend software engineer": "2026-07-28T10:45:27+00:00",
 "virtusa|software engineer": "2026-09-05T11:50:12+00:00",
+"vistex career|associate software engineer": "2026-09-30T20:49:22+00:00",
 "vmware|it software engineer": "2026-08-05T03:32:47+00:00",
 "vrinda international|custom software engineer hexagon intergraph smartplant accenture": "2026-08-05T21:32:25+00:00",
 "vrinda international|custom software engineer salesforce cg cloud": "2026-09-13T04:48:17+00:00",
