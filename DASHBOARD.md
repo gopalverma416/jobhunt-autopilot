@@ -1,15 +1,21 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-09-29 23:43 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-09-30 05:33 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1329)
+## 🎯 To apply (1335)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-09-30 | Software Engineer - Full Stack Developer (JavaReact) | NEC Software Solutions  | [apply ↗](https://www.adzuna.in/details/5903437233?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903437233?utm_medium=api&` |
+| — | 2026-09-30 | Software Engineer-PLSQL Developer | Avaloq | [apply ↗](https://www.adzuna.in/details/5903437145?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903437145?utm_medium=api&` |
+| — | 2026-09-30 | Software Engineer (Java & C++) | Miratech | [apply ↗](https://www.adzuna.in/details/5903437085?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903437085?utm_medium=api&` |
+| — | 2026-09-30 | Software Engineer, Fullstack | Talent Systems | [apply ↗](https://www.adzuna.in/details/5903420273?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903420273?utm_medium=api&` |
+| — | 2026-09-30 | Software Engineer | LTM | [apply ↗](https://www.adzuna.in/details/5903326278?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903326278?utm_medium=api&` |
+| — | 2026-09-30 | Software Engineer (Mainframe Testing) | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer--Mainframe-Automation-Testing-_R-277413) | `python track.py applied Software-Engineer--Mainfra` |
 | — | 2026-09-29 | Software Engineer Frontend (React / TypeScript)_104088 | MyCareernet | [apply ↗](https://www.adzuna.in/details/5901762262?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5901762262?utm_medium=api&` |
 | — | 2026-09-29 | Backend Engineer | Nat Habit | [apply ↗](https://www.adzuna.in/land/ad/5901560020?se=uPZHzZu78RG3HbWPlKe6Vw&utm_medium=api&utm_source=616fbe19&v=6B55394FEDE6FB8CC4D2048B6FF3EADE463570AF) | `python track.py applied 5901560020?se=uPZHzZu78RG3` |
 | — | 2026-09-29 | Software Engineer | Ford Motor Company | [apply ↗](https://www.adzuna.in/details/5902594558?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5902594558?utm_medium=api&` |
