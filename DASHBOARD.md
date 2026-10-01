@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-01 15:27 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-01 21:02 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1361)
+## 🎯 To apply (1366)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -23,6 +23,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-01 | Software Engineer, Security Business Enablement | Stripe | [apply ↗](https://www.adzuna.in/details/5905420728?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905420728?utm_medium=api&` |
 | — | 2026-10-01 | Software Engineer, Metronome Infrastructure | Stripe | [apply ↗](https://www.adzuna.in/details/5905420609?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905420609?utm_medium=api&` |
 | — | 2026-10-01 | Software Engineer (Cybersecurity Integrations) - Armis | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000152830943) | `python track.py applied 744000152830943` |
+| — | 2026-10-01 | Custom Software Engineer - RPA - Automation Anywhere | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5906274237?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5906274237?utm_medium=api&` |
+| — | 2026-10-01 | Software Engineer | Smiths Detection | [apply ↗](https://www.adzuna.in/details/5905949340?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905949340?utm_medium=api&` |
+| — | 2026-10-01 | Software Engineer (Cybersecurity Integrations) - Armis | ServiceNow | [apply ↗](https://www.adzuna.in/details/5905949251?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905949251?utm_medium=api&` |
+| — | 2026-10-01 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5905926642?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905926642?utm_medium=api&` |
+| — | 2026-10-01 | AVP - Fullstack AI Engineer | Jefferies Financial Group | [apply ↗](https://www.adzuna.in/details/5905925979?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905925979?utm_medium=api&` |
 | — | 2026-09-30 | Software Engineer - Full Stack Developer (JavaReact) | NEC Software Solutions  | [apply ↗](https://www.adzuna.in/details/5903437233?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903437233?utm_medium=api&` |
 | — | 2026-09-30 | Software Engineer-PLSQL Developer | Avaloq | [apply ↗](https://www.adzuna.in/details/5903437145?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903437145?utm_medium=api&` |
 | — | 2026-09-30 | Software Engineer (Java & C++) | Miratech | [apply ↗](https://www.adzuna.in/details/5903437085?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903437085?utm_medium=api&` |
