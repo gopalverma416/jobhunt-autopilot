@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-01 05:54 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-01 15:27 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1352)
+## 🎯 To apply (1361)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,15 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-01 | Full Stack Engineer | Talent Systems, LLC | [apply ↗](https://www.adzuna.in/details/5904434643?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904434643?utm_medium=api&` |
 | — | 2026-10-01 | Custom Software Engineer - Automation Anywhere | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5904171723?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904171723?utm_medium=api&` |
 | — | 2026-10-01 | Software Engineer (Cybersecurity Integrations) - Armis | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000152831074) | `python track.py applied 744000152831074` |
+| — | 2026-10-01 | Software Development Engineer, Amazon Fulfillment Technology (AFT), Platform Engineering and Services | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5905460624?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905460624?utm_medium=api&` |
+| — | 2026-10-01 | Software Engineer I | PAR Technology | [apply ↗](https://www.adzuna.in/details/5905434404?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905434404?utm_medium=api&` |
+| — | 2026-10-01 | Java Full stack Developer with Angular | Cognizant | [apply ↗](https://www.adzuna.in/details/5905434243?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905434243?utm_medium=api&` |
+| — | 2026-10-01 | Software Dev Engineer I, Amazon University Talent Acquisition | Amazon | [apply ↗](https://www.adzuna.in/details/5905433866?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905433866?utm_medium=api&` |
+| — | 2026-10-01 | Software Development Engineer, CAM | Amazon | [apply ↗](https://www.adzuna.in/details/5905433782?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905433782?utm_medium=api&` |
+| — | 2026-10-01 | Software Engineer - React Native | Oolka | [apply ↗](https://www.adzuna.in/details/5905433843?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905433843?utm_medium=api&` |
+| — | 2026-10-01 | Software Engineer, Security Business Enablement | Stripe | [apply ↗](https://www.adzuna.in/details/5905420728?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905420728?utm_medium=api&` |
+| — | 2026-10-01 | Software Engineer, Metronome Infrastructure | Stripe | [apply ↗](https://www.adzuna.in/details/5905420609?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5905420609?utm_medium=api&` |
+| — | 2026-10-01 | Software Engineer (Cybersecurity Integrations) - Armis | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000152830943) | `python track.py applied 744000152830943` |
 | — | 2026-09-30 | Software Engineer - Full Stack Developer (JavaReact) | NEC Software Solutions  | [apply ↗](https://www.adzuna.in/details/5903437233?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903437233?utm_medium=api&` |
 | — | 2026-09-30 | Software Engineer-PLSQL Developer | Avaloq | [apply ↗](https://www.adzuna.in/details/5903437145?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903437145?utm_medium=api&` |
 | — | 2026-09-30 | Software Engineer (Java & C++) | Miratech | [apply ↗](https://www.adzuna.in/details/5903437085?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5903437085?utm_medium=api&` |
