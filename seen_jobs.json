@@ -288,6 +288,14 @@
 "first": "2026-09-18T12:58:20+00:00",
 "sig": "cloudflare|software engineer"
 },
+"https://boards.greenhouse.io/cloudflare/jobs/8245503?gh_jid=8245503": {
+"first": "2026-10-02T20:45:14+00:00",
+"sig": "cloudflare|vulnerability defense software engineer cloudforce one"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/8248635?gh_jid=8248635": {
+"first": "2026-10-02T20:45:14+00:00",
+"sig": "cloudflare|software engineer mobile sdk"
+},
 "https://careers-americas.icims.com/jobs/25301/software-engineer/job": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "atlassian|software engineer"
@@ -339,6 +347,22 @@
 "https://careers-apac-atlassian.icims.com/jobs/27266/software-engineer%2c-search-platform/job": {
 "first": "2026-09-17T13:27:40+00:00",
 "sig": "atlassian|software engineer search platform"
+},
+"https://careers-apac-atlassian.icims.com/jobs/27577/software-engineer/job": {
+"first": "2026-10-02T20:45:14+00:00",
+"sig": "atlassian|software engineer"
+},
+"https://careers-apac-atlassian.icims.com/jobs/27578/software-engineer/job": {
+"first": "2026-10-02T20:45:14+00:00",
+"sig": "atlassian|software engineer"
+},
+"https://careers-apac-atlassian.icims.com/jobs/27579/software-engineer/job": {
+"first": "2026-10-02T20:45:14+00:00",
+"sig": "atlassian|software engineer"
+},
+"https://careers-apac-atlassian.icims.com/jobs/27580/software-engineer/job": {
+"first": "2026-10-02T20:45:14+00:00",
+"sig": "atlassian|software engineer"
 },
 "https://careers.airbnb.com/positions/7744247?gh_jid=7744247": {
 "first": "2026-07-14T13:22:21+00:00",
@@ -9340,6 +9364,22 @@
 "first": "2026-10-02T14:44:26+00:00",
 "sig": "wen|specialist software engineer net"
 },
+"https://www.adzuna.in/details/5908405031?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-02T20:45:14+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5908405849?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-02T20:45:14+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5908406972?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-02T20:45:14+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5908407515?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-02T20:45:14+00:00",
+"sig": "accenture|custom software engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -10895,6 +10935,7 @@
 "cloudflare|software engineer egress go rust": "2026-09-11T19:09:44+00:00",
 "cloudflare|software engineer enterprise integrations": "2026-08-25T16:55:36+00:00",
 "cloudflare|software engineer fl": "2026-08-27T22:16:07+00:00",
+"cloudflare|software engineer mobile sdk": "2026-10-02T20:45:14+00:00",
 "cloudflare|software engineer network firewall": "2026-08-07T00:55:23+00:00",
 "cloudflare|software engineer network performance reliability": "2026-07-14T13:22:21+00:00",
 "cloudflare|software engineer network platforms": "2026-07-14T13:22:21+00:00",
@@ -10915,6 +10956,7 @@
 "cloudflare|systems engineer spectrum": "2026-07-30T17:48:44+00:00",
 "cloudflare|systems engineer ssl tls team": "2026-08-27T22:16:07+00:00",
 "cloudflare|threat intelligence software engineer cloudforce one": "2026-07-14T13:22:21+00:00",
+"cloudflare|vulnerability defense software engineer cloudforce one": "2026-10-02T20:45:14+00:00",
 "cockroachlabs|member of technical staff": "2026-07-23T10:34:57+00:00",
 "cockroachlabs|member of technical staff test engineering": "2026-07-14T13:22:21+00:00",
 "coditas technologies|dot net full stack developer": "2026-08-08T02:22:47+00:00",

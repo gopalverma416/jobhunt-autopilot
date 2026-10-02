@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-02 14:44 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-02 20:45 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1375)
+## 🎯 To apply (1377)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -19,6 +19,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-02 | Software Engineer - Java Developer | SCIENTIFIC GAMES | [apply ↗](https://www.adzuna.in/details/5907834237?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5907834237?utm_medium=api&` |
 | — | 2026-10-02 | Software Engineer - AWS Cloud Engineer | CGI | [apply ↗](https://www.adzuna.in/details/5907833865?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5907833865?utm_medium=api&` |
 | — | 2026-10-02 | Software Engineer, Stripe Tax | Stripe | [apply ↗](https://www.adzuna.in/details/5907824957?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5907824957?utm_medium=api&` |
+| — | 2026-10-02 | Software Engineer | Atlassian | [apply ↗](https://careers-apac-atlassian.icims.com/jobs/27577/software-engineer/job) | `python track.py applied job` |
+| — | 2026-10-02 | Software Engineer, Mobile SDK | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8248635?gh_jid=8248635) | `python track.py applied 8248635?gh_jid=8248635` |
 | — | 2026-10-01 | .NET Backend Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5904539516?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904539516?utm_medium=api&` |
 | — | 2026-10-01 | Full Stack Engineer | Talent Systems, LLC | [apply ↗](https://www.adzuna.in/details/5904434643?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904434643?utm_medium=api&` |
 | — | 2026-10-01 | Custom Software Engineer - Automation Anywhere | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5904171723?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5904171723?utm_medium=api&` |
