@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-03 13:23 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-03 19:13 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1386)
+## 🎯 To apply (1394)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -19,6 +19,14 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-03 | Binance Accelerator Program - Backend Engineer, Pay & Card | Binance | [apply ↗](https://www.adzuna.in/details/5909809730?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5909809730?utm_medium=api&` |
 | — | 2026-10-03 | Software Engineer, Revenue and Financial Automation | Stripe | [apply ↗](https://www.adzuna.in/details/5909808639?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5909808639?utm_medium=api&` |
 | — | 2026-10-03 | Software Engineer (Cybersecurity Integrations) - Armis | ServiceNow, Inc. | [apply ↗](https://www.adzuna.in/details/5909549584?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5909549584?utm_medium=api&` |
+| — | 2026-10-03 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5910255186?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5910255186?utm_medium=api&` |
+| — | 2026-10-03 | Associate Software Engineer (.Net Full Stack Developer) | First Advantage | [apply ↗](https://www.adzuna.in/details/5910254356?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5910254356?utm_medium=api&` |
+| — | 2026-10-03 | Full Stack Developer | Airbus | [apply ↗](https://www.adzuna.in/details/5910254285?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5910254285?utm_medium=api&` |
+| — | 2026-10-03 | Software Engineer (C++) | Turing | [apply ↗](https://www.adzuna.in/details/5910253891?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5910253891?utm_medium=api&` |
+| — | 2026-10-03 | Java Full Stack Developer - Officer | State Street | [apply ↗](https://www.adzuna.in/details/5910253642?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5910253642?utm_medium=api&` |
+| — | 2026-10-03 | Associate Software Engineer (.Net Full Stack Developer) | Jobgether | [apply ↗](https://www.adzuna.in/details/5910250924?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5910250924?utm_medium=api&` |
+| — | 2026-10-03 | Software Engineer, Backend | Wisdom AI | [apply ↗](https://www.adzuna.in/details/5910249938?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5910249938?utm_medium=api&` |
+| — | 2026-10-03 | Software Engineer, Business Insights Platform | Google | [apply ↗](https://www.adzuna.in/details/5910249195?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5910249195?utm_medium=api&` |
 | — | 2026-10-02 | Salesforce Software Engineer | Elsevier | [apply ↗](https://www.adzuna.in/land/ad/5907101687?se=6KnHWCO-8RGs4p7qNUO4VA&utm_medium=api&utm_source=616fbe19&v=AD8F43798554B8B03FA1897C8B2C1C212B373781) | `python track.py applied 5907101687?se=6KnHWCO-8RGs` |
 | — | 2026-10-02 | GCP Full-Stack Data & AI Engineer, AS | Deutsche Bank | [apply ↗](https://www.adzuna.in/land/ad/5907101674?se=6KnHWCO-8RGs4p7qNUO4VA&utm_medium=api&utm_source=616fbe19&v=C889D467EBB353186516C1789FBA2036E1667356) | `python track.py applied 5907101674?se=6KnHWCO-8RGs` |
 | — | 2026-10-02 | Software Engineer | Umanist Staffing LLC | [apply ↗](https://www.adzuna.in/details/5906871999?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5906871999?utm_medium=api&` |
