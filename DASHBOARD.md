@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-04 14:05 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-04 19:37 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1401)
+## 🎯 To apply (1405)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -17,6 +17,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-04 | Mobile Application Software Engineer - Toro Technology Center India | The Toro Company | [apply ↗](https://www.adzuna.in/details/5911188263?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5911188263?utm_medium=api&` |
 | — | 2026-10-04 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5911187801?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5911187801?utm_medium=api&` |
 | — | 2026-10-04 | Software Developer | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000153372859) | `python track.py applied 744000153372859` |
+| — | 2026-10-04 | Software Engineer - Ethernet | Harman Becker Automotive Systems Manufacturing Kft | [apply ↗](https://www.adzuna.in/details/5911684788?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5911684788?utm_medium=api&` |
+| — | 2026-10-04 | Software Engineer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5911679841?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5911679841?utm_medium=api&` |
+| — | 2026-10-04 | Systems Engineer - Systems Study | GE Vernova | [apply ↗](https://www.adzuna.in/details/5911672920?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5911672920?utm_medium=api&` |
+| — | 2026-10-04 | Software Development Engineer I | Safe Security | [apply ↗](https://www.adzuna.in/details/5911670302?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5911670302?utm_medium=api&` |
 | — | 2026-10-03 | Software Engineer - Infrastructure & Platform | Swish | [apply ↗](https://www.adzuna.in/details/5909254405?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5909254405?utm_medium=api&` |
 | — | 2026-10-03 | Software Engineer | Harness | [apply ↗](https://www.adzuna.in/details/5909254433?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5909254433?utm_medium=api&` |
 | — | 2026-10-03 | Software Development Engineer (tvOS) | Fox Corporation | [apply ↗](https://www.adzuna.in/details/5909254374?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5909254374?utm_medium=api&` |
