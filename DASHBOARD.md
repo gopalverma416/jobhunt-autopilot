@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-04 23:10 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-05 05:40 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1405)
+## 🎯 To apply (1406)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-05 | Software Development Engineer I | Safe Security | [apply ↗](https://www.adzuna.in/details/5911684140?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5911684140?utm_medium=api&` |
 | — | 2026-10-04 | Software Engineer | Atlassian | [apply ↗](https://www.adzuna.in/details/5911161228?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5911161228?utm_medium=api&` |
 | — | 2026-10-04 | Engineer I, Embedded Software Design | Schneider Electric | [apply ↗](https://www.adzuna.in/details/5910860559?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5910860559?utm_medium=api&` |
 | — | 2026-10-04 | Software Engineer, Professional I | Zebra Technologies | [apply ↗](https://www.adzuna.in/details/5911188411?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5911188411?utm_medium=api&` |
