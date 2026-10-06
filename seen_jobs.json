@@ -776,6 +776,10 @@
 "first": "2026-08-04T21:35:54+00:00",
 "sig": "twilio|software engineer email"
 },
+"https://job-boards.greenhouse.io/twilio/jobs/8026211": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "twilio|software engineer platform access"
+},
 "https://job-boards.greenhouse.io/twilio/jobs/8048659": {
 "first": "2026-07-14T13:22:23+00:00",
 "sig": "twilio|associate application engineer"
@@ -9736,6 +9740,42 @@
 "first": "2026-10-06T11:16:41+00:00",
 "sig": "lifted, an upwork company\u2122|backend software engineer payments platform"
 },
+"https://www.adzuna.in/details/5914012957?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "turing|remote software engineer c"
+},
+"https://www.adzuna.in/details/5914013672?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "natwest group|wow software engineer avp"
+},
+"https://www.adzuna.in/details/5914013791?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5914014039?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "jobgether|full stack ai and data engineer aws"
+},
+"https://www.adzuna.in/details/5914014543?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5914016614?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "cisco|embedded software engineer"
+},
+"https://www.adzuna.in/details/5914017645?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "cisco|software engineer cloud native bng solution testing scale performance python year"
+},
+"https://www.adzuna.in/details/5914018126?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "natwest group|software engineer android"
+},
+"https://www.adzuna.in/details/5914018134?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "cisco|software engineer cloud native bng solution testing scale performance python years"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -10704,6 +10744,18 @@
 "first": "2026-10-06T11:16:41+00:00",
 "sig": "amazon|software development engineer amazon fulfillment technology aft platform engineering and services"
 },
+"https://www.amazon.jobs/en/jobs/10570248/software-development-engineer-amazon-fulfillment-technology-aft-platform-engineering-and-services": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "amazon|software development engineer amazon fulfillment technology aft platform engineering and services"
+},
+"https://www.amazon.jobs/en/jobs/10570250/software-engineer-flex-offer-journey": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "amazon|software engineer flex offer journey"
+},
+"https://www.amazon.jobs/en/jobs/10570254/software-engineer-flex-offer-journey": {
+"first": "2026-10-06T18:22:25+00:00",
+"sig": "amazon|software engineer flex offer journey"
+},
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
 "sig": "axonius|backend engineer s o paulo"
@@ -11092,6 +11144,7 @@
 "amazon|software development engineer your orders federation platform": "2026-07-12T06:29:34+00:00",
 "amazon|software devlopment engineer i amazon rewards": "2026-09-02T12:46:30+00:00",
 "amazon|software engineer cross border science and analytics": "2026-09-02T12:46:30+00:00",
+"amazon|software engineer flex offer journey": "2026-10-06T18:22:25+00:00",
 "amazon|software engineer selection monitoring": "2026-09-16T04:49:24+00:00",
 "amazon|software engineer selection monitoring selection monitoring": "2026-08-17T16:45:36+00:00",
 "amazon|system development engineer i fba": "2026-08-10T05:44:11+00:00",
@@ -11280,6 +11333,8 @@
 "cisco|software engineer agentic ai developer exp": "2026-08-12T05:46:26+00:00",
 "cisco|software engineer c c cellular wireless satellite communications": "2026-08-02T06:46:30+00:00",
 "cisco|software engineer cisco iq bangalore": "2026-08-23T16:43:16+00:00",
+"cisco|software engineer cloud native bng solution testing scale performance python year": "2026-10-06T18:22:25+00:00",
+"cisco|software engineer cloud native bng solution testing scale performance python years": "2026-10-06T18:22:25+00:00",
 "cisco|software engineer forward deployment": "2026-08-07T05:50:37+00:00",
 "cisco|software engineer full stack java microservices cloud years": "2026-09-09T12:58:15+00:00",
 "cisco|software engineer java go distributed systems microservices kafka cloud years": "2026-08-10T05:44:11+00:00",
@@ -11606,6 +11661,7 @@
 "jobcrexa|software engineer streaming messaging": "2026-09-14T20:19:12+00:00",
 "jobgenix|graduate software engineer": "2026-07-20T11:12:54+00:00",
 "jobgether|associate software engineer net full stack developer": "2026-10-03T19:13:43+00:00",
+"jobgether|full stack ai and data engineer aws": "2026-10-06T18:22:25+00:00",
 "jobgether|full stack engineer": "2026-07-15T03:34:54+00:00",
 "jobgether|full stack engineer aem": "2026-09-18T19:02:12+00:00",
 "jobgether|full stack engineer mds treasury asset management": "2026-08-07T00:55:22+00:00",
@@ -12206,6 +12262,7 @@
 "trigent software private limited|systems engineer hyberabad hybrid": "2026-07-27T21:30:03+00:00",
 "trueblue|software engineer": "2026-08-15T12:58:59+00:00",
 "tsavorite scalable intelligence|smts system software engineer security": "2026-09-07T14:15:28+00:00",
+"turing|remote software engineer c": "2026-10-06T18:22:25+00:00",
 "turing|remote software engineer ruby": "2026-09-13T13:18:35+00:00",
 "turing|software engineer": "2026-07-15T17:39:00+00:00",
 "turing|software engineer c": "2026-10-03T19:13:43+00:00",
@@ -12219,6 +12276,7 @@
 "twilio|software engineer email": "2026-07-23T21:28:42+00:00",
 "twilio|software engineer identity": "2026-09-09T19:16:50+00:00",
 "twilio|software engineer messaging api": "2026-08-21T20:41:09+00:00",
+"twilio|software engineer platform access": "2026-10-06T18:22:25+00:00",
 "twilio|technical support engineer": "2026-07-14T13:22:24+00:00",
 "two circles|software engineer custom tech": "2026-08-22T13:00:54+00:00",
 "u.s. bank|software engineer": "2026-07-21T03:45:19+00:00",
