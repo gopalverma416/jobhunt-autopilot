@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-05 17:09 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-06 01:18 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1408)
+## 🎯 To apply (1413)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-06 | Full Stack BI Engineer - PowerBI, Tableau and REST API | Blend360 | [apply ↗](https://www.adzuna.in/details/5912975342?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912975342?utm_medium=api&` |
+| — | 2026-10-06 | Full-Stack AI Engineer | Indus Infotech | [apply ↗](https://www.adzuna.in/details/5912849005?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912849005?utm_medium=api&` |
+| — | 2026-10-06 | Full Stack Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5912848881?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912848881?utm_medium=api&` |
+| — | 2026-10-06 | Software Engineering - Packaged/SaaS Application Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5912847534?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912847534?utm_medium=api&` |
+| — | 2026-10-06 | Software Engineering - Packaged/SaaS Application Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5912847552?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912847552?utm_medium=api&` |
 | — | 2026-10-05 | Software Development Engineer I | Safe Security | [apply ↗](https://www.adzuna.in/details/5911684140?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5911684140?utm_medium=api&` |
 | — | 2026-10-05 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5912692531?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912692531?utm_medium=api&` |
 | — | 2026-10-05 | Software Engineering, MTS (Backend) | Salesforce | [apply ↗](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering--MTS--Backend---Infra-_JR350272) | `python track.py applied Software-Engineering--MTS-` |
