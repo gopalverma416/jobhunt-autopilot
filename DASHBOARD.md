@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-06 18:22 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-06 23:48 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1431)
+## 🎯 To apply (1437)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -33,6 +33,12 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-06 | WoW Software Engineer, AVP | Natwest Group | [apply ↗](https://www.adzuna.in/details/5914013672?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5914013672?utm_medium=api&` |
 | — | 2026-10-06 | Remote Software Engineer (C++) | Turing | [apply ↗](https://www.adzuna.in/details/5914012957?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5914012957?utm_medium=api&` |
 | — | 2026-10-06 | Software Engineer, Platform Access (L2) | Twilio | [apply ↗](https://job-boards.greenhouse.io/twilio/jobs/8026211) | `python track.py applied 8026211` |
+| — | 2026-10-06 | Software Engineer QA - Automation | Chimera Technologies Pvt. Ltd. | [apply ↗](https://www.adzuna.in/details/5914334424?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5914334424?utm_medium=api&` |
+| — | 2026-10-06 | Software Engineer - QA | Chimera Technologies Pvt. Ltd. | [apply ↗](https://www.adzuna.in/details/5914334380?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5914334380?utm_medium=api&` |
+| — | 2026-10-06 | AI-Powered Java Full Stack Engineer | Vrinda International | [apply ↗](https://www.adzuna.in/details/5914334311?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5914334311?utm_medium=api&` |
+| — | 2026-10-06 | Software Engineer AI | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5914221322?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5914221322?utm_medium=api&` |
+| — | 2026-10-06 | Software Engineering - Custom Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5914221345?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5914221345?utm_medium=api&` |
+| — | 2026-10-06 | Custom Software Engineer - Python (Programming Language) | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5914221328?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5914221328?utm_medium=api&` |
 | — | 2026-10-05 | Software Development Engineer I | Safe Security | [apply ↗](https://www.adzuna.in/details/5911684140?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5911684140?utm_medium=api&` |
 | — | 2026-10-05 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5912692531?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912692531?utm_medium=api&` |
 | — | 2026-10-05 | Software Engineering, MTS (Backend) | Salesforce | [apply ↗](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering--MTS--Backend---Infra-_JR350272) | `python track.py applied Software-Engineering--MTS-` |
