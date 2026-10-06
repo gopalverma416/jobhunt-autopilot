@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-06 01:18 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-06 11:16 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1413)
+## 🎯 To apply (1423)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,16 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-06 | Full Stack Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5912848881?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912848881?utm_medium=api&` |
 | — | 2026-10-06 | Software Engineering - Packaged/SaaS Application Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5912847534?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912847534?utm_medium=api&` |
 | — | 2026-10-06 | Software Engineering - Packaged/SaaS Application Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5912847552?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912847552?utm_medium=api&` |
+| — | 2026-10-06 | 109 - Backend Software Engineer - Payments Platform | Lifted, an Upwork Company™ | [apply ↗](https://www.adzuna.in/details/5913655316?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5913655316?utm_medium=api&` |
+| — | 2026-10-06 | Applications Engineer I | Emerson | [apply ↗](https://www.adzuna.in/details/5913464535?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5913464535?utm_medium=api&` |
+| — | 2026-10-06 | Software Engineer - EBS | lululemon India Tech Hub | [apply ↗](https://www.adzuna.in/details/5913461484?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5913461484?utm_medium=api&` |
+| — | 2026-10-06 | Software Engineer, Associate | Infor | [apply ↗](https://www.adzuna.in/details/5913249127?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5913249127?utm_medium=api&` |
+| — | 2026-10-06 | Embedded Software Development Engineer (4-6 Years) | Veoneer | [apply ↗](https://www.adzuna.in/details/5913249075?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5913249075?utm_medium=api&` |
+| — | 2026-10-06 | Expert 3D C++ Software Engineer | Align Technology | [apply ↗](https://www.adzuna.in/details/5913249123?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5913249123?utm_medium=api&` |
+| — | 2026-10-06 | Software Engineer - Platforms & Productivity | Cloudflare | [apply ↗](https://www.adzuna.in/details/5913249073?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5913249073?utm_medium=api&` |
+| — | 2026-10-06 | Full-Stack AI Engineer (UI/UX) Available to join in 0-15 days only | Neev Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5913214060?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5913214060?utm_medium=api&` |
+| — | 2026-10-06 | Software Engineer, Guest & Host | Airbnb | [apply ↗](https://careers.airbnb.com/positions/8245428?gh_jid=8245428) | `python track.py applied 8245428?gh_jid=8245428` |
+| — | 2026-10-06 | Software Engineer- SaaS O365 | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8256407?gh_jid=8256407) | `python track.py applied job.8256407?gh_jid=8256407` |
 | — | 2026-10-05 | Software Development Engineer I | Safe Security | [apply ↗](https://www.adzuna.in/details/5911684140?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5911684140?utm_medium=api&` |
 | — | 2026-10-05 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5912692531?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912692531?utm_medium=api&` |
 | — | 2026-10-05 | Software Engineering, MTS (Backend) | Salesforce | [apply ↗](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering--MTS--Backend---Infra-_JR350272) | `python track.py applied Software-Engineering--MTS-` |
