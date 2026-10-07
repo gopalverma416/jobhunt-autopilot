@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-07 15:33 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-07 21:18 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1456)
+## 🎯 To apply (1460)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -29,6 +29,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-07 | Software Engineer | Orbital | [apply ↗](https://www.adzuna.in/details/5916893275?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5916893275?utm_medium=api&` |
 | — | 2026-10-07 | Full-Stack Engineer (Backend Leaning) - Creative Agents | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe) | `python track.py applied 35813150-a851-4821-b732-a0` |
 | — | 2026-10-07 | Full-stack Engineer - Creative Agents | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945) | `python track.py applied 0b3a97d4-193c-4b47-9888-7e` |
+| — | 2026-10-07 | Java Full Stack Developer – AgentAI | Vrinda International | [apply ↗](https://www.adzuna.in/details/5917567130?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5917567130?utm_medium=api&` |
+| — | 2026-10-07 | Embedded Software Engineer with in Audio /Tuner/BT/WiFi/Projection/Ethernet AVB/Camera | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5917523672?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5917523672?utm_medium=api&` |
+| — | 2026-10-07 | Software Development Engineer | Fiserv | [apply ↗](https://www.adzuna.in/details/5917384402?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5917384402?utm_medium=api&` |
+| — | 2026-10-07 | Software Development Engineer in Test | insightsoftware | [apply ↗](https://www.adzuna.in/details/5917383312?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5917383312?utm_medium=api&` |
 | — | 2026-10-06 | Full Stack BI Engineer - PowerBI, Tableau and REST API | Blend360 | [apply ↗](https://www.adzuna.in/details/5912975342?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912975342?utm_medium=api&` |
 | — | 2026-10-06 | Full-Stack AI Engineer | Indus Infotech | [apply ↗](https://www.adzuna.in/details/5912849005?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912849005?utm_medium=api&` |
 | — | 2026-10-06 | Full Stack Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5912848881?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912848881?utm_medium=api&` |
