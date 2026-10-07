@@ -1,15 +1,23 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-06 23:48 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-07 05:59 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1437)
+## 🎯 To apply (1445)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-07 | Embedded Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5915685516?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5915685516?utm_medium=api&` |
+| — | 2026-10-07 | AI-Powered Java Full Stack Developer | Vrinda International | [apply ↗](https://www.adzuna.in/details/5915359626?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5915359626?utm_medium=api&` |
+| — | 2026-10-07 | Software Engineer | ABB | [apply ↗](https://www.adzuna.in/details/5915322883?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5915322883?utm_medium=api&` |
+| — | 2026-10-07 | .Net Core API Software Engineer | Brainsquare | [apply ↗](https://www.adzuna.in/details/5915106125?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5915106125?utm_medium=api&` |
+| — | 2026-10-07 | Java full stack Developer | CGI | [apply ↗](https://www.adzuna.in/details/5915042016?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5915042016?utm_medium=api&` |
+| — | 2026-10-07 | Software Engineer | SCIENTIFIC GAMES | [apply ↗](https://www.adzuna.in/details/5915041958?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5915041958?utm_medium=api&` |
+| — | 2026-10-07 | Software Engineer | Atlassian | [apply ↗](https://careers-apac-atlassian.icims.com/jobs/26758/software-engineer/job) | `python track.py applied job` |
+| — | 2026-10-07 | Software Engineer - Cloud: Azure | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8258200?gh_jid=8258200) | `python track.py applied job.8258200?gh_jid=8258200` |
 | — | 2026-10-06 | Full Stack BI Engineer - PowerBI, Tableau and REST API | Blend360 | [apply ↗](https://www.adzuna.in/details/5912975342?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912975342?utm_medium=api&` |
 | — | 2026-10-06 | Full-Stack AI Engineer | Indus Infotech | [apply ↗](https://www.adzuna.in/details/5912849005?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912849005?utm_medium=api&` |
 | — | 2026-10-06 | Full Stack Engineer | SourcingXPress | [apply ↗](https://www.adzuna.in/details/5912848881?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5912848881?utm_medium=api&` |
