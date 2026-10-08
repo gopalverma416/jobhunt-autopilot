@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-08 15:37 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-08 21:20 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1482)
+## 🎯 To apply (1490)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -32,6 +32,14 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-08 | Software Development Engineer, Last Mile Platform Services, SDE | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5918825164?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918825164?utm_medium=api&` |
 | — | 2026-10-08 | Fullstack Developer | Neenv Financial Technologies Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5918821864?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918821864?utm_medium=api&` |
 | — | 2026-10-08 | Software Engineer, SDK | Braintrust | [apply ↗](https://jobs.ashbyhq.com/braintrust/2a6c4ee9-063f-45d4-83ba-faf64b1f1a60) | `python track.py applied 2a6c4ee9-063f-45d4-83ba-fa` |
+| — | 2026-10-08 | Custom Software Engineer - Site Reliability Engineering | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5919544552?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919544552?utm_medium=api&` |
+| — | 2026-10-08 | Audio System Software Engineer - Embedded C++ | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5919544530?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919544530?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer | Maersk | [apply ↗](https://www.adzuna.in/details/5919358137?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919358137?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer- Golang | Infoblox | [apply ↗](https://www.adzuna.in/details/5919357925?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919357925?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5919357752?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919357752?utm_medium=api&` |
+| — | 2026-10-08 | (IND) Distinguished, Software Engineer | WM Global Technology Services India | [apply ↗](https://www.adzuna.in/details/5919357048?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919357048?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer (Java, Android/Kotlin/IOS/Javascript) | Motorola Solutions | [apply ↗](https://www.adzuna.in/details/5919356026?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919356026?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer | Natwest Group | [apply ↗](https://www.adzuna.in/details/5919354695?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919354695?utm_medium=api&` |
 | — | 2026-10-07 | Embedded Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5915685516?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5915685516?utm_medium=api&` |
 | — | 2026-10-07 | AI-Powered Java Full Stack Developer | Vrinda International | [apply ↗](https://www.adzuna.in/details/5915359626?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5915359626?utm_medium=api&` |
 | — | 2026-10-07 | Software Engineer | ABB | [apply ↗](https://www.adzuna.in/details/5915322883?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5915322883?utm_medium=api&` |
