@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-08 06:04 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-08 15:37 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1465)
+## 🎯 To apply (1482)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,23 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-08 | AI Native software Developer | Siemens Healthineers | [apply ↗](https://www.adzuna.in/details/5918154368?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918154368?utm_medium=api&` |
 | — | 2026-10-08 | Software Development Engineer 1 | Umanist Staffing LLC | [apply ↗](https://www.adzuna.in/details/5918133889?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918133889?utm_medium=api&` |
 | — | 2026-10-08 | Software Engineer (PL/SQL & Java) | Avaloq | [apply ↗](https://www.adzuna.in/details/5917680227?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5917680227?utm_medium=api&` |
+| — | 2026-10-08 | Full Stack Developer with AWS DevOps | Groupsoft US Inc | [apply ↗](https://www.adzuna.in/details/5919137897?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919137897?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer - Laravel | Radix Web | [apply ↗](https://www.adzuna.in/details/5918910685?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918910685?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer - Magento | Radix Web | [apply ↗](https://www.adzuna.in/details/5918910674?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918910674?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer - Java Spring | Tatsam | [apply ↗](https://www.adzuna.in/details/5918910509?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918910509?utm_medium=api&` |
+| — | 2026-10-08 | Software Development Engineer Testing (SDET) | Ushur Technologies Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5918910410?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918910410?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer FHIR | Greenway Health | [apply ↗](https://www.adzuna.in/details/5918909606?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918909606?utm_medium=api&` |
+| — | 2026-10-08 | Shopify App Developer/ Software Engineer - Ruby on Rails | Top Tech Hire | [apply ↗](https://www.adzuna.in/details/5918909417?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918909417?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer (Java Developer) | Interactive Brokers Software Services Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5918889216?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918889216?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer - Backend (Node.js) | Hewo products Private Limited | [apply ↗](https://www.adzuna.in/details/5918888323?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918888323?utm_medium=api&` |
+| — | 2026-10-08 | software engineer | Bottomline Technologies | [apply ↗](https://www.adzuna.in/details/5918868254?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918868254?utm_medium=api&` |
+| — | 2026-10-08 | Full Stack Developer - Jquery | MIS Work India Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5918846051?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918846051?utm_medium=api&` |
+| — | 2026-10-08 | Software Development Engineer in Test (SDET) | HappyFox | [apply ↗](https://www.adzuna.in/details/5918845037?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918845037?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer | Yugenai | [apply ↗](https://www.adzuna.in/details/5918844761?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918844761?utm_medium=api&` |
+| — | 2026-10-08 | Software Development Engineer | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5918825208?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918825208?utm_medium=api&` |
+| — | 2026-10-08 | Software Development Engineer, Last Mile Platform Services, SDE | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5918825164?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918825164?utm_medium=api&` |
+| — | 2026-10-08 | Fullstack Developer | Neenv Financial Technologies Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5918821864?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918821864?utm_medium=api&` |
+| — | 2026-10-08 | Software Engineer, SDK | Braintrust | [apply ↗](https://jobs.ashbyhq.com/braintrust/2a6c4ee9-063f-45d4-83ba-faf64b1f1a60) | `python track.py applied 2a6c4ee9-063f-45d4-83ba-fa` |
 | — | 2026-10-07 | Embedded Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5915685516?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5915685516?utm_medium=api&` |
 | — | 2026-10-07 | AI-Powered Java Full Stack Developer | Vrinda International | [apply ↗](https://www.adzuna.in/details/5915359626?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5915359626?utm_medium=api&` |
 | — | 2026-10-07 | Software Engineer | ABB | [apply ↗](https://www.adzuna.in/details/5915322883?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5915322883?utm_medium=api&` |

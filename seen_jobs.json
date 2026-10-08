@@ -912,6 +912,10 @@
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "benchling|software engineer platform developer experience"
 },
+"https://jobs.ashbyhq.com/braintrust/2a6c4ee9-063f-45d4-83ba-faf64b1f1a60": {
+"first": "2026-10-08T15:37:11+00:00",
+"sig": "braintrust|software engineer sdk"
+},
 "https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945": {
 "first": "2026-10-07T15:33:22+00:00",
 "sig": "elevenlabs|full stack engineer creative agents"
@@ -1219,6 +1223,14 @@
 "https://jobs.smartrecruiters.com/BoschGroup/744000154173617": {
 "first": "2026-10-07T21:18:17+00:00",
 "sig": "bosch|full stack with c angular"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000154402258": {
+"first": "2026-10-08T15:37:11+00:00",
+"sig": "bosch|java full stack developer"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000154402778": {
+"first": "2026-10-08T15:37:11+00:00",
+"sig": "bosch|java full stack developer"
 },
 "https://jobs.smartrecruiters.com/ServiceNow/744000144386100": {
 "first": "2026-08-19T20:45:35+00:00",
@@ -9968,6 +9980,74 @@
 "first": "2026-10-08T06:04:27+00:00",
 "sig": "officeworks|associate engineer stores"
 },
+"https://www.adzuna.in/details/5918821864?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:11+00:00",
+"sig": "neenv financial technologies pvt ltd|fullstack developer"
+},
+"https://www.adzuna.in/details/5918825164?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:10+00:00",
+"sig": "adci - karnataka|software development engineer last mile platform services sde"
+},
+"https://www.adzuna.in/details/5918825208?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:10+00:00",
+"sig": "adci - karnataka|software development engineer"
+},
+"https://www.adzuna.in/details/5918844761?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:10+00:00",
+"sig": "yugenai|software engineer"
+},
+"https://www.adzuna.in/details/5918845037?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:10+00:00",
+"sig": "happyfox|software development engineer in test sdet"
+},
+"https://www.adzuna.in/details/5918845065?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:10+00:00",
+"sig": "genetico research and diagnostics pvt ltd|software developer"
+},
+"https://www.adzuna.in/details/5918846051?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:10+00:00",
+"sig": "mis work india pvt ltd|full stack developer jquery"
+},
+"https://www.adzuna.in/details/5918868254?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:10+00:00",
+"sig": "bottomline technologies|software engineer"
+},
+"https://www.adzuna.in/details/5918888323?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:10+00:00",
+"sig": "hewo products private limited|software engineer backend node js"
+},
+"https://www.adzuna.in/details/5918889216?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:08+00:00",
+"sig": "interactive brokers software services pvt ltd|software engineer java developer"
+},
+"https://www.adzuna.in/details/5918909417?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:08+00:00",
+"sig": "top tech hire|shopify app developer software engineer ruby on rails"
+},
+"https://www.adzuna.in/details/5918909606?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:08+00:00",
+"sig": "greenway health|software engineer fhir"
+},
+"https://www.adzuna.in/details/5918910410?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:08+00:00",
+"sig": "ushur technologies pvt ltd|software development engineer testing sdet"
+},
+"https://www.adzuna.in/details/5918910509?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:08+00:00",
+"sig": "tatsam|software engineer java spring"
+},
+"https://www.adzuna.in/details/5918910674?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:08+00:00",
+"sig": "radix web|software engineer magento"
+},
+"https://www.adzuna.in/details/5918910685?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:08+00:00",
+"sig": "radix web|software engineer laravel"
+},
+"https://www.adzuna.in/details/5919137897?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-08T15:37:08+00:00",
+"sig": "groupsoft us inc|full stack developer with aws devops"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -11184,6 +11264,7 @@
 "adci - karnataka|software development engineer device software services": "2026-09-02T12:46:29+00:00",
 "adci - karnataka|software development engineer fulfillment by amazon fba": "2026-07-21T10:33:53+00:00",
 "adci - karnataka|software development engineer last mile last mile execution planning last mile execution planning": "2026-08-26T13:16:14+00:00",
+"adci - karnataka|software development engineer last mile platform services sde": "2026-10-08T15:37:10+00:00",
 "adci - karnataka|software development engineer loss prevention tech wwos corporate": "2026-07-17T10:12:05+00:00",
 "adci - karnataka|software development engineer payments acceptance and experience": "2026-09-14T15:01:51+00:00",
 "adci - karnataka|software development engineer prime video live events sports data platform": "2026-09-23T13:38:46+00:00",
@@ -11499,8 +11580,10 @@
 "bosch|vm brakes algorithm software developer indian oem": "2026-07-22T06:42:27+00:00",
 "botsync|robotics software engineer": "2026-08-23T13:01:55+00:00",
 "botsync|software development engineer i integrations": "2026-09-19T12:30:04+00:00",
+"bottomline technologies|software engineer": "2026-10-08T15:37:10+00:00",
 "bp|software engineer": "2026-08-07T17:07:02+00:00",
 "brainsquare|net core api software engineer": "2026-10-07T05:59:43+00:00",
+"braintrust|software engineer sdk": "2026-10-08T15:37:11+00:00",
 "brivo|software development engineer in test": "2026-09-15T13:33:44+00:00",
 "broadcom|r d software engineer": "2026-08-10T17:08:40+00:00",
 "bu consultants|software engineer i": "2026-08-06T03:36:53+00:00",
@@ -11763,6 +11846,7 @@
 "generac|software qa engineer i": "2026-09-05T18:18:14+00:00",
 "genesis global|software engineer java": "2026-09-22T13:24:59+00:00",
 "genesys|software engineer": "2026-09-30T20:49:21+00:00",
+"genetico research and diagnostics pvt ltd|software developer": "2026-10-08T15:37:10+00:00",
 "genios ai|software engineer ai platform india": "2026-09-24T19:59:32+00:00",
 "genl mills india priv|d t quality engineer i": "2026-08-22T16:41:00+00:00",
 "gentrack|software engineer intermediate": "2026-08-30T22:44:15+00:00",
@@ -11807,7 +11891,9 @@
 "gramian consulting group|software engineer backend ai code evaluation": "2026-09-23T04:45:18+00:00",
 "graviton research capital|software engineer graduate": "2026-09-02T19:23:19+00:00",
 "gravity engineering services pvt ltd|embedded software engineer": "2026-09-26T13:05:43+00:00",
+"greenway health|software engineer fhir": "2026-10-08T15:37:08+00:00",
 "gridshield technology pvt ltd|software engineer linux application": "2026-09-12T12:10:19+00:00",
+"groupsoft us inc|full stack developer with aws devops": "2026-10-08T15:37:08+00:00",
 "growloc private limited|software development engineer": "2026-08-11T02:28:04+00:00",
 "gsstech group|software engineer fullstack": "2026-09-24T13:33:16+00:00",
 "gsstech group|software engineer fullstack genai llms": "2026-07-30T10:34:34+00:00",
@@ -11824,6 +11910,7 @@
 "happiest minds technologies|software engineer python": "2026-09-22T13:24:58+00:00",
 "happiest resume|embedded software engineer": "2026-08-05T10:46:36+00:00",
 "happiest resume|full stack software developer": "2026-09-15T22:54:05+00:00",
+"happyfox|software development engineer in test sdet": "2026-10-08T15:37:10+00:00",
 "harman becker automotive systems manufacturing kft|software engineer ai ml": "2026-08-23T16:43:16+00:00",
 "harman becker automotive systems manufacturing kft|software engineer android hmi": "2026-09-26T19:13:20+00:00",
 "harman becker automotive systems manufacturing kft|software engineer c middleware": "2026-08-07T00:55:22+00:00",
@@ -11841,6 +11928,7 @@
 "hewlett packard enterprise|experienced net systems engineer": "2026-07-24T03:44:14+00:00",
 "hewlett packard enterprise|graduate software engineer": "2026-07-15T10:15:46+00:00",
 "hewlett packard enterprise|software engineer vpn pki network security": "2026-09-16T19:33:59+00:00",
+"hewo products private limited|software engineer backend node js": "2026-10-08T15:37:10+00:00",
 "highrise solutions llp|full stack developer se ssse dot net angular and aws": "2026-08-25T16:55:36+00:00",
 "hitachi careers|dotnet fullstack developer": "2026-09-27T19:45:41+00:00",
 "hitachi careers|engineer i automation qa": "2026-09-09T19:16:50+00:00",
@@ -11880,6 +11968,7 @@
 "insightsoftware|associate software engineer": "2026-09-25T20:01:57+00:00",
 "insightsoftware|software development engineer in test": "2026-10-07T21:18:17+00:00",
 "integrated consultancy services|full stack java developer": "2026-09-08T22:40:47+00:00",
+"interactive brokers software services pvt ltd|software engineer java developer": "2026-10-08T15:37:08+00:00",
 "iqvia|software developer": "2026-08-17T09:00:43+00:00",
 "iqvia|software development engineer": "2026-09-02T04:34:19+00:00",
 "iron mountain|associate software developer react js": "2026-08-13T05:48:52+00:00",
@@ -12038,6 +12127,7 @@
 "mindtickle|software engineer in infrastruture automation qa": "2026-07-14T13:22:23+00:00",
 "mirantis|software engineer": "2026-09-13T18:47:22+00:00",
 "miratech|software engineer java c": "2026-09-30T05:32:58+00:00",
+"mis work india pvt ltd|full stack developer jquery": "2026-10-08T15:37:10+00:00",
 "mobility global|software engineer core java microservices": "2026-09-26T19:13:20+00:00",
 "modaxo|software development engineer": "2026-08-16T16:42:28+00:00",
 "modernizing medicine|software engineer": "2026-09-22T19:44:50+00:00",
@@ -12083,6 +12173,7 @@
 "nec software solutions|software engineer full stack developer javareact": "2026-09-30T05:32:58+00:00",
 "nec software solutions|software engineer ibm planning analytics": "2026-07-30T03:28:38+00:00",
 "nec software solutions|software engineer instructional design": "2026-07-30T03:28:38+00:00",
+"neenv financial technologies pvt ltd|fullstack developer": "2026-10-08T15:37:11+00:00",
 "neev pvt ltd|full stack ai engineer ui ux available to join in days only": "2026-10-06T11:16:41+00:00",
 "netapp|software development engineer in test api ui agentic systems": "2026-08-23T08:48:26+00:00",
 "netapp|software engineer": "2026-07-16T06:31:28+00:00",
@@ -12235,6 +12326,8 @@
 "r1 rcm global private limited|software engineer": "2026-09-10T04:43:15+00:00",
 "r1 rcm|software engineer i": "2026-07-29T06:45:13+00:00",
 "r2r consultants llp|full stack engineer": "2026-09-08T22:40:45+00:00",
+"radix web|software engineer laravel": "2026-10-08T15:37:08+00:00",
+"radix web|software engineer magento": "2026-10-08T15:37:08+00:00",
 "ralliant|seniro software engineer": "2026-08-05T06:41:40+00:00",
 "ramp|software engineer argentina": "2026-07-14T13:22:23+00:00",
 "randomtrees|python software developer": "2026-08-21T04:54:36+00:00",
@@ -12416,6 +12509,7 @@
 "tata communications|software engineer": "2026-09-08T22:40:43+00:00",
 "tata consultancy services|java software engineer": "2026-09-08T22:40:44+00:00",
 "tata elxsi limited|adas software engineer automotive domain": "2026-07-23T03:44:41+00:00",
+"tatsam|software engineer java spring": "2026-10-08T15:37:08+00:00",
 "team geek solutions|full stack developer reactjava": "2026-09-02T12:46:30+00:00",
 "techbiz global gmbh|full stack developer": "2026-07-16T03:37:38+00:00",
 "techno wise|python full stack developer": "2026-08-01T13:55:15+00:00",
@@ -12448,6 +12542,7 @@
 "tokopedia|software engineer": "2026-08-14T02:46:08+00:00",
 "tokopedia|software engineer goto financial": "2026-08-14T02:46:08+00:00",
 "top gen ai jobs|software engineer golang agentic ai": "2026-09-01T05:08:23+00:00",
+"top tech hire|shopify app developer software engineer ruby on rails": "2026-10-08T15:37:08+00:00",
 "topcoder|react fullstack developer": "2026-09-16T19:33:59+00:00",
 "tower research capital|software engineer": "2026-08-06T03:36:53+00:00",
 "tower research capital|software engineer i": "2026-08-06T03:36:53+00:00",
@@ -12549,6 +12644,7 @@
 "unitedhealth group|software engineer java full stack angular kafka ci cd": "2026-08-06T06:45:45+00:00",
 "unitedhealth group|software engineer react js node js sql api mngt": "2026-08-02T06:46:29+00:00",
 "ups|intermediate application developer java full stack": "2026-09-04T12:43:27+00:00",
+"ushur technologies pvt ltd|software development engineer testing sdet": "2026-10-08T15:37:08+00:00",
 "vakilsearch|software engineer ui": "2026-09-04T04:33:46+00:00",
 "valtitude|associate software engineer full stack and cloud pune india office": "2026-07-18T03:32:23+00:00",
 "valuemomentum|software engineer": "2026-08-10T17:08:40+00:00",
@@ -12652,6 +12748,7 @@
 "yotta infrastructure|full stack engineer": "2026-09-05T04:29:23+00:00",
 "youtrip|frontend software engineer web": "2026-07-21T17:45:43+00:00",
 "youtrip|software engineer mobile app development": "2026-09-17T13:27:40+00:00",
+"yugenai|software engineer": "2026-10-08T15:37:10+00:00",
 "zapier|software engineer release engineering": "2026-07-14T14:05:09+00:00",
 "zebra technologies|application engineer": "2026-08-08T13:12:29+00:00",
 "zebra technologies|software engineer i": "2026-08-23T08:48:26+00:00",
