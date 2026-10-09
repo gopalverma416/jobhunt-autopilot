@@ -32,6 +32,10 @@
 "tg:offcampusjobsindia_IT:2573": "2026-07-13T10:18:54+00:00"
 },
 "jobs": {
+"https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Software-Development-Engineer-4_R170532": {
+"first": "2026-10-09T15:18:51+00:00",
+"sig": "adobe|software development engineer"
+},
 "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/Software-Development-Engineer-4_R170262": {
 "first": "2026-10-07T21:18:15+00:00",
 "sig": "adobe|software development engineer"
@@ -303,6 +307,10 @@
 "https://boards.greenhouse.io/cloudflare/jobs/8257140?gh_jid=8257140": {
 "first": "2026-10-09T06:08:57+00:00",
 "sig": "cloudflare|systems engineer data security"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/8264664?gh_jid=8264664": {
+"first": "2026-10-09T15:18:54+00:00",
+"sig": "cloudflare|software engineer"
 },
 "https://careers-americas.icims.com/jobs/25301/software-engineer/job": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -1236,6 +1244,18 @@
 "first": "2026-10-08T15:37:11+00:00",
 "sig": "bosch|java full stack developer"
 },
+"https://jobs.smartrecruiters.com/BoschGroup/744000154601353": {
+"first": "2026-10-09T15:18:54+00:00",
+"sig": "bosch|java full stack with java angular"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000154602988": {
+"first": "2026-10-09T15:18:54+00:00",
+"sig": "bosch|full stack with c angular"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000154658219": {
+"first": "2026-10-09T15:18:54+00:00",
+"sig": "bosch|java full stack developer"
+},
 "https://jobs.smartrecruiters.com/ServiceNow/744000144386100": {
 "first": "2026-08-19T20:45:35+00:00",
 "sig": "servicenow|software engineer"
@@ -1475,6 +1495,10 @@
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering--MTS-SMTS--Salesforce-Developer-_JR318187-1": {
 "first": "2026-08-03T11:43:58+00:00",
 "sig": "salesforce|salesforce developer software engineering mts smts"
+},
+"https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707": {
+"first": "2026-10-09T15:18:54+00:00",
+"sig": "salesforce|software engineering mts devops engineer"
 },
 "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--Full-Stack-_JR339748": {
 "first": "2026-09-01T19:23:48+00:00",
@@ -10132,6 +10156,46 @@
 "first": "2026-10-09T06:08:57+00:00",
 "sig": "emerson|applications engineer i"
 },
+"https://www.adzuna.in/details/5920455041?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T15:18:54+00:00",
+"sig": "lacroo technologies pty ltd|software development engineer"
+},
+"https://www.adzuna.in/details/5920457449?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T15:18:54+00:00",
+"sig": "enter|full stack developer founding engineer"
+},
+"https://www.adzuna.in/details/5920509129?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T15:18:53+00:00",
+"sig": "metabook technologies private limited|software engineer"
+},
+"https://www.adzuna.in/details/5920509151?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T15:18:52+00:00",
+"sig": "spritle software|django full stack developer"
+},
+"https://www.adzuna.in/details/5920526234?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T15:18:52+00:00",
+"sig": "olx|software engineer in test"
+},
+"https://www.adzuna.in/details/5920526502?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T15:18:52+00:00",
+"sig": "netconnect pvt. ltd.|software engineer"
+},
+"https://www.adzuna.in/details/5920557770?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T15:18:52+00:00",
+"sig": "growsmart smb solutions pvt ltd|software engineer front end react js"
+},
+"https://www.adzuna.in/details/5920557915?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T15:18:52+00:00",
+"sig": "volks consulting|software developer"
+},
+"https://www.adzuna.in/details/5920569312?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T15:18:52+00:00",
+"sig": "jamocha tech|software developer"
+},
+"https://www.adzuna.in/details/5920699132?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T15:18:52+00:00",
+"sig": "weekday ai|full stack engineer frontend focused aiprise"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -11112,6 +11176,10 @@
 "first": "2026-10-06T18:22:25+00:00",
 "sig": "amazon|software engineer flex offer journey"
 },
+"https://www.amazon.jobs/en/jobs/10570699/software-development-engineer-aws-dynamodb": {
+"first": "2026-10-09T15:18:54+00:00",
+"sig": "amazon|software development engineer aws dynamodb"
+},
 "https://www.amazon.jobs/en/jobs/10571784/software-development-engineer": {
 "first": "2026-10-07T15:33:22+00:00",
 "sig": "amazon|software development engineer"
@@ -11131,6 +11199,10 @@
 "https://www.amazon.jobs/en/jobs/10572202/software-development-engineer-last-mile-platform-services-sde": {
 "first": "2026-10-07T21:18:17+00:00",
 "sig": "amazon|software development engineer last mile platform services sde"
+},
+"https://www.amazon.jobs/en/jobs/10574424/software-developer-platform-bsp-engineer-ssg": {
+"first": "2026-10-09T15:18:54+00:00",
+"sig": "amazon|software developer platform bsp engineer ssg"
 },
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
@@ -11870,6 +11942,7 @@
 "emerson|software engineer trainee": "2026-08-09T09:02:11+00:00",
 "emerson|systems engineer": "2026-08-18T04:52:20+00:00",
 "enterpret|member of technical staff platform": "2026-08-22T16:40:59+00:00",
+"enter|full stack developer founding engineer": "2026-10-09T15:18:54+00:00",
 "envoy global|software engineer": "2026-09-09T12:58:15+00:00",
 "epifi|member of technical staff mts core full stack backend": "2026-07-14T14:05:09+00:00",
 "epifi|member of technical staff mts devops infrastructure": "2026-07-14T14:05:09+00:00",
@@ -11981,6 +12054,7 @@
 "gridshield technology pvt ltd|software engineer linux application": "2026-09-12T12:10:19+00:00",
 "groupsoft us inc|full stack developer with aws devops": "2026-10-08T15:37:08+00:00",
 "growloc private limited|software development engineer": "2026-08-11T02:28:04+00:00",
+"growsmart smb solutions pvt ltd|software engineer front end react js": "2026-10-09T15:18:52+00:00",
 "gsstech group|software engineer fullstack": "2026-09-24T13:33:16+00:00",
 "gsstech group|software engineer fullstack genai llms": "2026-07-30T10:34:34+00:00",
 "guidewire|full stack software engineer java react angular": "2026-09-24T19:59:33+00:00",
@@ -12062,6 +12136,7 @@
 "iron mountain|software developer net": "2026-08-13T05:48:52+00:00",
 "iron mountain|software engineer": "2026-08-23T08:48:26+00:00",
 "ixigo|fullstack developer nodejs react": "2026-07-17T21:08:13+00:00",
+"jamocha tech|software developer": "2026-10-09T15:18:52+00:00",
 "jefferies financial group|avp fullstack ai engineer": "2026-10-01T21:02:02+00:00",
 "jitterbit|java software engineer connectors remote": "2026-09-30T20:49:21+00:00",
 "jobcrexa|android engineer mts": "2026-08-29T13:49:59+00:00",
@@ -12118,6 +12193,7 @@
 "l&t technology services|linux software engineer gpu driver development": "2026-09-05T22:03:25+00:00",
 "l&t technology services|linux software engineer mesa graphics": "2026-09-05T15:14:05+00:00",
 "l&t technology services|software engineer": "2026-09-08T22:40:45+00:00",
+"lacroo technologies pty ltd|software development engineer": "2026-10-09T15:18:54+00:00",
 "lalitech|software engineer react ai integrations": "2026-07-17T10:12:05+00:00",
 "lam research|software engineer": "2026-07-25T14:02:10+00:00",
 "laminaar aviation infotech india|software engineer ios": "2026-08-14T02:46:08+00:00",
@@ -12187,6 +12263,7 @@
 "meta platforms|software engineer host networking": "2026-09-04T04:33:46+00:00",
 "meta platforms|software engineer leadership host networking": "2026-09-04T04:33:46+00:00",
 "meta platforms|software engineer product": "2026-09-04T04:33:46+00:00",
+"metabook technologies private limited|software engineer": "2026-10-09T15:18:53+00:00",
 "metric tree labs|full stack ai engineer llm agents": "2026-09-28T05:24:07+00:00",
 "metro global solution center in|backend engineer": "2026-07-21T10:33:53+00:00",
 "metron security private limited|software engineer": "2026-08-25T13:11:37+00:00",
@@ -12271,6 +12348,7 @@
 "netapp|software engineer golang and kubernetes": "2026-08-27T09:49:04+00:00",
 "netapp|software engineer golang java python microservices cloud": "2026-07-16T06:31:28+00:00",
 "netapp|software engineer golang python java kubernetes cloud microservices distributed": "2026-08-24T09:04:50+00:00",
+"netconnect pvt. ltd.|software engineer": "2026-10-09T15:18:52+00:00",
 "netomi|sde i fullstack": "2026-08-01T17:14:47+00:00",
 "newfold digital philippines inc|software engineer": "2026-07-23T03:44:41+00:00",
 "newton school of technology|sde associate instructor fsd": "2026-08-23T13:01:55+00:00",
@@ -12315,6 +12393,7 @@
 "officeworks|associate engineer stores": "2026-10-08T06:04:27+00:00",
 "okx|software engineer mobile": "2026-09-25T13:47:53+00:00",
 "okx|software engineer mobile ios": "2026-09-26T13:05:41+00:00",
+"olx|software engineer in test": "2026-10-09T15:18:52+00:00",
 "omnissa|software engineer platform backend clickhouse": "2026-08-11T17:12:44+00:00",
 "onehouse|backend engineer kubernetes infrastructure india": "2026-09-09T12:58:14+00:00",
 "onepoint|full stack software and ai agent developer": "2026-09-15T13:33:44+00:00",
@@ -12480,6 +12559,7 @@
 "salesforce|software engineering mts": "2026-07-22T21:30:31+00:00",
 "salesforce|software engineering mts backend": "2026-10-05T17:09:02+00:00",
 "salesforce|software engineering mts backend infra": "2026-08-21T16:51:06+00:00",
+"salesforce|software engineering mts devops engineer": "2026-10-09T15:18:54+00:00",
 "salesforce|software engineering mts full stack ai generalist demo tools platform engineering": "2026-09-01T19:23:48+00:00",
 "salesforce|software engineering mts qa engineer": "2026-09-24T13:33:16+00:00",
 "salesforce|software engineering mts smts java spark ai ml bangalore": "2026-07-29T10:48:49+00:00",
@@ -12540,6 +12620,7 @@
 "sparix global.|ai native software engineer": "2026-07-16T21:16:31+00:00",
 "sparix global.|fullstack software engineer net react": "2026-08-23T20:38:43+00:00",
 "speechify|software engineer data infrastructure acquisition bangalore india": "2026-09-09T19:16:50+00:00",
+"spritle software|django full stack developer": "2026-10-09T15:18:52+00:00",
 "ss c technologies|software engineer in test": "2026-08-21T04:54:36+00:00",
 "staffnixcom|software engineer c net industrial automation": "2026-08-06T10:48:57+00:00",
 "staples india business innovation hub private limited|associate software engineer full stack": "2026-07-24T17:52:15+00:00",
@@ -12765,6 +12846,7 @@
 "virtusa|software engineer": "2026-09-05T11:50:12+00:00",
 "vistex career|associate software engineer": "2026-09-30T20:49:22+00:00",
 "vmware|it software engineer": "2026-08-05T03:32:47+00:00",
+"volks consulting|software developer": "2026-10-09T15:18:52+00:00",
 "vrinda international|ai powered java full stack developer": "2026-10-07T05:59:43+00:00",
 "vrinda international|ai powered java full stack engineer": "2026-10-06T23:48:30+00:00",
 "vrinda international|custom software engineer hexagon intergraph smartplant accenture": "2026-08-05T21:32:25+00:00",
@@ -12787,6 +12869,7 @@
 "weekday ai|backend engineer": "2026-08-20T13:11:02+00:00",
 "weekday ai|embedded software engineer": "2026-09-15T19:42:19+00:00",
 "weekday ai|full stack engineer": "2026-07-24T14:13:11+00:00",
+"weekday ai|full stack engineer frontend focused aiprise": "2026-10-09T15:18:52+00:00",
 "weekday ai|java full stack": "2026-09-04T12:43:27+00:00",
 "weekday ai|java full stack developer": "2026-07-15T16:55:05+00:00",
 "weekday ai|java full stack engineer": "2026-07-14T17:34:37+00:00",

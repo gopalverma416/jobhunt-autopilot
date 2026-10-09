@@ -1,16 +1,27 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-09 06:08 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-09 15:19 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1491)
+## 🎯 To apply (1502)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-10-09 | Applications Engineer I | Emerson | [apply ↗](https://www.adzuna.in/details/5919977538?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919977538?utm_medium=api&` |
+| — | 2026-10-09 | Software Development Engineer 4 | Adobe | [apply ↗](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Software-Development-Engineer-4_R170532) | `python track.py applied Software-Development-Engin` |
+| — | 2026-10-09 | Software Developer | JaMocha Tech | [apply ↗](https://www.adzuna.in/details/5920569312?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5920569312?utm_medium=api&` |
+| — | 2026-10-09 | Software Engineer (Front-end, React JS) | GrowSmart SMB Solutions Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5920557770?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5920557770?utm_medium=api&` |
+| — | 2026-10-09 | Software Engineer | Netconnect Pvt. Ltd. | [apply ↗](https://www.adzuna.in/details/5920526502?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5920526502?utm_medium=api&` |
+| — | 2026-10-09 | Software Engineer in Test | Olx | [apply ↗](https://www.adzuna.in/details/5920526234?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5920526234?utm_medium=api&` |
+| — | 2026-10-09 | Django Full Stack Developer | Spritle Software | [apply ↗](https://www.adzuna.in/details/5920509151?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5920509151?utm_medium=api&` |
+| — | 2026-10-09 | Software Engineer | Metabook Technologies Private Limited | [apply ↗](https://www.adzuna.in/details/5920509129?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5920509129?utm_medium=api&` |
+| — | 2026-10-09 | Full Stack Developer (Founding Engineer) | ENTER | [apply ↗](https://www.adzuna.in/details/5920457449?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5920457449?utm_medium=api&` |
+| — | 2026-10-09 | Software Development Engineer | Lacroo Technologies Pty Ltd | [apply ↗](https://www.adzuna.in/details/5920455041?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5920455041?utm_medium=api&` |
+| — | 2026-10-09 | Software Engineer | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8264664?gh_jid=8264664) | `python track.py applied 8264664?gh_jid=8264664` |
+| — | 2026-10-09 | Software Engineering MTS (DevOps Engineer) | Salesforce | [apply ↗](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707) | `python track.py applied Software-Engineering-MTS--` |
 | — | 2026-10-08 | Associate Engineer - Stores | Officeworks | [apply ↗](https://www.adzuna.in/details/5918517989?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918517989?utm_medium=api&` |
 | — | 2026-10-08 | Software Engineer (Full-Stack/Cloud) | Bizmatics India Private Limited | [apply ↗](https://www.adzuna.in/details/5918154580?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918154580?utm_medium=api&` |
 | — | 2026-10-08 | AI Native software Developer | Siemens Healthineers | [apply ↗](https://www.adzuna.in/details/5918154368?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918154368?utm_medium=api&` |
