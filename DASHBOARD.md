@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-09 15:19 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-09 20:54 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1502)
+## 🎯 To apply (1509)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -22,6 +22,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-09 | Software Development Engineer | Lacroo Technologies Pty Ltd | [apply ↗](https://www.adzuna.in/details/5920455041?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5920455041?utm_medium=api&` |
 | — | 2026-10-09 | Software Engineer | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8264664?gh_jid=8264664) | `python track.py applied 8264664?gh_jid=8264664` |
 | — | 2026-10-09 | Software Engineering MTS (DevOps Engineer) | Salesforce | [apply ↗](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS--DevOps-Engineer-_JR362707) | `python track.py applied Software-Engineering-MTS--` |
+| — | 2026-10-09 | Engineer I, Software Quality Assurance Testing | Xerox | [apply ↗](https://www.adzuna.in/details/5921112075?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921112075?utm_medium=api&` |
+| — | 2026-10-09 | Software Engineer WF IIoT (Angular) | Nordex Group | [apply ↗](https://www.adzuna.in/details/5921111998?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921111998?utm_medium=api&` |
+| — | 2026-10-09 | Custom Software Engineer - User Experience (UX) Design | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5921109380?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921109380?utm_medium=api&` |
+| — | 2026-10-09 | Custom Software Engineer | Tekwissen India | [apply ↗](https://www.adzuna.in/details/5921109319?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921109319?utm_medium=api&` |
+| — | 2026-10-09 | Software Engineer | London Stock Exchange Group | [apply ↗](https://www.adzuna.in/details/5921019350?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921019350?utm_medium=api&` |
+| — | 2026-10-09 | Software Engineer | BP | [apply ↗](https://www.adzuna.in/details/5921019190?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921019190?utm_medium=api&` |
+| — | 2026-10-09 | Software Development Engineer - Software Development Engineering S 4A | Genpact | [apply ↗](https://www.adzuna.in/details/5921016996?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921016996?utm_medium=api&` |
 | — | 2026-10-08 | Associate Engineer - Stores | Officeworks | [apply ↗](https://www.adzuna.in/details/5918517989?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918517989?utm_medium=api&` |
 | — | 2026-10-08 | Software Engineer (Full-Stack/Cloud) | Bizmatics India Private Limited | [apply ↗](https://www.adzuna.in/details/5918154580?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918154580?utm_medium=api&` |
 | — | 2026-10-08 | AI Native software Developer | Siemens Healthineers | [apply ↗](https://www.adzuna.in/details/5918154368?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918154368?utm_medium=api&` |
