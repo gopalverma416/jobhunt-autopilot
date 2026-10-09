@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-08 21:20 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-09 06:08 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1490)
+## 🎯 To apply (1491)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-09 | Applications Engineer I | Emerson | [apply ↗](https://www.adzuna.in/details/5919977538?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919977538?utm_medium=api&` |
 | — | 2026-10-08 | Associate Engineer - Stores | Officeworks | [apply ↗](https://www.adzuna.in/details/5918517989?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918517989?utm_medium=api&` |
 | — | 2026-10-08 | Software Engineer (Full-Stack/Cloud) | Bizmatics India Private Limited | [apply ↗](https://www.adzuna.in/details/5918154580?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918154580?utm_medium=api&` |
 | — | 2026-10-08 | AI Native software Developer | Siemens Healthineers | [apply ↗](https://www.adzuna.in/details/5918154368?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5918154368?utm_medium=api&` |

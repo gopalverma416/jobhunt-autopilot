@@ -300,6 +300,10 @@
 "first": "2026-10-02T20:45:14+00:00",
 "sig": "cloudflare|software engineer mobile sdk"
 },
+"https://boards.greenhouse.io/cloudflare/jobs/8257140?gh_jid=8257140": {
+"first": "2026-10-09T06:08:57+00:00",
+"sig": "cloudflare|systems engineer data security"
+},
 "https://careers-americas.icims.com/jobs/25301/software-engineer/job": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "atlassian|software engineer"
@@ -10112,6 +10116,22 @@
 "first": "2026-10-08T21:20:17+00:00",
 "sig": "trigent software private limited|custom software engineer site reliability engineering"
 },
+"https://www.adzuna.in/details/5919839381?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T06:08:57+00:00",
+"sig": "agileengine|software engineer"
+},
+"https://www.adzuna.in/details/5919839392?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T06:08:57+00:00",
+"sig": "agileengine|software engineer"
+},
+"https://www.adzuna.in/details/5919839402?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T06:08:57+00:00",
+"sig": "agileengine|software engineer"
+},
+"https://www.adzuna.in/details/5919977538?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-09T06:08:57+00:00",
+"sig": "emerson|applications engineer i"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -11377,6 +11397,7 @@
 "advent global solutions inc|software development engineer": "2026-09-04T04:33:48+00:00",
 "adyen|software engineer java authentication tokenization": "2026-09-22T13:24:57+00:00",
 "agdata lp|specialist software engineer": "2026-08-09T16:53:50+00:00",
+"agileengine|software engineer": "2026-10-09T06:08:57+00:00",
 "agilent technologies|applications software engineer": "2026-08-30T05:24:39+00:00",
 "agilent technologies|software engineer frontend": "2026-08-30T05:24:39+00:00",
 "agilent technologies|software engineer qa automation": "2026-08-30T05:24:39+00:00",
@@ -11750,6 +11771,7 @@
 "cloudflare|software engineer rulesets": "2026-08-27T22:16:07+00:00",
 "cloudflare|software engineer security rules": "2026-09-03T12:49:41+00:00",
 "cloudflare|systems engineer": "2026-07-30T14:32:04+00:00",
+"cloudflare|systems engineer data security": "2026-10-09T06:08:57+00:00",
 "cloudflare|systems engineer database platform": "2026-09-05T04:29:23+00:00",
 "cloudflare|systems engineer email service": "2026-09-17T13:27:40+00:00",
 "cloudflare|systems engineer global resource management data residency": "2026-07-25T21:08:54+00:00",
