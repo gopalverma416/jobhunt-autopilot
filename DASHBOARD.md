@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-10 05:52 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-10 14:28 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1515)
+## 🎯 To apply (1523)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -16,6 +16,14 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-10 | Software Engineer (Data Systems/ETL) | Bizmatics India Private Limited | [apply ↗](https://www.adzuna.in/details/5921519752?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921519752?utm_medium=api&` |
 | — | 2026-10-10 | Software Developer | Siemens Healthineers | [apply ↗](https://www.adzuna.in/details/5921519600?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921519600?utm_medium=api&` |
 | — | 2026-10-10 | People Systems Engineer | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8861748002) | `python track.py applied 8861748002` |
+| — | 2026-10-10 | Software Development Engineer, Amazon Fulfilment Tech | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5922075554?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922075554?utm_medium=api&` |
+| — | 2026-10-10 | Fullstack Developer | Opengov | [apply ↗](https://www.adzuna.in/details/5922058152?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922058152?utm_medium=api&` |
+| — | 2026-10-10 | Software Development Engineer, FBA Defect Prevention | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5922023852?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922023852?utm_medium=api&` |
+| — | 2026-10-10 | Software Engineer | ReThink | [apply ↗](https://www.adzuna.in/details/5922023829?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922023829?utm_medium=api&` |
+| — | 2026-10-10 | Full Stack Java Engineer | Redwood Software | [apply ↗](https://www.adzuna.in/details/5921994685?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921994685?utm_medium=api&` |
+| — | 2026-10-10 | Backend Engineer (6-month Contract) | Proximity Works | [apply ↗](https://www.adzuna.in/details/5921982435?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921982435?utm_medium=api&` |
+| — | 2026-10-10 | Full Stack Developer | Anglo-Eastern Ship Management | [apply ↗](https://www.adzuna.in/details/5921982366?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921982366?utm_medium=api&` |
+| — | 2026-10-10 | Java Backend Engineer- Retail Engineering | Apple | [apply ↗](https://www.adzuna.in/details/5921981982?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921981982?utm_medium=api&` |
 | — | 2026-10-09 | Applications Engineer I | Emerson | [apply ↗](https://www.adzuna.in/details/5919977538?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919977538?utm_medium=api&` |
 | — | 2026-10-09 | Software Development Engineer 4 | Adobe | [apply ↗](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Software-Development-Engineer-4_R170532) | `python track.py applied Software-Development-Engin` |
 | — | 2026-10-09 | Software Developer | JaMocha Tech | [apply ↗](https://www.adzuna.in/details/5920569312?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5920569312?utm_medium=api&` |
