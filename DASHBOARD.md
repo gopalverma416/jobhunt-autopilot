@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-10 14:28 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-10 20:04 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1523)
+## 🎯 To apply (1527)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -24,6 +24,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-10 | Backend Engineer (6-month Contract) | Proximity Works | [apply ↗](https://www.adzuna.in/details/5921982435?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921982435?utm_medium=api&` |
 | — | 2026-10-10 | Full Stack Developer | Anglo-Eastern Ship Management | [apply ↗](https://www.adzuna.in/details/5921982366?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921982366?utm_medium=api&` |
 | — | 2026-10-10 | Java Backend Engineer- Retail Engineering | Apple | [apply ↗](https://www.adzuna.in/details/5921981982?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921981982?utm_medium=api&` |
+| — | 2026-10-10 | Associate Software Engineer | Ford Motor | [apply ↗](https://www.adzuna.in/details/5922420262?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922420262?utm_medium=api&` |
+| — | 2026-10-10 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5922420091?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922420091?utm_medium=api&` |
+| — | 2026-10-10 | Software engineering associate | Telstra | [apply ↗](https://www.adzuna.in/details/5922420020?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922420020?utm_medium=api&` |
+| — | 2026-10-10 | Group SDE I - Zodiac Accelerated Rollout | DP World | [apply ↗](https://www.adzuna.in/details/5922418996?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922418996?utm_medium=api&` |
 | — | 2026-10-09 | Applications Engineer I | Emerson | [apply ↗](https://www.adzuna.in/details/5919977538?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5919977538?utm_medium=api&` |
 | — | 2026-10-09 | Software Development Engineer 4 | Adobe | [apply ↗](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Software-Development-Engineer-4_R170532) | `python track.py applied Software-Development-Engin` |
 | — | 2026-10-09 | Software Developer | JaMocha Tech | [apply ↗](https://www.adzuna.in/details/5920569312?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5920569312?utm_medium=api&` |
