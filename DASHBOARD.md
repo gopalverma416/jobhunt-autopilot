@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-11 05:46 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-11 14:55 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1532)
+## 🎯 To apply (1543)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,17 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-11 | Software Developer | IBM | [apply ↗](https://www.adzuna.in/details/5922791506?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922791506?utm_medium=api&` |
 | — | 2026-10-11 | Software Development Engineer | Growloc Private Limited | [apply ↗](https://www.adzuna.in/details/5922766437?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922766437?utm_medium=api&` |
 | — | 2026-10-11 | Database and Systems Engineer (Remote / Bangalore, India) | Netchex | [apply ↗](https://www.adzuna.in/details/5922764004?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922764004?utm_medium=api&` |
+| — | 2026-10-11 | Software Engineer -Frontend | Param Business Solutions | [apply ↗](https://www.adzuna.in/details/5923289215?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923289215?utm_medium=api&` |
+| — | 2026-10-11 | Software Engineer 1 | Rely | [apply ↗](https://www.adzuna.in/details/5923278489?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923278489?utm_medium=api&` |
+| — | 2026-10-11 | Software Development Engineer Testing (SDET) | Finwizard Technology Pvt.Ltd | [apply ↗](https://www.adzuna.in/details/5923277810?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923277810?utm_medium=api&` |
+| — | 2026-10-11 | Fullstack Developer | Easy To Pitch | [apply ↗](https://www.adzuna.in/details/5923258916?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923258916?utm_medium=api&` |
+| — | 2026-10-11 | Software Development Engineer in Test | Dalet | [apply ↗](https://www.adzuna.in/details/5923250020?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923250020?utm_medium=api&` |
+| — | 2026-10-11 | Full Stack Developer | Atom Technologies Ltd | [apply ↗](https://www.adzuna.in/details/5923249957?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923249957?utm_medium=api&` |
+| — | 2026-10-11 | Full Stack Developer | Byzwiz Infratech Private Limited | [apply ↗](https://www.adzuna.in/details/5923246553?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923246553?utm_medium=api&` |
+| — | 2026-10-11 | Software Engineer L3 (Managed Services) | Team Management Services  | [apply ↗](https://www.adzuna.in/details/5923246385?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923246385?utm_medium=api&` |
+| — | 2026-10-11 | Java Software Engineer | 4E Software Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5923227739?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923227739?utm_medium=api&` |
+| — | 2026-10-11 | Software Engineer - Java | VAYUZ Technologies | [apply ↗](https://www.adzuna.in/details/5923206287?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923206287?utm_medium=api&` |
+| — | 2026-10-11 | Software Engineer - Frontend & Backend | hBits Proptech | [apply ↗](https://www.adzuna.in/details/5923205262?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923205262?utm_medium=api&` |
 | — | 2026-10-10 | Software Engineer – AI (Backend) | Gitforce | [apply ↗](https://www.adzuna.in/details/5921549328?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921549328?utm_medium=api&` |
 | — | 2026-10-10 | Software Engineer - UI Path | EPAM Systems | [apply ↗](https://www.adzuna.in/details/5921549257?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921549257?utm_medium=api&` |
 | — | 2026-10-10 | Expert Software Engineer (Sunrise Product Experience) | Altera Digital Health  LLP | [apply ↗](https://www.adzuna.in/details/5921519758?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921519758?utm_medium=api&` |
