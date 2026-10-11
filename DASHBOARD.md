@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-11 14:55 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-11 20:17 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1543)
+## 🎯 To apply (1550)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -26,6 +26,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-11 | Java Software Engineer | 4E Software Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5923227739?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923227739?utm_medium=api&` |
 | — | 2026-10-11 | Software Engineer - Java | VAYUZ Technologies | [apply ↗](https://www.adzuna.in/details/5923206287?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923206287?utm_medium=api&` |
 | — | 2026-10-11 | Software Engineer - Frontend & Backend | hBits Proptech | [apply ↗](https://www.adzuna.in/details/5923205262?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923205262?utm_medium=api&` |
+| — | 2026-10-11 | Software Engineer- Performance Engineering | Caterpillar | [apply ↗](https://www.adzuna.in/details/5923525553?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923525553?utm_medium=api&` |
+| — | 2026-10-11 | Software engineer- Devops | Airbus | [apply ↗](https://www.adzuna.in/details/5923525337?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923525337?utm_medium=api&` |
+| — | 2026-10-11 | People Systems Engineer | GitLab | [apply ↗](https://www.adzuna.in/details/5923523500?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923523500?utm_medium=api&` |
+| — | 2026-10-11 | Software Engineer - PBI Data Analytics | Barclays | [apply ↗](https://www.adzuna.in/details/5923523120?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923523120?utm_medium=api&` |
+| — | 2026-10-11 | Software Developer | Clario | [apply ↗](https://www.adzuna.in/details/5923522572?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923522572?utm_medium=api&` |
+| — | 2026-10-11 | Software Engineer | Ford Motor | [apply ↗](https://www.adzuna.in/details/5923520668?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923520668?utm_medium=api&` |
+| — | 2026-10-11 | Mobile AVP Software Engineer | Barclays | [apply ↗](https://www.adzuna.in/details/5923515332?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923515332?utm_medium=api&` |
 | — | 2026-10-10 | Software Engineer – AI (Backend) | Gitforce | [apply ↗](https://www.adzuna.in/details/5921549328?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921549328?utm_medium=api&` |
 | — | 2026-10-10 | Software Engineer - UI Path | EPAM Systems | [apply ↗](https://www.adzuna.in/details/5921549257?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921549257?utm_medium=api&` |
 | — | 2026-10-10 | Expert Software Engineer (Sunrise Product Experience) | Altera Digital Health  LLP | [apply ↗](https://www.adzuna.in/details/5921519758?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5921519758?utm_medium=api&` |

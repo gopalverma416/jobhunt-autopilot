@@ -10440,6 +10440,66 @@
 "first": "2026-10-11T14:54:53+00:00",
 "sig": "param business solutions|software engineer frontend"
 },
+"https://www.adzuna.in/details/5923515302?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5923515332?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "barclays|mobile avp software engineer"
+},
+"https://www.adzuna.in/details/5923518151?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5923518173?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5923518274?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5923518451?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5923518471?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5923520160?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5923520668?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "ford motor|software engineer"
+},
+"https://www.adzuna.in/details/5923522572?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "clario|software developer"
+},
+"https://www.adzuna.in/details/5923522885?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5923523120?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "barclays|software engineer pbi data analytics"
+},
+"https://www.adzuna.in/details/5923523500?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "gitlab|people systems engineer"
+},
+"https://www.adzuna.in/details/5923525337?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "airbus|software engineer devops"
+},
+"https://www.adzuna.in/details/5923525553?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-11T20:17:14+00:00",
+"sig": "caterpillar|software engineer performance engineering"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -11732,6 +11792,7 @@
 "airbnb|software engineer guest host": "2026-10-06T11:16:41+00:00",
 "airbus|full stack developer": "2026-10-03T19:13:43+00:00",
 "airbus|software engineer cabin management": "2026-08-12T17:12:16+00:00",
+"airbus|software engineer devops": "2026-10-11T20:17:14+00:00",
 "airspace link|backend software engineer": "2026-09-20T22:26:21+00:00",
 "ajackus|python full stack developer": "2026-08-19T13:08:27+00:00",
 "akamai|software development engineer in test": "2026-09-03T19:18:03+00:00",
@@ -11946,8 +12007,10 @@
 "bajaj finance|software engineer": "2026-08-21T16:51:06+00:00",
 "barclays|java full stack developer": "2026-08-25T16:55:36+00:00",
 "barclays|java full stack engineer": "2026-08-04T18:03:43+00:00",
+"barclays|mobile avp software engineer": "2026-10-11T20:17:14+00:00",
 "barclays|software engineer": "2026-07-22T03:46:27+00:00",
 "barclays|software engineer java": "2026-08-16T16:42:28+00:00",
+"barclays|software engineer pbi data analytics": "2026-10-11T20:17:14+00:00",
 "barracuda networks|software engineer": "2026-08-23T16:43:16+00:00",
 "barry-wehmiller|graduate engineer software": "2026-09-27T19:45:41+00:00",
 "benchling|software engineer platform developer experience": "2026-07-14T13:22:21+00:00",
@@ -12069,6 +12132,7 @@
 "citigroup|java full stack engineer": "2026-07-24T06:39:44+00:00",
 "citigroup|python developer software engineer": "2026-08-12T05:46:26+00:00",
 "citigroup|reactivate your career program java full stack developer": "2026-07-24T06:39:44+00:00",
+"clario|software developer": "2026-10-11T20:17:14+00:00",
 "classavo|full stack engineer": "2026-08-31T16:09:54+00:00",
 "clevanoo llc|software development engineer in test i": "2026-09-10T04:43:14+00:00",
 "clickhouse|cloud software engineer observability platform": "2026-07-12T12:26:42+00:00",
