@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-11 23:43 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-12 05:58 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1550)
+## 🎯 To apply (1552)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-12 | Specialist, Software Engineer - Angular Developer, India | Nationwide | [apply ↗](https://www.adzuna.in/details/5923576245?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923576245?utm_medium=api&` |
+| — | 2026-10-12 | CAD Software Engineer | Ford Motor Company | [apply ↗](https://www.adzuna.in/details/5923576250?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923576250?utm_medium=api&` |
 | — | 2026-10-11 | Java Backend Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5922791720?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922791720?utm_medium=api&` |
 | — | 2026-10-11 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5922791724?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922791724?utm_medium=api&` |
 | — | 2026-10-11 | Software Developer | IBM | [apply ↗](https://www.adzuna.in/details/5922791506?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922791506?utm_medium=api&` |
