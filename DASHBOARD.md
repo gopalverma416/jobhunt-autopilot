@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-12 05:58 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-12 17:54 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1552)
+## 🎯 To apply (1560)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,14 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-10-12 | Specialist, Software Engineer - Angular Developer, India | Nationwide | [apply ↗](https://www.adzuna.in/details/5923576245?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923576245?utm_medium=api&` |
 | — | 2026-10-12 | CAD Software Engineer | Ford Motor Company | [apply ↗](https://www.adzuna.in/details/5923576250?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923576250?utm_medium=api&` |
+| — | 2026-10-12 | 138512 - Backend Software Engineer - Payments | Lifted, an Upwork Company™ | [apply ↗](https://www.adzuna.in/details/5924432052?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924432052?utm_medium=api&` |
+| — | 2026-10-12 | Software Development Engineer -Backend | Altium | [apply ↗](https://www.adzuna.in/details/5924432060?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924432060?utm_medium=api&` |
+| — | 2026-10-12 | Software Engineer | ServiceNow | [apply ↗](https://www.adzuna.in/details/5924432045?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924432045?utm_medium=api&` |
+| — | 2026-10-12 | SDE-1 (FTC) | Cross Border Tech | [apply ↗](https://www.adzuna.in/details/5924413942?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924413942?utm_medium=api&` |
+| — | 2026-10-12 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5924410073?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924410073?utm_medium=api&` |
+| — | 2026-10-12 | Autosar Base Software Developer | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000154990088) | `python track.py applied 744000154990088` |
+| — | 2026-10-12 | Software Engineer I - Java Backend | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Backend_R-290797) | `python track.py applied Software-Engineer-I---Java` |
+| — | 2026-10-12 | Software Engineer Apprenticeship | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557022190) | `python track.py applied 1970393557022190` |
 | — | 2026-10-11 | Java Backend Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5922791720?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922791720?utm_medium=api&` |
 | — | 2026-10-11 | Java Fullstack Engineer | ascendion | [apply ↗](https://www.adzuna.in/details/5922791724?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922791724?utm_medium=api&` |
 | — | 2026-10-11 | Software Developer | IBM | [apply ↗](https://www.adzuna.in/details/5922791506?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5922791506?utm_medium=api&` |

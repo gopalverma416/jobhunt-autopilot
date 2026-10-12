@@ -156,6 +156,14 @@
 "first": "2026-09-14T15:01:52+00:00",
 "sig": "microsoft|software engineer"
 },
+"https://apply.careers.microsoft.com/careers/job/1970393557022190": {
+"first": "2026-10-12T17:54:27+00:00",
+"sig": "microsoft|software engineer apprenticeship"
+},
+"https://apply.careers.microsoft.com/careers/job/1970393557026657": {
+"first": "2026-10-12T17:54:27+00:00",
+"sig": "microsoft|software engineer"
+},
 "https://bitwarden.com/careers/7871969003/?gh_jid=7871969003": {
 "first": "2026-09-09T22:33:25+00:00",
 "sig": "bitwarden|software engineer privileged access management pam"
@@ -1260,6 +1268,10 @@
 "first": "2026-10-09T15:18:54+00:00",
 "sig": "bosch|java full stack developer"
 },
+"https://jobs.smartrecruiters.com/BoschGroup/744000154990088": {
+"first": "2026-10-12T17:54:27+00:00",
+"sig": "bosch|autosar base software developer"
+},
 "https://jobs.smartrecruiters.com/ServiceNow/744000144386100": {
 "first": "2026-08-19T20:45:35+00:00",
 "sig": "servicenow|software engineer"
@@ -1351,6 +1363,10 @@
 "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer--Mainframe-Automation-Testing-_R-277413": {
 "first": "2026-09-30T05:32:58+00:00",
 "sig": "mastercard|software engineer mainframe testing"
+},
+"https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Backend_R-290797": {
+"first": "2026-10-12T17:54:27+00:00",
+"sig": "mastercard|software engineer i java backend"
 },
 "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-290795": {
 "first": "2026-09-25T13:47:55+00:00",
@@ -10508,6 +10524,30 @@
 "first": "2026-10-12T05:58:21+00:00",
 "sig": "ford motor company|cad software engineer"
 },
+"https://www.adzuna.in/details/5924405551?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-12T17:54:27+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5924410073?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-12T17:54:27+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5924413942?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-12T17:54:27+00:00",
+"sig": "cross border tech|sde ftc"
+},
+"https://www.adzuna.in/details/5924432045?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-12T17:54:27+00:00",
+"sig": "servicenow|software engineer"
+},
+"https://www.adzuna.in/details/5924432052?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-12T17:54:27+00:00",
+"sig": "lifted, an upwork company\u2122|backend software engineer payments"
+},
+"https://www.adzuna.in/details/5924432060?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-12T17:54:27+00:00",
+"sig": "altium|software development engineer backend"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -11520,6 +11560,10 @@
 "first": "2026-10-10T05:52:51+00:00",
 "sig": "amazon|software development engineer fba defect prevention"
 },
+"https://www.amazon.jobs/en/jobs/10575929/software-development-engineer-connectivity-emerging-device-software": {
+"first": "2026-10-12T17:54:27+00:00",
+"sig": "amazon|software development engineer connectivity emerging device software"
+},
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
 "sig": "axonius|backend engineer s o paulo"
@@ -11872,6 +11916,7 @@
 "amazon|software development engineer buyer fraud prevention": "2026-09-18T12:58:20+00:00",
 "amazon|software development engineer cam": "2026-09-29T10:41:11+00:00",
 "amazon|software development engineer concessions tech": "2026-07-21T21:33:40+00:00",
+"amazon|software development engineer connectivity emerging device software": "2026-10-12T17:54:27+00:00",
 "amazon|software development engineer customer experience and business trends": "2026-09-23T22:57:45+00:00",
 "amazon|software development engineer das fintech": "2026-08-08T02:22:47+00:00",
 "amazon|software development engineer delivery choices": "2026-07-12T06:29:34+00:00",
@@ -12041,6 +12086,7 @@
 "booking holdings|software engineer integration": "2026-07-28T03:35:25+00:00",
 "bosch group|c c communication gateway software engineer": "2026-08-04T10:49:53+00:00",
 "bosch|application engineer heat pumps": "2026-08-20T08:56:32+00:00",
+"bosch|autosar base software developer": "2026-10-12T17:54:27+00:00",
 "bosch|c c communication gateway software engineer": "2026-08-03T21:30:03+00:00",
 "bosch|controls systems engineer mbd e machine control automotive domain": "2026-08-03T21:30:03+00:00",
 "bosch|cross domain full stack software engineer": "2026-07-22T14:22:20+00:00",
@@ -12210,6 +12256,7 @@
 "cotiviti|software engineer oci engineer": "2026-08-30T05:24:39+00:00",
 "cotiviti|software engineer sql developer": "2026-08-30T05:24:39+00:00",
 "creospan private limited|software engineer in test": "2026-07-27T04:02:20+00:00",
+"cross border tech|sde ftc": "2026-10-12T17:54:27+00:00",
 "crowe|junior software engineer": "2026-08-19T16:46:52+00:00",
 "csg|software development engineer": "2026-08-02T17:15:45+00:00",
 "ct nova|full stack engineer": "2026-07-21T10:33:53+00:00",
@@ -12553,6 +12600,7 @@
 "launchdarkly|sdk software engineer ai": "2026-07-14T13:22:22+00:00",
 "lepton software|geographic information systems engineer": "2026-08-25T13:11:36+00:00",
 "lifted, an upwork company\u2122|ai software engineer": "2026-09-01T22:36:45+00:00",
+"lifted, an upwork company\u2122|backend software engineer payments": "2026-10-12T17:54:27+00:00",
 "lifted, an upwork company\u2122|backend software engineer payments platform": "2026-10-06T11:16:41+00:00",
 "lifted, an upwork company\u2122|software engineer data and java": "2026-09-01T22:36:45+00:00",
 "light & wonder|back end software engineer core java": "2026-09-12T12:10:19+00:00",
@@ -12586,6 +12634,7 @@
 "mastercard|software engineer devsecops": "2026-07-31T14:35:08+00:00",
 "mastercard|software engineer full stack": "2026-09-03T19:18:03+00:00",
 "mastercard|software engineer i": "2026-07-17T21:08:13+00:00",
+"mastercard|software engineer i java backend": "2026-10-12T17:54:27+00:00",
 "mastercard|software engineer java spring boot": "2026-09-03T19:18:05+00:00",
 "mastercard|software engineer mainframe testing": "2026-09-30T05:32:58+00:00",
 "match point solutions|software engineer c": "2026-09-25T20:01:57+00:00",
@@ -12617,6 +12666,7 @@
 "microsoft|consultant apps full stack engineer": "2026-07-12T09:19:35+00:00",
 "microsoft|software engineer": "2026-07-13T11:32:17+00:00",
 "microsoft|software engineer ai native development": "2026-07-16T14:23:21+00:00",
+"microsoft|software engineer apprenticeship": "2026-10-12T17:54:27+00:00",
 "microsoft|software engineer full stack": "2026-09-01T13:29:57+00:00",
 "microsoft|software engineer playready": "2026-08-14T09:20:49+00:00",
 "microstrategy india|software engineer c c": "2026-07-17T03:37:18+00:00",
