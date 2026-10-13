@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-13 11:48 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-13 19:17 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1578)
+## 🎯 To apply (1582)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -28,6 +28,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-13 | Full-Stack Engineer (Backend-Leaning) - CoreMusic | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/a03536c8-8728-4007-aef2-460def03173e) | `python track.py applied a03536c8-8728-4007-aef2-46` |
 | — | 2026-10-13 | Software Engineer | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer_R-293367) | `python track.py applied Software-Engineer_R-293367` |
 | — | 2026-10-13 | Software Engineer I | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I_R-292435) | `python track.py applied Software-Engineer-I_R-2924` |
+| — | 2026-10-13 | SDE-1 | Amazon | [apply ↗](https://www.adzuna.in/details/5926004756?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5926004756?utm_medium=api&` |
+| — | 2026-10-13 | Full-Stack Engineer - Productions | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/10e6475e-67ef-4621-8718-7b087c354651) | `python track.py applied 10e6475e-67ef-4621-8718-7b` |
+| — | 2026-10-13 | Full-Stack Engineer - ElevenMusic | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096) | `python track.py applied 0547cf3a-856f-4db2-8307-73` |
+| — | 2026-10-13 | Software Engineer Ml Compilers Silicon Engineering | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/85644954524623558-software-engineer-ml-compilers-silicon-engineering) | `python track.py applied 85644954524623558-software` |
 | — | 2026-10-12 | Specialist, Software Engineer - Angular Developer, India | Nationwide | [apply ↗](https://www.adzuna.in/details/5923576245?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923576245?utm_medium=api&` |
 | — | 2026-10-12 | CAD Software Engineer | Ford Motor Company | [apply ↗](https://www.adzuna.in/details/5923576250?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923576250?utm_medium=api&` |
 | — | 2026-10-12 | 138512 - Backend Software Engineer - Payments | Lifted, an Upwork Company™ | [apply ↗](https://www.adzuna.in/details/5924432052?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924432052?utm_medium=api&` |

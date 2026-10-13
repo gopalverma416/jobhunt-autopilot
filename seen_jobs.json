@@ -848,6 +848,10 @@
 "first": "2026-10-06T11:16:41+00:00",
 "sig": "twilio|software engineer"
 },
+"https://job-boards.greenhouse.io/twilio/jobs/8247182": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "twilio|software engineer messaging channels team"
+},
 "https://job-boards.greenhouse.io/vercel/jobs/5179639004": {
 "first": "2026-07-14T13:22:24+00:00",
 "sig": "vercel|software engineer cdn"
@@ -940,9 +944,17 @@
 "first": "2026-10-08T15:37:11+00:00",
 "sig": "braintrust|software engineer sdk"
 },
+"https://jobs.ashbyhq.com/elevenlabs/0547cf3a-856f-4db2-8307-73db634c4096": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "elevenlabs|full stack engineer elevenmusic"
+},
 "https://jobs.ashbyhq.com/elevenlabs/0b3a97d4-193c-4b47-9888-7ef5803ed945": {
 "first": "2026-10-07T15:33:22+00:00",
 "sig": "elevenlabs|full stack engineer creative agents"
+},
+"https://jobs.ashbyhq.com/elevenlabs/10e6475e-67ef-4621-8718-7b087c354651": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "elevenlabs|full stack engineer productions"
 },
 "https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe": {
 "first": "2026-10-07T15:33:22+00:00",
@@ -10636,6 +10648,42 @@
 "first": "2026-10-13T11:48:20+00:00",
 "sig": "startele logic|software development engineer"
 },
+"https://www.adzuna.in/details/5925994453?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "harman becker automotive systems manufacturing kft|software engineer golang"
+},
+"https://www.adzuna.in/details/5925997914?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "cgi|software engineer jr mainframe developer"
+},
+"https://www.adzuna.in/details/5925999525?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "harman becker automotive systems manufacturing kft|software engineer gitlab"
+},
+"https://www.adzuna.in/details/5926004756?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "amazon|sde"
+},
+"https://www.adzuna.in/details/5926006149?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "harman becker automotive systems manufacturing kft|software engineer scrum master"
+},
+"https://www.adzuna.in/details/5926140127?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "trigent software private limited|custom software engineer oracle agile plm"
+},
+"https://www.adzuna.in/details/5926140189?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "skywings advisors pvt. ltd.|full stack software engineer"
+},
+"https://www.adzuna.in/details/5926155774?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "cgi|software engineer java jr api developer"
+},
+"https://www.adzuna.in/details/5926155795?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "walmart global tech india|distinguished software engineer wfs icc atlas platform"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -11764,6 +11812,10 @@
 "first": "2026-08-26T23:33:03+00:00",
 "sig": "google|software engineer search"
 },
+"https://www.google.com/about/careers/applications/jobs/results/85644954524623558-software-engineer-ml-compilers-silicon-engineering": {
+"first": "2026-10-13T19:17:27+00:00",
+"sig": "google|software engineer ml compilers silicon engineering"
+},
 "https://www.google.com/about/careers/applications/jobs/results/88630606946017990-software-engineer-full-stack-google-cloud": {
 "first": "2026-07-14T10:13:53+00:00",
 "sig": "google|software engineer full stack google cloud"
@@ -11961,6 +12013,7 @@
 "amazon|embedded sde security silicon systems group": "2026-08-20T20:46:23+00:00",
 "amazon|its systems engineer corporate infrastructure services it": "2026-07-27T07:51:31+00:00",
 "amazon|quality assurance engineer i speed ai": "2026-08-22T16:40:59+00:00",
+"amazon|sde": "2026-10-13T19:17:27+00:00",
 "amazon|sde alexa for shopping": "2026-07-14T03:40:09+00:00",
 "amazon|sde expansions tech and product": "2026-09-18T19:02:12+00:00",
 "amazon|sde ftc": "2026-09-02T12:46:30+00:00",
@@ -12243,6 +12296,8 @@
 "cgi|software engineer hyperiondeveloper": "2026-08-15T01:49:43+00:00",
 "cgi|software engineer iam developer": "2026-09-13T18:47:22+00:00",
 "cgi|software engineer java full stack developer": "2026-09-17T19:43:58+00:00",
+"cgi|software engineer java jr api developer": "2026-10-13T19:17:27+00:00",
+"cgi|software engineer jr mainframe developer": "2026-10-13T19:17:27+00:00",
 "cgi|software engineer python ai": "2026-08-05T03:32:47+00:00",
 "cgi|software engineer python developer": "2026-08-05T10:46:36+00:00",
 "cglia solutions llp|software engineer": "2026-07-29T10:48:49+00:00",
@@ -12403,7 +12458,9 @@
 "elevenlabs|full stack engineer backend leaning coremusic": "2026-10-13T11:48:21+00:00",
 "elevenlabs|full stack engineer backend leaning creative agents": "2026-10-07T15:33:22+00:00",
 "elevenlabs|full stack engineer creative agents": "2026-10-07T15:33:22+00:00",
+"elevenlabs|full stack engineer elevenmusic": "2026-10-13T19:17:27+00:00",
 "elevenlabs|full stack engineer frontend leaning creativemusic": "2026-10-13T11:48:21+00:00",
+"elevenlabs|full stack engineer productions": "2026-10-13T19:17:27+00:00",
 "elite worldgroup inc.|full stack developer": "2026-07-23T17:45:40+00:00",
 "ellucian|software engineer i react node aws": "2026-08-27T22:16:06+00:00",
 "elsevier|salesforce software engineer": "2026-10-02T05:37:31+00:00",
@@ -12517,6 +12574,7 @@
 "google|software engineer full stack": "2026-07-17T21:08:13+00:00",
 "google|software engineer full stack google cloud": "2026-07-14T10:13:53+00:00",
 "google|software engineer google enterprise network": "2026-08-09T09:02:11+00:00",
+"google|software engineer ml compilers silicon engineering": "2026-10-13T19:17:27+00:00",
 "google|software engineer mobile android": "2026-08-20T01:51:35+00:00",
 "google|software engineer persistent disk phd early career": "2026-07-12T06:29:34+00:00",
 "google|software engineer phd early career": "2026-07-12T06:29:34+00:00",
@@ -12560,6 +12618,9 @@
 "harman becker automotive systems manufacturing kft|software engineer c middleware": "2026-08-07T00:55:22+00:00",
 "harman becker automotive systems manufacturing kft|software engineer devops": "2026-09-17T19:44:00+00:00",
 "harman becker automotive systems manufacturing kft|software engineer ethernet": "2026-10-04T19:37:49+00:00",
+"harman becker automotive systems manufacturing kft|software engineer gitlab": "2026-10-13T19:17:27+00:00",
+"harman becker automotive systems manufacturing kft|software engineer golang": "2026-10-13T19:17:27+00:00",
+"harman becker automotive systems manufacturing kft|software engineer scrum master": "2026-10-13T19:17:27+00:00",
 "harman becker automotive systems manufacturing kft|software engineer test automation": "2026-09-08T19:25:42+00:00",
 "harman india|software engineer python c with reactjs": "2026-07-17T10:12:05+00:00",
 "harness|software engineer": "2026-09-04T04:33:46+00:00",
@@ -13108,6 +13169,7 @@
 "skf|application engineer": "2026-09-11T04:41:02+00:00",
 "skillinabox|software engineer": "2026-09-13T13:18:35+00:00",
 "skywings advisors pvt. ltd.|angular spring boot software engineer": "2026-09-24T19:59:32+00:00",
+"skywings advisors pvt. ltd.|full stack software engineer": "2026-10-13T19:17:27+00:00",
 "skywings advisors pvt. ltd.|sap sd sap hana software engineer": "2026-09-27T05:18:43+00:00",
 "skywings advisors pvt. ltd.|software engineer qliksense sql": "2026-09-08T19:25:42+00:00",
 "skywings advisors pvt. ltd.|software engineer sap basis hana specialist": "2026-08-27T22:16:06+00:00",
@@ -13246,6 +13308,7 @@
 "trigent software private limited|custom software engineer microsoft azure data services": "2026-09-21T20:25:34+00:00",
 "trigent software private limited|custom software engineer microsoft azure paas": "2026-08-07T00:55:22+00:00",
 "trigent software private limited|custom software engineer node js": "2026-07-24T21:20:45+00:00",
+"trigent software private limited|custom software engineer oracle agile plm": "2026-10-13T19:17:27+00:00",
 "trigent software private limited|custom software engineer performance testing strategy": "2026-08-11T21:04:28+00:00",
 "trigent software private limited|custom software engineer php": "2026-09-10T19:07:28+00:00",
 "trigent software private limited|custom software engineer php programming language": "2026-09-01T19:23:46+00:00",
@@ -13298,6 +13361,7 @@
 "twilio|software engineer email": "2026-07-23T21:28:42+00:00",
 "twilio|software engineer identity": "2026-09-09T19:16:50+00:00",
 "twilio|software engineer messaging api": "2026-08-21T20:41:09+00:00",
+"twilio|software engineer messaging channels team": "2026-10-13T19:17:27+00:00",
 "twilio|software engineer platform access": "2026-10-06T18:22:25+00:00",
 "twilio|technical support engineer": "2026-07-14T13:22:24+00:00",
 "two circles|software engineer custom tech": "2026-08-22T13:00:54+00:00",
@@ -13375,6 +13439,7 @@
 "vynexa|software engineer": "2026-08-06T03:36:54+00:00",
 "wakacje.pl|software engineer go": "2026-07-30T21:32:08+00:00",
 "walmart global tech india|distinguished software engineer": "2026-08-22T16:40:59+00:00",
+"walmart global tech india|distinguished software engineer wfs icc atlas platform": "2026-10-13T19:17:27+00:00",
 "walmart global tech india|ind distinguished software engineer": "2026-08-26T01:58:27+00:00",
 "walnut school|software engineer": "2026-10-13T11:48:20+00:00",
 "wayflyer|frontend software engineer": "2026-07-14T14:05:09+00:00",
