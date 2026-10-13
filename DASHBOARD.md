@@ -1,15 +1,18 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-12 17:54 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-13 02:01 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1560)
+## 🎯 To apply (1563)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-13 | Software Engineer I - Backend Leaning FullStack | Rippling | [apply ↗](https://www.adzuna.in/details/5924608568?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924608568?utm_medium=api&` |
+| — | 2026-10-13 | Software Engineering - Custom Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5924576026?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924576026?utm_medium=api&` |
+| — | 2026-10-13 | Custom Software Engineer | Tekwissen India | [apply ↗](https://www.adzuna.in/details/5924575763?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924575763?utm_medium=api&` |
 | — | 2026-10-12 | Specialist, Software Engineer - Angular Developer, India | Nationwide | [apply ↗](https://www.adzuna.in/details/5923576245?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923576245?utm_medium=api&` |
 | — | 2026-10-12 | CAD Software Engineer | Ford Motor Company | [apply ↗](https://www.adzuna.in/details/5923576250?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5923576250?utm_medium=api&` |
 | — | 2026-10-12 | 138512 - Backend Software Engineer - Payments | Lifted, an Upwork Company™ | [apply ↗](https://www.adzuna.in/details/5924432052?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924432052?utm_medium=api&` |
