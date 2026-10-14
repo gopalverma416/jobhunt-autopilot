@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-14 20:12 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-14 23:14 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1599)
+## 🎯 To apply (1601)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -25,6 +25,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-14 | Software Development Engineer [PSET-Product Data-Data Foundation] | Autodesk | [apply ↗](https://www.adzuna.in/details/5927752726?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5927752726?utm_medium=api&` |
 | — | 2026-10-14 | Full-Stack Engineer (Backend Leaning) - Studio | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/a1c86d02-e9df-4580-87e4-1333f2b83e94) | `python track.py applied a1c86d02-e9df-4580-87e4-13` |
 | — | 2026-10-14 | Full-Stack Engineer (Frontend Leaning) - Studio | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/e6924f60-c8cc-42b3-9d05-2442ec30e12d) | `python track.py applied e6924f60-c8cc-42b3-9d05-24` |
+| — | 2026-10-14 | Software Engineer | Smiths Detection | [apply ↗](https://www.adzuna.in/details/5927808146?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5927808146?utm_medium=api&` |
+| — | 2026-10-14 | Software Engineer | ServiceNow | [apply ↗](https://www.adzuna.in/details/5927807590?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5927807590?utm_medium=api&` |
 | — | 2026-10-13 | Software Engineer I - Backend Leaning FullStack | Rippling | [apply ↗](https://www.adzuna.in/details/5924608568?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924608568?utm_medium=api&` |
 | — | 2026-10-13 | Software Engineering - Custom Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5924576026?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924576026?utm_medium=api&` |
 | — | 2026-10-13 | Custom Software Engineer | Tekwissen India | [apply ↗](https://www.adzuna.in/details/5924575763?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924575763?utm_medium=api&` |
