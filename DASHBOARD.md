@@ -1,16 +1,23 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-14 04:53 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-14 13:44 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1585)
+## 🎯 To apply (1592)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-10-14 | Full Stack Software Engineer | The Future University | [apply ↗](https://www.adzuna.in/details/5926644877?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5926644877?utm_medium=api&` |
+| — | 2026-10-14 | Software Development Engineer, SW-Device OS | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5927340515?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5927340515?utm_medium=api&` |
+| — | 2026-10-14 | Software Development Engineer-1 | Surety Seven Technologies | [apply ↗](https://www.adzuna.in/details/5927319611?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5927319611?utm_medium=api&` |
+| — | 2026-10-14 | Full-Stack Engineer (Backend Leaning) - Platform Engineering | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0) | `python track.py applied ce3d5a59-fb8c-482b-bc3f-60` |
+| — | 2026-10-14 | Full-Stack Engineer (Backend Leaning) - Payments Engineering | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/e4e0450f-d139-4f8e-b210-2f326a680d90) | `python track.py applied e4e0450f-d139-4f8e-b210-2f` |
+| — | 2026-10-14 | Software Engineer | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer_R-290463) | `python track.py applied Software-Engineer_R-290463` |
+| — | 2026-10-14 | Software Engineer (DevSecOps) | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer--DevSecOps-_R-289609-1) | `python track.py applied Software-Engineer--DevSecO` |
+| — | 2026-10-14 | Software Engineer | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000155459130) | `python track.py applied 744000155459130` |
 | — | 2026-10-13 | Software Engineer I - Backend Leaning FullStack | Rippling | [apply ↗](https://www.adzuna.in/details/5924608568?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924608568?utm_medium=api&` |
 | — | 2026-10-13 | Software Engineering - Custom Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5924576026?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924576026?utm_medium=api&` |
 | — | 2026-10-13 | Custom Software Engineer | Tekwissen India | [apply ↗](https://www.adzuna.in/details/5924575763?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5924575763?utm_medium=api&` |
