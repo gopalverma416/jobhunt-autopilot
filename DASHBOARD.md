@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-15 13:26 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-15 19:53 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1607)
+## 🎯 To apply (1612)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -16,6 +16,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-15 | Associate Software Engineer | Hire Daily | [apply ↗](https://www.adzuna.in/details/5928803227?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5928803227?utm_medium=api&` |
 | — | 2026-10-15 | Software Engineer | Capgemini | [apply ↗](https://www.adzuna.in/details/5928803030?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5928803030?utm_medium=api&` |
 | — | 2026-10-15 | Associate Software Development Engineer - Information Security | S&P Global | [apply ↗](https://www.adzuna.in/details/5928584379?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5928584379?utm_medium=api&` |
+| — | 2026-10-15 | Custom Software Engineer | Tekwissen India | [apply ↗](https://www.adzuna.in/details/5929351047?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5929351047?utm_medium=api&` |
+| — | 2026-10-15 | Software Engineer - Node.js & React.js | DigiWagon Technologies Private Limited | [apply ↗](https://www.adzuna.in/details/5929286119?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5929286119?utm_medium=api&` |
+| — | 2026-10-15 | Software Engineer, ML Compilers, Silicon Engineering | Google | [apply ↗](https://www.adzuna.in/details/5929234287?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5929234287?utm_medium=api&` |
+| — | 2026-10-15 | Software Development Engineer I | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10580014/software-development-engineer-i) | `python track.py applied software-development-engin` |
+| — | 2026-10-15 | Software Development Engineer I FTC | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10580010/software-development-engineer-i-ftc) | `python track.py applied software-development-engin` |
 | — | 2026-10-14 | Full Stack Software Engineer | The Future University | [apply ↗](https://www.adzuna.in/details/5926644877?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5926644877?utm_medium=api&` |
 | — | 2026-10-14 | Software Development Engineer, SW-Device OS | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5927340515?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5927340515?utm_medium=api&` |
 | — | 2026-10-14 | Software Development Engineer-1 | Surety Seven Technologies | [apply ↗](https://www.adzuna.in/details/5927319611?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5927319611?utm_medium=api&` |
