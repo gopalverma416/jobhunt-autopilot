@@ -1,15 +1,18 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-14 23:14 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-15 04:39 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1601)
+## 🎯 To apply (1604)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-15 | Software Engineer - PHP | Fingent, a Great Place to Work Certified company | [apply ↗](https://www.adzuna.in/details/5928473832?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5928473832?utm_medium=api&` |
+| — | 2026-10-15 | Software Engineer - Magento | Fingent, a Great Place to Work Certified company | [apply ↗](https://www.adzuna.in/details/5928473836?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5928473836?utm_medium=api&` |
+| — | 2026-10-15 | Expert, Software Engineer-AI | Schneider Electric | [apply ↗](https://www.adzuna.in/details/5928348891?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5928348891?utm_medium=api&` |
 | — | 2026-10-14 | Full Stack Software Engineer | The Future University | [apply ↗](https://www.adzuna.in/details/5926644877?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5926644877?utm_medium=api&` |
 | — | 2026-10-14 | Software Development Engineer, SW-Device OS | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5927340515?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5927340515?utm_medium=api&` |
 | — | 2026-10-14 | Software Development Engineer-1 | Surety Seven Technologies | [apply ↗](https://www.adzuna.in/details/5927319611?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5927319611?utm_medium=api&` |
