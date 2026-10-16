@@ -540,6 +540,10 @@
 "first": "2026-10-10T05:52:51+00:00",
 "sig": "gitlab|people systems engineer"
 },
+"https://job-boards.greenhouse.io/gitlab/jobs/8894531002": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "gitlab|intermediate backend engineer code security"
+},
 "https://job-boards.greenhouse.io/gleanwork/jobs/4006731005": {
 "first": "2026-07-12T12:26:43+00:00",
 "sig": "glean|software engineer backend"
@@ -1434,6 +1438,10 @@
 },
 "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-290795": {
 "first": "2026-09-25T13:47:55+00:00",
+"sig": "mastercard|software engineer i"
+},
+"https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I-1_R-293576-1": {
+"first": "2026-10-16T19:33:21+00:00",
 "sig": "mastercard|software engineer i"
 },
 "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288000": {
@@ -10972,6 +10980,70 @@
 "first": "2026-10-16T13:15:26+00:00",
 "sig": "adci - karnataka|its systems engineer corporate infrastructure services it"
 },
+"https://www.adzuna.in/details/5930905729?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5930906116?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5930906169?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5930908911?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5930909307?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5930910838?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5930911591?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "marrina decisions|remote india forward deployed systems engineer"
+},
+"https://www.adzuna.in/details/5930911636?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5930911712?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5930915274?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5930915288?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5931059083?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "tekwissen india|custom software engineer"
+},
+"https://www.adzuna.in/details/5931059163?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "trigent software private limited|custom software engineer sap project system ps"
+},
+"https://www.adzuna.in/details/5931059188?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "trigent software private limited|custom software engineer"
+},
+"https://www.adzuna.in/details/5931059268?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "indus infotech|custom software engineer"
+},
+"https://www.adzuna.in/details/5931059269?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "indus infotech|custom software engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -12024,6 +12096,10 @@
 "first": "2026-10-15T19:53:13+00:00",
 "sig": "amazon|software development engineer i"
 },
+"https://www.amazon.jobs/en/jobs/10581459/software-development-engineer-ai-runtime": {
+"first": "2026-10-16T19:33:21+00:00",
+"sig": "amazon|software development engineer ai runtime"
+},
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
 "sig": "axonius|backend engineer s o paulo"
@@ -12356,6 +12432,7 @@
 "amazon|software development engineer affs": "2026-07-29T06:45:13+00:00",
 "amazon|software development engineer aft external fulfillment": "2026-08-21T08:58:17+00:00",
 "amazon|software development engineer ai business automation ai business automation prime video": "2026-09-21T15:06:36+00:00",
+"amazon|software development engineer ai runtime": "2026-10-16T19:33:21+00:00",
 "amazon|software development engineer ai trust innovation": "2026-09-23T04:45:18+00:00",
 "amazon|software development engineer alexa ai logistics for infrastructure cost efficiency": "2026-07-17T03:37:18+00:00",
 "amazon|software development engineer alexa audio": "2026-08-07T00:55:23+00:00",
@@ -12902,6 +12979,7 @@
 "gitlab|intermediate backend engineer": "2026-08-11T13:42:34+00:00",
 "gitlab|intermediate backend engineer analytics instrumentation": "2026-07-14T13:22:22+00:00",
 "gitlab|intermediate backend engineer c tenant scale git": "2026-07-14T13:22:22+00:00",
+"gitlab|intermediate backend engineer code security": "2026-10-16T19:33:21+00:00",
 "gitlab|intermediate backend engineer database change management": "2026-08-24T13:13:06+00:00",
 "gitlab|intermediate backend engineer india": "2026-09-02T19:23:19+00:00",
 "gitlab|intermediate backend engineer platform integrations monetization": "2026-07-23T10:34:57+00:00",
@@ -13013,6 +13091,7 @@
 "imc|c software engineer": "2026-09-25T20:01:57+00:00",
 "improving|mobile software engineer": "2026-10-14T13:43:57+00:00",
 "inditech consulting|freelance full stack software engineer healthcare": "2026-09-11T12:49:43+00:00",
+"indus infotech|custom software engineer": "2026-10-16T19:33:21+00:00",
 "indus infotech|full stack ai engineer": "2026-10-06T01:18:14+00:00",
 "infobeans|software engineer in test": "2026-09-09T22:33:25+00:00",
 "infoblox|software engineer golang": "2026-10-08T21:20:18+00:00",
@@ -13142,6 +13221,7 @@
 "marketnode|fullstack engineer": "2026-09-28T16:45:23+00:00",
 "maropost|software engineer java developer": "2026-08-21T13:10:30+00:00",
 "maropost|software engineer ror commerce cloud": "2026-09-22T19:44:50+00:00",
+"marrina decisions|remote india forward deployed systems engineer": "2026-10-16T19:33:21+00:00",
 "marriott tech accelerator|software engineer": "2026-08-04T06:40:43+00:00",
 "mastercard|site reliability engineer i": "2026-08-10T13:43:55+00:00",
 "mastercard|software engineer": "2026-07-31T10:50:38+00:00",
@@ -13684,6 +13764,7 @@
 "trigent software private limited|custom software engineer sap businessobjects data services": "2026-09-22T19:44:50+00:00",
 "trigent software private limited|custom software engineer sap fico": "2026-09-10T19:07:28+00:00",
 "trigent software private limited|custom software engineer sap mm materials management": "2026-07-22T21:30:31+00:00",
+"trigent software private limited|custom software engineer sap project system ps": "2026-10-16T19:33:21+00:00",
 "trigent software private limited|custom software engineer sap sales and distribution sd": "2026-09-25T20:01:57+00:00",
 "trigent software private limited|custom software engineer selenium": "2026-08-17T20:43:33+00:00",
 "trigent software private limited|custom software engineer servicenow itsm": "2026-07-24T21:21:16+00:00",
