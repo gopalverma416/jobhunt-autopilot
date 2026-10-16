@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-15 23:04 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-16 04:32 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1612)
+## 🎯 To apply (1614)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-16 | Software Engineer (GitHub Contributor) - M1 | eDataBae | [apply ↗](https://www.adzuna.in/details/5929772129?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5929772129?utm_medium=api&` |
+| — | 2026-10-16 | 110 - Frontend Software Engineer - Payments Platform | Lifted, an Upwork Company™ | [apply ↗](https://www.adzuna.in/details/5929514314?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5929514314?utm_medium=api&` |
 | — | 2026-10-15 | Software Engineer - PHP | Fingent, a Great Place to Work Certified company | [apply ↗](https://www.adzuna.in/details/5928473832?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5928473832?utm_medium=api&` |
 | — | 2026-10-15 | Software Engineer - Magento | Fingent, a Great Place to Work Certified company | [apply ↗](https://www.adzuna.in/details/5928473836?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5928473836?utm_medium=api&` |
 | — | 2026-10-15 | Expert, Software Engineer-AI | Schneider Electric | [apply ↗](https://www.adzuna.in/details/5928348891?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5928348891?utm_medium=api&` |
