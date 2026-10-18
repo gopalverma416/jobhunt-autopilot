@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-17 22:18 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-18 04:34 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1630)
+## 🎯 To apply (1631)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-18 | Software Engineer AI Coding Tasks | Askable | [apply ↗](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538) | `python track.py applied remote-software-engineer-a` |
 | — | 2026-10-17 | Software Development Engineer, Your Orders & Federation Platform | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5932036099?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5932036099?utm_medium=api&` |
 | — | 2026-10-17 | Software Engineer | Stripe | [apply ↗](https://www.adzuna.in/details/5931995171?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5931995171?utm_medium=api&` |
 | — | 2026-10-17 | Software Engineer | Mastercard | [apply ↗](https://www.adzuna.in/details/5931776223?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5931776223?utm_medium=api&` |
