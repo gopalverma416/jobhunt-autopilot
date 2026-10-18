@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-18 12:36 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-18 18:38 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1634)
+## 🎯 To apply (1639)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-18 | NI Pune Q4 26- Backend Engineer Junior | Cognyte | [apply ↗](https://www.adzuna.in/details/5933169997?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5933169997?utm_medium=api&` |
 | — | 2026-10-18 | Software Engineer I-1 | Mastercard | [apply ↗](https://www.adzuna.in/details/5933025096?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5933025096?utm_medium=api&` |
 | — | 2026-10-18 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5933017225?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5933017225?utm_medium=api&` |
+| — | 2026-10-18 | IN_Senior Associate_.NET Full Stack Developer_MS Engg_Advisory_Gurgaon | PricewaterhouseCoopers | [apply ↗](https://www.adzuna.in/details/5933468576?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5933468576?utm_medium=api&` |
+| — | 2026-10-18 | Customer Journey Labs Software Engineer - AVP | Barclays | [apply ↗](https://www.adzuna.in/details/5933464845?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5933464845?utm_medium=api&` |
+| — | 2026-10-18 | Software Engineer (C++) | Global Payment Holding Company | [apply ↗](https://www.adzuna.in/details/5933464767?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5933464767?utm_medium=api&` |
+| — | 2026-10-18 | Backend Software Engineer, DX | Atlassian | [apply ↗](https://careers-americas.icims.com/jobs/27728/backend-software-engineer%2c-dx/job) | `python track.py applied job` |
+| — | 2026-10-18 | Fullstack Software Engineer, DX | Atlassian | [apply ↗](https://careers-americas.icims.com/jobs/27729/fullstack-software-engineer%2c-dx/job) | `python track.py applied job` |
 | — | 2026-10-17 | Software Development Engineer, Your Orders & Federation Platform | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5932036099?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5932036099?utm_medium=api&` |
 | — | 2026-10-17 | Software Engineer | Stripe | [apply ↗](https://www.adzuna.in/details/5931995171?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5931995171?utm_medium=api&` |
 | — | 2026-10-17 | Software Engineer | Mastercard | [apply ↗](https://www.adzuna.in/details/5931776223?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5931776223?utm_medium=api&` |
