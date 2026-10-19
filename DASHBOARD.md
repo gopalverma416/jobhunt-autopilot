@@ -1,16 +1,18 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-19 04:40 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-19 15:35 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1640)
+## 🎯 To apply (1642)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-10-19 | Freshers Software Engineer in Hyderabad | MAK | [apply ↗](https://www.adzuna.in/details/5933728568?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5933728568?utm_medium=api&` |
+| — | 2026-10-19 | Junior Software Engineer | Weekday AI | [apply ↗](https://www.adzuna.in/details/5934061370?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5934061370?utm_medium=api&` |
+| — | 2026-10-19 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557026929) | `python track.py applied 1970393557026929` |
 | — | 2026-10-18 | Software Engineer AI Coding Tasks | Askable | [apply ↗](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137538) | `python track.py applied remote-software-engineer-a` |
 | — | 2026-10-18 | NI Pune Q4 26- Backend Engineer Junior | Cognyte | [apply ↗](https://www.adzuna.in/details/5933169997?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5933169997?utm_medium=api&` |
 | — | 2026-10-18 | Software Engineer I-1 | Mastercard | [apply ↗](https://www.adzuna.in/details/5933025096?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5933025096?utm_medium=api&` |
