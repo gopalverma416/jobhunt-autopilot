@@ -11480,6 +11480,10 @@
 "first": "2026-10-20T19:59:56+00:00",
 "sig": "accenture|custom software engineer"
 },
+"https://www.adzuna.in/details/5935658004?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-20T23:10:55+00:00",
+"sig": "coface|software engineer"
+},
 "https://www.adzuna.in/details/5935779928?utm_medium=api&utm_source=616fbe19": {
 "first": "2026-10-20T19:59:56+00:00",
 "sig": "nxp semiconductors|experienced embedded firmware software engineer"
@@ -12548,6 +12552,26 @@
 "first": "2026-10-19T15:35:49+00:00",
 "sig": "amazon|software development engineer cam"
 },
+"https://www.amazon.jobs/en/jobs/10584598/software-development-engineer-ww-returns-and-recommerce": {
+"first": "2026-10-20T23:10:55+00:00",
+"sig": "amazon|software development engineer ww returns and recommerce"
+},
+"https://www.amazon.jobs/en/jobs/10584599/software-development-engineer-ww-returns-and-recommerce": {
+"first": "2026-10-20T23:10:55+00:00",
+"sig": "amazon|software development engineer ww returns and recommerce"
+},
+"https://www.amazon.jobs/en/jobs/10584600/software-development-engineer-ww-returns-and-recommerce": {
+"first": "2026-10-20T23:10:55+00:00",
+"sig": "amazon|software development engineer ww returns and recommerce"
+},
+"https://www.amazon.jobs/en/jobs/10584602/software-development-engineer-ww-returns-and-recommerce": {
+"first": "2026-10-20T23:10:55+00:00",
+"sig": "amazon|software development engineer ww returns and recommerce"
+},
+"https://www.amazon.jobs/en/jobs/10584606/software-development-engineer-wwrr-tech": {
+"first": "2026-10-20T23:10:55+00:00",
+"sig": "amazon|software development engineer wwrr tech"
+},
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
 "sig": "axonius|backend engineer s o paulo"
@@ -12961,7 +12985,9 @@
 "amazon|software development engineer time pay innovation": "2026-09-27T05:18:43+00:00",
 "amazon|software development engineer traffic quality": "2026-08-14T17:11:35+00:00",
 "amazon|software development engineer vendor experience": "2026-08-07T05:50:37+00:00",
+"amazon|software development engineer ww returns and recommerce": "2026-10-20T23:10:55+00:00",
 "amazon|software development engineer wwostech": "2026-08-02T06:46:30+00:00",
+"amazon|software development engineer wwrr tech": "2026-10-20T23:10:55+00:00",
 "amazon|software development engineer your orders federation platform": "2026-07-12T06:29:34+00:00",
 "amazon|software devlopment engineer i amazon rewards": "2026-09-02T12:46:30+00:00",
 "amazon|software engineer cross border science and analytics": "2026-09-02T12:46:30+00:00",
@@ -13255,6 +13281,7 @@
 "cockroachlabs|member of technical staff test engineering": "2026-07-14T13:22:21+00:00",
 "coditas technologies|dot net full stack developer": "2026-08-08T02:22:47+00:00",
 "coditas technologies|full stack net developer": "2026-08-08T02:22:47+00:00",
+"coface|software engineer": "2026-10-20T23:10:55+00:00",
 "cognite|software engineer transformation data": "2026-09-05T18:18:14+00:00",
 "cognizant|java full stack developer with angular": "2026-10-01T15:27:27+00:00",
 "cognyte|ni pune backend engineer junior": "2026-10-17T18:30:28+00:00",

@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-20 19:59 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-20 23:10 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1649)
+## 🎯 To apply (1650)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-20 | NI Pune Q4 26- Backend Engineer Junior | Cognyte | [apply ↗](https://www.adzuna.in/details/5934866619?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5934866619?utm_medium=api&` |
 | — | 2026-10-20 | Software Development Engineer, Amazon Flex | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5935370093?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5935370093?utm_medium=api&` |
 | — | 2026-10-20 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5935584763?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5935584763?utm_medium=api&` |
+| — | 2026-10-20 | Software Engineer | Coface | [apply ↗](https://www.adzuna.in/details/5935658004?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5935658004?utm_medium=api&` |
 | — | 2026-10-19 | Freshers Software Engineer in Hyderabad | MAK | [apply ↗](https://www.adzuna.in/details/5933728568?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5933728568?utm_medium=api&` |
 | — | 2026-10-19 | Junior Software Engineer | Weekday AI | [apply ↗](https://www.adzuna.in/details/5934061370?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5934061370?utm_medium=api&` |
 | — | 2026-10-19 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557026929) | `python track.py applied 1970393557026929` |
