@@ -1,15 +1,19 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-21 04:47 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-21 13:48 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1650)
+## 🎯 To apply (1654)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-21 | Software Development Engineer | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5936615060?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5936615060?utm_medium=api&` |
+| — | 2026-10-21 | Software Engineer 1 - Platform & Infrastructure | Abnormal AI | [apply ↗](https://www.adzuna.in/details/5936562180?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5936562180?utm_medium=api&` |
+| — | 2026-10-21 | Software Engineer | Sage | [apply ↗](https://www.adzuna.in/details/5936317924?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5936317924?utm_medium=api&` |
+| — | 2026-10-21 | Software Engineer Product Infra: Core Services | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8282005?gh_jid=8282005) | `python track.py applied job.8282005?gh_jid=8282005` |
 | — | 2026-10-20 | NI Pune Q4 26- Backend Engineer Junior | Cognyte | [apply ↗](https://www.adzuna.in/details/5934866619?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5934866619?utm_medium=api&` |
 | — | 2026-10-20 | Software Development Engineer, Amazon Flex | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5935370093?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5935370093?utm_medium=api&` |
 | — | 2026-10-20 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5935584763?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5935584763?utm_medium=api&` |
