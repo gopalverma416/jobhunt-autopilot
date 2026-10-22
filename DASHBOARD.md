@@ -1,16 +1,19 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-22 04:45 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-22 13:48 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1661)
+## 🎯 To apply (1664)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-10-22 | AVP, Full Stack Engineer | Standard Chartered Bank | [apply ↗](https://www.adzuna.in/land/ad/5936953614?se=JiZKa9PN8RGI54QPRiQJtQ&utm_medium=api&utm_source=616fbe19&v=E17B9C1F627B886036B9563A17F9CFA91DB83A99) | `python track.py applied 5936953614?se=JiZKa9PN8RGI` |
+| — | 2026-10-22 | Assistant Software Engineer | Cutshort Lightning | [apply ↗](https://www.adzuna.in/details/5937766734?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5937766734?utm_medium=api&` |
+| — | 2026-10-22 | Software Engineer (AI Training) | Alignerr | [apply ↗](https://www.adzuna.in/details/5937764608?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5937764608?utm_medium=api&` |
+| — | 2026-10-22 | Full Stack Developer | VASA Denticity Limited | [apply ↗](https://www.adzuna.in/details/5937668873?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5937668873?utm_medium=api&` |
 | — | 2026-10-21 | Software Development Engineer | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5936615060?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5936615060?utm_medium=api&` |
 | — | 2026-10-21 | Software Engineer 1 - Platform & Infrastructure | Abnormal AI | [apply ↗](https://www.adzuna.in/details/5936562180?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5936562180?utm_medium=api&` |
 | — | 2026-10-21 | Software Engineer | Sage | [apply ↗](https://www.adzuna.in/details/5936317924?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5936317924?utm_medium=api&` |
