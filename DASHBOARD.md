@@ -1,16 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-23 04:49 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-23 13:26 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1668)
+## 🎯 To apply (1672)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-10-23 | Full-stack app developer (Part-time, Equity only) | PD Consulting | [apply ↗](https://www.adzuna.in/details/5938634168?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5938634168?utm_medium=api&` |
+| — | 2026-10-23 | Software Development Engineer, Finance Technology | Amazon Dev Center India - Hyderabad | [apply ↗](https://www.adzuna.in/details/5939154967?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5939154967?utm_medium=api&` |
+| — | 2026-10-23 | Software Development Engineer, Ship With Amazon | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5939154815?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5939154815?utm_medium=api&` |
+| — | 2026-10-23 | Software Engineer - Avaloq/PLSQL/Oracle | Avaloq | [apply ↗](https://www.adzuna.in/details/5939116423?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5939116423?utm_medium=api&` |
+| — | 2026-10-23 | Software Engineer I - Java Full Stack React/Angular | Mastercard | [apply ↗](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-I---Java-Full-Stack-React-Angular_R-294544) | `python track.py applied Software-Engineer-I---Java` |
 | — | 2026-10-22 | AVP, Full Stack Engineer | Standard Chartered Bank | [apply ↗](https://www.adzuna.in/land/ad/5936953614?se=JiZKa9PN8RGI54QPRiQJtQ&utm_medium=api&utm_source=616fbe19&v=E17B9C1F627B886036B9563A17F9CFA91DB83A99) | `python track.py applied 5936953614?se=JiZKa9PN8RGI` |
 | — | 2026-10-22 | Assistant Software Engineer | Cutshort Lightning | [apply ↗](https://www.adzuna.in/details/5937766734?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5937766734?utm_medium=api&` |
 | — | 2026-10-22 | Software Engineer (AI Training) | Alignerr | [apply ↗](https://www.adzuna.in/details/5937764608?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5937764608?utm_medium=api&` |
