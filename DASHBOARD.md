@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-22 23:22 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-23 04:49 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1667)
+## 🎯 To apply (1668)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-23 | Full-stack app developer (Part-time, Equity only) | PD Consulting | [apply ↗](https://www.adzuna.in/details/5938634168?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5938634168?utm_medium=api&` |
 | — | 2026-10-22 | AVP, Full Stack Engineer | Standard Chartered Bank | [apply ↗](https://www.adzuna.in/land/ad/5936953614?se=JiZKa9PN8RGI54QPRiQJtQ&utm_medium=api&utm_source=616fbe19&v=E17B9C1F627B886036B9563A17F9CFA91DB83A99) | `python track.py applied 5936953614?se=JiZKa9PN8RGI` |
 | — | 2026-10-22 | Assistant Software Engineer | Cutshort Lightning | [apply ↗](https://www.adzuna.in/details/5937766734?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5937766734?utm_medium=api&` |
 | — | 2026-10-22 | Software Engineer (AI Training) | Alignerr | [apply ↗](https://www.adzuna.in/details/5937764608?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5937764608?utm_medium=api&` |
