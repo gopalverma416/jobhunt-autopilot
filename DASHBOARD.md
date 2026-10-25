@@ -1,16 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-25 19:03 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-25 22:33 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1682)
+## 🎯 To apply (1686)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-10-25 | Software Engineer I, ITC | Nike | [apply ↗](https://www.adzuna.in/details/5941182926?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5941182926?utm_medium=api&` |
+| — | 2026-10-25 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5941588098?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5941588098?utm_medium=api&` |
+| — | 2026-10-25 | Software Development Engineer - I | Blink Charging | [apply ↗](https://www.adzuna.in/details/5941587498?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5941587498?utm_medium=api&` |
+| — | 2026-10-25 | Software Engineer - AI | Greenway Health | [apply ↗](https://www.adzuna.in/details/5941584749?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5941584749?utm_medium=api&` |
+| — | 2026-10-25 | Software Engineer, D365 | Natwest Group | [apply ↗](https://www.adzuna.in/details/5941584146?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5941584146?utm_medium=api&` |
 | — | 2026-10-24 | Software Development Engineer, AWS DynamoDB | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5940398678?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5940398678?utm_medium=api&` |
 | — | 2026-10-24 | Software Development Engineer, Prime Video Experience Tech | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5940379129?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5940379129?utm_medium=api&` |
 | — | 2026-10-24 | Software Development Engineer, Amazon Photos | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5940377645?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5940377645?utm_medium=api&` |
