@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-25 22:33 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-26 04:47 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1686)
+## 🎯 To apply (1687)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-26 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557044890) | `python track.py applied 1970393557044890` |
 | — | 2026-10-25 | Software Engineer I, ITC | Nike | [apply ↗](https://www.adzuna.in/details/5941182926?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5941182926?utm_medium=api&` |
 | — | 2026-10-25 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5941588098?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5941588098?utm_medium=api&` |
 | — | 2026-10-25 | Software Development Engineer - I | Blink Charging | [apply ↗](https://www.adzuna.in/details/5941587498?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5941587498?utm_medium=api&` |
