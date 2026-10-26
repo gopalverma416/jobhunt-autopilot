@@ -1420,6 +1420,14 @@
 "first": "2026-10-14T13:43:57+00:00",
 "sig": "servicenow|software engineer"
 },
+"https://jobs.smartrecruiters.com/ServiceNow/744000157722179": {
+"first": "2026-10-26T15:11:46+00:00",
+"sig": "servicenow|software engineer"
+},
+"https://jobs.smartrecruiters.com/ServiceNow/744000157740014": {
+"first": "2026-10-26T15:11:46+00:00",
+"sig": "servicenow|software engineer"
+},
 "https://jobs.smartrecruiters.com/Zomato1/104244178": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "zomato|software engineer back end"
@@ -11956,6 +11964,30 @@
 "first": "2026-10-25T22:33:25+00:00",
 "sig": "brahma|fullstack software engineer"
 },
+"https://www.adzuna.in/details/5941901214?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-26T15:11:46+00:00",
+"sig": "edatabae|software engineer github contributor new"
+},
+"https://www.adzuna.in/details/5941901223?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-26T15:11:46+00:00",
+"sig": "hyrezy talent solutions|backend software engineer java node js fintech payments"
+},
+"https://www.adzuna.in/details/5941997385?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-26T15:11:46+00:00",
+"sig": "chalhoub group|software engineer ecommerce sfcc"
+},
+"https://www.adzuna.in/details/5942139437?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-26T15:11:46+00:00",
+"sig": "mathworks|software engineer embedded deep learning"
+},
+"https://www.adzuna.in/details/5942168412?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-26T15:11:46+00:00",
+"sig": "intech additive solutions pvt ltd|software engineer"
+},
+"https://www.adzuna.in/details/5942244680?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-26T15:11:46+00:00",
+"sig": "dell|net software engineer sre devops"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -13710,6 +13742,7 @@
 "cgi|software engineer python ai": "2026-08-05T03:32:47+00:00",
 "cgi|software engineer python developer": "2026-08-05T10:46:36+00:00",
 "cglia solutions llp|software engineer": "2026-07-29T10:48:49+00:00",
+"chalhoub group|software engineer ecommerce sfcc": "2026-10-26T15:11:46+00:00",
 "charles schwab india|software developer java": "2026-08-21T13:10:30+00:00",
 "charles schwab|specialist software engineer python data engineering": "2026-09-16T04:49:24+00:00",
 "check point software technologies|customer focused software engineer": "2026-07-31T14:35:08+00:00",
@@ -13837,6 +13870,7 @@
 "databricks|full stack developer ai agents": "2026-07-30T10:34:34+00:00",
 "databricks|it software engineer infrastructure": "2026-09-30T05:32:58+00:00",
 "datadog|technical support engineer": "2026-07-14T13:22:21+00:00",
+"dell|net software engineer sre devops": "2026-10-26T15:11:46+00:00",
 "deltek|software engineer full stack node js and react": "2026-08-21T13:10:30+00:00",
 "deutsche bank|gcp full stack data ai engineer as": "2026-10-02T05:37:31+00:00",
 "diebold|advanced software engineer": "2026-08-13T02:47:36+00:00",
@@ -13871,6 +13905,7 @@
 "ecolab|software engineer": "2026-09-24T19:59:32+00:00",
 "ecolab|software engineer ui path developer": "2026-09-07T14:15:28+00:00",
 "edatabae|software engineer github contributor": "2026-10-16T04:32:00+00:00",
+"edatabae|software engineer github contributor new": "2026-10-26T15:11:46+00:00",
 "egnyte|software development engineer in test": "2026-08-13T13:47:39+00:00",
 "eka software solutions|agentic software engineer": "2026-08-13T02:47:36+00:00",
 "electronic arts|associate software engineer": "2026-07-17T10:12:05+00:00",
@@ -14093,6 +14128,7 @@
 "hyderabad office|associate software engineer direct contract": "2026-08-02T17:15:45+00:00",
 "hyland|software engineer c ai": "2026-08-10T05:44:13+00:00",
 "hyperproof|software engineer risk management": "2026-10-18T12:36:50+00:00",
+"hyrezy talent solutions|backend software engineer java node js fintech payments": "2026-10-26T15:11:46+00:00",
 "ibm|full stack storage software engineer java script java full stack": "2026-07-17T06:27:35+00:00",
 "ibm|software developer": "2026-10-11T05:46:50+00:00",
 "ibm|software engineer": "2026-09-25T04:57:35+00:00",
@@ -14115,6 +14151,7 @@
 "innova software services inc|full stack developer": "2026-09-24T19:59:32+00:00",
 "insightsoftware|associate software engineer": "2026-09-25T20:01:57+00:00",
 "insightsoftware|software development engineer in test": "2026-10-07T21:18:17+00:00",
+"intech additive solutions pvt ltd|software engineer": "2026-10-26T15:11:46+00:00",
 "integrated consultancy services|full stack java developer": "2026-09-08T22:40:47+00:00",
 "interactive brokers software services pvt ltd|software engineer java developer": "2026-10-08T15:37:08+00:00",
 "iqvia|software developer": "2026-08-17T09:00:43+00:00",
@@ -14248,6 +14285,7 @@
 "mastercard|software engineer java spring boot": "2026-09-03T19:18:05+00:00",
 "mastercard|software engineer mainframe testing": "2026-09-30T05:32:58+00:00",
 "match point solutions|software engineer c": "2026-09-25T20:01:57+00:00",
+"mathworks|software engineer embedded deep learning": "2026-10-26T15:11:46+00:00",
 "mattel, inc.|software engineer ai ml": "2026-10-23T13:26:45+00:00",
 "mattel, inc.|software engineer veeva": "2026-09-02T12:46:29+00:00",
 "mattel|eai software engineer": "2026-07-30T03:28:38+00:00",
