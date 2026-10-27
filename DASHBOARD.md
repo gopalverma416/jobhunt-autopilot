@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-27 14:31 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-27 20:42 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1696)
+## 🎯 To apply (1697)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-27 | Software Engineer, Mobile (Android) | OKX | [apply ↗](https://www.adzuna.in/details/5943353491?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5943353491?utm_medium=api&` |
 | — | 2026-10-27 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5943348301?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5943348301?utm_medium=api&` |
 | — | 2026-10-27 | Backend Software Engineer | Atlassian | [apply ↗](https://globalcareers-atlassian.icims.com/jobs/26676/backend-software-engineer/job) | `python track.py applied job` |
+| — | 2026-10-27 | Software Engineer - Fullstack (Backend) | HuntingCube Recruitment Solutions | [apply ↗](https://www.adzuna.in/details/5943690959?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5943690959?utm_medium=api&` |
 | — | 2026-10-26 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557044890) | `python track.py applied 1970393557044890` |
 | — | 2026-10-26 | .NET Software Engineer (SRE / DevOps) | Dell | [apply ↗](https://www.adzuna.in/details/5942244680?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5942244680?utm_medium=api&` |
 | — | 2026-10-26 | Software Engineer (GitHub Contributor) - M1 New | eDataBae | [apply ↗](https://www.adzuna.in/details/5941901214?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5941901214?utm_medium=api&` |
