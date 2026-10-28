@@ -340,6 +340,10 @@
 "first": "2026-10-13T23:43:29+00:00",
 "sig": "cloudflare|systems engineer browser isolation"
 },
+"https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821": {
+"first": "2026-10-28T21:04:50+00:00",
+"sig": "cloudflare|hardware systems engineer"
+},
 "https://careers-americas.icims.com/jobs/25301/software-engineer/job": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "atlassian|software engineer"
@@ -12204,6 +12208,34 @@
 "first": "2026-10-28T15:06:37+00:00",
 "sig": "adci - karnataka|software development engineer i iesp merchant tech"
 },
+"https://www.adzuna.in/details/5944718640?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-28T21:04:50+00:00",
+"sig": "fis capital markets|java full stack react engineer"
+},
+"https://www.adzuna.in/details/5944718644?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-28T21:04:50+00:00",
+"sig": "qualys|software engineer"
+},
+"https://www.adzuna.in/details/5944719043?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-28T21:04:50+00:00",
+"sig": "cisco|software engineer"
+},
+"https://www.adzuna.in/details/5944719777?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-28T21:04:50+00:00",
+"sig": "oracle|application software engineer"
+},
+"https://www.adzuna.in/details/5944721241?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-28T21:04:50+00:00",
+"sig": "barclays|software engineer"
+},
+"https://www.adzuna.in/details/5944721617?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-28T21:04:50+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5944721692?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-28T21:04:50+00:00",
+"sig": "accenture|custom software engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -12619,6 +12651,10 @@
 "https://www.adzuna.in/land/ad/5943812650?se=0oXYU5LS8RGmCrXKpsNruQ&utm_medium=api&utm_source=616fbe19&v=62F74F420BCD7C3BFA66F59B98CABB172A6EBBBF": {
 "first": "2026-10-28T05:42:22+00:00",
 "sig": "te connectivity|r d product dvl engineer i"
+},
+"https://www.adzuna.in/land/ad/5944893587?se=_OmhKhPT8RGGEZv-xSOJ3w&utm_medium=api&utm_source=616fbe19&v=F906CBA80C51EB087F7918758CA4DE25780B3825": {
+"first": "2026-10-28T21:04:50+00:00",
+"sig": "abb|embedded software engineer"
 },
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -13497,6 +13533,7 @@
 "a16z crypto|software engineer systems": "2026-10-25T13:11:10+00:00",
 "a2z saas private limited|software engineer testing": "2026-08-06T03:36:53+00:00",
 "abb|configurator solution specialist full stack": "2026-07-29T03:39:48+00:00",
+"abb|embedded software engineer": "2026-10-28T21:04:50+00:00",
 "abb|software engineer": "2026-07-18T17:14:36+00:00",
 "abnormal ai|software engineer platform infrastructure": "2026-10-21T13:48:23+00:00",
 "abnormal|software engineer platform infrastructure": "2026-10-21T20:09:41+00:00",
@@ -14026,6 +14063,7 @@
 "cloudflare|distributed systems engineer data platform delivery database retrieval": "2026-07-14T13:22:21+00:00",
 "cloudflare|distributed systems engineer data platform logs and audit logs": "2026-07-14T13:22:21+00:00",
 "cloudflare|full stack engineer internal audit": "2026-07-14T13:22:21+00:00",
+"cloudflare|hardware systems engineer": "2026-10-28T21:04:50+00:00",
 "cloudflare|software engineer": "2026-08-14T09:20:49+00:00",
 "cloudflare|software engineer cdn configuration group": "2026-09-17T13:27:40+00:00",
 "cloudflare|software engineer cloudflare network interconnect": "2026-07-29T21:12:49+00:00",
@@ -14206,6 +14244,7 @@
 "finwizard technology pvt.ltd|software development engineer testing sdet": "2026-10-11T14:54:53+00:00",
 "first advantage|associate software engineer net full stack developer": "2026-10-03T19:13:43+00:00",
 "first citizens india|software engineer i java springboot": "2026-09-01T19:23:47+00:00",
+"fis capital markets|java full stack react engineer": "2026-10-28T21:04:50+00:00",
 "fis capital markets|junior software engineer": "2026-10-17T18:30:28+00:00",
 "fiserv|software development engineer": "2026-10-07T21:18:17+00:00",
 "flux auto|embedded software engineer": "2026-10-07T15:33:20+00:00",
