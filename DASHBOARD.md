@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-28 05:42 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-28 15:06 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1703)
+## 🎯 To apply (1708)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -16,6 +16,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-10-28 | R&D/PRODUCT DVL ENGINEER I | TE Connectivity | [apply ↗](https://www.adzuna.in/land/ad/5943812650?se=0oXYU5LS8RGmCrXKpsNruQ&utm_medium=api&utm_source=616fbe19&v=62F74F420BCD7C3BFA66F59B98CABB172A6EBBBF) | `python track.py applied 5943812650?se=0oXYU5LS8RGm` |
 | — | 2026-10-28 | Software Engineer, Delivery : Release | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8916232002) | `python track.py applied 8916232002` |
 | — | 2026-10-28 | Software Engineer | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000157856929) | `python track.py applied 744000157856929` |
+| — | 2026-10-28 | Software Development Engineer -I, IESP Merchant Tech | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5944491020?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5944491020?utm_medium=api&` |
+| — | 2026-10-28 | Software Development Engineer, Sidewalk Cloud, Sidewalk Cloud | ADCI - BOM - Non STPI | [apply ↗](https://www.adzuna.in/details/5944449034?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5944449034?utm_medium=api&` |
+| — | 2026-10-28 | Software Development Engineer - CFD | Siemens Digital Industries Software | [apply ↗](https://www.adzuna.in/details/5944407212?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5944407212?utm_medium=api&` |
+| — | 2026-10-28 | Embedded Software Engineer | Origin | [apply ↗](https://www.adzuna.in/details/5944363227?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5944363227?utm_medium=api&` |
+| — | 2026-10-28 | Software Engineer, New Grad | Stripe | [apply ↗](https://stripe.com/jobs/search?gh_jid=8130876) | `python track.py applied search?gh_jid=8130876` |
 | — | 2026-10-27 | Software Engineer | ServiceNow | [apply ↗](https://www.adzuna.in/details/5942783475?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5942783475?utm_medium=api&` |
 | — | 2026-10-27 | Custom Software Engineer | Tekwissen India | [apply ↗](https://www.adzuna.in/details/5942674479?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5942674479?utm_medium=api&` |
 | — | 2026-10-27 | Software Engineer, Mobile (Android) | OKX | [apply ↗](https://www.adzuna.in/details/5943353491?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5943353491?utm_medium=api&` |
