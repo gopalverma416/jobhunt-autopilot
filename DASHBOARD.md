@@ -1,15 +1,19 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-28 21:04 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-29 05:48 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1713)
+## 🎯 To apply (1717)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-10-29 | Full-Stack Software Engineer – Distributed Systems & AI | Setoo Solution Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5945170891?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5945170891?utm_medium=api&` |
+| — | 2026-10-29 | Full-stack app developer (Part-time, Equity only, BizVidya) | Kefilo | [apply ↗](https://www.adzuna.in/details/5945170834?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5945170834?utm_medium=api&` |
+| — | 2026-10-29 | Embedded Software Engineer | ABB | [apply ↗](https://www.adzuna.in/land/ad/5944893587?se=gishT1zT8RGpb5ATKhfplw&utm_medium=api&utm_source=616fbe19&v=F906CBA80C51EB087F7918758CA4DE25780B3825) | `python track.py applied 5944893587?se=gishT1zT8RGp` |
+| — | 2026-10-29 | Software Engineer (Full Stack) | KLA | [apply ↗](https://www.adzuna.in/details/5944873489?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5944873489?utm_medium=api&` |
 | — | 2026-10-28 | Fullstack Engineer (NodeJs) | ascendion | [apply ↗](https://www.adzuna.in/details/5944001539?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5944001539?utm_medium=api&` |
 | — | 2026-10-28 | Python Developer / Full Stack Engineer | Durapid Technologies Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5943994186?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5943994186?utm_medium=api&` |
 | — | 2026-10-28 | Software Engineer – Full Stack (.NET 8 / C# / Golang / ReactJS) | Alphaspec Consulting LLP | [apply ↗](https://www.adzuna.in/details/5943994097?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5943994097?utm_medium=api&` |
