@@ -172,6 +172,10 @@
 "first": "2026-10-27T20:42:15+00:00",
 "sig": "microsoft|software engineer"
 },
+"https://apply.careers.microsoft.com/careers/job/1970393557043583": {
+"first": "2026-10-30T05:49:16+00:00",
+"sig": "microsoft|software engineer"
+},
 "https://apply.careers.microsoft.com/careers/job/1970393557044890": {
 "first": "2026-10-26T04:47:07+00:00",
 "sig": "microsoft|software engineer"
@@ -12316,6 +12320,10 @@
 "first": "2026-10-29T21:07:17+00:00",
 "sig": "accenture|custom software engineer"
 },
+"https://www.adzuna.in/details/5946559801?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-10-30T05:49:15+00:00",
+"sig": "chalhoub group|software engineer ecommerce"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -12739,6 +12747,46 @@
 "https://www.adzuna.in/land/ad/5944893587?se=gishT1zT8RGpb5ATKhfplw&utm_medium=api&utm_source=616fbe19&v=F906CBA80C51EB087F7918758CA4DE25780B3825": {
 "first": "2026-10-29T05:48:10+00:00",
 "sig": "abb|embedded software engineer"
+},
+"https://www.adzuna.in/land/ad/5946279591?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=244C6347028C69DE7BD96C76F079B8C8E1A7F634": {
+"first": "2026-10-30T05:49:16+00:00",
+"sig": "accenture|software development engineer"
+},
+"https://www.adzuna.in/land/ad/5946279621?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=74A2B7189CA6075D77E3A310D8070CCF9F96C894": {
+"first": "2026-10-30T05:49:16+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/land/ad/5946279645?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=081F0BECCEAC4CD4DC90EB763E2374BCE28E0A44": {
+"first": "2026-10-30T05:49:16+00:00",
+"sig": "accenture|software development engineer"
+},
+"https://www.adzuna.in/land/ad/5946279662?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=DE84300633E5425DD3EC7AECD740B27F458E9D6E": {
+"first": "2026-10-30T05:49:16+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/land/ad/5946279820?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=710BFCFA0ED8AC3941F878B45A7BA813978CC6A2": {
+"first": "2026-10-30T05:49:16+00:00",
+"sig": "accenture|software development engineer"
+},
+"https://www.adzuna.in/land/ad/5946279822?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=29B7400A6116F168B27C14EAB92969FCFD84D31D": {
+"first": "2026-10-30T05:49:16+00:00",
+"sig": "accenture|software development engineer"
+},
+"https://www.adzuna.in/land/ad/5946279943?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=73A3CC4FF364FE2D44A6388A519575EEDB39BF60": {
+"first": "2026-10-30T05:49:16+00:00",
+"sig": "accenture|software development engineer"
+},
+"https://www.adzuna.in/land/ad/5946279959?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=29015F4F8752907F50928FB69B3F3EE4FDD0B055": {
+"first": "2026-10-30T05:49:16+00:00",
+"sig": "accenture|software development engineer"
+},
+"https://www.adzuna.in/land/ad/5946279988?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=7BACF0BFE04CF5BF66CF767EC9CF0ABC4F5E9E2F": {
+"first": "2026-10-30T05:49:16+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/land/ad/5946279993?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=83FE1EF62C12C373968E7AB90E3295E9662FD918": {
+"first": "2026-10-30T05:49:16+00:00",
+"sig": "accenture|software development engineer"
 },
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -14104,6 +14152,7 @@
 "cgi|software engineer python ai": "2026-08-05T03:32:47+00:00",
 "cgi|software engineer python developer": "2026-08-05T10:46:36+00:00",
 "cglia solutions llp|software engineer": "2026-07-29T10:48:49+00:00",
+"chalhoub group|software engineer ecommerce": "2026-10-30T05:49:15+00:00",
 "chalhoub group|software engineer ecommerce sfcc": "2026-10-26T15:11:46+00:00",
 "charles schwab india|software developer java": "2026-08-21T13:10:30+00:00",
 "charles schwab|specialist software engineer python data engineering": "2026-09-16T04:49:24+00:00",
