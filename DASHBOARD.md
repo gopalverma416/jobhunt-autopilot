@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-10-31 05:40 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-10-31 14:32 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1733)
+## 🎯 To apply (1737)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,10 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-10-31 | Software Developer | Unknown | [apply ↗](https://www.adzuna.in/details/5947402981?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5947402981?utm_medium=api&` |
 | — | 2026-10-31 | Software Engineer - Rust | Bitwarden | [apply ↗](https://bitwarden.com/careers/7896696003/?gh_jid=7896696003) | `python track.py applied ?gh_jid=7896696003` |
+| — | 2026-10-31 | Software Development Engineer, AI Runtime | ADCI - Maharashtra | [apply ↗](https://www.adzuna.in/details/5947986363?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5947986363?utm_medium=api&` |
+| — | 2026-10-31 | Software Development Engineer | ADCI HYD 13 SEZ | [apply ↗](https://www.adzuna.in/details/5947968990?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5947968990?utm_medium=api&` |
+| — | 2026-10-31 | Fullstack Software Engineer | Diagrid | [apply ↗](https://www.adzuna.in/details/5947929466?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5947929466?utm_medium=api&` |
+| — | 2026-10-31 | Software Engineer | U.S. Bank | [apply ↗](https://www.adzuna.in/details/5947929376?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5947929376?utm_medium=api&` |
 | — | 2026-10-30 | Software Development Engineer | Accenture | [apply ↗](https://www.adzuna.in/land/ad/5946279993?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=83FE1EF62C12C373968E7AB90E3295E9662FD918) | `python track.py applied 5946279993?se=VrLYnyXU8RG_` |
 | — | 2026-10-30 | Software Development Engineer | Accenture | [apply ↗](https://www.adzuna.in/land/ad/5946279943?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=73A3CC4FF364FE2D44A6388A519575EEDB39BF60) | `python track.py applied 5946279943?se=VrLYnyXU8RG_` |
 | — | 2026-10-30 | Custom Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/land/ad/5946279988?se=VrLYnyXU8RG_r4bmUg0vXw&utm_medium=api&utm_source=616fbe19&v=7BACF0BFE04CF5BF66CF767EC9CF0ABC4F5E9E2F) | `python track.py applied 5946279988?se=VrLYnyXU8RG_` |
