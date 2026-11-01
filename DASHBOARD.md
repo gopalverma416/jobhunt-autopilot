@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-01 06:04 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-01 15:08 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1747)
+## 🎯 To apply (1749)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -18,6 +18,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-01 | Salesforce Software Engineer | Elsevier | [apply ↗](https://www.adzuna.in/land/ad/5948619897?se=tIsJFbrV8RGzjJJZ0soEIQ&utm_medium=api&utm_source=616fbe19&v=889B0D7807DC100FCE6C66411D2CA293DAF06226) | `python track.py applied 5948619897?se=tIsJFbrV8RGz` |
 | — | 2026-11-01 | Open-Source Software Engineer | S&P Global | [apply ↗](https://www.adzuna.in/land/ad/5948619870?se=tIsJFbrV8RGzjJJZ0soEIQ&utm_medium=api&utm_source=616fbe19&v=7422BA0CA0C7FE7C1FDC2D1D5D2D1855B1B94B81) | `python track.py applied 5948619870?se=tIsJFbrV8RGz` |
 | — | 2026-11-01 | SDET (Software Development Engineer in Test) | WPP Production | [apply ↗](https://www.adzuna.in/land/ad/5948619822?se=tIsJFbrV8RGzjJJZ0soEIQ&utm_medium=api&utm_source=616fbe19&v=19B9BBAA7E4AD743A57EFF78EC668B5F66A6021B) | `python track.py applied 5948619822?se=tIsJFbrV8RGz` |
+| — | 2026-11-01 | Associate Software Engineer | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5948740465?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5948740465?utm_medium=api&` |
+| — | 2026-11-01 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5948740289?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5948740289?utm_medium=api&` |
 | — | 2026-10-31 | Software Developer | Unknown | [apply ↗](https://www.adzuna.in/details/5947402981?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5947402981?utm_medium=api&` |
 | — | 2026-10-31 | Software Engineer - Rust | Bitwarden | [apply ↗](https://bitwarden.com/careers/7896696003/?gh_jid=7896696003) | `python track.py applied ?gh_jid=7896696003` |
 | — | 2026-10-31 | Software Development Engineer, AI Runtime | ADCI - Maharashtra | [apply ↗](https://www.adzuna.in/details/5947986363?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5947986363?utm_medium=api&` |
