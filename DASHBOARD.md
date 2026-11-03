@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-03 11:56 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-03 19:29 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1760)
+## 🎯 To apply (1767)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-03 | Software Engineer (Junior Role) | Zema Global Data Corporation | [apply ↗](https://www.adzuna.in/details/5951620813?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5951620813?utm_medium=api&` |
 | — | 2026-11-03 | Associate Engineer - PCB Design | Eaton Corporation | [apply ↗](https://www.adzuna.in/details/5951435711?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5951435711?utm_medium=api&` |
 | — | 2026-11-03 | Intermediate Backend Engineer, Authorization | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8905402002) | `python track.py applied 8905402002` |
+| — | 2026-11-03 | Full stack developer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5952066555?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5952066555?utm_medium=api&` |
+| — | 2026-11-03 | Custom Software Engineer - Selenium | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5952066580?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5952066580?utm_medium=api&` |
+| — | 2026-11-03 | Assoc Programmer Analyst (Software Engineer) | Moody's | [apply ↗](https://www.adzuna.in/land/ad/5951938036?se=PrV43rzX8RGvZ7bY2rGjuQ&utm_medium=api&utm_source=616fbe19&v=918C538F56AC49474D7A156027D373E8CC7760B6) | `python track.py applied 5951938036?se=PrV43rzX8RGv` |
+| — | 2026-11-03 | Software Engineer - Data Quality | Truveta | [apply ↗](https://www.adzuna.in/details/5951896651?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5951896651?utm_medium=api&` |
+| — | 2026-11-03 | Software Engineer | Barclays | [apply ↗](https://www.adzuna.in/details/5951896616?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5951896616?utm_medium=api&` |
+| — | 2026-11-03 | Software Engineer | Cummins | [apply ↗](https://www.adzuna.in/details/5951896176?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5951896176?utm_medium=api&` |
+| — | 2026-11-03 | Software Engineer | Atlassian | [apply ↗](https://careers-americas.icims.com/jobs/27459/software-engineer/job) | `python track.py applied job` |
 | — | 2026-11-02 | Software Engineer | Bajaj Finance | [apply ↗](https://www.adzuna.in/details/5950707158?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5950707158?utm_medium=api&` |
 | — | 2026-11-02 | Platform Software Engineer 1 | Oracle | [apply ↗](https://www.adzuna.in/details/5950703109?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5950703109?utm_medium=api&` |
 | — | 2026-11-02 | Software Development Engineer, Alexa Connections | ADCI - Tamil Nadu | [apply ↗](https://www.adzuna.in/details/5950520596?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5950520596?utm_medium=api&` |

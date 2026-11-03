@@ -372,6 +372,10 @@
 "first": "2026-08-24T05:01:08+00:00",
 "sig": "atlassian|software engineer"
 },
+"https://careers-americas.icims.com/jobs/27459/software-engineer/job": {
+"first": "2026-11-03T19:29:41+00:00",
+"sig": "atlassian|software engineer"
+},
 "https://careers-americas.icims.com/jobs/27728/backend-software-engineer%2c-dx/job": {
 "first": "2026-10-18T18:38:25+00:00",
 "sig": "atlassian|backend software engineer dx"
@@ -863,6 +867,10 @@
 "https://job-boards.greenhouse.io/twilio/jobs/8016229": {
 "first": "2026-07-14T13:22:24+00:00",
 "sig": "twilio|technical support engineer"
+},
+"https://job-boards.greenhouse.io/twilio/jobs/8026199": {
+"first": "2026-11-03T19:29:41+00:00",
+"sig": "twilio|software engineer email"
 },
 "https://job-boards.greenhouse.io/twilio/jobs/8026201": {
 "first": "2026-07-29T10:48:49+00:00",
@@ -12708,6 +12716,42 @@
 "first": "2026-11-03T11:56:04+00:00",
 "sig": "state street|java full stack developer assistant vice president"
 },
+"https://www.adzuna.in/details/5951895754?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T19:29:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5951896176?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T19:29:41+00:00",
+"sig": "cummins|software engineer"
+},
+"https://www.adzuna.in/details/5951896616?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T19:29:41+00:00",
+"sig": "barclays|software engineer"
+},
+"https://www.adzuna.in/details/5951896651?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T19:29:41+00:00",
+"sig": "truveta|software engineer data quality"
+},
+"https://www.adzuna.in/details/5951898653?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T19:29:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5951899172?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T19:29:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5951900401?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T19:29:41+00:00",
+"sig": "weekday ai|backend software engineer"
+},
+"https://www.adzuna.in/details/5952066555?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T19:29:40+00:00",
+"sig": "trigent software private limited|full stack developer"
+},
+"https://www.adzuna.in/details/5952066580?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T19:29:40+00:00",
+"sig": "trigent software private limited|custom software engineer selenium"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -13203,6 +13247,10 @@
 "https://www.adzuna.in/land/ad/5948620170?se=tIsJFbrV8RGzjJJZ0soEIQ&utm_medium=api&utm_source=616fbe19&v=5436C062521977FB447164EB8466DCDC486A886F": {
 "first": "2026-11-01T06:04:43+00:00",
 "sig": "avaloq|software engineer plsql acp"
+},
+"https://www.adzuna.in/land/ad/5951938036?se=PrV43rzX8RGvZ7bY2rGjuQ&utm_medium=api&utm_source=616fbe19&v=918C538F56AC49474D7A156027D373E8CC7760B6": {
+"first": "2026-11-03T19:29:41+00:00",
+"sig": "moody's|assoc programmer analyst software engineer"
 },
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -14711,6 +14759,7 @@
 "ct nova|full stack engineer": "2026-07-21T10:33:53+00:00",
 "cto operations|software engineer": "2026-09-21T20:25:34+00:00",
 "cult fit|backend engineer": "2026-07-23T03:44:41+00:00",
+"cummins|software engineer": "2026-11-03T19:29:41+00:00",
 "cutshort lightning|assistant software engineer": "2026-10-22T13:47:58+00:00",
 "cutshort lightning|full stack ai engineer": "2026-09-04T12:43:27+00:00",
 "cutshort lightning|fullstack software engineer": "2026-08-07T13:39:34+00:00",
@@ -15224,6 +15273,7 @@
 "moderntreasury|software engineer infrastructure": "2026-07-14T17:34:37+00:00",
 "momentum financial services group|full stack developer": "2026-08-11T13:42:34+00:00",
 "mongodb|application engineer": "2026-09-11T19:09:44+00:00",
+"moody's|assoc programmer analyst software engineer": "2026-11-03T19:29:41+00:00",
 "moody's|software engineer": "2026-07-14T13:22:20+00:00",
 "moody's|software engineer sharepoint developer": "2026-09-01T19:23:46+00:00",
 "morgan stanley|java software engineer vice president parametric": "2026-10-24T12:40:49+00:00",
@@ -15765,6 +15815,7 @@
 "trigent software private limited|deloitte monika full stack java react": "2026-08-28T22:20:13+00:00",
 "trigent software private limited|embedded software engineer": "2026-08-27T22:16:06+00:00",
 "trigent software private limited|embedded software engineer with in audio tuner bt wifi projection ethernet avb camera": "2026-10-07T21:18:17+00:00",
+"trigent software private limited|full stack developer": "2026-11-03T19:29:40+00:00",
 "trigent software private limited|full stack engineer java full stack development": "2026-08-17T20:43:33+00:00",
 "trigent software private limited|java full stack": "2026-10-14T20:12:06+00:00",
 "trigent software private limited|net full stack developer": "2026-08-12T21:03:12+00:00",
@@ -15780,6 +15831,7 @@
 "trigent software private limited|software engineering packaged saas application engineer": "2026-09-04T18:59:34+00:00",
 "trigent software private limited|systems engineer hyberabad hybrid": "2026-07-27T21:30:03+00:00",
 "trueblue|software engineer": "2026-08-15T12:58:59+00:00",
+"truveta|software engineer data quality": "2026-11-03T19:29:41+00:00",
 "tsavorite scalable intelligence|smts system software engineer security": "2026-09-07T14:15:28+00:00",
 "turing|remote software engineer c": "2026-10-06T18:22:25+00:00",
 "turing|remote software engineer ruby": "2026-09-13T13:18:35+00:00",
@@ -15883,6 +15935,7 @@
 "wayflyer|full stack software engineer": "2026-07-21T17:45:43+00:00",
 "webengage|software engineer java": "2026-09-23T13:38:46+00:00",
 "weekday ai|backend engineer": "2026-08-20T13:11:02+00:00",
+"weekday ai|backend software engineer": "2026-11-03T19:29:41+00:00",
 "weekday ai|embedded software engineer": "2026-09-15T19:42:19+00:00",
 "weekday ai|full stack engineer": "2026-07-24T14:13:11+00:00",
 "weekday ai|full stack engineer frontend focused aiprise": "2026-10-09T15:18:52+00:00",
