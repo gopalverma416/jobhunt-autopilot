@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-02 18:21 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-03 02:19 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1755)
+## 🎯 To apply (1756)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-03 | Software Engineer - G01516 | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5950861695?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5950861695?utm_medium=api&` |
 | — | 2026-11-02 | Software Engineer | Bajaj Finance | [apply ↗](https://www.adzuna.in/details/5950707158?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5950707158?utm_medium=api&` |
 | — | 2026-11-02 | Platform Software Engineer 1 | Oracle | [apply ↗](https://www.adzuna.in/details/5950703109?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5950703109?utm_medium=api&` |
 | — | 2026-11-02 | Software Development Engineer, Alexa Connections | ADCI - Tamil Nadu | [apply ↗](https://www.adzuna.in/details/5950520596?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5950520596?utm_medium=api&` |
