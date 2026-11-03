@@ -588,6 +588,10 @@
 "first": "2026-10-16T19:33:21+00:00",
 "sig": "gitlab|intermediate backend engineer code security"
 },
+"https://job-boards.greenhouse.io/gitlab/jobs/8905402002": {
+"first": "2026-11-03T11:56:04+00:00",
+"sig": "gitlab|intermediate backend engineer authorization"
+},
 "https://job-boards.greenhouse.io/gitlab/jobs/8916232002": {
 "first": "2026-10-28T05:42:22+00:00",
 "sig": "gitlab|software engineer delivery release"
@@ -1424,6 +1428,10 @@
 "first": "2026-10-30T15:03:11+00:00",
 "sig": "bosch|semiconductor application engineer automotive radar ultrasonic sensing"
 },
+"https://jobs.smartrecruiters.com/BoschGroup/744000159295609": {
+"first": "2026-11-03T11:56:04+00:00",
+"sig": "bosch|full stack developer with devops experience"
+},
 "https://jobs.smartrecruiters.com/ServiceNow/744000144386100": {
 "first": "2026-08-19T20:45:35+00:00",
 "sig": "servicenow|software engineer"
@@ -1483,6 +1491,10 @@
 "https://jobs.smartrecruiters.com/ServiceNow/744000159166108": {
 "first": "2026-11-02T18:21:51+00:00",
 "sig": "servicenow|assoc software engineer"
+},
+"https://jobs.smartrecruiters.com/ServiceNow/744000159295769": {
+"first": "2026-11-03T11:56:04+00:00",
+"sig": "servicenow|software engineer"
 },
 "https://jobs.smartrecruiters.com/Zomato1/104244178": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -12680,6 +12692,22 @@
 "first": "2026-11-03T02:19:07+00:00",
 "sig": "arminus|software engineer informatica"
 },
+"https://www.adzuna.in/details/5951435711?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T11:56:04+00:00",
+"sig": "eaton corporation|associate engineer pcb design"
+},
+"https://www.adzuna.in/details/5951620813?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T11:56:04+00:00",
+"sig": "zema global data corporation|software engineer junior role"
+},
+"https://www.adzuna.in/details/5951623869?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T11:56:04+00:00",
+"sig": "lowe's india|associate software engineer"
+},
+"https://www.adzuna.in/details/5951623963?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-03T11:56:04+00:00",
+"sig": "state street|java full stack developer assistant vice president"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -13876,6 +13904,10 @@
 "first": "2026-10-28T05:42:22+00:00",
 "sig": "amazon|software development engineer amazon regulatory and trade services arts tech"
 },
+"https://www.amazon.jobs/en/jobs/10590907/software-development-engineer-rbs-tech": {
+"first": "2026-11-03T11:56:04+00:00",
+"sig": "amazon|software development engineer rbs tech"
+},
 "https://www.amazon.jobs/en/jobs/10592247/software-development-engineer-alexa-connections": {
 "first": "2026-10-29T21:07:17+00:00",
 "sig": "amazon|software development engineer alexa connections"
@@ -13883,6 +13915,10 @@
 "https://www.amazon.jobs/en/jobs/10593656/software-development-engineer": {
 "first": "2026-10-30T20:48:10+00:00",
 "sig": "amazon|software development engineer"
+},
+"https://www.amazon.jobs/en/jobs/10595059/software-development-engineer-aws-ads-performance-benchmarks": {
+"first": "2026-11-03T11:56:04+00:00",
+"sig": "amazon|software development engineer aws ads performance benchmarks"
 },
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
@@ -14272,6 +14308,7 @@
 "amazon|software development engineer amazon time pay innovation": "2026-07-21T10:33:53+00:00",
 "amazon|software development engineer amazon traffic engineering": "2026-07-22T03:46:27+00:00",
 "amazon|software development engineer aurora mysql": "2026-07-14T09:19:32+00:00",
+"amazon|software development engineer aws ads performance benchmarks": "2026-11-03T11:56:04+00:00",
 "amazon|software development engineer aws compliance security assurance denied party screening": "2026-08-07T17:07:02+00:00",
 "amazon|software development engineer aws compliance security assurance denied party screening denied party screening": "2026-08-07T17:07:02+00:00",
 "amazon|software development engineer aws dynamodb": "2026-07-23T21:28:42+00:00",
@@ -14484,6 +14521,7 @@
 "bosch|full stack angular c": "2026-07-12T12:26:42+00:00",
 "bosch|full stack developer": "2026-07-26T21:11:39+00:00",
 "bosch|full stack developer for web applications": "2026-07-22T14:22:20+00:00",
+"bosch|full stack developer with devops experience": "2026-11-03T11:56:04+00:00",
 "bosch|full stack software developer with ai expertise": "2026-09-16T04:49:24+00:00",
 "bosch|full stack software developer with ai expertise pune": "2026-10-14T13:43:57+00:00",
 "bosch|full stack with c angular": "2026-10-07T21:18:17+00:00",
@@ -14715,6 +14753,7 @@
 "easy to pitch|fullstack developer": "2026-10-11T14:54:53+00:00",
 "eaton corporation|associate engineer": "2026-08-25T13:11:37+00:00",
 "eaton corporation|associate engineer cloud": "2026-08-03T07:46:27+00:00",
+"eaton corporation|associate engineer pcb design": "2026-11-03T11:56:04+00:00",
 "eaton corporation|software engineer": "2026-08-23T08:48:26+00:00",
 "ebay|mts machine learning engineer": "2026-08-27T22:16:06+00:00",
 "ebay|mts mobile security engineer": "2026-08-10T13:43:55+00:00",
@@ -14846,6 +14885,7 @@
 "gitlab|backend engineer ruby ai engineering agent observability": "2026-07-14T13:22:22+00:00",
 "gitlab|intermediate backend engineer": "2026-08-11T13:42:34+00:00",
 "gitlab|intermediate backend engineer analytics instrumentation": "2026-07-14T13:22:22+00:00",
+"gitlab|intermediate backend engineer authorization": "2026-11-03T11:56:04+00:00",
 "gitlab|intermediate backend engineer c tenant scale git": "2026-07-14T13:22:22+00:00",
 "gitlab|intermediate backend engineer code security": "2026-10-16T19:33:21+00:00",
 "gitlab|intermediate backend engineer database change management": "2026-08-24T13:13:06+00:00",
@@ -15091,6 +15131,7 @@
 "loginext|junior software engineer backend": "2026-08-22T01:50:24+00:00",
 "london stock exchange group|software engineer": "2026-10-09T20:54:31+00:00",
 "lowe's home centers|software engineer": "2026-10-29T21:07:17+00:00",
+"lowe's india|associate software engineer": "2026-11-03T11:56:04+00:00",
 "lseg|software engineer": "2026-07-20T18:19:55+00:00",
 "ltm|software engineer": "2026-09-19T04:37:53+00:00",
 "lululemon india tech hub|software engineer data and ai platforms": "2026-08-04T06:40:43+00:00",
@@ -15570,6 +15611,7 @@
 "staples india business innovation hub private limited|associate software engineer full stack": "2026-07-24T17:52:15+00:00",
 "startele logic|software development engineer": "2026-10-13T11:48:20+00:00",
 "state street|full stack engineer assistant vice president": "2026-10-30T20:48:10+00:00",
+"state street|java full stack developer assistant vice president": "2026-11-03T11:56:04+00:00",
 "state street|java full stack developer officer": "2026-07-24T03:44:14+00:00",
 "state street|java full stack development assistant vice president": "2026-08-10T17:08:40+00:00",
 "stealth ai|founding backend engineer": "2026-08-22T04:49:05+00:00",
@@ -15909,6 +15951,7 @@
 "zeiss|software engineer client": "2026-09-01T19:23:46+00:00",
 "zeiss|software engineer java": "2026-09-20T18:47:50+00:00",
 "zema global data corporation|ai software engineer india rq": "2026-10-20T13:33:52+00:00",
+"zema global data corporation|software engineer junior role": "2026-11-03T11:56:04+00:00",
 "zimmer biomet|ai software engineer": "2026-08-27T09:49:04+00:00",
 "zomato|software engineer back end": "2026-07-12T06:29:34+00:00",
 "zoop.one|full stack engineer": "2026-10-15T13:26:22+00:00",
