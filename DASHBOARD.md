@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-04 12:08 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-04 19:45 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1769)
+## 🎯 To apply (1773)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,10 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-11-04 | Assoc Programmer Analyst (Software Engineer) | Moody's | [apply ↗](https://www.adzuna.in/land/ad/5951938036?se=_gkKrufX8RGoeZxyFEu-Ug&utm_medium=api&utm_source=616fbe19&v=918C538F56AC49474D7A156027D373E8CC7760B6) | `python track.py applied 5951938036?se=_gkKrufX8RGo` |
 | — | 2026-11-04 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557045581) | `python track.py applied 1970393557045581` |
+| — | 2026-11-04 | Software Engineer (Fullstack) | Avaloq | [apply ↗](https://www.adzuna.in/details/5953377207?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5953377207?utm_medium=api&` |
+| — | 2026-11-04 | Embedded Software Engineer | Aptiv | [apply ↗](https://www.adzuna.in/details/5953193233?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5953193233?utm_medium=api&` |
+| — | 2026-11-04 | Software Development Engineer in Test - AI | Jobgether | [apply ↗](https://www.adzuna.in/details/5953189329?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5953189329?utm_medium=api&` |
+| — | 2026-11-04 | Intermediate Backend Engineer , Security Factory | Gitlab | [apply ↗](https://job-boards.greenhouse.io/gitlab/jobs/8890971002) | `python track.py applied 8890971002` |
 | — | 2026-11-03 | Software Engineer - G01516 | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5950861695?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5950861695?utm_medium=api&` |
 | — | 2026-11-03 | Associate Software Engineer | Lowe's India | [apply ↗](https://www.adzuna.in/details/5951623869?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5951623869?utm_medium=api&` |
 | — | 2026-11-03 | Software Engineer (Junior Role) | Zema Global Data Corporation | [apply ↗](https://www.adzuna.in/details/5951620813?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5951620813?utm_medium=api&` |
