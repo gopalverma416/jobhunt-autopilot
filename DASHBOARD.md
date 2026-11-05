@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-04 19:45 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-05 00:54 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1773)
+## 🎯 To apply (1775)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-05 | Hardware Systems Engineer - AI Hardware | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8325834?gh_jid=8325834) | `python track.py applied 8325834?gh_jid=8325834` |
+| — | 2026-11-05 | Hardware Systems Engineer, Hardware Tools / Firmware | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8306486?gh_jid=8306486) | `python track.py applied 8306486?gh_jid=8306486` |
 | — | 2026-11-04 | Assoc Programmer Analyst (Software Engineer) | Moody's | [apply ↗](https://www.adzuna.in/land/ad/5951938036?se=_gkKrufX8RGoeZxyFEu-Ug&utm_medium=api&utm_source=616fbe19&v=918C538F56AC49474D7A156027D373E8CC7760B6) | `python track.py applied 5951938036?se=_gkKrufX8RGo` |
 | — | 2026-11-04 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557045581) | `python track.py applied 1970393557045581` |
 | — | 2026-11-04 | Software Engineer (Fullstack) | Avaloq | [apply ↗](https://www.adzuna.in/details/5953377207?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5953377207?utm_medium=api&` |

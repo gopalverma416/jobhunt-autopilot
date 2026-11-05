@@ -356,9 +356,17 @@
 "first": "2026-10-13T23:43:29+00:00",
 "sig": "cloudflare|systems engineer browser isolation"
 },
+"https://boards.greenhouse.io/cloudflare/jobs/8306486?gh_jid=8306486": {
+"first": "2026-11-05T00:54:03+00:00",
+"sig": "cloudflare|hardware systems engineer hardware tools firmware"
+},
 "https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821": {
 "first": "2026-10-28T21:04:50+00:00",
 "sig": "cloudflare|hardware systems engineer"
+},
+"https://boards.greenhouse.io/cloudflare/jobs/8325834?gh_jid=8325834": {
+"first": "2026-11-05T00:54:02+00:00",
+"sig": "cloudflare|hardware systems engineer ai hardware"
 },
 "https://boards.greenhouse.io/cloudflare/jobs/8336674?gh_jid=8336674": {
 "first": "2026-11-02T18:21:51+00:00",
@@ -14775,6 +14783,8 @@
 "cloudflare|distributed systems engineer data platform logs and audit logs": "2026-07-14T13:22:21+00:00",
 "cloudflare|full stack engineer internal audit": "2026-07-14T13:22:21+00:00",
 "cloudflare|hardware systems engineer": "2026-10-28T21:04:50+00:00",
+"cloudflare|hardware systems engineer ai hardware": "2026-11-05T00:54:02+00:00",
+"cloudflare|hardware systems engineer hardware tools firmware": "2026-11-05T00:54:03+00:00",
 "cloudflare|software engineer": "2026-08-14T09:20:49+00:00",
 "cloudflare|software engineer cdn configuration group": "2026-09-17T13:27:40+00:00",
 "cloudflare|software engineer cloudflare network interconnect": "2026-07-29T21:12:49+00:00",
