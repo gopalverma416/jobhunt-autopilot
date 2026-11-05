@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-05 12:20 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-05 21:59 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1780)
+## 🎯 To apply (1784)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -17,6 +17,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-05 | Software Development Engineer, Alexa Connectivity Devices | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5954149254?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5954149254?utm_medium=api&` |
 | — | 2026-11-05 | Software Engineer, GenAI Engineering (AI/ML) | Pegasystems | [apply ↗](https://www.adzuna.in/details/5953955583?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5953955583?utm_medium=api&` |
 | — | 2026-11-05 | Full-Stack Developer — AI-Native Engineering | Salesforce | [apply ↗](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Full-Stack-Developer---AI-Native-Engineering_JR359537) | `python track.py applied Full-Stack-Developer---AI-` |
+| — | 2026-11-05 | AI Native Software Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5954493844?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5954493844?utm_medium=api&` |
+| — | 2026-11-05 | Software Engineer | Bajaj Finance | [apply ↗](https://www.adzuna.in/details/5954491224?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5954491224?utm_medium=api&` |
+| — | 2026-11-05 | Software Engineer - Fullstack | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000159896784) | `python track.py applied 744000159896784` |
+| — | 2026-11-05 | Software Engineer - Fullstack | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000159899389) | `python track.py applied 744000159899389` |
 | — | 2026-11-04 | Assoc Programmer Analyst (Software Engineer) | Moody's | [apply ↗](https://www.adzuna.in/land/ad/5951938036?se=_gkKrufX8RGoeZxyFEu-Ug&utm_medium=api&utm_source=616fbe19&v=918C538F56AC49474D7A156027D373E8CC7760B6) | `python track.py applied 5951938036?se=_gkKrufX8RGo` |
 | — | 2026-11-04 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557045581) | `python track.py applied 1970393557045581` |
 | — | 2026-11-04 | Software Engineer (Fullstack) | Avaloq | [apply ↗](https://www.adzuna.in/details/5953377207?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5953377207?utm_medium=api&` |
