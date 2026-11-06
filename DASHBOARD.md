@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-06 15:55 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-06 21:29 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1792)
+## 🎯 To apply (1803)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -18,6 +18,17 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-06 | Full-Stack Engineer - ElevenCreative Enterprise | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2) | `python track.py applied 34dbe44c-9815-40b2-81f4-91` |
 | — | 2026-11-06 | Software Engineer Knowledge Catalog Data Products | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/75184274717713094-software-engineer-knowledge-catalog-data-products) | `python track.py applied 75184274717713094-software` |
 | — | 2026-11-06 | Software Engineer Payments | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/143561253581660870-software-engineer-payments) | `python track.py applied 143561253581660870-softwar` |
+| — | 2026-11-06 | SDET (Software Development Engineer | TalentOla | [apply ↗](https://www.adzuna.in/details/5955971807?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5955971807?utm_medium=api&` |
+| — | 2026-11-06 | Software Engineer | Barclays | [apply ↗](https://www.adzuna.in/details/5955887571?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5955887571?utm_medium=api&` |
+| — | 2026-11-06 | Software Engineer, SDK | Braintrust | [apply ↗](https://jobs.ashbyhq.com/Braintrust/2a6c4ee9-063f-45d4-83ba-faf64b1f1a60) | `python track.py applied 2a6c4ee9-063f-45d4-83ba-fa` |
+| — | 2026-11-06 | Full-Stack Engineer (Frontend Leaning) - Studio | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/ElevenLabs/e6924f60-c8cc-42b3-9d05-2442ec30e12d) | `python track.py applied e6924f60-c8cc-42b3-9d05-24` |
+| — | 2026-11-06 | Full-Stack Engineer (Backend Leaning) - Platform Engineering | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/ElevenLabs/ce3d5a59-fb8c-482b-bc3f-60e44576c5e0) | `python track.py applied ce3d5a59-fb8c-482b-bc3f-60` |
+| — | 2026-11-06 | Full-Stack Engineer (Backend Leaning) - Payments Engineering | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/ElevenLabs/e4e0450f-d139-4f8e-b210-2f326a680d90) | `python track.py applied e4e0450f-d139-4f8e-b210-2f` |
+| — | 2026-11-06 | Full-Stack Engineer (Backend Leaning) - Creative Agents | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/ElevenLabs/35813150-a851-4821-b732-a037b4e6c4fe) | `python track.py applied 35813150-a851-4821-b732-a0` |
+| — | 2026-11-06 | Full-Stack Engineer - Ads Engine | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/ElevenLabs/3abf96ca-2937-4290-9d23-5208aece08b2) | `python track.py applied 3abf96ca-2937-4290-9d23-52` |
+| — | 2026-11-06 | Full-Stack Engineer - ElevenCreative Enterprise | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/ElevenLabs/34dbe44c-9815-40b2-81f4-91c607fd84b2) | `python track.py applied 34dbe44c-9815-40b2-81f4-91` |
+| — | 2026-11-06 | Full-Stack Engineer - Productions | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/ElevenLabs/10e6475e-67ef-4621-8718-7b087c354651) | `python track.py applied 10e6475e-67ef-4621-8718-7b` |
+| — | 2026-11-06 | Security Operations Engineer I | Samsara | [apply ↗](https://www.samsara.com/company/careers/roles/8353283?gh_jid=8353283) | `python track.py applied 8353283?gh_jid=8353283` |
 | — | 2026-11-05 | Hardware Systems Engineer - AI Hardware | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8325834?gh_jid=8325834) | `python track.py applied 8325834?gh_jid=8325834` |
 | — | 2026-11-05 | Hardware Systems Engineer, Hardware Tools / Firmware | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8306486?gh_jid=8306486) | `python track.py applied 8306486?gh_jid=8306486` |
 | — | 2026-11-05 | Software Development Engineer, RBS Tech | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5954150553?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5954150553?utm_medium=api&` |
