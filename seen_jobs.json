@@ -388,6 +388,10 @@
 "first": "2026-08-24T05:01:08+00:00",
 "sig": "atlassian|software engineer"
 },
+"https://careers-americas.icims.com/jobs/27458/software-engineer/job": {
+"first": "2026-11-06T06:45:43+00:00",
+"sig": "atlassian|software engineer"
+},
 "https://careers-americas.icims.com/jobs/27459/software-engineer/job": {
 "first": "2026-11-03T19:29:41+00:00",
 "sig": "atlassian|software engineer"
@@ -12904,6 +12908,26 @@
 "first": "2026-11-05T21:58:56+00:00",
 "sig": "trigent software private limited|custom software engineer java full stack development"
 },
+"https://www.adzuna.in/details/5955031567?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-06T06:45:43+00:00",
+"sig": "sirius lync|backend software engineer platform apis fraud detection platform"
+},
+"https://www.adzuna.in/details/5955047593?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-06T06:45:42+00:00",
+"sig": "veradigm india private limited|software engineer fullstack java"
+},
+"https://www.adzuna.in/details/5955047635?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-06T06:45:42+00:00",
+"sig": "veradigm india private limited|expert software engineer workday hcm"
+},
+"https://www.adzuna.in/details/5955047649?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-06T06:45:42+00:00",
+"sig": "cognizant technology solutions india pvt ltd|java full stack engineer react"
+},
+"https://www.adzuna.in/details/5955047691?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-06T06:45:42+00:00",
+"sig": "cognizant technology solutions india pvt ltd|java full stack developer angular"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -14132,6 +14156,10 @@
 "first": "2026-11-04T19:45:08+00:00",
 "sig": "amazon|software development engineer alexa connectivity devices"
 },
+"https://www.amazon.jobs/en/jobs/10597850/software-development-engineer-dsp-tech": {
+"first": "2026-11-06T06:45:43+00:00",
+"sig": "amazon|software development engineer dsp tech"
+},
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
 "sig": "axonius|backend engineer s o paulo"
@@ -14536,6 +14564,7 @@
 "amazon|software development engineer delivery choices": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer device software services": "2026-09-03T19:18:03+00:00",
 "amazon|software development engineer digital acceleration": "2026-09-02T12:46:30+00:00",
+"amazon|software development engineer dsp tech": "2026-11-06T06:45:43+00:00",
 "amazon|software development engineer emerging devices software": "2026-08-15T16:41:25+00:00",
 "amazon|software development engineer eu mfn acceleration": "2026-07-12T06:29:34+00:00",
 "amazon|software development engineer everyday essentials experiences": "2026-08-14T13:42:47+00:00",
@@ -14907,6 +14936,8 @@
 "coditas technologies|full stack net developer": "2026-08-08T02:22:47+00:00",
 "coface|software engineer": "2026-10-20T23:10:55+00:00",
 "cognite|software engineer transformation data": "2026-09-05T18:18:14+00:00",
+"cognizant technology solutions india pvt ltd|java full stack developer angular": "2026-11-06T06:45:42+00:00",
+"cognizant technology solutions india pvt ltd|java full stack engineer react": "2026-11-06T06:45:42+00:00",
 "cognizant|java full stack developer with angular": "2026-10-01T15:27:27+00:00",
 "cognyte|ni pune backend engineer junior": "2026-10-17T18:30:28+00:00",
 "cohesity|software engineer c golang python": "2026-08-02T17:15:45+00:00",
@@ -15816,6 +15847,7 @@
 "simcorp|jul principal software engineer": "2026-08-23T16:43:16+00:00",
 "simplicity first|software engineer net": "2026-09-09T04:42:33+00:00",
 "simplicity first|software engineer react": "2026-09-09T04:42:33+00:00",
+"sirius lync|backend software engineer platform apis fraud detection platform": "2026-11-06T06:45:43+00:00",
 "skf|application engineer": "2026-09-11T04:41:02+00:00",
 "skillinabox|software engineer": "2026-09-13T13:18:35+00:00",
 "skywings advisors pvt. ltd.|angular spring boot software engineer": "2026-09-24T19:59:32+00:00",
@@ -16072,6 +16104,8 @@
 "vasa denticity limited|full stack developer": "2026-10-22T13:47:58+00:00",
 "vayuz technologies|software engineer java": "2026-10-11T14:54:54+00:00",
 "veoneer|embedded software development engineer years": "2026-10-06T11:16:41+00:00",
+"veradigm india private limited|expert software engineer workday hcm": "2026-11-06T06:45:42+00:00",
+"veradigm india private limited|software engineer fullstack java": "2026-11-06T06:45:42+00:00",
 "veradigm|software engineer java": "2026-08-24T13:13:06+00:00",
 "veralto|software engineer i": "2026-07-19T03:55:04+00:00",
 "vercel|security software engineer iam": "2026-07-14T13:22:24+00:00",
