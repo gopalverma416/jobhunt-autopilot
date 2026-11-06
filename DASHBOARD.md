@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-06 06:45 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-06 15:55 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1787)
+## 🎯 To apply (1792)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-06 | Software Engineer (Fullstack- Java) | Veradigm India Private Limited | [apply ↗](https://www.adzuna.in/details/5955047593?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5955047593?utm_medium=api&` |
 | — | 2026-11-06 | Backend Software Engineer (Platform APIs) Fraud Detection Platform | Sirius Lync | [apply ↗](https://www.adzuna.in/details/5955031567?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5955031567?utm_medium=api&` |
 | — | 2026-11-06 | Software Engineer | Atlassian | [apply ↗](https://careers-americas.icims.com/jobs/27458/software-engineer/job) | `python track.py applied job` |
+| — | 2026-11-06 | Software Engineer - Node | IQVIA | [apply ↗](https://www.adzuna.in/details/5955617054?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5955617054?utm_medium=api&` |
+| — | 2026-11-06 | Full-Stack Engineer - Ads Engine | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2) | `python track.py applied 3abf96ca-2937-4290-9d23-52` |
+| — | 2026-11-06 | Full-Stack Engineer - ElevenCreative Enterprise | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2) | `python track.py applied 34dbe44c-9815-40b2-81f4-91` |
+| — | 2026-11-06 | Software Engineer Knowledge Catalog Data Products | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/75184274717713094-software-engineer-knowledge-catalog-data-products) | `python track.py applied 75184274717713094-software` |
+| — | 2026-11-06 | Software Engineer Payments | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/143561253581660870-software-engineer-payments) | `python track.py applied 143561253581660870-softwar` |
 | — | 2026-11-05 | Hardware Systems Engineer - AI Hardware | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8325834?gh_jid=8325834) | `python track.py applied 8325834?gh_jid=8325834` |
 | — | 2026-11-05 | Hardware Systems Engineer, Hardware Tools / Firmware | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8306486?gh_jid=8306486) | `python track.py applied 8306486?gh_jid=8306486` |
 | — | 2026-11-05 | Software Development Engineer, RBS Tech | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5954150553?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5954150553?utm_medium=api&` |

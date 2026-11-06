@@ -1064,6 +1064,10 @@
 "first": "2026-10-13T19:17:27+00:00",
 "sig": "elevenlabs|full stack engineer productions"
 },
+"https://jobs.ashbyhq.com/elevenlabs/34dbe44c-9815-40b2-81f4-91c607fd84b2": {
+"first": "2026-11-06T15:55:24+00:00",
+"sig": "elevenlabs|full stack engineer elevencreative enterprise"
+},
 "https://jobs.ashbyhq.com/elevenlabs/35813150-a851-4821-b732-a037b4e6c4fe": {
 "first": "2026-10-07T15:33:22+00:00",
 "sig": "elevenlabs|full stack engineer backend leaning creative agents"
@@ -1071,6 +1075,10 @@
 "https://jobs.ashbyhq.com/elevenlabs/38bac641-02de-414d-96f3-d0adb603cb89": {
 "first": "2026-10-13T11:48:21+00:00",
 "sig": "elevenlabs|full stack engineer frontend leaning creativemusic"
+},
+"https://jobs.ashbyhq.com/elevenlabs/3abf96ca-2937-4290-9d23-5208aece08b2": {
+"first": "2026-11-06T15:55:24+00:00",
+"sig": "elevenlabs|full stack engineer ads engine"
 },
 "https://jobs.ashbyhq.com/elevenlabs/a03536c8-8728-4007-aef2-460def03173e": {
 "first": "2026-10-13T11:48:21+00:00",
@@ -12928,6 +12936,26 @@
 "first": "2026-11-06T06:45:42+00:00",
 "sig": "cognizant technology solutions india pvt ltd|java full stack developer angular"
 },
+"https://www.adzuna.in/details/5955617054?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-06T15:55:24+00:00",
+"sig": "iqvia|software engineer node"
+},
+"https://www.adzuna.in/details/5955617426?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-06T15:55:24+00:00",
+"sig": "capgemini engineering|c linux embedded software developer"
+},
+"https://www.adzuna.in/details/5955617544?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-06T15:55:24+00:00",
+"sig": "engradar|software engineer"
+},
+"https://www.adzuna.in/details/5955617672?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-06T15:55:24+00:00",
+"sig": "prime video & amazon mgm studios|software development engineer ai business automation ai business automation prime video"
+},
+"https://www.adzuna.in/details/5955652920?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-06T15:55:24+00:00",
+"sig": "anza|software engineer storage"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -14268,9 +14296,17 @@
 "first": "2026-07-20T18:19:55+00:00",
 "sig": "google|software engineer site reliability engineering"
 },
+"https://www.google.com/about/careers/applications/jobs/results/143561253581660870-software-engineer-payments": {
+"first": "2026-11-06T15:55:24+00:00",
+"sig": "google|software engineer payments"
+},
 "https://www.google.com/about/careers/applications/jobs/results/74698303731573446-software-engineer-youtube-full-stack": {
 "first": "2026-08-13T17:12:38+00:00",
 "sig": "google|software engineer youtube full stack"
+},
+"https://www.google.com/about/careers/applications/jobs/results/75184274717713094-software-engineer-knowledge-catalog-data-products": {
+"first": "2026-11-06T15:55:24+00:00",
+"sig": "google|software engineer knowledge catalog data products"
 },
 "https://www.google.com/about/careers/applications/jobs/results/76733338693313222-software-engineer-search": {
 "first": "2026-08-26T23:33:03+00:00",
@@ -14643,6 +14679,7 @@
 "anyscale|software engineer ray data": "2026-07-29T03:39:48+00:00",
 "anyscale|software engineer ray serve": "2026-07-14T14:05:09+00:00",
 "anyscale|software engineer site reliability engineer": "2026-08-25T16:55:36+00:00",
+"anza|software engineer storage": "2026-11-06T15:55:24+00:00",
 "appfire|software engineer": "2026-08-23T13:01:55+00:00",
 "apple|integration engineering software engineer": "2026-10-28T15:06:38+00:00",
 "apple|java backend engineer retail engineering": "2026-10-10T14:28:21+00:00",
@@ -14802,6 +14839,7 @@
 "byzwiz infratech private limited|full stack developer": "2026-10-11T14:54:53+00:00",
 "candescent|software engineer": "2026-09-14T20:19:13+00:00",
 "cannondesign|jr software engineer": "2026-07-24T03:44:14+00:00",
+"capgemini engineering|c linux embedded software developer": "2026-11-06T15:55:24+00:00",
 "capgemini engineering|software engineer": "2026-10-02T14:44:26+00:00",
 "capgemini|software engineer": "2026-07-18T13:49:28+00:00",
 "careernet technologies pvt ltd|software engineer site reliability engineering": "2026-09-16T04:49:24+00:00",
@@ -15024,12 +15062,14 @@
 "electrolux|software engineer ecommerce": "2026-10-30T20:48:09+00:00",
 "electronic arts|associate software engineer": "2026-07-17T10:12:05+00:00",
 "elevenlabs|forward deployed engineer software engineer india": "2026-07-20T04:04:49+00:00",
+"elevenlabs|full stack engineer ads engine": "2026-11-06T15:55:24+00:00",
 "elevenlabs|full stack engineer backend leaning coremusic": "2026-10-13T11:48:21+00:00",
 "elevenlabs|full stack engineer backend leaning creative agents": "2026-10-07T15:33:22+00:00",
 "elevenlabs|full stack engineer backend leaning payments engineering": "2026-10-14T13:43:57+00:00",
 "elevenlabs|full stack engineer backend leaning platform engineering": "2026-10-14T13:43:57+00:00",
 "elevenlabs|full stack engineer backend leaning studio": "2026-10-14T20:12:06+00:00",
 "elevenlabs|full stack engineer creative agents": "2026-10-07T15:33:22+00:00",
+"elevenlabs|full stack engineer elevencreative enterprise": "2026-11-06T15:55:24+00:00",
 "elevenlabs|full stack engineer elevenmusic": "2026-10-13T19:17:27+00:00",
 "elevenlabs|full stack engineer frontend leaning creativemusic": "2026-10-13T11:48:21+00:00",
 "elevenlabs|full stack engineer frontend leaning studio": "2026-10-14T20:12:06+00:00",
@@ -15046,6 +15086,7 @@
 "emerson|software engineer trainee": "2026-08-09T09:02:11+00:00",
 "emerson|systems engineer": "2026-08-18T04:52:20+00:00",
 "engradar|custom software engineer": "2026-10-27T14:31:27+00:00",
+"engradar|software engineer": "2026-11-06T15:55:24+00:00",
 "enterpret|member of technical staff platform": "2026-08-22T16:40:59+00:00",
 "enter|full stack developer founding engineer": "2026-10-09T15:18:54+00:00",
 "envoy global|software engineer": "2026-09-09T12:58:15+00:00",
@@ -15172,8 +15213,10 @@
 "google|software engineer full stack": "2026-07-17T21:08:13+00:00",
 "google|software engineer full stack google cloud": "2026-07-14T10:13:53+00:00",
 "google|software engineer google enterprise network": "2026-08-09T09:02:11+00:00",
+"google|software engineer knowledge catalog data products": "2026-11-06T15:55:24+00:00",
 "google|software engineer ml compilers silicon engineering": "2026-10-13T19:17:27+00:00",
 "google|software engineer mobile android": "2026-08-20T01:51:35+00:00",
+"google|software engineer payments": "2026-11-06T15:55:24+00:00",
 "google|software engineer persistent disk phd early career": "2026-07-12T06:29:34+00:00",
 "google|software engineer phd early career": "2026-07-12T06:29:34+00:00",
 "google|software engineer phd early career networking start": "2026-07-12T06:29:34+00:00",
@@ -15289,6 +15332,7 @@
 "interactive brokers software services pvt ltd|software engineer java developer": "2026-10-08T15:37:08+00:00",
 "iqvia|software developer": "2026-08-17T09:00:43+00:00",
 "iqvia|software development engineer": "2026-09-02T04:34:19+00:00",
+"iqvia|software engineer node": "2026-11-06T15:55:24+00:00",
 "iron mountain|associate software developer react js": "2026-08-13T05:48:52+00:00",
 "iron mountain|software developer net": "2026-08-13T05:48:52+00:00",
 "iron mountain|software engineer": "2026-08-23T08:48:26+00:00",
@@ -15690,6 +15734,7 @@
 "priceline|associate software engineer": "2026-09-21T15:06:34+00:00",
 "pricewaterhousecoopers|in senior associate net full stack developer ms engg advisory gurgaon": "2026-09-19T18:36:58+00:00",
 "pricewaterhousecoopers|in senior associate python full stack developer with azure gcc advisory gurugram": "2026-09-04T18:59:34+00:00",
+"prime video & amazon mgm studios|software development engineer ai business automation ai business automation prime video": "2026-11-06T15:55:24+00:00",
 "prime video & amazon mgm studios|software development engineer prime video live events sports data platform": "2026-09-24T13:33:16+00:00",
 "progressive infotech|software engineer": "2026-09-11T04:41:02+00:00",
 "proofofskill|founding full stack engineer": "2026-08-14T13:42:47+00:00",
