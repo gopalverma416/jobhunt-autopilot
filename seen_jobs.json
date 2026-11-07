@@ -372,6 +372,10 @@
 "first": "2026-11-02T18:21:51+00:00",
 "sig": "cloudflare|systems engineer warp"
 },
+"https://boards.greenhouse.io/cloudflare/jobs/8360609?gh_jid=8360609": {
+"first": "2026-11-07T05:58:11+00:00",
+"sig": "cloudflare|software engineer load balancing"
+},
 "https://careers-americas.icims.com/jobs/25301/software-engineer/job": {
 "first": "2026-07-12T06:29:34+00:00",
 "sig": "atlassian|software engineer"
@@ -13056,6 +13060,22 @@
 "first": "2026-11-06T21:29:27+00:00",
 "sig": "synstack technologies|software engineer years of experience"
 },
+"https://www.adzuna.in/details/5956159378?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-07T05:58:11+00:00",
+"sig": "docusign|software engineer commerce backend"
+},
+"https://www.adzuna.in/details/5956304516?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-07T05:58:11+00:00",
+"sig": "cognizant technology solutions india pvt ltd|java full stack developer"
+},
+"https://www.adzuna.in/details/5956304551?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-07T05:58:11+00:00",
+"sig": "cognizant technology solutions india pvt ltd|java full stack developer with angular"
+},
+"https://www.adzuna.in/details/5956495857?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-07T05:58:11+00:00",
+"sig": "puma|software engineer i full stack consumer intelligence"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -15047,6 +15067,7 @@
 "cloudflare|software engineer egress go rust": "2026-09-11T19:09:44+00:00",
 "cloudflare|software engineer enterprise integrations": "2026-08-25T16:55:36+00:00",
 "cloudflare|software engineer fl": "2026-08-27T22:16:07+00:00",
+"cloudflare|software engineer load balancing": "2026-11-07T05:58:11+00:00",
 "cloudflare|software engineer mobile sdk": "2026-10-02T20:45:14+00:00",
 "cloudflare|software engineer network firewall": "2026-08-07T00:55:23+00:00",
 "cloudflare|software engineer network performance reliability": "2026-07-14T13:22:21+00:00",
@@ -15080,7 +15101,9 @@
 "coditas technologies|full stack net developer": "2026-08-08T02:22:47+00:00",
 "coface|software engineer": "2026-10-20T23:10:55+00:00",
 "cognite|software engineer transformation data": "2026-09-05T18:18:14+00:00",
+"cognizant technology solutions india pvt ltd|java full stack developer": "2026-11-07T05:58:11+00:00",
 "cognizant technology solutions india pvt ltd|java full stack developer angular": "2026-11-06T06:45:42+00:00",
+"cognizant technology solutions india pvt ltd|java full stack developer with angular": "2026-11-07T05:58:11+00:00",
 "cognizant technology solutions india pvt ltd|java full stack engineer react": "2026-11-06T06:45:42+00:00",
 "cognizant|java full stack developer with angular": "2026-10-01T15:27:27+00:00",
 "cognyte|ni pune backend engineer junior": "2026-10-17T18:30:28+00:00",
@@ -15135,6 +15158,7 @@
 "digiwagon technologies private limited|software engineer node js react js": "2026-10-15T19:53:13+00:00",
 "dnv|ai software engineer": "2026-09-19T18:36:58+00:00",
 "docusign|software engineer android": "2026-09-19T12:30:04+00:00",
+"docusign|software engineer commerce backend": "2026-11-07T05:58:11+00:00",
 "docusign|software engineer ios": "2026-09-19T12:30:04+00:00",
 "doordash|software engineer data engineering": "2026-10-15T19:53:13+00:00",
 "dozee|software engineer android developer": "2026-08-08T02:22:47+00:00",
@@ -15850,6 +15874,7 @@
 "proximity works|software engineer python contractual role": "2026-07-15T10:15:46+00:00",
 "psiog|software engineer snowflake": "2026-07-23T14:32:21+00:00",
 "publicis sapient|early career opportunities publicis sapient careers": "2026-09-23T04:45:18+00:00",
+"puma|software engineer i full stack consumer intelligence": "2026-11-07T05:58:11+00:00",
 "pure storage|member of technical staff datapath engineering c c": "2026-11-04T19:45:08+00:00",
 "purview india consulting and services llp|api software engineer": "2026-08-25T04:53:39+00:00",
 "purview india consulting and services llp|java full stack developer": "2026-08-25T04:53:39+00:00",

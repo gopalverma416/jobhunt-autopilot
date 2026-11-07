@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-06 21:29 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-07 05:58 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1803)
+## 🎯 To apply (1805)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-07 | Software Engineer I (Full Stack) - Consumer Intelligence & | Puma | [apply ↗](https://www.adzuna.in/details/5956495857?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5956495857?utm_medium=api&` |
+| — | 2026-11-07 | Java Full stack Developer with Angular | Cognizant Technology Solutions India Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5956304551?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5956304551?utm_medium=api&` |
 | — | 2026-11-06 | Software Engineer (Fullstack- Java) | Veradigm India Private Limited | [apply ↗](https://www.adzuna.in/details/5955047593?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5955047593?utm_medium=api&` |
 | — | 2026-11-06 | Backend Software Engineer (Platform APIs) Fraud Detection Platform | Sirius Lync | [apply ↗](https://www.adzuna.in/details/5955031567?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5955031567?utm_medium=api&` |
 | — | 2026-11-06 | Software Engineer | Atlassian | [apply ↗](https://careers-americas.icims.com/jobs/27458/software-engineer/job) | `python track.py applied job` |
