@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-08 15:12 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-08 20:28 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1817)
+## 🎯 To apply (1820)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -16,6 +16,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-08 | Software Engineer | Microsoft Corporation | [apply ↗](https://www.adzuna.in/details/5957856153?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5957856153?utm_medium=api&` |
 | — | 2026-11-08 | Cloud Software Engineer | McAfee, Inc. | [apply ↗](https://www.adzuna.in/details/5957856012?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5957856012?utm_medium=api&` |
 | — | 2026-11-08 | Software Engineer, Payments | Google | [apply ↗](https://www.adzuna.in/details/5957854481?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5957854481?utm_medium=api&` |
+| — | 2026-11-08 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5958338225?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5958338225?utm_medium=api&` |
+| — | 2026-11-08 | Packaged/SaaS Application Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5958337898?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5958337898?utm_medium=api&` |
+| — | 2026-11-08 | Software Engineer ( C# .net)-Bengaluru | Omnissa | [apply ↗](https://www.adzuna.in/details/5958335275?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5958335275?utm_medium=api&` |
 | — | 2026-11-07 | Software Engineer I (Full Stack) - Consumer Intelligence & | Puma | [apply ↗](https://www.adzuna.in/details/5956495857?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5956495857?utm_medium=api&` |
 | — | 2026-11-07 | Java Full stack Developer with Angular | Cognizant Technology Solutions India Pvt Ltd | [apply ↗](https://www.adzuna.in/details/5956304551?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5956304551?utm_medium=api&` |
 | — | 2026-11-07 | Full Stack Software Engineer | SLB | [apply ↗](https://www.adzuna.in/details/5957024802?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5957024802?utm_medium=api&` |
