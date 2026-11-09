@@ -1028,6 +1028,10 @@
 "first": "2026-11-06T21:29:27+00:00",
 "sig": "braintrust|software engineer sdk"
 },
+"https://jobs.ashbyhq.com/ElevenLabs/108c99e6-ba2b-44a0-b830-7d535e14a152": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "elevenlabs|full stack engineer elevenapi"
+},
 "https://jobs.ashbyhq.com/ElevenLabs/10e6475e-67ef-4621-8718-7b087c354651": {
 "first": "2026-11-06T21:29:27+00:00",
 "sig": "elevenlabs|full stack engineer productions"
@@ -1179,6 +1183,10 @@
 "https://jobs.ashbyhq.com/ramp/9320454f-f2ca-4c19-82d2-b51b8d75fd3a": {
 "first": "2026-07-14T13:22:23+00:00",
 "sig": "ramp|software engineer argentina"
+},
+"https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "ramp|software engineer comms platform"
 },
 "https://jobs.ashbyhq.com/render/226a1b3b-5937-4880-817b-4beb1f72ecc6": {
 "first": "2026-07-14T13:22:23+00:00",
@@ -1507,6 +1515,10 @@
 "https://jobs.smartrecruiters.com/BoschGroup/744000159295609": {
 "first": "2026-11-03T11:56:04+00:00",
 "sig": "bosch|full stack developer with devops experience"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000160600719": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "bosch|full stack developer"
 },
 "https://jobs.smartrecruiters.com/ServiceNow/744000144386100": {
 "first": "2026-08-19T20:45:35+00:00",
@@ -13284,6 +13296,78 @@
 "first": "2026-11-08T20:28:46+00:00",
 "sig": "infor|java software engineer java aws and ai initiatives"
 },
+"https://www.adzuna.in/details/5959359088?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|packaged saas application engineer"
+},
+"https://www.adzuna.in/details/5959359093?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|packaged saas application engineer"
+},
+"https://www.adzuna.in/details/5959360316?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5959361490?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5959361797?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|packaged saas application engineer"
+},
+"https://www.adzuna.in/details/5959362549?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|packaged saas application engineer"
+},
+"https://www.adzuna.in/details/5959362554?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5959362832?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5959363896?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5959364152?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5959364488?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "google|software engineer knowledge catalog data products"
+},
+"https://www.adzuna.in/details/5959365456?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5959365482?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5959368265?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|packaged saas application engineer"
+},
+"https://www.adzuna.in/details/5959370130?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5959370390?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5959371935?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|packaged saas application engineer"
+},
+"https://www.adzuna.in/details/5959372358?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-09T18:48:41+00:00",
+"sig": "accenture|custom software engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -15415,6 +15499,7 @@
 "elevenlabs|full stack engineer backend leaning platform engineering": "2026-10-14T13:43:57+00:00",
 "elevenlabs|full stack engineer backend leaning studio": "2026-10-14T20:12:06+00:00",
 "elevenlabs|full stack engineer creative agents": "2026-10-07T15:33:22+00:00",
+"elevenlabs|full stack engineer elevenapi": "2026-11-09T18:48:41+00:00",
 "elevenlabs|full stack engineer elevencreative enterprise": "2026-11-06T15:55:24+00:00",
 "elevenlabs|full stack engineer elevenmusic": "2026-10-13T19:17:27+00:00",
 "elevenlabs|full stack engineer frontend leaning creativemusic": "2026-10-13T11:48:21+00:00",
@@ -16118,6 +16203,7 @@
 "radix web|software engineer magento": "2026-10-08T15:37:08+00:00",
 "ralliant|seniro software engineer": "2026-08-05T06:41:40+00:00",
 "ramp|software engineer argentina": "2026-07-14T13:22:23+00:00",
+"ramp|software engineer comms platform": "2026-11-09T18:48:41+00:00",
 "randomtrees|python software developer": "2026-08-21T04:54:36+00:00",
 "razorpay|full stack builder": "2026-07-12T06:29:34+00:00",
 "recex|full stack developer": "2026-09-22T19:44:50+00:00",
