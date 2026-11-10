@@ -1,16 +1,19 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-10 12:39 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-10 21:48 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1823)
+## 🎯 To apply (1826)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-11-10 | Software Engineer | Karnataka Information Solution | [apply ↗](https://www.adzuna.in/details/5959807450?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5959807450?utm_medium=api&` |
+| — | 2026-11-10 | Software Engineer - C#, .NET, and ASP.NET Core | Wells Fargo Bank | [apply ↗](https://www.adzuna.in/details/5960530708?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5960530708?utm_medium=api&` |
+| — | 2026-11-10 | Software Engineer - Java full stack with React | Wells Fargo Bank | [apply ↗](https://www.adzuna.in/details/5960529852?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5960529852?utm_medium=api&` |
+| — | 2026-11-10 | Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5960524006?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5960524006?utm_medium=api&` |
 | — | 2026-11-09 | Full-Stack Engineer - ElevenAPI | Elevenlabs | [apply ↗](https://jobs.ashbyhq.com/ElevenLabs/108c99e6-ba2b-44a0-b830-7d535e14a152) | `python track.py applied 108c99e6-ba2b-44a0-b830-7d` |
 | — | 2026-11-09 | Software Engineer, Comms Platform | Ramp | [apply ↗](https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228) | `python track.py applied 939892e5-5273-4bfc-8c41-a6` |
 | — | 2026-11-08 | Software Engineer-IoS Developer | Avaloq | [apply ↗](https://www.adzuna.in/land/ad/5957978655?se=1jyLz4bb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=616fbe19&v=9ED4FB436537564165EFB84059427832C25F1731) | `python track.py applied 5957978655?se=1jyLz4bb8RGD` |
