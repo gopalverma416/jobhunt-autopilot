@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-11 06:20 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-11 16:10 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1829)
+## 🎯 To apply (1830)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-11 | Production Support Software Engineer, Java | WTW | [apply ↗](https://www.adzuna.in/land/ad/5960763781?se=xH368Jfd8RGxxfiocfBGAQ&utm_medium=api&utm_source=616fbe19&v=C638EBB381A67D9FAF1682FFCA6C4C4689FF350B) | `python track.py applied 5960763781?se=xH368Jfd8RGx` |
 | — | 2026-11-11 | Production Support Software Engineer, .NET | WTW | [apply ↗](https://www.adzuna.in/land/ad/5960763835?se=xH368Jfd8RGxxfiocfBGAQ&utm_medium=api&utm_source=616fbe19&v=63A407D6418571EC21AE9FFC310A8126A4FFB9A3) | `python track.py applied 5960763835?se=xH368Jfd8RGx` |
 | — | 2026-11-11 | Packaged/SaaS Application Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5960533207?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5960533207?utm_medium=api&` |
+| — | 2026-11-11 | MS/EHS: Embedded Software Engineer [CCS]_2026 | Bosch Group | [apply ↗](https://www.adzuna.in/details/5961623695?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5961623695?utm_medium=api&` |
 | — | 2026-11-10 | Software Engineer | Karnataka Information Solution | [apply ↗](https://www.adzuna.in/details/5959807450?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5959807450?utm_medium=api&` |
 | — | 2026-11-10 | Software Engineer - C#, .NET, and ASP.NET Core | Wells Fargo Bank | [apply ↗](https://www.adzuna.in/details/5960530708?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5960530708?utm_medium=api&` |
 | — | 2026-11-10 | Software Engineer - Java full stack with React | Wells Fargo Bank | [apply ↗](https://www.adzuna.in/details/5960529852?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5960529852?utm_medium=api&` |
