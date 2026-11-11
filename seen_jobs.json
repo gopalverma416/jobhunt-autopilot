@@ -1088,6 +1088,10 @@
 "first": "2026-07-14T13:22:21+00:00",
 "sig": "benchling|software engineer platform developer experience"
 },
+"https://jobs.ashbyhq.com/benchling/63d7d126-efaf-4a48-b328-f8d85b640ebf": {
+"first": "2026-11-11T06:20:17+00:00",
+"sig": "benchling|software engineer platform developer experience"
+},
 "https://jobs.ashbyhq.com/braintrust/2a6c4ee9-063f-45d4-83ba-faf64b1f1a60": {
 "first": "2026-10-08T15:37:11+00:00",
 "sig": "braintrust|software engineer sdk"
@@ -1527,6 +1531,10 @@
 "https://jobs.smartrecruiters.com/BoschGroup/744000160794268": {
 "first": "2026-11-10T12:39:28+00:00",
 "sig": "bosch|full stack engineer"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000161025665": {
+"first": "2026-11-11T06:20:17+00:00",
+"sig": "bosch|ms ehs embedded software engineer ccs"
 },
 "https://jobs.smartrecruiters.com/ServiceNow/744000144386100": {
 "first": "2026-08-19T20:45:35+00:00",
@@ -13492,13 +13500,33 @@
 "first": "2026-11-10T21:48:22+00:00",
 "sig": "accenture|custom software engineer"
 },
+"https://www.adzuna.in/details/5960532815?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-11T06:20:17+00:00",
+"sig": "accenture|custom software engineer"
+},
 "https://www.adzuna.in/details/5960532832?utm_medium=api&utm_source=616fbe19": {
 "first": "2026-11-10T21:48:22+00:00",
 "sig": "wolters kluwer|product software engineer net fullstack net angular ai"
 },
+"https://www.adzuna.in/details/5960533108?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-11T06:20:17+00:00",
+"sig": "texas instruments|software engineer ucd"
+},
+"https://www.adzuna.in/details/5960533207?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-11T06:20:17+00:00",
+"sig": "accenture|packaged saas application engineer"
+},
 "https://www.adzuna.in/details/5960552600?utm_medium=api&utm_source=616fbe19": {
 "first": "2026-11-10T21:48:22+00:00",
 "sig": "colruyt group india|front end software engineer"
+},
+"https://www.adzuna.in/details/5960623923?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-11T06:20:17+00:00",
+"sig": "best nanotech|software development engineer rpa power platform"
+},
+"https://www.adzuna.in/details/5960623931?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-11T06:20:17+00:00",
+"sig": "indus infotech|software engineer testing automation"
 },
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
@@ -14007,6 +14035,14 @@
 "https://www.adzuna.in/land/ad/5957978655?se=1jyLz4bb8RGD5Iv7NVeOtg&utm_medium=api&utm_source=616fbe19&v=9ED4FB436537564165EFB84059427832C25F1731": {
 "first": "2026-11-08T15:12:38+00:00",
 "sig": "avaloq|software engineer ios developer"
+},
+"https://www.adzuna.in/land/ad/5960763781?se=xH368Jfd8RGxxfiocfBGAQ&utm_medium=api&utm_source=616fbe19&v=C638EBB381A67D9FAF1682FFCA6C4C4689FF350B": {
+"first": "2026-11-11T06:20:17+00:00",
+"sig": "wtw|production support software engineer java"
+},
+"https://www.adzuna.in/land/ad/5960763835?se=xH368Jfd8RGxxfiocfBGAQ&utm_medium=api&utm_source=616fbe19&v=63A407D6418571EC21AE9FFC310A8126A4FFB9A3": {
+"first": "2026-11-11T06:20:17+00:00",
+"sig": "wtw|production support software engineer net"
 },
 "https://www.amazon.jobs/en/jobs/10462746/software-development-engineer-amazon-opensearch-service-diy-observability": {
 "first": "2026-07-12T06:29:34+00:00",
@@ -15326,6 +15362,7 @@
 "barry-wehmiller|graduate engineer software": "2026-09-27T19:45:41+00:00",
 "baseten|it systems engineer": "2026-10-21T20:09:41+00:00",
 "benchling|software engineer platform developer experience": "2026-07-14T13:22:21+00:00",
+"best nanotech|software development engineer rpa power platform": "2026-11-11T06:20:17+00:00",
 "betterworks systems|software engineer i": "2026-09-27T19:45:43+00:00",
 "bharat intelligence|software development engineer": "2026-10-13T11:48:21+00:00",
 "bharat intelligence|software development engineer sde": "2026-08-04T14:39:46+00:00",
@@ -15372,6 +15409,7 @@
 "bosch|java full stack with java angular": "2026-10-07T21:18:17+00:00",
 "bosch|java full stack with java angular pune": "2026-10-15T19:53:13+00:00",
 "bosch|mes application engineer": "2026-08-24T09:04:50+00:00",
+"bosch|ms ehs embedded software engineer ccs": "2026-11-11T06:20:17+00:00",
 "bosch|net full stack architect ms eac em coimbatore": "2026-07-22T06:42:27+00:00",
 "bosch|net full stack developer": "2026-07-15T14:09:35+00:00",
 "bosch|sap btp full stack developer": "2026-09-08T12:52:26+00:00",
@@ -15882,6 +15920,7 @@
 "inditech consulting|freelance full stack software engineer healthcare": "2026-09-11T12:49:43+00:00",
 "indus infotech|custom software engineer": "2026-10-16T19:33:21+00:00",
 "indus infotech|full stack ai engineer": "2026-10-06T01:18:14+00:00",
+"indus infotech|software engineer testing automation": "2026-11-11T06:20:17+00:00",
 "infobeans|software engineer in test": "2026-09-09T22:33:25+00:00",
 "infoblox|software engineer golang": "2026-10-08T21:20:18+00:00",
 "infor|java software engineer java aws and ai initiatives": "2026-11-08T20:28:46+00:00",
@@ -16593,6 +16632,7 @@
 "teradata|full stack engineer ai platform": "2026-08-03T18:05:11+00:00",
 "testhiring|require a full stack software engineer in bangalore": "2026-08-12T02:44:17+00:00",
 "testhiring|require a software engineer trainee in pune": "2026-08-12T13:47:17+00:00",
+"texas instruments|software engineer ucd": "2026-11-11T06:20:17+00:00",
 "the auction collective|software engineer fullstack python react node aws genai": "2026-07-15T10:15:46+00:00",
 "the boeing company|associate ate software engineer": "2026-07-15T06:28:20+00:00",
 "the boeing company|associate software engineer": "2026-07-15T06:28:20+00:00",
@@ -16846,6 +16886,7 @@
 "wpp production|sdet software development engineer in test": "2026-11-01T06:04:43+00:00",
 "wsp in india|junior software developer python": "2026-09-08T19:25:42+00:00",
 "wtw|production support software engineer java": "2026-11-10T21:48:22+00:00",
+"wtw|production support software engineer net": "2026-11-11T06:20:17+00:00",
 "xenai tech|software developer web mobile python react full stack": "2026-08-03T18:05:11+00:00",
 "xerox|engineer i software quality assurance testing": "2026-10-09T20:54:31+00:00",
 "xplor|fullstack software engineer embedded payments": "2026-07-23T21:28:42+00:00",
