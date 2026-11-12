@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-11 22:41 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-12 07:10 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1835)
+## 🎯 To apply (1840)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-12 | Cybersecurity Engineer I | American Express | [apply ↗](https://www.adzuna.in/details/5962711591?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5962711591?utm_medium=api&` |
+| — | 2026-11-12 | Software Engineer - Java Fullstack | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5962711148?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5962711148?utm_medium=api&` |
+| — | 2026-11-12 | Software Engineer - Cloud: Azure | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8258201?gh_jid=8258201) | `python track.py applied job.8258201?gh_jid=8258201` |
+| — | 2026-11-12 | Software Engineer - Cloud Native Protection | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8327940?gh_jid=8327940) | `python track.py applied job.8327940?gh_jid=8327940` |
+| — | 2026-11-12 | Software Engineer | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000161221879) | `python track.py applied 744000161221879` |
 | — | 2026-11-11 | Production Support Software Engineer, Java | WTW | [apply ↗](https://www.adzuna.in/land/ad/5960763781?se=xH368Jfd8RGxxfiocfBGAQ&utm_medium=api&utm_source=616fbe19&v=C638EBB381A67D9FAF1682FFCA6C4C4689FF350B) | `python track.py applied 5960763781?se=xH368Jfd8RGx` |
 | — | 2026-11-11 | Production Support Software Engineer, .NET | WTW | [apply ↗](https://www.adzuna.in/land/ad/5960763835?se=xH368Jfd8RGxxfiocfBGAQ&utm_medium=api&utm_source=616fbe19&v=63A407D6418571EC21AE9FFC310A8126A4FFB9A3) | `python track.py applied 5960763835?se=xH368Jfd8RGx` |
 | — | 2026-11-11 | Packaged/SaaS Application Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5960533207?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5960533207?utm_medium=api&` |
