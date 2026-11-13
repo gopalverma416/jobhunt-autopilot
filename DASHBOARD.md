@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-13 12:12 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-13 19:42 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1852)
+## 🎯 To apply (1857)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -20,6 +20,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-13 | Full Stack Developer Submission Data and Content Generation & Reuse (AIDCG) - Pharma R&D | Roche | [apply ↗](https://www.adzuna.in/details/5964198015?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964198015?utm_medium=api&` |
 | — | 2026-11-13 | Software Engineer - Cloud Native Protection | Rubrik | [apply ↗](https://www.adzuna.in/details/5964198028?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964198028?utm_medium=api&` |
 | — | 2026-11-13 | Software Engineer - Cloud: Azure | Rubrik | [apply ↗](https://www.adzuna.in/details/5964198029?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964198029?utm_medium=api&` |
+| — | 2026-11-13 | Software Engineer | bswift India | [apply ↗](https://www.adzuna.in/details/5964790141?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964790141?utm_medium=api&` |
+| — | 2026-11-13 | Software Engineer I (Backend) | PUMA | [apply ↗](https://www.adzuna.in/details/5964790023?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964790023?utm_medium=api&` |
+| — | 2026-11-13 | IT Software Engineer | Cisco | [apply ↗](https://www.adzuna.in/details/5964789717?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964789717?utm_medium=api&` |
+| — | 2026-11-13 | Software Engineering MTS | Salesforce | [apply ↗](https://www.adzuna.in/details/5964788583?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964788583?utm_medium=api&` |
+| — | 2026-11-13 | Software Development Engineer, CS ARIA | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10604005/software-development-engineer-cs-aria) | `python track.py applied software-development-engin` |
 | — | 2026-11-12 | Cybersecurity Engineer I | American Express | [apply ↗](https://www.adzuna.in/details/5962711591?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5962711591?utm_medium=api&` |
 | — | 2026-11-12 | Software Engineer - Java Fullstack | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5962711148?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5962711148?utm_medium=api&` |
 | — | 2026-11-12 | Software Engineer - Cloud: Azure | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8258201?gh_jid=8258201) | `python track.py applied job.8258201?gh_jid=8258201` |
