@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-13 01:05 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-13 12:12 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1845)
+## 🎯 To apply (1852)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,13 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-13 | Software Engineer | PlaySimple Games | [apply ↗](https://www.adzuna.in/details/5963565933?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5963565933?utm_medium=api&` |
 | — | 2026-11-13 | Software Engineer(Unity) | PlaySimple Games | [apply ↗](https://www.adzuna.in/details/5963565860?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5963565860?utm_medium=api&` |
 | — | 2026-11-13 | Software Engineer I, Full Stack (Frontend Focused) (Bangalore, India) | AiPrise | [apply ↗](https://www.adzuna.in/details/5963470732?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5963470732?utm_medium=api&` |
+| — | 2026-11-13 | Associate Software Engineer | Moody's | [apply ↗](https://www.adzuna.in/land/ad/5964398418?se=bjold1vf8RGtfI4ANTZ8vw&utm_medium=api&utm_source=616fbe19&v=CF333A7A28BB9278ABF42F8C591763D18BD16A5C) | `python track.py applied 5964398418?se=bjold1vf8RGt` |
+| — | 2026-11-13 | Full Stack Google AI Engineer | Unilever | [apply ↗](https://www.adzuna.in/details/5964199245?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964199245?utm_medium=api&` |
+| — | 2026-11-13 | Software engineer | Teradata | [apply ↗](https://www.adzuna.in/details/5964199078?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964199078?utm_medium=api&` |
+| — | 2026-11-13 | Software Engineer | Cargill | [apply ↗](https://www.adzuna.in/details/5964198683?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964198683?utm_medium=api&` |
+| — | 2026-11-13 | Full Stack Developer Submission Data and Content Generation & Reuse (AIDCG) - Pharma R&D | Roche | [apply ↗](https://www.adzuna.in/details/5964198015?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964198015?utm_medium=api&` |
+| — | 2026-11-13 | Software Engineer - Cloud Native Protection | Rubrik | [apply ↗](https://www.adzuna.in/details/5964198028?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964198028?utm_medium=api&` |
+| — | 2026-11-13 | Software Engineer - Cloud: Azure | Rubrik | [apply ↗](https://www.adzuna.in/details/5964198029?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5964198029?utm_medium=api&` |
 | — | 2026-11-12 | Cybersecurity Engineer I | American Express | [apply ↗](https://www.adzuna.in/details/5962711591?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5962711591?utm_medium=api&` |
 | — | 2026-11-12 | Software Engineer - Java Fullstack | Wells Fargo | [apply ↗](https://www.adzuna.in/details/5962711148?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5962711148?utm_medium=api&` |
 | — | 2026-11-12 | Software Engineer - Cloud: Azure | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8258201?gh_jid=8258201) | `python track.py applied job.8258201?gh_jid=8258201` |
