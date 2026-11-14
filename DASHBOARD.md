@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-14 00:53 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-14 11:28 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1857)
+## 🎯 To apply (1859)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-14 | Software Engineer | ServiceNow, Inc. | [apply ↗](https://www.adzuna.in/details/5965396109?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5965396109?utm_medium=api&` |
+| — | 2026-11-14 | Software Engineer I | American Express | [apply ↗](https://www.adzuna.in/details/5965396035?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5965396035?utm_medium=api&` |
 | — | 2026-11-13 | Software Engineer | PlaySimple Games | [apply ↗](https://www.adzuna.in/details/5963565933?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5963565933?utm_medium=api&` |
 | — | 2026-11-13 | Software Engineer(Unity) | PlaySimple Games | [apply ↗](https://www.adzuna.in/details/5963565860?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5963565860?utm_medium=api&` |
 | — | 2026-11-13 | Software Engineer I, Full Stack (Frontend Focused) (Bangalore, India) | AiPrise | [apply ↗](https://www.adzuna.in/details/5963470732?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5963470732?utm_medium=api&` |
