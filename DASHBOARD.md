@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-15 15:39 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-15 21:01 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1863)
+## 🎯 To apply (1865)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,8 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-15 | Software Engineer I (Full Stack) | Puma | [apply ↗](https://www.adzuna.in/details/5966521327?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5966521327?utm_medium=api&` |
 | — | 2026-11-15 | Full Stack Developer | Siemens Healthineers | [apply ↗](https://www.adzuna.in/details/5966479073?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5966479073?utm_medium=api&` |
 | — | 2026-11-15 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5966625142?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5966625142?utm_medium=api&` |
+| — | 2026-11-15 | Software Engineer – Full Stack | Cisco | [apply ↗](https://www.adzuna.in/details/5967020930?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5967020930?utm_medium=api&` |
+| — | 2026-11-15 | Software Development Engineer, CS ARIA | Amazon | [apply ↗](https://www.adzuna.in/details/5967020135?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5967020135?utm_medium=api&` |
 | — | 2026-11-14 | Software Engineer | ServiceNow, Inc. | [apply ↗](https://www.adzuna.in/details/5965396109?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5965396109?utm_medium=api&` |
 | — | 2026-11-14 | Software Engineer I | American Express | [apply ↗](https://www.adzuna.in/details/5965396035?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5965396035?utm_medium=api&` |
 | — | 2026-11-14 | Packaged/SaaS Application Engineer | Accenture | [apply ↗](https://www.adzuna.in/details/5966110501?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5966110501?utm_medium=api&` |
