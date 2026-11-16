@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-15 21:01 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-16 06:29 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1865)
+## 🎯 To apply (1866)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-16 | Software Engineer (L1) | Twilio | [apply ↗](https://job-boards.greenhouse.io/twilio/jobs/8319442) | `python track.py applied 8319442` |
 | — | 2026-11-15 | Software Engineer I (Full Stack) | Puma | [apply ↗](https://www.adzuna.in/details/5966521327?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5966521327?utm_medium=api&` |
 | — | 2026-11-15 | Full Stack Developer | Siemens Healthineers | [apply ↗](https://www.adzuna.in/details/5966479073?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5966479073?utm_medium=api&` |
 | — | 2026-11-15 | Software Engineer | NetApp | [apply ↗](https://www.adzuna.in/details/5966625142?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5966625142?utm_medium=api&` |
