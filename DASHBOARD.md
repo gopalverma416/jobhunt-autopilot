@@ -1,15 +1,20 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-16 18:32 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-17 02:55 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1869)
+## 🎯 To apply (1874)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-17 | Software Engineer / Graduate Engineer – Backend | Kloudspot | [apply ↗](https://www.adzuna.in/details/5968301942?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5968301942?utm_medium=api&` |
+| — | 2026-11-17 | Software Engineer - Fullstack (Java and Angular) | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5968068740?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5968068740?utm_medium=api&` |
+| — | 2026-11-17 | Software Engineer | ServiceNow | [apply ↗](https://www.adzuna.in/details/5968068713?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5968068713?utm_medium=api&` |
+| — | 2026-11-17 | Software Engineer - Big Data Engineer (Spark, Databricks, PySpark , Snowflake) | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5968068610?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5968068610?utm_medium=api&` |
+| — | 2026-11-17 | Software Engineer | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8349847?gh_jid=8349847) | `python track.py applied job.8349847?gh_jid=8349847` |
 | — | 2026-11-16 | Software Engineer (L1) | Twilio | [apply ↗](https://job-boards.greenhouse.io/twilio/jobs/8319442) | `python track.py applied 8319442` |
 | — | 2026-11-16 | Software Engineer- Performance Engineering | Caterpillar | [apply ↗](https://www.adzuna.in/details/5967990522?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5967990522?utm_medium=api&` |
 | — | 2026-11-16 | Software Development Engineer (SD1/SD2) | Disseqt AI | [apply ↗](https://www.adzuna.in/details/5967981360?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5967981360?utm_medium=api&` |
