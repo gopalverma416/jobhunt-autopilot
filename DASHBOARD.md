@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-17 02:55 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-17 13:26 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1874)
+## 🎯 To apply (1879)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,11 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-17 | Software Engineer | ServiceNow | [apply ↗](https://www.adzuna.in/details/5968068713?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5968068713?utm_medium=api&` |
 | — | 2026-11-17 | Software Engineer - Big Data Engineer (Spark, Databricks, PySpark , Snowflake) | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5968068610?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5968068610?utm_medium=api&` |
 | — | 2026-11-17 | Software Engineer | Rubrik | [apply ↗](https://www.rubrik.com/company/careers/departments/job.8349847?gh_jid=8349847) | `python track.py applied job.8349847?gh_jid=8349847` |
+| — | 2026-11-17 | Software Engineer (React Native  AI) | Quanteon Solutions | [apply ↗](https://www.adzuna.in/details/5969016727?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5969016727?utm_medium=api&` |
+| — | 2026-11-17 | Software Engineer, Backend - Government Products | Robinhood | [apply ↗](https://www.adzuna.in/details/5968991289?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5968991289?utm_medium=api&` |
+| — | 2026-11-17 | Full-Stack AI Engineer | Weekday AI | [apply ↗](https://www.adzuna.in/details/5968976388?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5968976388?utm_medium=api&` |
+| — | 2026-11-17 | Systems Engineer- Systems Studies | GE Vernova | [apply ↗](https://www.adzuna.in/details/5968976226?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5968976226?utm_medium=api&` |
+| — | 2026-11-17 | Software Dev Engineer I, L4 | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10605737/software-dev-engineer-i-l4) | `python track.py applied software-dev-engineer-i-l4` |
 | — | 2026-11-16 | Software Engineer (L1) | Twilio | [apply ↗](https://job-boards.greenhouse.io/twilio/jobs/8319442) | `python track.py applied 8319442` |
 | — | 2026-11-16 | Software Engineer- Performance Engineering | Caterpillar | [apply ↗](https://www.adzuna.in/details/5967990522?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5967990522?utm_medium=api&` |
 | — | 2026-11-16 | Software Development Engineer (SD1/SD2) | Disseqt AI | [apply ↗](https://www.adzuna.in/details/5967981360?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5967981360?utm_medium=api&` |
