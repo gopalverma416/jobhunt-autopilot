@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-18 07:29 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-18 17:15 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1886)
+## 🎯 To apply (1890)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -14,6 +14,10 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-18 | Software Engineer | Rubrik | [apply ↗](https://www.adzuna.in/details/5969969572?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5969969572?utm_medium=api&` |
 | — | 2026-11-18 | Graduate Engineer Trainee - AI/ML | RTX Corporation | [apply ↗](https://www.adzuna.in/details/5969969537?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5969969537?utm_medium=api&` |
 | — | 2026-11-18 | Software Engineer | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000162226349) | `python track.py applied 744000162226349` |
+| — | 2026-11-18 | EM - DI - Product Quality Engineer-1 | embIND Embitel Technologies | [apply ↗](https://www.adzuna.in/details/5970569116?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5970569116?utm_medium=api&` |
+| — | 2026-11-18 | Software Engineer - 1 (Backend) | Parspec | [apply ↗](https://www.adzuna.in/details/5970567996?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5970567996?utm_medium=api&` |
+| — | 2026-11-18 | Systems Engineer, Data Loss Prevention | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8386246?gh_jid=8386246) | `python track.py applied 8386246?gh_jid=8386246` |
+| — | 2026-11-18 | Software Engineer - Platform Engineering | Twilio | [apply ↗](https://job-boards.greenhouse.io/twilio/jobs/8385593) | `python track.py applied 8385593` |
 | — | 2026-11-17 | Software Engineer / Graduate Engineer – Backend | Kloudspot | [apply ↗](https://www.adzuna.in/details/5968301942?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5968301942?utm_medium=api&` |
 | — | 2026-11-17 | Software Engineer - Fullstack (Java and Angular) | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5968068740?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5968068740?utm_medium=api&` |
 | — | 2026-11-17 | Software Engineer | ServiceNow | [apply ↗](https://www.adzuna.in/details/5968068713?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5968068713?utm_medium=api&` |
