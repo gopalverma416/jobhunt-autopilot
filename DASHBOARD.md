@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-19 13:06 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-19 23:03 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1895)
+## 🎯 To apply (1896)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -15,6 +15,7 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-19 | Full Stack Google AI Engineer | Unilever | [apply ↗](https://www.adzuna.in/details/5971231156?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5971231156?utm_medium=api&` |
 | — | 2026-11-19 | VM Brakes -  Algorithm Software Developer [ Indian OEM] | Bosch | [apply ↗](https://jobs.smartrecruiters.com/BoschGroup/744000162443126) | `python track.py applied 744000162443126` |
 | — | 2026-11-19 | Software Engineer, Data Primitives | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8398779?gh_jid=8398779) | `python track.py applied 8398779?gh_jid=8398779` |
+| — | 2026-11-19 | SEO Full Stack Engineer | Treatwell | [apply ↗](https://remoteOK.com/remote-jobs/remote-seo-full-stack-engineer-treatwell-1137805) | `python track.py applied remote-seo-full-stack-engi` |
 | — | 2026-11-18 | Software Engineer | Texas Instruments | [apply ↗](https://www.adzuna.in/details/5969970146?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5969970146?utm_medium=api&` |
 | — | 2026-11-18 | Software Engineer | Rubrik | [apply ↗](https://www.adzuna.in/details/5969969572?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5969969572?utm_medium=api&` |
 | — | 2026-11-18 | Graduate Engineer Trainee - AI/ML | RTX Corporation | [apply ↗](https://www.adzuna.in/details/5969969537?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5969969537?utm_medium=api&` |
