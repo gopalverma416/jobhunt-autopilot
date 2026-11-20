@@ -1,15 +1,18 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-19 23:03 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-20 07:15 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1896)
+## 🎯 To apply (1899)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-20 | Associate Software Engineer | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5972598471?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5972598471?utm_medium=api&` |
+| — | 2026-11-20 | Software Engineer Application Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5972598105?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5972598105?utm_medium=api&` |
+| — | 2026-11-20 | Software Engineer AI Coding Tasks | Askable | [apply ↗](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808) | `python track.py applied remote-software-engineer-a` |
 | — | 2026-11-19 | Hardware Systems Engineer, Tooling | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8370313?gh_jid=8370313) | `python track.py applied 8370313?gh_jid=8370313` |
 | — | 2026-11-19 | Software Engineer | Microsoft | [apply ↗](https://apply.careers.microsoft.com/careers/job/1970393557051010) | `python track.py applied 1970393557051010` |
 | — | 2026-11-19 | Full Stack Google AI Engineer | Unilever | [apply ↗](https://www.adzuna.in/details/5971231156?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5971231156?utm_medium=api&` |
