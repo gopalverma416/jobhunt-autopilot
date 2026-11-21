@@ -988,6 +988,10 @@
 "first": "2026-11-18T17:15:32+00:00",
 "sig": "twilio|software engineer platform engineering"
 },
+"https://job-boards.greenhouse.io/twilio/jobs/8405807": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "twilio|software engineer supernetwork"
+},
 "https://job-boards.greenhouse.io/vercel/jobs/5179639004": {
 "first": "2026-07-14T13:22:24+00:00",
 "sig": "vercel|software engineer cdn"
@@ -1839,6 +1843,10 @@
 "https://remoteOK.com/remote-jobs/remote-full-stack-developer-elite-worldgroup-inc-1135288": {
 "first": "2026-07-23T17:45:40+00:00",
 "sig": "elite worldgroup inc.|full stack developer"
+},
+"https://remoteOK.com/remote-jobs/remote-infrastructure-software-engineer-dropbox-1137857": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "dropbox|infrastructure software engineer"
 },
 "https://remoteOK.com/remote-jobs/remote-junior-software-engineer-haystack-1135318": {
 "first": "2026-07-24T03:44:14+00:00",
@@ -14400,6 +14408,46 @@
 "first": "2026-11-20T16:58:04+00:00",
 "sig": "accenture|custom software engineer"
 },
+"https://www.adzuna.in/details/5973112390?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5973112536?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5973112951?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5973113016?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5973113193?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "ge healthcare|software engineer"
+},
+"https://www.adzuna.in/details/5973113401?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5973113470?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5973196168?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "trigent software private limited|software engineering custom software engineer"
+},
+"https://www.adzuna.in/details/5973196176?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "trigent software private limited|python software engineer"
+},
+"https://www.adzuna.in/details/5973377601?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "servicenow|software engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -15699,6 +15747,10 @@
 "https://www.amazon.jobs/en/jobs/10607822/software-development-engineer-last-mile-platform-services-sde": {
 "first": "2026-11-18T07:28:59+00:00",
 "sig": "amazon|software development engineer last mile platform services sde"
+},
+"https://www.amazon.jobs/en/jobs/10610616/software-development-engineer": {
+"first": "2026-11-21T01:31:11+00:00",
+"sig": "amazon|software development engineer"
 },
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
@@ -17739,6 +17791,7 @@
 "trigent software private limited|net full stack developer": "2026-08-12T21:03:12+00:00",
 "trigent software private limited|packaged or software as a service application engineer oracle adf": "2026-11-05T21:58:56+00:00",
 "trigent software private limited|python langchain langgraph software engineer": "2026-08-26T23:33:03+00:00",
+"trigent software private limited|python software engineer": "2026-11-21T01:31:11+00:00",
 "trigent software private limited|software engineer": "2026-07-22T21:30:31+00:00",
 "trigent software private limited|software engineer ai": "2026-10-06T23:48:30+00:00",
 "trigent software private limited|software engineer java ai aws": "2026-09-10T19:07:28+00:00",
@@ -17769,6 +17822,7 @@
 "twilio|software engineer messaging channels team": "2026-10-13T19:17:27+00:00",
 "twilio|software engineer platform access": "2026-10-06T18:22:25+00:00",
 "twilio|software engineer platform engineering": "2026-11-18T17:15:32+00:00",
+"twilio|software engineer supernetwork": "2026-11-21T01:31:11+00:00",
 "twilio|technical support engineer": "2026-07-14T13:22:24+00:00",
 "two circles|software engineer custom tech": "2026-08-22T13:00:54+00:00",
 "u.s. bank|software engineer": "2026-07-21T03:45:19+00:00",
