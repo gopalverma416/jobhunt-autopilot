@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-21 01:31 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-21 12:39 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1903)
+## 🎯 To apply (1909)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,12 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-21 | Software Engineer | ServiceNow | [apply ↗](https://www.adzuna.in/details/5973377601?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5973377601?utm_medium=api&` |
 | — | 2026-11-21 | Software Engineering - Custom Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5973196168?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5973196168?utm_medium=api&` |
 | — | 2026-11-21 | Software Engineer (L2) SuperNetwork | Twilio | [apply ↗](https://job-boards.greenhouse.io/twilio/jobs/8405807) | `python track.py applied 8405807` |
+| — | 2026-11-21 | Software Engineer | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5973692025?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5973692025?utm_medium=api&` |
+| — | 2026-11-21 | Software Engineer | UnitedHealth Group | [apply ↗](https://www.adzuna.in/details/5973692008?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5973692008?utm_medium=api&` |
+| — | 2026-11-21 | Software Engineer | Sage | [apply ↗](https://www.adzuna.in/details/5973691160?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5973691160?utm_medium=api&` |
+| — | 2026-11-21 | Distributed Systems Engineer - Network Services | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8401112?gh_jid=8401112) | `python track.py applied 8401112?gh_jid=8401112` |
+| — | 2026-11-21 | Systems Engineer - Network Data Plane Software | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8401119?gh_jid=8401119) | `python track.py applied 8401119?gh_jid=8401119` |
+| — | 2026-11-21 | Systems Engineer - Network Software Performance | Cloudflare | [apply ↗](https://boards.greenhouse.io/cloudflare/jobs/8401122?gh_jid=8401122) | `python track.py applied 8401122?gh_jid=8401122` |
 | — | 2026-11-20 | Associate Software Engineer | NTT America, Inc. | [apply ↗](https://www.adzuna.in/details/5972598471?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5972598471?utm_medium=api&` |
 | — | 2026-11-20 | Software Engineer Application Developer | Kyndryl | [apply ↗](https://www.adzuna.in/details/5972598105?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5972598105?utm_medium=api&` |
 | — | 2026-11-20 | Software Engineer AI Coding Tasks | Askable | [apply ↗](https://remoteOK.com/remote-jobs/remote-software-engineer-ai-coding-tasks-askable-1137808) | `python track.py applied remote-software-engineer-a` |
