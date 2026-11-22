@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-21 21:39 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-22 06:47 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1910)
+## 🎯 To apply (1911)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-22 | Full-stack app developer (Part-time, Equity only, EdTech) | PD Consulting | [apply ↗](https://www.adzuna.in/details/5974643342?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5974643342?utm_medium=api&` |
 | — | 2026-11-21 | Software Engineer | ServiceNow | [apply ↗](https://www.adzuna.in/details/5973377601?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5973377601?utm_medium=api&` |
 | — | 2026-11-21 | Software Engineering - Custom Software Engineer | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5973196168?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5973196168?utm_medium=api&` |
 | — | 2026-11-21 | Software Engineer (L2) SuperNetwork | Twilio | [apply ↗](https://job-boards.greenhouse.io/twilio/jobs/8405807) | `python track.py applied 8405807` |
