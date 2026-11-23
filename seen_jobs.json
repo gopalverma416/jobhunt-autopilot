@@ -1288,6 +1288,10 @@
 "first": "2026-11-19T23:03:25+00:00",
 "sig": "supabase|software engineer postgres tooling"
 },
+"https://jobs.ashbyhq.com/supabase/30cc053e-33dc-4924-a870-2cf41c296b01": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "supabase|software engineer interfaces backend"
+},
 "https://jobs.ashbyhq.com/supabase/7c5eb3fc-1087-4c1c-b3a2-a19fe01dd259": {
 "first": "2026-10-21T23:19:20+00:00",
 "sig": "supabase|software engineer turso"
@@ -14652,6 +14656,58 @@
 "first": "2026-11-23T07:38:32+00:00",
 "sig": "cisco|embedded software engineer c linux networking yrs"
 },
+"https://www.adzuna.in/details/5976089679?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "drip capital|software development engineer i sde i"
+},
+"https://www.adzuna.in/details/5976089739?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "hirojet|software engineer"
+},
+"https://www.adzuna.in/details/5976251824?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5976262412?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5976267492?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5976267976?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5976269426?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "impact analytics|software engineer backend"
+},
+"https://www.adzuna.in/details/5976273022?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5976273385?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "accenture|custom software engineer"
+},
+"https://www.adzuna.in/details/5976273580?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "hewlett packard enterprise|software engineer networking datapath qos cos firewall acls filters"
+},
+"https://www.adzuna.in/details/5976364719?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "trigent software private limited|software engineer job id"
+},
+"https://www.adzuna.in/details/5976384518?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "servicenow|software engineer"
+},
+"https://www.adzuna.in/details/5976384540?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-23T20:13:43+00:00",
+"sig": "servicenow|software engineer go kubernetes"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -16885,6 +16941,7 @@
 "dozee|software engineer android developer": "2026-08-08T02:22:47+00:00",
 "dp world|group sde i zodiac accelerated rollout": "2026-10-10T20:04:02+00:00",
 "dp world|performance engineer i": "2026-08-07T00:55:23+00:00",
+"drip capital|software development engineer i sde i": "2026-11-23T20:13:43+00:00",
 "dropbox|frontend product software engineer design systems": "2026-07-14T13:22:21+00:00",
 "dropbox|infrastructure software engineer": "2026-07-14T13:22:22+00:00",
 "dropbox|infrastructure software engineer release systems": "2026-07-14T13:22:22+00:00",
@@ -17145,10 +17202,12 @@
 "hewlett packard enterprise|embedded software engineer": "2026-11-21T21:39:40+00:00",
 "hewlett packard enterprise|experienced net systems engineer": "2026-07-24T03:44:14+00:00",
 "hewlett packard enterprise|graduate software engineer": "2026-07-15T10:15:46+00:00",
+"hewlett packard enterprise|software engineer networking datapath qos cos firewall acls filters": "2026-11-23T20:13:43+00:00",
 "hewlett packard enterprise|software engineer vpn pki network security": "2026-09-16T19:33:59+00:00",
 "hewo products private limited|software engineer backend node js": "2026-10-08T15:37:10+00:00",
 "highrise solutions llp|full stack developer se ssse dot net angular and aws": "2026-08-25T16:55:36+00:00",
 "hire daily|associate software engineer": "2026-10-15T13:26:22+00:00",
+"hirojet|software engineer": "2026-11-23T20:13:43+00:00",
 "hitachi careers|dotnet fullstack developer": "2026-09-27T19:45:41+00:00",
 "hitachi careers|engineer i automation qa": "2026-09-09T19:16:50+00:00",
 "hitachi solutions india|ai software engineer": "2026-09-28T16:45:25+00:00",
@@ -17179,6 +17238,7 @@
 "ibm|software engineer confluent": "2026-07-14T12:15:30+00:00",
 "icertis|software engineer cloudops": "2026-11-17T23:30:35+00:00",
 "imc|c software engineer": "2026-09-25T20:01:57+00:00",
+"impact analytics|software engineer backend": "2026-11-23T20:13:43+00:00",
 "improving|mobile software engineer": "2026-10-14T13:43:57+00:00",
 "inditech consulting|freelance full stack software engineer healthcare": "2026-09-11T12:49:43+00:00",
 "indus infotech|custom software engineer": "2026-10-16T19:33:21+00:00",
@@ -17891,6 +17951,7 @@
 "supabase|software engineer auth": "2026-07-14T13:22:23+00:00",
 "supabase|software engineer branching": "2026-09-02T12:46:30+00:00",
 "supabase|software engineer iac platform experience": "2026-07-14T13:22:23+00:00",
+"supabase|software engineer interfaces backend": "2026-11-23T20:13:43+00:00",
 "supabase|software engineer postgres tooling": "2026-11-19T23:03:25+00:00",
 "supabase|software engineer storage": "2026-10-24T18:47:36+00:00",
 "supabase|software engineer turso": "2026-10-21T23:19:20+00:00",
@@ -18032,6 +18093,7 @@
 "trigent software private limited|software engineer ai": "2026-10-06T23:48:30+00:00",
 "trigent software private limited|software engineer java ai aws": "2026-09-10T19:07:28+00:00",
 "trigent software private limited|software engineer java react": "2026-09-16T19:33:59+00:00",
+"trigent software private limited|software engineer job id": "2026-11-23T20:13:43+00:00",
 "trigent software private limited|software engineer legal transformation operations ai": "2026-09-24T19:59:32+00:00",
 "trigent software private limited|software engineer resilience": "2026-09-15T19:42:19+00:00",
 "trigent software private limited|software engineering custom software engineer": "2026-07-22T21:30:31+00:00",

@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-23 07:38 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-23 20:13 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1919)
+## 🎯 To apply (1925)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,12 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-11-23 | Software Engineer | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000163151029) | `python track.py applied 744000163151029` |
 | — | 2026-11-23 | Software Engineer (Go & Kubernetes) | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000163146999) | `python track.py applied 744000163146999` |
+| — | 2026-11-23 | Software Engineer (Go & Kubernetes) | ServiceNow | [apply ↗](https://www.adzuna.in/details/5976384540?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5976384540?utm_medium=api&` |
+| — | 2026-11-23 | Software Engineer | ServiceNow | [apply ↗](https://www.adzuna.in/details/5976384518?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5976384518?utm_medium=api&` |
+| — | 2026-11-23 | Software Engineer (JOB ID: 480) | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5976364719?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5976364719?utm_medium=api&` |
+| — | 2026-11-23 | Software Engineer - Backend | Impact Analytics | [apply ↗](https://www.adzuna.in/details/5976269426?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5976269426?utm_medium=api&` |
+| — | 2026-11-23 | Software Engineer | HiroJet | [apply ↗](https://www.adzuna.in/details/5976089739?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5976089739?utm_medium=api&` |
+| — | 2026-11-23 | Software Development Engineer I (SDE I) | Drip Capital | [apply ↗](https://www.adzuna.in/details/5976089679?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5976089679?utm_medium=api&` |
 | — | 2026-11-22 | Full-stack app developer (Part-time, Equity only, EdTech) | PD Consulting | [apply ↗](https://www.adzuna.in/details/5974643342?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5974643342?utm_medium=api&` |
 | — | 2026-11-22 | Azure Fullstack Developer | Digile | [apply ↗](https://www.adzuna.in/details/5975007246?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5975007246?utm_medium=api&` |
 | — | 2026-11-22 | Software Engineer | Microsoft | [apply ↗](https://www.adzuna.in/details/5975006903?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5975006903?utm_medium=api&` |
