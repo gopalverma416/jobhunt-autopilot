@@ -1,15 +1,17 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-22 21:53 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-23 07:38 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1917)
+## 🎯 To apply (1919)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-23 | Software Engineer | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000163151029) | `python track.py applied 744000163151029` |
+| — | 2026-11-23 | Software Engineer (Go & Kubernetes) | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000163146999) | `python track.py applied 744000163146999` |
 | — | 2026-11-22 | Full-stack app developer (Part-time, Equity only, EdTech) | PD Consulting | [apply ↗](https://www.adzuna.in/details/5974643342?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5974643342?utm_medium=api&` |
 | — | 2026-11-22 | Azure Fullstack Developer | Digile | [apply ↗](https://www.adzuna.in/details/5975007246?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5975007246?utm_medium=api&` |
 | — | 2026-11-22 | Software Engineer | Microsoft | [apply ↗](https://www.adzuna.in/details/5975006903?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5975006903?utm_medium=api&` |
