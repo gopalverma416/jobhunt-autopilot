@@ -1,16 +1,19 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-24 04:47 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-24 19:30 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1926)
+## 🎯 To apply (1929)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
 | — | 2026-11-24 | Software Engineer | ServiceNow | [apply ↗](https://www.adzuna.in/details/5976384351?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5976384351?utm_medium=api&` |
+| — | 2026-11-24 | Software Engineer | Parexel | [apply ↗](https://www.adzuna.in/details/5977344376?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5977344376?utm_medium=api&` |
+| — | 2026-11-24 | Software Dev Engineer I - IIT BHU, Amazon University Talent Acquisition | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10612367/software-dev-engineer-i-iit-bhu-amazon-university-talent-acquisition) | `python track.py applied software-dev-engineer-i-ii` |
+| — | 2026-11-24 | Software Engineer Spanner Data Protection Infra Spanner | Google | [apply ↗](https://www.google.com/about/careers/applications/jobs/results/77458101271175878-software-engineer-spanner-data-protection-infra-spanner) | `python track.py applied 77458101271175878-software` |
 | — | 2026-11-23 | Software Engineer | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000163151029) | `python track.py applied 744000163151029` |
 | — | 2026-11-23 | Software Engineer (Go & Kubernetes) | ServiceNow | [apply ↗](https://jobs.smartrecruiters.com/ServiceNow/744000163146999) | `python track.py applied 744000163146999` |
 | — | 2026-11-23 | Software Engineer (Go & Kubernetes) | ServiceNow | [apply ↗](https://www.adzuna.in/details/5976384540?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5976384540?utm_medium=api&` |
