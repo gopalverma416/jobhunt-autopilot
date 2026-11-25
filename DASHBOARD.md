@@ -1,15 +1,16 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-24 19:30 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-25 03:33 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1929)
+## 🎯 To apply (1930)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-25 | Software Engineer- Angular | Avaloq | [apply ↗](https://www.adzuna.in/details/5977501424?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5977501424?utm_medium=api&` |
 | — | 2026-11-24 | Software Engineer | ServiceNow | [apply ↗](https://www.adzuna.in/details/5976384351?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5976384351?utm_medium=api&` |
 | — | 2026-11-24 | Software Engineer | Parexel | [apply ↗](https://www.adzuna.in/details/5977344376?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5977344376?utm_medium=api&` |
 | — | 2026-11-24 | Software Dev Engineer I - IIT BHU, Amazon University Talent Acquisition | Amazon | [apply ↗](https://www.amazon.jobs/en/jobs/10612367/software-dev-engineer-i-iit-bhu-amazon-university-talent-acquisition) | `python track.py applied software-dev-engineer-i-ii` |
