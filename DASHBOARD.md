@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-26 00:20 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-26 13:54 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1935)
+## 🎯 To apply (1939)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -12,6 +12,10 @@ _Sorted best-match first when Gemini scoring is on._
 |---|---|---|---|---|---|
 | — | 2026-11-26 | Embedded Software Engineer | Caterpillar | [apply ↗](https://www.adzuna.in/details/5978652991?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5978652991?utm_medium=api&` |
 | — | 2026-11-26 | Software Engineer – SDET | GCC India | [apply ↗](https://www.adzuna.in/details/5978650983?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5978650983?utm_medium=api&` |
+| — | 2026-11-26 | Software Engineer â Full Stack (Node.js and React) | Deltek | [apply ↗](https://www.adzuna.in/details/5979637657?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979637657?utm_medium=api&` |
+| — | 2026-11-26 | Full Stack Developer ( React Js & Node Js ) | Vikash Technologies | [apply ↗](https://www.adzuna.in/details/5979635523?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979635523?utm_medium=api&` |
+| — | 2026-11-26 | Software Engineer, Experimental Projects | Stripe | [apply ↗](https://www.adzuna.in/details/5979612388?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979612388?utm_medium=api&` |
+| — | 2026-11-26 | Software Engineer, Marketing | Kalshi | [apply ↗](https://www.adzuna.in/details/5979612325?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979612325?utm_medium=api&` |
 | — | 2026-11-25 | Software Engineer- Angular | Avaloq | [apply ↗](https://www.adzuna.in/details/5977501424?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5977501424?utm_medium=api&` |
 | — | 2026-11-25 | Fullstack AI Engineer | Anblicks | [apply ↗](https://www.adzuna.in/details/5978298994?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5978298994?utm_medium=api&` |
 | — | 2026-11-25 | Software Dev Engineer I, Amazon University Talent Acquisition | ADCI - Karnataka | [apply ↗](https://www.adzuna.in/details/5978293336?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5978293336?utm_medium=api&` |
