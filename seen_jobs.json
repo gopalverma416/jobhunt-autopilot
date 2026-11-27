@@ -1368,6 +1368,10 @@
 "first": "2026-07-14T14:05:09+00:00",
 "sig": "jumpcloud|software engineer ai platform t rkiye"
 },
+"https://jobs.lever.co/meesho/73db1822-f3de-4f9f-a2b3-944ea0b03702": {
+"first": "2026-11-27T13:51:36+00:00",
+"sig": "meesho|software engineer i backend kirana club"
+},
 "https://jobs.lever.co/saviynt/cafdcb41-e50f-43ba-a2f7-c85622adaf75": {
 "first": "2026-07-14T14:05:09+00:00",
 "sig": "saviynt|software engineer java"
@@ -1614,6 +1618,14 @@
 },
 "https://jobs.smartrecruiters.com/BoschGroup/744000163675569": {
 "first": "2026-11-25T14:21:49+00:00",
+"sig": "bosch|generative ai agent systems engineer"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000163962938": {
+"first": "2026-11-27T13:51:36+00:00",
+"sig": "bosch|generative ai agent systems engineer"
+},
+"https://jobs.smartrecruiters.com/BoschGroup/744000163963058": {
+"first": "2026-11-27T13:51:36+00:00",
 "sig": "bosch|generative ai agent systems engineer"
 },
 "https://jobs.smartrecruiters.com/ServiceNow/744000144386100": {
@@ -14912,6 +14924,26 @@
 "first": "2026-11-27T00:34:39+00:00",
 "sig": "nielseniq|software engineer fullstack java and react"
 },
+"https://www.adzuna.in/details/5980676495?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-27T13:51:36+00:00",
+"sig": "adci - blr 14 sez|software developer kernel engineer ssg"
+},
+"https://www.adzuna.in/details/5980688091?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-27T13:51:36+00:00",
+"sig": "amazon|software development engineer"
+},
+"https://www.adzuna.in/details/5980688105?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-27T13:51:36+00:00",
+"sig": "vendavo|software engineer"
+},
+"https://www.adzuna.in/details/5980689458?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-27T13:51:36+00:00",
+"sig": "coram ai|member of technical staff frontend"
+},
+"https://www.adzuna.in/details/5980718355?utm_medium=api&utm_source=616fbe19": {
+"first": "2026-11-27T13:51:36+00:00",
+"sig": "trueblue|software engineer"
+},
 "https://www.adzuna.in/land/ad/5819192387?se=8uEEIv-K8RGbLL45Ug83Nw&utm_medium=api&utm_source=616fbe19&v=3256D90662C75EA8C93EAA709015A5A64BF6A183": {
 "first": "2026-07-29T03:39:48+00:00",
 "sig": "abb|configurator solution specialist full stack"
@@ -16244,6 +16276,10 @@
 "first": "2026-11-27T00:34:39+00:00",
 "sig": "amazon|software developer kernel engineer ssg"
 },
+"https://www.amazon.jobs/en/jobs/10615646/software-development-engineer-finance-technology": {
+"first": "2026-11-27T13:51:36+00:00",
+"sig": "amazon|software development engineer finance technology"
+},
 "https://www.axonius.com/company/careers/open-jobs?gh_jid=7818971003": {
 "first": "2026-07-30T10:34:34+00:00",
 "sig": "axonius|backend engineer s o paulo"
@@ -16474,6 +16510,7 @@
 "aci worldwide|software engineer": "2026-09-29T18:05:18+00:00",
 "acme services private limited|software engineer": "2026-10-22T20:07:07+00:00",
 "adci - blr 14 sez|data engineer i data engineer rbs": "2026-09-12T12:10:19+00:00",
+"adci - blr 14 sez|software developer kernel engineer ssg": "2026-11-27T13:51:36+00:00",
 "adci - blr 14 sez|software developer platform bsp engineer ssg": "2026-07-29T10:48:49+00:00",
 "adci - blr 14 sez|software development engineer amazon photos": "2026-10-24T12:40:49+00:00",
 "adci - blr 14 sez|software development engineer cam": "2026-08-16T13:00:28+00:00",
@@ -16696,6 +16733,7 @@
 "amazon|software development engineer everyday essentials experiences": "2026-08-14T13:42:47+00:00",
 "amazon|software development engineer fba": "2026-07-29T10:48:49+00:00",
 "amazon|software development engineer fba defect prevention": "2026-10-10T05:52:51+00:00",
+"amazon|software development engineer finance technology": "2026-11-27T13:51:36+00:00",
 "amazon|software development engineer fire tablet": "2026-10-14T20:12:06+00:00",
 "amazon|software development engineer fixed term contract international fba tech": "2026-09-09T19:16:50+00:00",
 "amazon|software development engineer fulfillment by amazon fba": "2026-07-21T06:41:37+00:00",
@@ -17138,6 +17176,7 @@
 "consultbae india private limited|software development engineer backend node js and javascript": "2026-09-08T04:36:19+00:00",
 "copart|software engineer": "2026-09-08T19:25:42+00:00",
 "copoint data|post deployment support full stack developer": "2026-11-13T01:05:00+00:00",
+"coram ai|member of technical staff frontend": "2026-11-27T13:51:36+00:00",
 "corvi technologies|software engineer": "2026-10-15T04:38:58+00:00",
 "cotiviti|software engineer oci engineer": "2026-08-30T05:24:39+00:00",
 "cotiviti|software engineer sql developer": "2026-08-30T05:24:39+00:00",
@@ -17676,6 +17715,7 @@
 "mcafee, inc.|cloud software engineer": "2026-08-13T05:48:52+00:00",
 "mcafee, inc.|selenium api software development engineer in test": "2026-08-13T05:48:52+00:00",
 "medpace|servicenow developer software engineer": "2026-09-25T13:47:53+00:00",
+"meesho|software engineer i backend kirana club": "2026-11-27T13:51:36+00:00",
 "megan soft inc|teamcenter full stack java developer": "2026-09-08T22:40:47+00:00",
 "mercari, inc.|software engineer machine learning recommendation": "2026-07-14T12:15:30+00:00",
 "mercor|c software developer fully remote": "2026-09-20T13:03:17+00:00",
@@ -18420,6 +18460,7 @@
 "valuemomentum|software engineer": "2026-08-10T17:08:40+00:00",
 "vasa denticity limited|full stack developer": "2026-10-22T13:47:58+00:00",
 "vayuz technologies|software engineer java": "2026-10-11T14:54:54+00:00",
+"vendavo|software engineer": "2026-11-27T13:51:36+00:00",
 "veoneer|embedded software development engineer years": "2026-10-06T11:16:41+00:00",
 "veradigm india private limited|expert software engineer workday hcm": "2026-11-06T06:45:42+00:00",
 "veradigm india private limited|software engineer fullstack java": "2026-11-06T06:45:42+00:00",

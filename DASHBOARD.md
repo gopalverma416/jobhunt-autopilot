@@ -1,10 +1,10 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-27 00:34 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-27 13:51 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1942)
+## 🎯 To apply (1945)
 
 _Sorted best-match first when Gemini scoring is on._
 
@@ -13,6 +13,9 @@ _Sorted best-match first when Gemini scoring is on._
 | — | 2026-11-27 | Software Engineer - Fullstack (Java AND React) | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5979997644?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979997644?utm_medium=api&` |
 | — | 2026-11-27 | Software Development Engineer -Backend(Node JS) -Altium | Altium | [apply ↗](https://www.adzuna.in/details/5979997612?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979997612?utm_medium=api&` |
 | — | 2026-11-27 | Software Engineer (JOB ID: 477) | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5979962986?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979962986?utm_medium=api&` |
+| — | 2026-11-27 | Member of Technical Staff, Frontend | Coram AI | [apply ↗](https://www.adzuna.in/details/5980689458?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5980689458?utm_medium=api&` |
+| — | 2026-11-27 | Software Developer - Kernel Engineer, SSG | ADCI - BLR 14 SEZ | [apply ↗](https://www.adzuna.in/details/5980676495?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5980676495?utm_medium=api&` |
+| — | 2026-11-27 | Software Engineer I - Backend  (Kirana Club) | Meesho | [apply ↗](https://jobs.lever.co/meesho/73db1822-f3de-4f9f-a2b3-944ea0b03702) | `python track.py applied 73db1822-f3de-4f9f-a2b3-94` |
 | — | 2026-11-26 | Embedded Software Engineer | Caterpillar | [apply ↗](https://www.adzuna.in/details/5978652991?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5978652991?utm_medium=api&` |
 | — | 2026-11-26 | Software Engineer – SDET | GCC India | [apply ↗](https://www.adzuna.in/details/5978650983?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5978650983?utm_medium=api&` |
 | — | 2026-11-26 | Software Engineer â Full Stack (Node.js and React) | Deltek | [apply ↗](https://www.adzuna.in/details/5979637657?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979637657?utm_medium=api&` |
