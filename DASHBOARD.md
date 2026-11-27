@@ -1,15 +1,18 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-26 13:54 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-27 00:34 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1939)
+## 🎯 To apply (1942)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-27 | Software Engineer - Fullstack (Java AND React) | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5979997644?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979997644?utm_medium=api&` |
+| — | 2026-11-27 | Software Development Engineer -Backend(Node JS) -Altium | Altium | [apply ↗](https://www.adzuna.in/details/5979997612?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979997612?utm_medium=api&` |
+| — | 2026-11-27 | Software Engineer (JOB ID: 477) | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5979962986?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979962986?utm_medium=api&` |
 | — | 2026-11-26 | Embedded Software Engineer | Caterpillar | [apply ↗](https://www.adzuna.in/details/5978652991?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5978652991?utm_medium=api&` |
 | — | 2026-11-26 | Software Engineer – SDET | GCC India | [apply ↗](https://www.adzuna.in/details/5978650983?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5978650983?utm_medium=api&` |
 | — | 2026-11-26 | Software Engineer â Full Stack (Node.js and React) | Deltek | [apply ↗](https://www.adzuna.in/details/5979637657?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979637657?utm_medium=api&` |
