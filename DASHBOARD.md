@@ -1,15 +1,18 @@
 # 📋 JobHunt dashboard
 
-_Auto-generated 2026-11-27 13:51 UTC — do not edit (edit tracker.csv instead)._
+_Auto-generated 2026-11-28 00:02 UTC — do not edit (edit tracker.csv instead)._
 
 Quick links: [tracker.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/tracker.csv) · [rejected_log.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/rejected_log.csv) · [contacts.csv](https://github.com/gopalverma416/jobhunt-autopilot/blob/main/contacts.csv) · [reports/](https://github.com/gopalverma416/jobhunt-autopilot/tree/main/reports)
 
-## 🎯 To apply (1945)
+## 🎯 To apply (1948)
 
 _Sorted best-match first when Gemini scoring is on._
 
 | fit | found | role | company | apply | after applying, run |
 |---|---|---|---|---|---|
+| — | 2026-11-28 | Generative AI & Agent Systems Engineer | Bosch Group | [apply ↗](https://www.adzuna.in/details/5981065145?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5981065145?utm_medium=api&` |
+| — | 2026-11-28 | Software Engineer, DevOps | Conga | [apply ↗](https://www.adzuna.in/details/5981063243?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5981063243?utm_medium=api&` |
+| — | 2026-11-28 | Python Software Engineer, AVP | Natwest Group | [apply ↗](https://www.adzuna.in/details/5980919085?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5980919085?utm_medium=api&` |
 | — | 2026-11-27 | Software Engineer - Fullstack (Java AND React) | NielsenIQ | [apply ↗](https://www.adzuna.in/details/5979997644?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979997644?utm_medium=api&` |
 | — | 2026-11-27 | Software Development Engineer -Backend(Node JS) -Altium | Altium | [apply ↗](https://www.adzuna.in/details/5979997612?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979997612?utm_medium=api&` |
 | — | 2026-11-27 | Software Engineer (JOB ID: 477) | Trigent Software Private Limited | [apply ↗](https://www.adzuna.in/details/5979962986?utm_medium=api&utm_source=616fbe19) | `python track.py applied 5979962986?utm_medium=api&` |
